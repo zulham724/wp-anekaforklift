@@ -1,0 +1,475 @@
+
+
+<!DOCTYPE html>  
+
+<html lang="ru">
+
+  <head>
+
+    <meta name='yandex-verification' content='7245bde594e40266' />
+
+    <meta name='yandex-verification' content='7f74c136b68218c3'/>
+
+    <meta name="google-site-verification" content="-4I7BtrrbyXzA9wUUkLG4JhY9emKxTKiMLOZDJ9Ay9c" />
+
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+
+    <link rel="shortcut icon" href="http://megapoisk.com/favicon.ico" type="image/x-icon" />
+
+    <link rel="icon" type="image/png" href="http://megapoisk.com/favicon.png" />
+
+
+
+    
+
+    <title>Sanitarium bass tab</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    
+
+    <link  type="text/css" href="http://megapoisk.com//css_/jquery-ui.min.css" rel="stylesheet" />
+
+    <link href="http://megapoisk.com/css_/styles.min.css?1" rel="stylesheet" type="text/css" />
+
+    <link href="http://megapoisk.com/css_/mobile.css" rel="stylesheet" type="text/css" />
+
+    
+
+     
+
+        
+
+
+
+                      <meta name="Description" content="Sanitarium bass tab" />
+
+                      <meta name='advmaker-verification' content='cbb3e8f66ecbeda293b984eb2889b3fc'/>
+
+            
+
+   
+
+     
+
+
+
+  </head>
+
+  <body>
+
+
+
+    <!--begin fb sdk-->
+
+    <div id="fb-root"></div>
+
+     <div><img src="//mc.yandex.ru/watch/29400735" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+
+
+
+    <div id="up"></div>
+
+    
+
+    
+
+    
+
+    <div style="position:absolute; top:10px; width:100%; min-width:950px; left:0px; z-index:9999; display:none;" id="iFramePredprosmotrBlock">
+
+     <div style="width:60%; margin:0px auto; box-shadow: 0 0 20px rgba(0,0,0,0.3); position:relative; background-color:#ffffff; border:solid 1px #cccccc;">
+
+        <div class="whiteGradient" onclick="close_predpros();" style="font-style:italic; font-size:13px; color: #555555; box-shadow: 0 0 5px rgba(0,0,0,0.2); padding:7px; padding-left:20px; padding-right:20px; position: absolute; top:15px; right:-10px; border:solid 1px #cccccc; cursor:pointer; text-align:center; ">
+
+             Закрыть
+
+        </div>
+
+        <div id="ipredprosmotr" style="padding:20px; width:100%;">
+
+        </div>
+
+     </div>
+
+    </div>
+
+    <div id="globalHiderBlock"></div>
+
+        <div id="fullVideoContainer">
+
+    <div class="fullVideoInside">
+
+       <div id="FVtitle" ></div>
+
+        <div id="iFullmp4Video" style="display:none;">
+
+             
+
+         </div>
+
+         <iframe id="iFullVideoFrame" allowfullscreen></iframe>
+
+        
+
+         <div onclick="$(this).prev().attr('src', ''); tryCloseVideo();" class="closePhoto2">X</div>
+
+        
+
+         
+
+         <div id="FVComents" style="margin-top:10px; text-align:left;"></div>
+
+    </div>
+
+    </div>
+
+
+
+    <!-- ALFAVIT -->
+
+    <div id="resultLiteraContiner"  style="display:none; position:absolute !important; width:1000px; left:calc(50% - 500px); z-index:9999999; padding-top:10px; text-align:left;">
+
+    <div style="width:1000px; box-shadow: 0 0 10px rgba(0,0,0,0.6); background-color:#ffffff;  border:solid 1px #dddddd; padding-bottom:20px; position:relative;">  
+
+      <div style="text-align:center; margin-top:10px;">
+
+          </div>
+
+    <div id="ialfavitsepline" style="border-top:solid 1px #dddddd; margin-top:10px;"></div>
+
+      <div id="resultLitera" style="width:740px; float:left; padding:20px;">
+
+        <div style="text-align:center;"><img src="http://megapoisk.com/img_/loading.gif" alt="" /></div>
+
+      </div>
+
+      <div id="iblockcategories" style="width:250px; float:right; border-left:solid 1px #dddddd; padding:10px;">
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10014');" class="word icatsitems">Аварийные службы</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10001');" class="word icatsitems">Автомототранспорт</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10002');" class="word icatsitems">Бизнес</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10021');" class="word icatsitems">Для потребителя</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10007');" class="word icatsitems">Дом и семья</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10720');" class="word icatsitems">Животные и растения</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10013');" class="word icatsitems">Здоровье и медицина</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '15816');" class="word icatsitems">Интересные сайты</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10005');" class="word icatsitems">Интернет</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10004');" class="word icatsitems">Компьютеры</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10003');" class="word icatsitems">Культура и искусство</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10018');" class="word icatsitems">Наука</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '11772');" class="word icatsitems">Непознанное</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10009');" class="word icatsitems">Новости, СМИ</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10019');" class="word icatsitems">Образование</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10016');" class="word icatsitems">Общество и государство</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10017');" class="word icatsitems">Промышленность</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10319');" class="word icatsitems">Психология</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10726');" class="word icatsitems">Работа и трудоустройство</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10006');" class="word icatsitems">Развлечения</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10024');" class="word icatsitems">Религия</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '11771');" class="word icatsitems">Рестораны, кафе, ТРЦ</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10008');" class="word icatsitems">Родители и дети</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10739');" class="word icatsitems">Сельское хозяйство</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10022');" class="word icatsitems">Спорт</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10015');" class="word icatsitems">Справки и информация</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10103');" class="word icatsitems">Строительство и ремонт</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10708');" class="word icatsitems">Телефония и связь</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10760');" class="word icatsitems">Торговля</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10010');" class="word icatsitems">Туризм, путешествия, отдых</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10775');" class="word icatsitems">Услуги</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10715');" class="word icatsitems">Финансы</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10020');" class="word icatsitems">Хобби, рукоделие</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '');" class="word icatsitems"></div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '');" class="word icatsitems"></div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '');" class="word icatsitems"></div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '');" class="word icatsitems"></div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '');" class="word icatsitems"></div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '');" class="word icatsitems"></div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '');" class="word icatsitems"></div>
+
+              </div>
+
+      <div id="iresultBlock" style="width:50%; float:right; border-left:solid 1px #dddddd; padding:20px; display:none; text-align:left;">
+
+        <div style="text-align:center;"><img src="http://megapoisk.com/img_/loading.gif" alt="" /></div>
+
+      </div>
+
+      <div style="clear:both;"></div>
+
+      
+
+                            </div>
+
+                            <div class="inslideMenu level1" id="studyinsidecat10708">
+
+              
+
+              </div>
+
+            </div>
+
+                        <div class="iItem"   >
+
+                            <div onclick="document.location='http://megapoisk.com/turizm-puteshestviya-otdyih_izbrannoe';">
+
+           
+
+                            </div>
+
+                            <div class="inslideMenu level1" id="studyinsidecat10010">
+
+              
+
+              </div>
+
+            </div>
+
+                        <div class="iItem"   >
+
+                            <div onclick="document.location='http://megapoisk.com/uslugi_izbrannoe';">
+
+              
+
+                            </div>
+
+                            <div class="inslideMenu level1" id="studyinsidecat10775">
+
+              
+
+              </div>
+
+            </div>
+
+                        <div class="iItem"   >
+
+                            <div onclick="document.location='http://megapoisk.com/finansyi_izbrannoe';">
+
+             
+
+                            </div>
+
+                            <div class="inslideMenu level1" id="studyinsidecat10715">
+
+              
+
+              </div>
+
+            </div>
+
+                        <div class="iItem"   >
+
+                            <div onclick="document.location='http://megapoisk.com/hobbi_izbrannoe';">
+
+              
+
+                            </div>
+
+                            <div class="inslideMenu level1" id="studyinsidecat10020">
+
+              
+
+              </div>
+
+            </div>
+
+            
+
+          
+
+        </div>
+
+       
+
+    <div id="wrapper">
+
+      <div id="header">
+
+        <div id="searchLine">
+
+          <div class="HeaderTitleLogoText">
+
+             
+
+          </div>
+
+          <div class="AuthBlock">
+
+            <div class="AUthContainer">
+
+                                <!--noindex-->
+
+                  <div >
+
+                    
+
+                 
+
+                                          </div></div>                  </div>
+
+                                <div class="clearBlock">
+
+                                  <div class="SearchContainer">
+
+                                    <!-- PRE_SEARCH -->
+
+                                    <div id="PScontainer" style="width:100%; display:none; position:absolute; top:50px; height:20px; z-index:9999999; ">
+
+                                      <div id="presearch" style="width:80%;  text-align:left; background-color:#ffffff; border:solid 1px #dddddd;">
+
+                                        <div style="text-align:center;"><img src="http://megapoisk.com//img_/loading.gif" alt="" /></div>
+
+                                      </div>
+
+                                    </div>
+
+                                    <!-- PRE_SEARCH -->
+
+                                    <div class="stypeContainer">
+
+                                      <input class="searchTypeButRadio"  type="radio" name="type-s" value="yagoo"/>
+
+                                      <div class="TitleStype" style="cursor:pointer;" onClick="$(this).next().next().click();">WikipediA</div>
+
+                                      <input class="searchTypeButRadio"  type="radio" name="type-s" value="wiki" />
+
+                                      <div  class="StypeIcon searchTypeRadioBut "></div>
+
+                                      <div class="TitleStype" style="cursor:pointer;" onClick="$(this).next().next().click();"><span style="color:#4285F4;">G</span><span style="color:#EA4335;">o</span><span style="color:#FBBC05;">o</span><span style="color:#4285F4;">g</span><span style="color:#4285F4;">l</span><span style="color:#EA4335;">e</span></div>
+
+                                      <input class="searchTypeButRadio"  type="radio" name="type-s" value="google"  />
+
+                                      <div class="StypeIcon searchTypeRadioBut "></div>
+
+                                      <!--div class="TitleStype">Яндекс</div>
+
+              <input class="searchTypeButRadio"  type="radio" name="type-s" value="ya"   />  
+
+              <div class="StypeIcon searchTypeRadioBut "></div-->
+
+                                      <div class="TitleStype" style="cursor:pointer;" onClick="$(this).next().next().click();"><span style="color:#ff5050;">M</span>egapoisk</div>
+
+                                      <input class="searchTypeButRadio"  type="radio" name="type-s" value="all"   />
+
+                                      <div  class="StypeIcon searchTypeRadioBut  Active "></div>
+
+                                      <div class="clearBlock"></div>
+
+                                    </div>
+
+                                    <form action="/search/" onSubmit="$(this).attr('action', 'http://megapoisk.com/search/query/izbrannoe/'+$('#searchtext').val());" method="post" id="searchform">
+
+                                      <input style="z-index:999999; position:relative;" oninput="$('#searchform').attr('action', 'http://megapoisk.com/search/query/izbrannoe/' + $('#searchtext').val()+'/' ); get_pre_search('http://megapoisk.com/',$('#searchtext').val()); " name="searchtext" id="searchtext" tabindex="1" type="text" value="" autocomplete="off"  placeholder="Введите фразу для поиска" />
+
+                                      <!-- HIDDEN -->
+
+                                      <input type="hidden" name="s-typea" class="s-type" value="all"/>
+
+                                      <input type="hidden" name="section_tab" value="izbrannoe" />
+
+                                      <input type="hidden" name="bycat" value="1" />
+
+                                      <input type="hidden" name="bysite" value="1" />
+
+                                      <input type="submit" style="display: none;" value="" />
+
+                                      <!-- /HIDDEN -->
+
+                                      <input style="z-index:999999;" type="button" onClick="$('#searchform').attr('action', 'http://megapoisk.com/search/query/izbrannoe/' + $('#searchtext').val()+'/' ); submitSearchForm();" id="searchButton" value="  Начать поиск  "/>
+
+                                    </form>
+
+                                  </div>
+
+                                </div>
+
+                <!-- /Хлебные крошки -->
+
+                                                                          <div id="navigation">
+
+                  <ul >
+
+                                    <li id="menuButton" style="margin-right:-8px;"><h1>Sanitarium bass tab</h1></li>
+
+                                    <li class="menuItemLi ">
+
+                    <div class="menuItemIcon" style="background-position:-375px -6px;"></div>
+
+                   <!--noindex--> <b> 22 pages. Welcome Home (Sanitarium): For bass guitar with tab by James Hetfield, Kirk. . 5 novos modelos de guitarra que deixam qualquer timeline mais bonita. Metallica. guitar tabs for metallica resume one tab music pinterest and guitars. Metallica Master Of PUPPETS BASS TABLATURE Tab Songbook. Pop MetalYNGWIE MALMSTEEN RISING FORCE GUITAR & BASS TAB SONGBOOK TABLATURE MUSIC BOOK. play . Scores; Videos. More Free Guitar and Bass Tabs:. Guitar TAB, Bass Guitar, Lyrics & Chords, Hero Of The DayBy Coheed And Cambria. Welcome Home (Sanitarium): Lyrics and chords (Metallica) by James Hetfield,. guitar tabs for metallica resume unforgiven by fingerstyle solo cover sheet music. Bulls in the Bronx Guitar Solo TAB. Feature: Bass Tab. Welcome Home (Sanitarium) Solo on a BASS GUITAR - Cliff Burton Tribute. Hoffman Steven - Metallica - Pt. Share.  Published by Rozanne Richards. Details about Avenged Sevenfold 274 & Bullet For My Valentine 226 Guitar TAB Lesson CD 99 BTs. Welcome Home (Sanitarium), Metallica - guitar lesson & TAB! learn to play classic rock metal riffs. 1 | guitar riffs | Guitar riffs, Welcome home, Welcome. Learn to Play Bass with Metallica - Volume 2. Video . ) and a point-and-click adventure game released in 1998 by ASC Games, . Best "Crazy Train" bass tab? Songsterr or Ultimate. com. Metallica - Welcome Home ( Sanitarium ) - Solo 2 cover with Tabs - Müzikonsol. PROGRESSIVE HEAVY METAL BASS LICKS 2. CHERRY LANE METALLICA - RIDE THE LIGHTNING - GUITAR TAB. Back Cover Front Cover Nothing Else Matters . Metallica: 1983-1988 - Bass Play-Along . Tommy Emmanuel 149 Andy Mckee 42 Michael Hedges 35 Guitar TABS Lesson CD 1 BT For Sale. Metallica: 1983-1988 (2). guitar tabs for metallica resume unforgiven by fingerstyle solo cover pro.  CHORD CHART, MELODY,. Metallica: Learn To Play Bass With Metallica - Volume 2 (3).  We use the B string as a pedalvideo thumbnail. Back Cover Front Cover . com: Metallica Bass Guitar Legendary Licks Book with CD Pack of 2: Musical Instruments.  If I'd had a site like TuxGuitar back when Learn how to play all the basic guitar chords with our chord diagrams and tips. Coheed And Cambria - Welcome Home - BASS Tutorial [With Tabs] - Play Along. Metallica 5 of the Best Volume 2 Sheet Music Song Book Guitar Tab Tablature. Welcome Home (Sanitarium): For ukulele by James Hetfield, Kirk Hammett, Lars.  The Big 4 Anthrax Megadeth Metallica Slayer 1215 Guitar TABS Lesson CD 246 BTs 3. Metallica: Learn To Play Bass With Metallica - Volume 2 (5). Hal Leonard Metallica Master of Puppets Bass Guitar Tab Songbook | Music & Arts. Bass part. Metallica Welcome Home Sanitarium bass guitar tablature. Metallica - Sanitarium (Welcome Home) - Bass Cover - Full HD 1080p. Legendary Bass Licks. Absolute Beginners Bass Guitar Lessons Learn to Play Music Tab Book CD Pack NEW. Anesthesia Pulling Teeth bass tab (99% accurate!) #TotalCliff. Metallica: Learn To Play Bass With Metallica - Volume 2 (4).  E-Bass, Tabulatur (Legendary Licks) (Englisch) Taschenbuch – 1.  Early Intermediate. Metallica Pittsburgh Arena T Shirt. Paperback Writer Bass Tab Guitar Pro Whiplash. Sheet music extract. Download Enter Sandman - Metallica (cover by QED). The Musical Mojo of Dr. Limp Bizkit Bass Tabs PDF. Bite Sized Riffs Metallica Welcome Home Sanitarium. Guitar Lesson: Metallica - Welcome Home (Sanitarium) [Chorus]. Welcome Home (Sanitarium) - MN0075458 | guitar stuff | Guitar tabs, Guitar, Metallica. Image is loading 48-000-Guitar-and-Bass-Sheet-Music-tab-HAL LEONARD LEARN TO PLAY BASS WITH METALLICA VOLUME 2 - GUITAR TAB - Woodbrass. Bass Play-Along Volume 57: Iron Maiden (Book/Online Audio). [GUITAR] Bite Sized Riffs | Metallica - Welcome Home Sanitarium | Intro Guitar Riff : Guitar_licks. Best of Metallica for Ukulele: Ukulele/Vocal with Tab (HL-02502449). Welcome home (Sanitarium) [Metallica] Intro *c/tabs*.  John: A Celebration of Mac & His Music. 09:02 How to Play Welcome Home (Sanitarium) Metallica - Guitar Lesson. Ultimate Metal Bass Covers.  E-Bass, Tabulatur Legendary Licks: Amazon. Battery (Metallica): For guitar with tab by James Hetfield, Lars Ulrich. Welcome Home (Sanitarium) Guitar Intro Lesson - Metallica (with tabs).  Guitar TAB. Bass Legendary Licks: An Inside Look at the Bass Styles of Metallica. #6 Metallica - Motorbreath bass cover (free bass tab on AndriyVasylenko. #16 Metallica - Welcome Home (Sanitarium) bass cover (free bass tab on AndriyVasylenko. guitar tabs for metallica resume sanitarium solo 2 tab. More Guitar Chords - At a Glance. Amazon. Guitar Tablature notebook: Blank Guitar Tablature Tabs Notebook - 110 pages of Guitar tabs. One Tab by Metallica - James Hetfield - Clean Rhythm - Electric Guitar (clean) | Songsterr Tabs with Rhythm | guitar | Metallica, Guitar tabs, Guitar. VAUGHAN BROTHERS BASS GUITAR TAB / BASS TABLATURE / FAMILY STYLE / BASS SONGBOOK. Metallica - Guitar & Bass Tab Book Collection.  FRONT COVER . the artist Sanitarium refersh to atleast two things, (fill in artist info please. Bass solo: Metallica 'Welcome Home (Sanitarium)' solo.  CD TABLATURE. We're pleased to represent the MJS Music catalogue, an innovative publisher of books, CDs and DVDs for guitar and bass guitar.  Metallica: Legendary Licks 1983-1988 - Russo - Guitar TAB - Book/Audio .  METALLICA Guitar Tab Lesson CD Software - 241 Songs 3. METALLICA BASS GUITAR TAB / BASS TABLATURE / METALLICA BASS EDITION / SONGBOOK. FLEETWOOD MAC GUITAR TAB / TABLATURE / RUMORS / BASS TAB / BAND SCORE / SONGBOOK. Play Bass Scales Beginner Lessons Bass Guitar Peter Pickow Tab Book CD Pack NEW. Click on the Image to Enlarge zoom_in.  Sheet Music Single. Metallica - Bass Legendary Licks 1983-1988 DVD. Oh, how I wish tabs would have been so readily available back when I was playing for real. Best of Guns N' Roses for Bass 14.  Guitar Music. Eric Clapton. Hal Leonard Bass Tab White Pages (Bass Recorded Versions) PDF. Left-Handed Tenor Banjo Chords. Strategic Plan. The Pentatonic Scale For Bass: A 'Hack' For Memorizing And Combining Pentatonic Shapes | The Glog. Metallica - Welcome Home (Sanitarium) (Bass Cover). Welcome Home Sanitarium- Metallica. A man playing bass guitar and standing behind a microphone stand. SLAP BASS ESSENTIALS, BY JOSQUIN DE PRES AND BUNNY BRUNEL. From beginners to experts, there's something here for everyone. 95 $. video image play. metallica wherever i may roam solo guitar tabs.  2 - Bass Riff By Riff - Bass Guitar Tab.  For Piano, Voice, Flute.  , II Rota: Fremdsprachige Bücher. Hal Leonard Metallica: 1983-1988 Bass. JASON NEWSTED - Bass Solo + TAB /// Bruno Tauzin. Metallica - Creeping Death - Bass Cover - Full HD 1080p - The ESP Guitar Company. Wiplash (Delete) Tab by Metallica - Guitar 1 - Overdriven Guitar.  Owner Mark Sternal has a .  Metal; Pop; Rock. Welcome Home (Sanitarium): For guitar with tab by James Hetfield, Kirk Hammett.  But wait, there's more - you can also watch video lessons for each chord!. This item is sold As-Described. Hal Leonard. Exploring pareyyyy. de: James A. The Best Of Metallica (TAB) by Metallica » Sheet Music for Guitar. Metallica - Death Magnetic (Songbook). Metallica: 1983-1988 Product Image . Image is loading 48-328-Guitar-and-Bass-TABS-Sheet-Music-Welcome Home (Sanitarium): For voice and piano (or guitar) by James. Metallica - Welcome Home (Sanitarium) - Bass Transcription. Metallica: Master of Puppets Play It Like It Is Guitar Tab Songbook. BON JOVI GUITAR TAB / BON JOVI BASS TAB / BON JOVI BAND SCORE / SONGBOOKDoes not apply. This part starts at 1:00 into the video. Welcome Home [Sanitarium] (Lesson & Cover) W/ Tab PT. Learning how to read sheet music for drums. Welcome Home (Sanitarium) Intro Guitar Solo. Master of Puppets (Metallica): For bass guitar with tab by Cliff Burton,. Tuto guitare - Welcome Home (Sanitarium) - Intro - Metallica +TAB. METALLICA KILL EM ALL BASS GUITAR TAB SONGBOOK TABLATURE MUSIC BOOK. com). Metallica – Master of Puppets Bass Guitar Tab Songbook – Dr. METALLICA solos on bass. 10-Minute Teacher The Pogues Fairytale Of New York.  Published by Hal Leonard - Digital Sheet Music. The Best Of Metallica: Guitar TAB. Battery (Metallica): For bass guitar with tab by James Hetfield, Lars Ulrich. Welcome Home (Sanitarium) Cover. Welcome Home (Sanitarium): Drum set by James Hetfield, Kirk Hammett, Lars.  6. Partition de Metallica: Welcome Home (Sanitarium). By Rozanne Richards. Bass PDF - Abysslord. Jason Newsted - Bass Solo Cover (Instrumental). com) - Duration: 3:17.  Metallica: Legendary Licks 1983-1988 - Russo - Guitar TAB - Book/Audio. 2 of 5 Learn to Play Bass with Metallica 1 Guitar TAB Music Book and CD Joe Charupakorn. metal bass tabs. Welcome Home (Sanitarium) Guitar Lesson - Metallica - First Solo - video dailymotion. metallica-tabs-welcome-home-sanitarium. Martyzsongs - Metallica - How to Play the Intro to Sanitarium - Heavy Metal Guitar. Complete guitar lesson of the jazz standard, Misty song. Metallica: Legendary Licks 1983-1988 - Russo - Guitar TAB - Book/Audio. Monroe Street Cemetery Index No surname & A through Bk. guitar tabs for metallica resume garage inc.  Juli 2000.  Sacred, Christian. 洋書 Metallica - Bass Riff by Riff/ベースTAB・スコア メタリカ♪</b><!--/noindex-->                  </li>
+
+                                    <li  class="menuItemLi  active">
+
+                    информацию.
+
+           <!--/noindex-->           <div style="margin-top:5px;">
+
+            <!--noindex-->
+
+            <!--LiveInternet counter--> <!--/LiveInternet-->
+
+            <!--/noindex-->
+
+          </div>
+
+          
+
+          
+
+		 
+
+<!--</div>-->
+
+  	
+
+  	 
+
+
+
+  </body>
+
+
+
+
+
+            
+
+</html>

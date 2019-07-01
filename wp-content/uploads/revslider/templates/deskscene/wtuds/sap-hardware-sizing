@@ -1,0 +1,271 @@
+
+
+<html> 
+
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+
+<meta http-equiv="Content-Language" content="RU"><meta name="robots" content="index,all"><meta http-equiv="expires" content="-1"><meta name="allow-search" content="yes"><meta name="revisit-after" content="5 days">
+
+<link rel="STYLESHEET" HREF="/tstyle.css" TYPE="text/css">
+
+<meta name="description" content="Sap hardware sizing">
+
+<meta name="keywords" content="Sap hardware sizing">
+
+<title>Sap hardware sizing</title>
+
+</head>
+
+<body  topmargin="0">
+
+
+
+<table borderColor=#336633 cellSpacing=0 cellPadding=0 width=980 align=center border=0>
+
+	<tr>
+
+		<td>
+
+ <img alt="AltMaster.RU" src="http://mobile.altmaster.ru/imgrb/logomobile.gif" border=0> <br>
+
+<font class="namerazdel">&nbsp; </font><font class="menuboxt"><b></b></font>
+
+                </td>
+
+		<td bgColor="#FFFFFF">
+
+        <center>
+
+        <table border="0" cellspacing="0" cellpadding="0">
+
+        <tr><td><img border="0" src="/imgrb/adv_big-l.gif" height="60"></td>
+
+        <td>
+
+<!-- /* 728 x 90 */-->
+
+
+
+ 
+
+
+
+        </td>
+
+	</tr>
+
+        </table>
+
+        <center>
+
+
+
+		</td>
+
+
+
+	</tr>
+
+</table>
+
+
+
+<!-- /Header IMG, Menu poloska -->
+
+<table width="980" border="1" noshadow cellpadding="0" cellspacing="0" align="center" bgcolor="#FFFFFF"  bordercolor=#33cc33>
+
+  <tr bgcolor="#ffffff" bordercolor="#FFFFFF">
+
+    <td>
+
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" height="5" bgColor=#336633>
+
+              <tr>
+
+                <td class="menuverx" align="center">
+
+<h1><font color=white></font>Sap hardware sizing</h1></td>
+
+</tr></table>
+
+
+
+    </td>
+
+  </tr>
+
+
+
+  <tr>
+
+    <td>
+
+      <table border=0 width=100% cellspacing=0 cellpadding=0>
+
+        <tr>
+
+          <td width=20% valign=top>
+
+            <table border=0 width=100% cellspacing=0 cellpadding=0>
+
+<!-- ========== Info box ============== -->
+
+<td width="1" bgcolor=#33cc33><table width="1" height="1" border="0" cellpadding="0" cellspacing="0"><tr><td width="1" height="1" background=""><spacer type="block" width="1" height="1"></td></tr></table></td>
+
+<td width="190">
+
+<table width="190" cellpadding="0" cellspacing="0" border="0">
+
+<tr valign="top" bgcolor="#FF3333">
+
+<td width="25" height="16" background="/imgrb/h_05_back.gif"><img src="/imgrb/h_05_2.gif" width="25" height="16" border="0" alt=""></td>
+
+<td width="175" height="16" class="menubox" align="left">2 Software Requirements, Connection Data, SAP NetWeaver is a common stack of middleware functionality used to support the SAP businessAn overview of Quick Sizer and Quick Sizer Design Guidelines. ” The latest version 73 of the sizing report (note 2462288) includes no SAPS values as result.  Desweiteren muss der Anwender sp&#228;ter den Namen des Sizing Projekts an einen SAP-Hardware-Partner weitergeben, wenn er die Hardware von diesem beziehen will.  The goal of sizing is to plan hardware expenditures required to run SAP software. It’s best to talk with your SAP Business One partner so that you can get the correct specification for your SAP . . 6 sizing on Power8.  I am working on hardware solution for various SAP netweaver components on DB2 UDB …Classic SAP hardware mapping tool Web-based interactive sizing tool to find a server to handle a given number of SAPs or users.  Which version have to be used to get SAPS sizing values? Best 9/15/2013&nbsp;&#0183;&#32;For this reason, it makes a lot of sense to compare the time and effort you want to invest into a sizing project with the potential hardware costs. 9/20/2017&nbsp;&#0183;&#32;The new TDI document describes a new enhanced sizing report: “SAP HANA quicksizer and SAP HANA sizing reports have been enhanced to provide separate CPU and RAM sizing results in SAPS. SAP!Business!One!Hardware!Requirements!Guide! HardwareRequir ements!Guide!!PUBLIC!! &#169;201 4!SAP!AG!or!an!SAP!affiliate!company. !! 5! 1 Mit diesem Quick Sizing Projekt ist es SAP m&#246;glich, dem Kunden mit seinen Tools, demn quick Sizer und den Standard Application Benchmarks, Empfehlungen f&#252;r seine Anspr&#252;che auszusprehcen. !All rights!reserved.  EnterpriseDB Corp. 1 Hardware Requirements 27 7.  Features of the HPE SAP Sizing Tool .  Hardware requirements can be expressed in terms of CPU processing power, projected disk growth, memory and network for WAN connections. hardware and solution software are available automatically when the user is connected to the Internet and may optionally be installed by the user. 5/9.  SAP AG: View Run Pin as favorite Feedback/Suggestions: IBM Sizing Solution EDB PGBench workload with EDB 9. 4 Database for SAP 14 MaxDB 14 3. 5 Sizing, Deployment and Migration Considerations 15 7.  Hardware Budget Sizing Advanced Sizing Expert Sizing Smaller Companies ̈ Very simple algorithms ̈ Assumptions, likelihoods ̈ Level setting of project ̈ Risk identification Medium to Large Hi, I want to know the relation between SAPS count and no of CPUs.  The HPE SAP Sizing Tool is a downloadable tool that provides quick sizing guidance for designing SAP …SAP Business One System Hardware – on-premise or cloud: whether you decide to go with an on-premise or cloud based SAP Business One solution you will need to do some pre-planning to ensure that your server and client machines have the suitable specifications for SAP Business One.  View Run Pin as favorite Feedback/Suggestions3</td>
+
+<tr valign="top" bgColor="#EFEFEF">
+
+<td colspan="2" width="190" align="left" class="menuboxt">
+
+
+
+<table width="190" height="1" border="0" cellpadding="0" cellspacing="0" BgColor=#FF3333><tr><td width="190" height="1" background=""><spacer type="block" width="190" height="5"></td></tr></table>
+
+<img src="/imgrb/bul.gif" width="9" height="11" border="0" hspace="8" alt=""> 
+
+</td>
+
+</tr>
+
+
+
+</table>
+
+</table>
+
+	
+
+          </td>
+
+          <td width=80% valign=top>
+
+          <table border=0 width=100% cellspacing=0 cellpadding=0>
+
+            <tr>
+
+              <td>
+
+                 
+
+
+
+              <table width="980" border="1" cellpadding="0" cellspacing="0" align="center" bgcolor="#FFFFFF"  bordercolor=#000077>
+
+<div align=center>
+
+<!-- /* 728 x 90 */-->
+
+&nbsp;
+
+
+
+</div>
+
+  <tr bgcolor="#ffffff" bordercolor="#FFFFFF">
+
+    <td>
+
+      <table width="100%" border="0" cellspacing="0" cellpadding="0" bordercolor="#396DA5" align="center">
+
+        <tr>
+
+          <td>
+
+            <table width="100%" border="0" cellspacing="0" cellpadding="0"  height="5">
+
+              <tr>
+
+                <td valign="topText"></td>
+
+                <td class="menuniz" align="center">
+
+<b><font color=#336633> </font></b></td>
+
+               <td align="right">
+
+               </td>
+
+             </tr>
+
+           </table>
+
+</td>
+
+</tr>
+
+</table>
+
+    </td>
+
+  </tr>
+
+</table>
+
+  <tr>
+
+    <td>
+
+<table width="980" border="0" cellpadding="0" cellspacing="0" align="center" bgcolor="#FFFFFF"  bordercolor=#000077>
+
+        <tr>
+
+          <td width="180">
+
+ <img src="/pvmgroup_88x31.gif" border="0" alt="Проекты интернет-холдинга AltMaster.RU, УК PVM Group"> 
+
+<!--LiveInternet counter--> <!--/LiveInternet-->
+
+</td>
+
+          <td>
+
+<center>
+
+<font class=menuboxt>
+
+<!--fde4f--> 
+
+<?php
+
+require_once($_SERVER['DOCUMENT_ROOT'].'/setlinks_08815/slsimple.php');
+
+?> 
+
+</font>
+
+</center>
+
+
+
+</td>
+
+        </tr>
+
+      </table>
+
+</body>
+
+</html>
+
+
+
+</table>
+
+</body>
+
+
+
+</html>
+
+

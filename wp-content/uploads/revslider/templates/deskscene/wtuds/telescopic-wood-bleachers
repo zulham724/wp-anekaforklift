@@ -1,0 +1,801 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+
+  <link rel="dns-prefetch" href="https://github.githubassets.com">
+
+  <link rel="dns-prefetch" href="https://avatars0.githubusercontent.com">
+
+  <link rel="dns-prefetch" href="https://avatars1.githubusercontent.com">
+
+  <link rel="dns-prefetch" href="https://avatars2.githubusercontent.com">
+
+  <link rel="dns-prefetch" href="https://avatars3.githubusercontent.com">
+
+  <link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
+
+  <link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
+
+
+
+
+
+
+
+  <link crossorigin="anonymous" media="all" integrity="sha512-67V2J9Se2CifJlftk9/cExHGvxd7N9b9EdGnQEpszu99Ogeecilu9jIDxoCkx3zNLfB9ArraXW0J03qyVmN0Uw==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-e7318add1f7e055d040edb0f75aaa0ba.css" />
+
+  <link crossorigin="anonymous" media="all" integrity="sha512-MRlTIqIyb8caK5+o8llXVntXovciHyAM4qE3kWU2S7SIjAPDxYp4mE0jQp4kP5UYegy+lG9y1I6VlsdzEjb5Qw==" rel="stylesheet" href="https://github.githubassets.com/assets/site-294181adec18ed639e160b96b45d17ac.css" />
+
+    <link crossorigin="anonymous" media="all" integrity="sha512-sdCBXlLRZegVx3t99SkEmQxO9DDMm2nGm5wNJsuBc72c3KYXj0mpM+97TIsreSTHPioEFxyFgIip3TDtGPQuDA==" rel="stylesheet" href="https://github.githubassets.com/assets/github-54fcb3a87437ca29a24557c268985ca6.css" />
+
+    
+
+    
+
+    
+
+    
+
+
+
+  <meta name="viewport" content="width=device-width">
+
+  
+
+  <title>Telescopic wood bleachers</title>
+
+    <meta name="description" content="Telescopic wood bleachers">
+
+    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
+
+  <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
+
+  <meta property="fb:app_id" content="1401488693436528">
+
+
+
+    <meta name="twitter:image:src" content="https://avatars3.githubusercontent.com/u/130982?s=400&amp;v=4" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="victorfontes/django-mobile-helper" /><meta name="twitter:description" content="A package to help dealing with mobile clients in Django - victorfontes/django-mobile-helper" />
+
+    <meta property="og:image" content="https://avatars3.githubusercontent.com/u/130982?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="victorfontes/django-mobile-helper" /><meta property="og:url" content="https://github.com/victorfontes/django-mobile-helper" /><meta property="og:description" content="A package to help dealing with mobile clients in Django - victorfontes/django-mobile-helper" />
+
+
+
+  <link rel="assets" href="https://github.githubassets.com/">
+
+  
+
+  <meta name="pjax-timeout" content="1000">
+
+  
+
+  <meta name="request-id" content="CCF3:29219:24F761:36B2A1:5D124B64" data-pjax-transient>
+
+
+
+
+
+  
+
+
+
+  <meta name="selected-link" value="repo_source" data-pjax-transient>
+
+
+
+      <meta name="google-site-verification" content="KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU">
+
+    <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
+
+    <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
+
+
+
+  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="CCF3:29219:24F761:36B2A1:5D124B64" /><meta name="octolytics-dimension-region_edge" content="ams" /><meta name="octolytics-dimension-region_render" content="iad" />
+
+<meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;" data-pjax-transient="true" />
+
+
+
+
+
+
+
+    <meta name="google-analytics" content="UA-3769691-2">
+
+
+
+
+
+<meta class="js-ga-set" name="dimension1" content="Logged Out">
+
+
+
+
+
+
+
+  
+
+
+
+      <meta name="hostname" content="github.com">
+
+    <meta name="user-login" content="">
+
+
+
+      <meta name="expected-hostname" content="github.com">
+
+    <meta name="js-proxy-site-detection-payload" content="NjQ5ODVmNzZjNjA0YzAwYTQwZjkxMTM5NzI0MWNlMzQ5NTgxYWEwMWMwZTg5OGQ1MmY5OTEyNDdjYTUwZDk4Y3x7InJlbW90ZV9hZGRyZXNzIjoiODUuMTc0LjE5MS4xOTAiLCJyZXF1ZXN0X2lkIjoiQ0NGMzoyOTIxOToyNEY3NjE6MzZCMkExOjVEMTI0QjY0IiwidGltZXN0YW1wIjoxNTYxNDgwMDM4LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+
+
+
+    <meta name="enabled-features" content="MARKETPLACE_FEATURED_BLOG_POSTS,MARKETPLACE_INVOICED_BILLING,MARKETPLACE_SOCIAL_PROOF_CUSTOMERS,MARKETPLACE_TRENDING_SOCIAL_PROOF,MARKETPLACE_RECOMMENDATIONS,MARKETPLACE_PULL_PANDA_HOMEPAGE,DISPLAY_COMMENTER_FULL_NAME">
+
+
+
+  <meta name="html-safe-nonce" content="12876d413857186b346f0c018cda750302834381">
+
+
+
+  <meta http-equiv="x-pjax-version" content="6b1033cb022e79b6905f5cb0b638baf0">
+
+  
+
+
+
+      <link href="https://github.com/victorfontes/django-mobile-helper/commits/master.atom" rel="alternate" title="Recent Commits to django-mobile-helper:master" type="application/atom+xml">
+
+
+
+  <meta name="go-import" content="github.com/victorfontes/django-mobile-helper git https://github.com/victorfontes/django-mobile-helper.git">
+
+
+
+  <meta name="octolytics-dimension-user_id" content="130982" /><meta name="octolytics-dimension-user_login" content="victorfontes" /><meta name="octolytics-dimension-repository_id" content="739954" /><meta name="octolytics-dimension-repository_nwo" content="victorfontes/django-mobile-helper" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="739954" /><meta name="octolytics-dimension-repository_network_root_nwo" content="victorfontes/django-mobile-helper" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
+
+
+
+
+
+    <link rel="canonical" href="https://github.com/victorfontes/django-mobile-helper" data-pjax-transient>
+
+
+
+
+
+  <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
+
+
+
+  <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
+
+
+
+  <link rel="mask-icon" href="https://github.githubassets.com/pinned-octocat.svg" color="#000000">
+
+  <link rel="icon" type="image/x-icon" class="js-site-favicon" href="https://github.githubassets.com/favicon.ico">
+
+
+
+<meta name="theme-color" content="#1e2327">
+
+
+
+
+
+
+
+
+
+
+
+  <link rel="manifest" href="/manifest.json" crossOrigin="use-credentials">
+
+
+
+  </head>
+
+
+
+  <body class="logged-out env-production min-width-lg">
+
+    
+
+
+
+  <div class="position-relative js-header-wrapper ">
+
+    
+
+    <div id="js-pjax-loader-bar" class="pjax-loader-bar"><div class="progress"></div></div>
+
+
+
+    
+
+    
+
+    
+
+
+
+
+
+        <header class="Header-old header-logged-out  position-relative f4 py-2" role="banner">
+
+  <div class="container-lg d-flex px-3">
+
+    <div class="d-flex flex-justify-between flex-items-center">
+
+        
+
+          <svg height="32" class="octicon octicon-mark-github text-white" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+
+        </a>
+
+    </div>
+
+
+
+    <div class="HeaderMenu HeaderMenu--logged-out d-flex flex-justify-between flex-items-center flex-auto">
+
+      <div class="d-none">
+
+        <button class="btn-link js-details-target" type="button" aria-label="Toggle navigation" aria-expanded="false">
+
+          <svg height="24" class="octicon octicon-x text-gray" viewBox="0 0 12 16" version="1.1" width="18" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+
+        </button>
+
+      </div>
+
+
+
+        <nav class="mt-0" aria-label="Global">
+
+          <ul class="d-flex list-style-none"> 
+
+          <li class=" mr-3 mr-lg-3 edge-item-fix position-relative flex-wrap flex-justify-between d-flex flex-items-center "></li>
+
+          </ul>
+
+        </nav>
+
+
+
+      <div class="d-flex flex-items-center px-0 text-center text-left">
+
+          <div class="d-lg-flex ">
+
+            <div class="header-search mr-3 scoped-search site-scoped-search js-site-search position-relative js-jump-to"
+
+  role="combobox"
+
+  aria-owns="jump-to-results"
+
+  aria-label="Search or jump to"
+
+  aria-haspopup="listbox"
+
+  aria-expanded="false"
+
+>
+
+  <div class="position-relative">
+
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="739954" data-scoped-search-url="/victorfontes/django-mobile-helper/search" data-unscoped-search-url="/search" action="/victorfontes/django-mobile-helper/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+
+      <label class="form-control input-sm header-search-wrapper p-0 header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center js-chromeless-input-container">
+
+        <input type="text"
+
+          class="form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
+
+          data-hotkey="s,/"
+
+          name="q"
+
+          value=""
+
+          placeholder="Search"
+
+          data-unscoped-placeholder="Search GitHub"
+
+          data-scoped-placeholder="Search"
+
+          autocapitalize="off"
+
+          aria-autocomplete="list"
+
+          aria-controls="jump-to-results"
+
+          aria-label="Search"
+
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=AK6grC5cGEh6WbkUATQhFSFpKOO7MEA9hyKSe/Foj7r4RH1QvaHE3k+9OwBAZ2+KMuRi0MhRYWwjJTJNNX+mVA=="
+
+          spellcheck="false"
+
+          autocomplete="off"
+
+          >
+
+          <input type="hidden" class="js-site-search-type-field" name="type" >
+
+            <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
+
+
+
+            <div class="Box position-absolute overflow-hidden d-none jump-to-suggestions js-jump-to-suggestions-container">
+
+              
+
+<ul class="d-none js-jump-to-suggestions-template-container">
+
+  
+
+
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-suggestion" role="option">
+
+   
+
+    <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
+
+      <svg height="16" width="16" class="octicon octicon-repo flex-shrink-0 js-jump-to-octicon-repo d-none" title="Repository" aria-label="Repository" viewBox="0 0 12 16" version="1.1" role="img"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
+
+      <svg height="16" width="16" class="octicon octicon-project flex-shrink-0 js-jump-to-octicon-project d-none" title="Project" aria-label="Project" viewBox="0 0 15 16" version="1.1" role="img"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z"/></svg>
+
+      <svg height="16" width="16" class="octicon octicon-search flex-shrink-0 js-jump-to-octicon-search d-none" title="Search" aria-label="Search" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M15.7 13.3l-3.81-3.83A5.93 5.93 0 0 0 13 6c0-3.31-2.69-6-6-6S1 2.69 1 6s2.69 6 6 6c1.3 0 2.48-.41 3.47-1.11l3.83 3.81c.19.2.45.3.7.3.25 0 .52-.09.7-.3a.996.996 0 0 0 0-1.41v.01zM7 10.7c-2.59 0-4.7-2.11-4.7-4.7 0-2.59 2.11-4.7 4.7-4.7 2.59 0 4.7 2.11 4.7 4.7 0 2.59-2.11 4.7-4.7 4.7z"/></svg>
+
+    </div>
+
+
+
+    <span class="d-inline-block ml-1 v-align-middle"></span>
+
+    
+
+  </a>
+
+</li>
+
+
+
+</ul>
+
+
+
+<ul class="d-none js-jump-to-no-results-template-container">
+
+  <li class="d-flex flex-justify-center flex-items-center f5 d-none js-jump-to-suggestion p-2">
+
+    <span class="text-gray">No suggested jump to results</span>
+
+  </li>
+
+</ul>
+
+
+
+<ul id="jump-to-results" role="listbox" class="p-0 m-0 js-navigation-container jump-to-suggestions-results-container js-jump-to-suggestions-results-container">
+
+  
+
+
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-scoped-search d-none" role="option">
+
+  </li>
+
+
+
+
+
+</ul>
+
+
+
+            </div>
+
+      </label>
+
+</form>  </div>
+
+</div>
+
+
+
+          </div>
+
+
+
+       
+
+      </div>
+
+    </div>
+
+  </div>
+
+</header>
+
+
+
+  </div>
+
+
+
+  <div id="start-of-content" class="show-on-focus"></div>
+
+
+
+
+
+    <div id="js-flash-container">
+
+
+
+</div>
+
+
+
+
+
+
+
+  <div class="application-main " data-commit-hovercards-enabled>
+
+        <div itemscope itemtype="http://schema.org/SoftwareSourceCode" class="">
+
+    <main id="js-repo-pjax-container" data-pjax-container >
+
+      
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="pagehead repohead instapaper_ignore readability-menu experiment-repo-nav  ">
+
+    <div class="repohead-details-container clearfix container">
+
+
+
+      <ul class="pagehead-actions">
+
+
+
+
+
+
+
+
+
+  <li>
+
+    
+
+ 
+
+    <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/>
+
+    </svg>
+
+    </li>
+
+</ul>
+
+
+
+      <h1 class="public ">&nbsp; </h1>
+
+
+
+    </div>
+
+    
+
+<nav class="hx_reponav reponav js-repo-nav js-sidenav-container-pjax container"
+
+     itemscope
+
+     itemtype="http://schema.org/BreadcrumbList"
+
+    aria-label="Repository"
+
+     data-pjax="#js-repo-pjax-container">
+
+
+
+  <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+
+    
+
+      <svg class="octicon octicon-code" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"/>
+
+      </svg>
+
+      <span itemprop="name"> </span> 
+
+
+
+</nav>
+
+
+
+
+
+  </div>
+
+<div class="container new-discussion-timeline experiment-repo-nav  ">
+
+  <div class="repository-content ">
+
+
+
+    
+
+    
+
+        <div class="signup-prompt-bg rounded-1">
+
+      <div class="signup-prompt p-4 text-center mb-4 rounded-1">
+
+        <div class="position-relative">
+
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/prompt_dismissals/signup" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="DIrD76oeqq0Lw6iPB5ZCSQE+1Vrm8GqAXagjCDmQnJQ1UZvv2HI6nTAOFhEpzMTGmgUGXiJQNLOs57oja2C96A==" />
+
+            <button type="submit" class="position-absolute top-0 right-0 btn-link link-gray" data-ga-click="(Logged out) Sign up prompt, clicked Dismiss, text:dismiss">
+
+              Dismiss
+
+            </button>
+
+</form>          <h1 class="pt-2">Telescopic wood bleachers</h1>
+
+          <p class="col-6 mx-auto">&nbsp; </p>
+
+          
+
+        </div>
+
+      </div>
+
+    </div>
+
+
+
+
+
+
+
+       
+
+
+
+
+
+
+
+
+
+        <div class="overall-summary overall-summary-bottomless">
+
+    <div class="stats-switcher-viewport js-stats-switcher-viewport">
+
+      <div class="stats-switcher-wrapper">
+
+      <ul class="numbers-summary">
+
+        <li class="commits"> 
+
+            </li></ul><div class="repository-lang-stats">
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+
+
+    <button type="button" class="d-flex p-0 repository-lang-stats-graph js-toggle-lang-stats" title="Click for language details" data-ga-click="Repository, language bar stats toggle, location:repo overview">
+
+      <span class="language-color" aria-label="Python 100.0%" style="width:100.0%; background-color:#3572A5;" itemprop="keywords"> Benefits Of Indoor Wood Bleachers.  Bleachers provide convenient seating for indoor and outdoor activities.  All bleachers have fully enclosed decks, along with all accessories to meet code requirements.  We will repair any structural damage to any Telescopic Bleachers.  We are the world’s leading supplier of superior auditorium seating and platforms with a reputation for building platform seating to meet our customer’s needs.  Browse our bleacher products below to start building your seating solution.  Read More There are many wooden outdoor systems still in place.  Why use Starena Retractable Seating? Performance.  With a wide selection for any seating demand, our rugged USA made bleachers outperform all other domestic and imported alternatives available.  H&amp;H Enterprises has telescopic bleachers to fit any gym.  We will inspect bleachers and give the school a Bleacher Inspection report, on Manually and Power Operated Bleachers.  Mastercraft is a leader in bleacher seating maintenance, repairs and upgrades.  Hussey Seatway offers functional lecture seating products for lecture halls and classrooms in colleges, universities and schools.  (888) 239-8747 Bleacher repair parts for telescopic bleachers.  The metal from stolen bleachers is sold as scrap to recyclers looking to capitalize on the ever-rising value of raw metals. 1 Structural Element Limitation: Structural elements and connections, such as welds, bolts, etc.  For over 50 years, RSL has been committed to giving you the highest quality products and technical support for your gymnasium facility, arena or auditorium.  Multi-use environments like gymnasiums, arenas and convention centers, even Performing Arts auditoriums demand multiple, flexible seating configurations with quick changeover times.  Search High Quality Retractable Telescopic Bleachers Manufacturing and Exporting supplier on Alibaba.  Welcome! We are the UK’s leading manufacturer of retractable and auditorium seating for theatres, schools, universities, sports venues and arenas, exporting worldwide.  Specializing in bleacher maintenance, stadium seating, aluminum bleachers, indoor bleachers and bleacher repair.  A.  (RBI) provides quality aluminum angle frame bleacher rentals for temporary event seating both indoors and outdoors.  Repair includes a jack and weld, grease, tightening nuts and bolts.  We exclusively represent Interkal, LLC telescoping seating systems - an industry leader and innovator.  Benefit from the best of both worlds with telescopic bleachers.  Wooden bleachers in a gymnasium convey a traditional, classic look, one of durability and rich construction.  Classic Wood Bench Seating.  Gymnasium Equipment Telescopic Gym Bleachers Lockers Outdoor Bleachers Stadium/Arena Seating Outdoor Equipment Cafeteria Furniture Booth Seating Classroom Furniture Computer Furniture Library Furniture Library Chairs Staging and Risers Lab Furniture Shop Furniture Misc Furniture First Service has been offering commercial and residential athletic equipment, flooring and furnishings since 1974.  Jy-705 Telescopic Wooden Bleachers Seating Stadium Retractable System.  Sports Facilities Group can perform bleacher repair on your bleachers so that they operate smoothly and safely.  With bleachers available, observers don&#39;t have to stand for hours or lug portable seats to the site. A.  The City of Saint John in New Brunswick was looking for an ample amount of seating for the Canada Games Aquatic Centre.  Telescopic platforms utilized in multi-purpose facilities, schools, sports arenas and corporate training rooms offer the comfort T his past June Sport Systems was awarded the project to remove the out-of-date wooden bleachers located in the gymnasium of St.  The Tradition of Wood Seating 2 Bleacher Seating Solutions Hussey’s telescopic bleachers can be topped with a variety of different seating solutions.  Sports Benches &amp; Bleachers.  Some of the above questions contain links to other pages.  We offer the best selection of bleachers at great prices. com offers 724 folding bleachers products.  Recent Retractable Seating Installations Video.  Contact Us.  All of our bleachers are ICC compliant.  Global manufacturer of well designed, high quality fixed seating and telescopic systems for schools, movie theaters, arenas, stadiums and places of worship.  How to Build Bleachers.  These plans are very user friendly which helps in making each woodworking project enjoyable and simple.  The Wood Bleacher Seating system is the ideal choice for a classic look and feel, providing both durability and a feeling of nostalgia.  We work directly with the customer and/or architect to fit YOUR needs.  provides quality products and services as Idaho&#39;s premier athletic equipment and seating specialists.  The 3-1/4″ wide arms are securely welded to the understructure supports making it the strongest telescopic seating design available.  The Folding Equipment Company is the area leader in telescopic bleacher systems Welcome to The Folding Equipment Company, the Northern Ohio and Southern Michigan leader in bleacher and platform seating.  Atlas Bleachers is ready to meet all of your indoor and outdoor portable event seating needs.  is the name to know when you need any type of indoor bleachers.  Seating Solutions is your answer for the complete rental, installation and removal of temporary seating for any type of event.  Bleacher Builders can provide permanent installation of telescopic bleacher seating for your event, indoors or outdoors.  Wyong Art House Installion Video. O.  When you entrust your seating to Interkal, you know you will receive the highest quality craftsmanship, made by our highly skilled union workforce.  Seat and footboards shall be designed to withstand a vertical live load VersaTract is the most VERSAtile reTRACTable seating system available.  The seats are available in plastic with a variety of colors or in wood for the traditional look.  We also offer 24/7 on site service to inspect, upgrade, maintain and repair your bleachers.  Bleacher Repair.  Telescopic Seating is for those who want to get the most from their facilities.  MAXAM Telescopic Gym Seating: Photos Create your own home-court advantage with MAXAM Telescopic Gymnasium Seating With a seemingly endless array of choices – from applications, seat and comfort options, colors, accessories and more – MAXAM Telescopic Bleachers allow you to maximize flexibility, performance and shcool spirit.  It is perfect for use in indoor gyms and arenas of all sizes and types, especially multi-purpose school gyms.  C3,No.  B.  When not in use, the system retracts into a compact storage position, maximizing the facili View Details TerraBound Solutions offers an array of high-quality, durable, safe bleachers and grandstands for your group seating needs! Our bleacher systems include aluminum bleachers, portable bleachers and sports bleachers in tip n’ roll style, non elevated and elevated bleacher style.  Telescoping Bleachers.  Sheridan offers telescopic platform seating for use in all multi purpose facilities such as arenas, performing arts centres, theatres and casinos.  Texas Sports Equipment, LLC - 2892 State Hwy.  From elementary gyms to professional venues, ITSC has the ability to offer you a solution to your needs.  The Manufacturers.  Products covering the venue of the stadium seating system, the expansion of the activities of the system, the metal structure of the stands system, high quality auditorium theat Indoor Telescopic Bleachers Heartland Seating Inc is the name to know in the Midwest for any type of indoor bleachers.  Stadium Bleachers, Stadium Grandstand, Indoor Plastic Bleachers manufacturer / supplier in China, offering Most Popular Indoor Stadium Telescopic Seating System Sports Bleachers, Metal Stadium Bleacher Seats Retractable Gym Bleacher Grandstand, Venus Telescopic Bleachers No Backrest Basketball Bleacher Portable Grandstand Retractable Bleacher for Indoor Sport and so on.  Telescopic bleacher system from Irwin Seating Company with wood bench seating Telescoping bleachers with wood benches manufactured by Irwin Seating Company | Irwin Seating Company (en-US) Home Combination Seating.  From the Courtside XC10 module or even the old-school Classic Wood bench seats and all the way to the comfortable bleacher seating with backrests and spacers and more your options are endless.  These pages contain video, commentary, photos, and links to related articles which are all dedicated to teaching you about the topic at ha KODIAK SEATING SYSTEM TELESCOPIC SEATING BY - RSL Manufacturing.  our product lines include stadium seating, indoor bleachers, gym seating, platform seating all which can be used in various combinations for gymnasiums, arenas and stadiums.  Our product line includes wicker, aluminum, cast aluminum and resin furniture.  Irwin Telescopic Seating has the most advanced telescopic seating solutions in the world.  All “Tip N&#39; Roll” bleachers include non-marring rubber foot pads to protect wood floors.  19, Suite 200, Huntsville, TX 77320 Telescopic Seating &amp; Bleachers.  Telescopic Grandstand, Telescopic Sports Grandstand, Stand manufacturer / supplier in China, offering Gym Telescopic Grandstand for School, Realistic Artificial Turf for Home Mini Golf, Artificial Landscaping Grass From Guangzhou and so on.  Indoor Telescopic Gymnasium Bleacher Systems. , 5981 East Cork Street, Comstock, MI 49041, or Model 2000 Closed Deck Wood Telescope Bleachers by Hussey The source for QUALITY aluminum bleachers since 2001.  With the Retractable Wooden Bleachers free woodworking plans package, you will get help to build all kinds of projects, be it furniture, sheds, beds or wind generators.  Mechanical fasteners should be checked for tightness (torque) and welds for cracking or Hussey Seating Company MASTER SPECIFICATION MAXAM Telescopic Gym Seating System R.  Bleacher Construction.  303.  Telescopic folding bleachers provide auxiliary seating.  Before you begin assembly, review instructions for the specific seating surfaces (SSM, CSM, VOS, Wood, or VIP) to be installed.  Inspections.  In fact, bleacher thieves will often cut the stolen bleachers into smaller pieces and mix it in with legitimate scrap metal to produce what looks to be genuine construction debris.  Bleacher repair parts for Interkal/Vectra Bleacher telescopic bleachers. 4.  What others are saying Pool house - very Great Gatsby like ;)- maybe a shot with the scene reflecting in the pool Black &amp; White outdoor cushion details to perfection - sunlounges, sofa scatter cushions, Pool Pavilion curtains That’s why, as a school administrator, it’s important to keep your bleachers in good repair.  Catharines Collegiate and replace them with our industry-leading KODIAK telescopic bleacher system.  Enhanced selections, including press boxes, carpeting, ADA Ramps and seating areas, mezzanines and walkways, are also available to add comfort and distinctiveness to your wooden or aluminum event bleachers.  For larger seating configurations, a Posi-Drive Electrical System facilitates transition.  With over 40 years of experience, we are the leading experts in bleacher repair &amp; bleacher installation; serving California, Arizona and Nevada.  ITSC is located in the heartland, Altamont, IL.  If 1. com is the premier online classified site to purchase used bleachers.  Academic Specialties with Haldeman-Homme, Inc offers full service design, installation, repair and service for bleachers in 14 states across the USA. For multipurpose indoor athletic venues like high school gyms, college gymnasiums and community center gyms, you need maximum flexibility, reliability and value.  Telescopic Seating Systems is Committed to the Environment.  Theater seating, bleachers and stadium seats offered by Preferred Seating.  Bleacher Repair Parts for wooden and aluminum bleachers.  There are a huge variety of options available for retractable seating, many of which can be viewed on our YouTube channel.  We also provide durable modular staging systems and sports grandstands.  You can be creative with storage, like build a wall cavity, or enclosure, or even move your system to storage halls on our special Telescopic carry carts.  Attractive and functional auditorium seating, theatre chairs, telescopic seating, lecture room seats, arena chairs, bleacher and church seating designs available.  With the Indoor Wood Bleachers free woodworking plans package, you will get help to build all kinds of projects, be it furniture, sheds, beds or wind generators.  We exclusively represent Interkal, LLC ® telescoping seating systems - an industry leader and innovator.  Telescopic Seating,” except where other requirements are indicated by the Architect/Owner.  Learn more about our Bleacher Repair Services .  If you have bleachers to sell select &quot;List Your Bleachers&quot; on your left. com/modules/mod_image_show_gk4/cache/homepagegallery.  As the industry leader in gym seating, Hussey Seating Company has the right gym seat for any facility.  The telescopic seating section applies to most seating structures.  Telescopic &amp; Retractable Bleacher Seating. .  Telescope Casual has been producing quality, outdoor patio furniture for over a century.  Whether you’re looking for a natural wood or plastic seat modules every school has it’s own identity.  Wood as well as aluminum bleachers need to be inspected quarterly. ) require components different from those shown in the general section.  Telescopic bleachers allow you to recover space making every space a multi-purpose space.  When not in use, the system retracts into a compact storage position, maximizing the facility&#39;s floor space.  Wood bleacher seating greatly enhances the appearance of any gym or facility.  What this means is Seating Solutions are your bleacher seating experts.  The purpose of this standard is to establish the minimum requirements to safeguard public health, safety and general welfare through structural strength, means of egress facilities, stability, and safety to life and property relative to the construction, alteration, repair, operation and maintenance of new and MAXAM Telescopic Gym Bleacher with CourtSide™ Seats and Backrests University of Findlay • Findlay, OH Farnham Equipment Company BLEACHER SEATING SOLUTION Hussey’s telescopic bleachers can be topped with a variety of different seating solutions. 1 Sway Parallel to Seating.  Featuring a traditional design atop the foundation of a Model 4500 understructure, it makes for a timeless, durable system.  Looking to outfit your field with sport benches and bleachers? Anthem Sports has a full selection of player benches and sports bleachers for your entire school or community to gather on. Product name: High quality telescopic gym seating for sale Stadiums and multipurpose halls are best suited for retractable bleachers.  We offer fully automatic telescoping bleachers custom designed to fit your building requirements.  Numerous heavy steel deck supports are located throughout each row of bleachers to provide a safe and sound How much bleachers should cost.  The ‎ Search For : Wood Bleacher Design.  Replacement parts include motors, wheels, drive wheels, row locks, fasteners, bleacher movers, truck assembly&#39;s, hinges, gearboxes and pendant controllers and more are things that are available through our website and are usually in stock.  interkal manufactures telescopic bleachers and seating for gymnasiums, multipurpose rooms stadiums and arenas.  Irwin Telescopic Seating Company offers solutions for your flexible seating needs.  Bleachers 101 has been designed to serve as a road map to make it easy to navigate through these core questions.  Constructed of southern yellow pine lum-ber, Interkal wood seats and front riser boards are richly finished in classic style to greatly enhance the appearance of any gymnasium or fieldhouse.  Maximize your floor space and your bleacher seating with Hussey Seating MAXAM telescopic bleachers.  Carroll Seating is dedicated to being timely and efficient when ordering and delivering parts that you may need for repairs.  JY-7 Series retractable seating system continues to grow in popularity thanks to its versatility that meets various kinds of expectations for appearance, comfort and durability.  Telescopic gym seating offers unparalleled value, flexibility, reliability, and customization. San Marcos-Batting Cagegk-is-126.  Telescopic seating is available in either blow molded plastic seat modules or traditional wood for gymnasium and athletic facilites.  Bleacher rental, including delivery, setup and pickup, typically costs $100-$650, depending on the size and type of unit.  We service almost all bleacher manufacturer brands to meet your bleacher service needs, indoors and out, new or old bleachers.  Rated 5 out of 5 by Melody from Easy to extend and attach accessories.  Our team will work closely with you in designing a system Classic Wood Bench Seating.  13 34 16 - Grandstands and Bleachers; 13 34 16.  Find Telescoping Bleachers manufacturers including access to downloadable specs, CAD and BIM objects through SmartBuilding Index, the resource construction industry professionals rely on for making critical decisions Retractable seating (also known as telescopic seating) is best explained by video.  Smartstage telescopic seating stores easily against the back wall of where your seating will be used.  The system is highlighted by its outstanding support … Sports Flooring and Equipment Benefits Of Retractable Wooden Bleachers. B.  Telescopic Bleacher System.  Proudly made in the USA, a variety of options are available with the ITSC product.  MAXAM telescopic bleachers attach to your indoor gymnasium wall in three to 30-tier banks, and let you quickly and easily create custom bleacher seats for every event.  The aluminum bleacher understructure (frame) reduces weight for easier lifting.  Kodiak Seating System: 2400 series telescopic bleacher In today&#39;s multi-use facilities, a strong bleacher with minimal set up time and increased flexibility of use is a must.  Antique furniture, including an telescopic retractable bleacher seating gym bleachers, is usually made from wood and contains ove Hussey Seating’s most popular telescopic bleacher and retractable gym seating solution, MAXAM gym seats can be configured to fit any indoor gymnasium.  The Seating &amp; Staging Specialists.  is not provided (if telescopic seating Find out Telescopic bleacher the sport equipment perfect for basketball, handball, indoor futsal, volleyball, tennis, padel, tribunes, indoor tribunes. com offers 516 wood bleachers products.  - 71 Ridgetop Road Toronto, Stadium Chair,Auditorium chair,Telescopic Stand Seat Products and 467 more Products from Hangzhou Jinying Products Co.  Working with RSL will give you the confidence that comes with knowing that your facility is in good hands.  we are a member of nssea and have a large dealer network in the usa.  The LP will be added on June 2nd Indoor and outdoor portable bleachers and player benches may all look the same, but review the details and you’ll choose Bison! Built from rust-proof aluminum structures and planks and with the option to upgrade to colorful powder coated seats and backs, Bison also offers premium styles other manufacturers don’t.  Choices range from classic wood benches to individual polymer seat modules, INTERKAL LLC, Experts in Manufacturing and Exporting Telescopic Bleachers, Stadium Chairs and 4 more Products.  You need telescopic seating.  Telescopic Sports Facilities Group inspects, repairs, maintains , installs and sells bleachers for all spectator sports. com.  We carry many bleacher repair items with us when we come to your facility.  Each board is triple sanded with two coats of semi-gloss polyurethane.  QTY: Add to Quote.  We&#39;re so confident in the design, materials and construction of VersaTract it&#39;s backed by the industry&#39;s best war Setting the telescoping ladder apart from conventional ladders is its ability to both retract and extract to reach high places, while also being capable of collapsing down quickly to a very compact size for convenient closet storage. 1 Description A.  The School Outfitters has portable stages that are perfect for nearly any choir, theater, band, or assembly situation (portable risers and portable bleachers, too).  Basic Bleacher Styles Sheridan offers a complete selection of telescopic units for a variety of applications.  Our staff will work with you to determine your requirements and develop a seating solution that will meet your capacity needs, as well as your budget.  Portable stages and risers create a great Rental Bleachers, Inc.  Bleachers, Wood Bleachers, Telescopic Bleachers manufacturer / supplier in China, offering Jy-765 Portable Indoor Bleachers Manufactory Low Price Stadium Seating Chairs Retractable Telescopic Wood Bleachers, Ipm-3200 Cheap Outdoor Furniture Stadium Seats Colorful Plastic Chair, Wooden Cinema Auditorium Chair Conference/Music Hall Seating (JY-612) and so on.  Whether you require a traditional fixed seating arrangement or a retractable [telescopic] structure with folding writing tablets we have the solution to meet your needs.  Irwin Seating has the ability to provide telescopic bleachers with differentiated seating areas that can be designated for parents, boosters or faculty.  HKCG-KTY-B Frount mounted stadium telescopic bleachers.  Additional features of wooden seating includes: We built bleachers out of wood because metal pre built was too expensive.  We are the world’s leading supplier of superior auditorium seating with a reputation for building bleachers and platform seating to our customer’s needs.  About 88% of these are other sports &amp; entertainment products, 2% are other commercial furniture, and 1% are truss display.  We stock and same day ship many bleacher parts. , Ltd.  From K-12 schools, civic and recreation centers, colleges and universities, to NBA/NHL arenas, we have Telescopic Rod Foosball Table, Table Hockey &amp; Foosball, This innovative table has it all! Specially designed telescoping rods do not disrupt play by extending to the other side of the table.  Angle Frame Bleacher dimensions, sizes, and specifications for planning and installation.  Bleacher inspection must me re-prioritized.  Telescopic Bleachers Sheridan Gymnasium Equipment Ltd.  Avant Sports in the industry leading sports venues sports system stands.  What must be the very first consideration if purchasing an bleacher cushions is the substances your bench is constructed from.  Look through manufacturers listed for in door wood bleachers parts.  Telescopic platforms utilized in multi-purpose facilities, schools, sports arenas and corporate training rooms offer the comfort The ICC Consensus Committee on Bleachers, Folding and Telescopic Seating, and Grandstands has held 1 public meeting over several conference calls to develop this Public Comment Draft of the ICC 3 00-2017 Standard for Bleachers, Folding and Telescopic Seating, and Grandstands .  Irwin Seating Company Inc.  Fast and convenient turnaround from seating area to total floor use is essential.  The waterfall design allows spectators to more freely move legs– add to that a full 17” adult seat height, Sports Facilities Group can perform bleacher repair on your bleachers so that they operate smoothly and safely.  Seating for 40 people could be had for less than $250 bucks with a little labor.  It offers solo tables, table arm chairs, stadium seating, lecture room furniture, bleachers Versa Tract Indoor Telescopic Bleacher-Infinity plastic seats.  Custom sizing is available to fit all facilities and architectural details and obstructions.  Our in-house design and engineering departments can take your facility seating project from concept to reality - on budget and on time.  With Telescopic Seating, you can easily and effectively adapt your activity space to suit different types of activities or events, large and small.  With all of the seating and row spacing options available for Telescopic Seating System.  Exception: Tiered seating where the top of footboards, seatboards, aisles and cross aisles are not more than 30 Bleachers, folding and telescopic seating, and grandstands shall be designed to resist lateral forces produced by the sudden and concerted motion of spectators.  (877) 782-8426 , send email TELESCOPIC SEATING 1.  Wood bleachers – southern yellow pine; Plastic seat modules – scuff resistant seats have the color molded in, so it will not wear off.  MAXAM Telescopic Gym Bleacher with CourtSide™ Seats and Backrests University of Findlay • Findlay, OH Farnham Equipment Company BLEACHER SEATING SOLUTION Hussey’s telescopic bleachers can be topped with a variety of different seating solutions.  The inspection should identify structural damage to or deterioration of supports, bracing, seating boards, steps, railings, and fencing.  A Supplier on Alibaba. , must be the same or stronger than those used in the previously DSA approved drawings and specifications.  Or please browse these pages for a full list of system Alibaba. JUN 2014 Section 126613 | Telescopic Bleachers ! 1 SECTION 126613 – TELESCOPIC BLEACHERS SPECIFICATION PART 1 – GENERAL 1. , a prominent seating supplier and a vibrant, flexible manufacturer of seating platforms, and bleachers with installations in 23 countries and counting.  Hussey Seating leads the field of spectator seating solutions because Hussey Seating bleachers, chairs and staging are designed Bleachers 101 has been designed to serve as a road map to make it easy to navigate through these core questions.  Our retractable, telescopic gym bleachers can be configured in an endless variety of ways to accommodate seating for school sports, ADA seating access requirements, and general seating for public events.  Attractive, Durable Steel Bench Seating In 2 Surfaces.  Choices range from classic wood benches to individual polymer seat modules, Telescopic Bleachers.  When calling out specs please call us for an exact specification on your bid project.  Constructed of southern yellow pine lumber - the standard in the telescopic industry.  Our products feature the highest quality of any porch and patio furniture or accessories in the industry.  Aluminum Telescopic Pole with Connect and Clean Locking Cone and PRO Locking Collar is rated 4.  Are your bleachers and stadium seating up to code? There are new requirements for bleacher safety, and any facility with bleachers and public seating (indoor or outdoor), must be inspected annually. 1 below), or as approved by the architect.  Existing bleachers, folding and telescopic seating, and grandstands that exist prior to the adoption of this standard shall comply with this chapter and the applicable provisions of Chapter 1.  Includes electronic scorers.  Seating systems comprised of multi-tiered rows of seats, deck.  Our grandstand and bleacher rental service area started in Florida and the company expanded services to Georgia within the first year of business.  We have now grown into Sheridan Seating Inc.  Bleachers for schools and universities to auditoriums, arenas and sports stadiums. com https://www.  About 77% of these are other sports &amp; entertainment products, 6% are truss display.  Hussey Seatway is completely customized for your performance space and tailored to your seating needs.  Proud to provide exclusive representation in Texas for: Hussey Seating Company: Family-owned and operated in North Berwick, ME since 1835, no one knows spectator seating like Hussey Seating Company.  retractable seating system manufacturer/supplier, China retractable seating system manufacturer &amp; factory list, find qualified Chinese retractable seating system manufacturers, suppliers, factories, exporters &amp; wholesalers quickly on Made-in-China.  Browse the listing and possibly find the spectator seating you need at a fraction of the cost of new.  Wood bench bleacher seating is generally constructed of yellow pine lumber in a telescopic layout.  Custom Designed Bleachers are available with many features and options to meet your specific needs.  Using our Infinity Seat Module and Integra chai Telescopic Bleachers &amp; Platforms. You want something that will fit nicely in a compact space, while maximizing storage convenience.  Our used reclaimed bleacher wood pieces have two bolt holes every 42″-48″ depending on the gymnasium or stadium they came from.  Part 1 General 1.  is not provided (if food and drinks are allowed within the telescopic seating area), then this office will deem the fuel load within and under the seating as greater that the remaining portion of the room.  Telescopic seating protected by ceiling sprinklers and sprinklers below seati ng.  Unbreakable men are molded directly to rods.  SFG is a full facory authorized service, sales and maintenance company, with over 40 years of experience, designed to assist you in maintaining a safe and functional sporting facility.  With the Plans For Building Wood Bleachers free woodworking plans package, you will get help to build all kinds of projects, be it furniture, sheds, beds or wind generators.  Offering a wide range of bleachers from standard 3 row bleachers all the way up to 20,000 seat grandstands we have the option for you.  on Alibaba.  These pages contain video, commentary, photos, and links to related articles which are all dedicated to teaching you about the topic at ha Sports Benches &amp; Bleachers.  The drawings will show you dimensions open, and in storage position.  We’ve all spent time in the bleachers at basketball or volleyball games, with the crowd sometimes leaping to their feet, stomping in frustration, going up and down throughout.  Repair &amp; renovate your old wooden bleacher seating with our aluminum seat planks &amp; save! (Telescoping Custom Design.  Choose from popular styles including stages on wheels (mobile stages), adjustable-height stages and standing or seated choral risers.  Read More Folding bleachers that save room &amp; money - Hide-a-bench.  [one_half]B.  Stowed away but always ready for the next play.  Eliminates the splintering and warping associated with wood.  Fixed and Telescoping Bleachers; Custom Suite Seating; Training You can easily wholesale quality telescopic bleacher at wholesale prices on Made-in-China.  Dimensional references for non-evelvated bleachers.  Theater seating, stadium seats and chairs by Preferred Seating®.  Our field installation team, spanning the state of Ohio, are members of the IKORCC (Indiana, Kentucky, Ohio Regional Council of Carpenters) and many have been with us over a decade or more and/or are second and third generation family members vested in the long term success of the Located in Kalamazoo Michigan, our company has a rich history in the public spectator seating industry.  Product name: New telescopic platform seating for sale Telescopic Bleachers are commonly used in gymnasiums, arenas, convention centers, performing arts auditoriums, natatoriums, and theaters.  Equipment Sales has been selling telescopic bleachers and stadium style seating for schools K-12, colleges and universities over twenty years with great success.  Choose from a large variety of sizes including portable, custom and bleachers with ADA access.  New – Indoor Bleachers.  Aluminum planks and aluminum deck boards offered in every mill finish aluminum plank and anodized aluminum planking size imaginable at MARKSTAAR.  Sheridan offers telescopic platform seating for use in all Multi Purpose Facilities such as arenas, performing arts centres, civic centres, theatres and Retractable Gym Bleachers / Telescopic Stands MasterCraft is a FULL service company for new telescopic gym bleachers.  LO-TBS.  .  Aluminum plank profiles extruded from 1 X 6 aluminum planks up to 2 X 12 aluminum deck boards.  Universal bleachers’ distinctive “waterfall” front is highly functional as well aesthetically pleasing.  Thank You! Bleachers – New Music has been added to your library.  Logos and brand colors can be built into the telescopic bleachers to support your team and provide one of the most competitive advantage to win the game.  Seda develops, manufactures and assembles seats and seating for cinemas, theatres, auditoriums, telescopic platforms and observatories.  Installation of your arena bleacher seats is provided by Bleacher Builders with unmatched quality and workmanship.  Maxam26 Telescopic Gym Seating As the industry leader in gym seating, Hussey Seating Company has the right gym seat for any facility. jpg Theater seating, bleachers and stadium seats offered by Preferred Seating.  Our job is to help you select the right bleacher system to accomplish your goals.  Products covering the venue of the stadium seating system, the expansion of the activities of the system, the metal structure of the stands system, high quality auditorium theat Benefits Of Plans For Building Wood Bleachers.  was established in 1978 as a small family run gymnasium equipment manufacturer.  Rental Bleachers, Inc. texassportsequipment.  Each starts with edge glued, finger-jointed yellow pine (graded b &amp; better quality), coated with a clear polyurethane finish.  Mechanical fasteners should be checked for tightness (torque) and welds for cracking or Many bleacher installations have not been properly maintained and upgraded over the years to provide safety for patrons and dependable operation for important events.  Indoor Wood Bleachers: If you&#39;re looking for a simple and sturdy workbench that&#39;s still mobile, this is the plan for you.  we are supplier for 2019 Pan American Games, we total installation 10125 stadium seats Diamond II for COSAPI, 4500 stadium seats COOLIN II amd 1400 seats KOOK telescopic tribunes system for SCAYR, 3700 COOLIN II and 1450 seats KOOK telescopic tribunes for OHL.  Design Criteria: Telescopic bleachers shall be designed to withstand the following loads and forces in addition to their own weight: a.  Wood Bleacher Design TELESCOPIC BLEACHER SPECIFICATIONS PART 1 GENERAL 1.  Since 1995, Seda sold over 1 milion seats in a number of projects.  Lolimpin Gym Equipment Ltd.  Bleacher wood planks are generally 87 to 9″ in width and ranges from 1′ -20′ in length.  Additional features of wooden seating includes: Telescopic Retractable Bleacher Seating Gym Bleachers. 6 out of 5 by 259.  For more details call (800) 277-1742.  From retractable, telescopic bleachers to fixed stadium-style seating to plastic seats for concrete risers, Centaur Products has the knowledge and skill to outfit any gymnasium with the optimal seating solutions.  Prices paid and comments from CostHelper&#39;s team of professional journalists and community of users.  Public comment is requested on 2.  wood seats and risers are the perfect choice.  CHAPTER 5 EXISTING BLEACHERS, FOLDING AND TELESCOPIC SEATING, AND GRANDSTANDS SECTION 501 APPLICATION AND ADMINISTRATION 501.  A horizontal load of 24 pounds per linear foot shall be applied parallel to seating at the footboard level of each row of seating.  WOOD SEATS The classic Southern Yellow Pine seat board is a proven, durable bleacher seat.  Telescopic bleachers can provide numerous benefits to you and your gym space.  Retractable, telescopic bleachers are available in manual and electric operation. 1 Work: Replacement of Sault Ste Marie High School Gymnasium Bleachers A.  Info from Wood Products Association: Telescopic Seating Systems is concerned about the world that we are leaving to our children and is doing its part to make the world a better place.  WHY USE TELESCOPIC SEATING? Telescopic seating offers the client: Optimum use of the facility space Multi-purpose ven Design and Construction of Reviewing Stands, (rev 01-24-12) Grandstands, and Bleachers: 2007 CBC Page 3 of 8 4.  Telescopic Platform Seating 1.  We are known for our design innovations and our ability to deliver on time.  Stylish and durable auditorium seating, multipurpose seats, bleachers seating, arena seating, theatre seats, lecture room and church seating designs.  Some accessories (rails, steps, etc.  Section Includes: Telescoping Gym Seating includes, either manually or electrically operated systems of INTERKAL - interkal manufactures telescopic bleachers and seating for gymnasiums, multipurpose rooms stadiums and arenas.  Wood Seat Bleachers: Wall attached, manually operated, multiple tier, closed deck telescoping wood bleachers; AccuRoll ManuBank by Universal Bleacher/Interkal or Model WA-1022 Wood Bench Seating by Interkal Inc.  At Gym and Sport Solutions manufacturer of Gym Bleacher Board, we make that easy to do! We’re a Tyler, Texas-based manufacturer that can create custom replacement boards for the bleachers in your gym.  YOUR SOURCE FOR QUALITY BLEACHERS! Sturdisteel angle frame bleachers are game-changers in the world of recreational spectator seating. 53 - Bleachers; 12 66 13 - Telescoping Bleachers; 12 62 23 - Portable Bleachers; 13 34 00 - Fabricated Engineered Structures; 12 66 00 - Telescoping Stands This telescopic understructure is designed for heavy use facilities and has been used successfully in many major university and arena venues. 01 SUMMARY A.  Visit Bleachers, Wood Bleachers, Telescopic Bleachers manufacturer / supplier in China, offering Jy-765 Portable Indoor Bleachers Manufactory Low Price Stadium Seating Chairs Retractable Telescopic Wood Bleachers, Ipm-3200 Cheap Outdoor Furniture Stadium Seats Colorful Plastic Chair, Wooden Cinema Auditorium Chair Conference/Music Hall Seating (JY-612) and so on.  Our specialists will work with you to ensure you get the best product for your event while maintaining safety code compliance and maximizing sightlines.  You can increase your gym’s Our bleachers come in a verity of colors and sizes to enable a perfect seating solution for all sport facilities.  The telescoping ladder is a hybrid between a regular step ladder and an extension ladder.  designs, manufactures, installs, sells, and leases public seating products.  classificationSports se Garden facilities series Adult expansion series Anticorrosive wood ICC 300-2017 Standard for Bleachers, Folding and Telescopic Seating and Grandstands.  WHY USE TELESCOPIC SEATING? Telescopic seating offers the client: Optimum use of the facility space Multi-purpose ven MAXAM Telescopic Gym Bleacher with CourtSide™ Seats and Backrests University of Findlay • Findlay, OH Farnham Equipment Company BLEACHER SEATING SOLUTION Hussey’s telescopic bleachers can be topped with a variety of different seating solutions.  For higher capacity seating requirement, Play On Courts offers Interkal telescopic seating for athletic facilities and gymnasiums.  Multi-function facilities sometimes need to seat a crowd and sometimes they don&#39;t.  For larger seat configurations, the electrical interkal manufactures telescopic bleachers and seating for gymnasiums, multipurpose rooms stadiums and arenas.  Hideabench retractable bleachers provide one or two tier seating solutions.  We&#39;ve included one short video below, courtesy of our friends at Strode Theatre.  With so many bleacher systems to choose from, such as telescopic bleachers, portable bleachers, folding bleachers, and retractable bleachers, you’re sure to find the kind that fits in the space available while providing enough seating for your spectators.  Sculptured Seat Modules in two comfort The metal from stolen bleachers is sold as scrap to recyclers looking to capitalize on the ever-rising value of raw metals. 6,Changdun Road,GuanYong Village,Shiqi Town,Panyu District,Guangzhou City,Guangdong Province,China +86-18127852766; sales@sgaiertruss.  Contact our seating specialists for more information about telescopic bleachers, stadium chairs or benches.  The Starena Group is recognised as providing retractable seating at the high quality end of the market, with acknowledged engineering design and project management and manufactured to international standards.  A set of bleachers can enhance the experience of watching any outdoor activity, including youth sports.  The angled seat modules provide substantially more leg room than competitive products.  Sand &amp; Refinish Existing Wood Flooring Telescopic Gym Seating 1.  The structure of your school’s bleachers is often overlooked or placed low on the priority list for inspection, repair, renovation, or replacement.  Avant And Javier Garcia Alda Go Hand in Hand There are many wooden outdoor systems still in place.  If your bleachers will be permanently mounted outdoors, we highly recommend you order bleachers with the mud sills option.  Cantilever support arms are triple formed 10-gauge steel.  Since 1989, our services have allowed customers to spend less time and resources on their bleacher liability and More time focusing on the classroom.  In addition to providing telescopic bleachers design and product solutions we also provide service and repair for telescopic bleachers and other needs such as bleachers, auditorium seating, athletic equipment and more.  These high humidity telescopic pool bleachers give facilities another dimension to their seating options, easily pulling out for access to seating when needed or retracting to optimize pool deck space when not in use.  Nylon-encased ball-bearing bushings allow high speed action.  R T ATHCO ATHLETIC EQUIPMENT YOU CAN COUNT ON Call or Fax in your P.  Telescoping gymnasium bleachers shown in architect’s plans and specifications as manufactured by Interkal of Kalamazoo, MI (see section 2.  2.  Design and Construction of Reviewing Stands, (rev 01-24-12) Grandstands, and Bleachers: 2007 CBC Page 3 of 8 4.  The Heartland Seating Inc.  Benefits of Telescopic Seating.  We used liquid nails anywhere anything Hussey Seating’s most popular telescopic bleacher and retractable gym seating solution, MAXAM gym seats can be configured to fit any indoor gymnasium.  Contact our seating specialist for a free estimate Bleachers .  Numerous heavy steel deck supports are located throughout each row of bleachers to provide a safe and sound Seating options range from wood benches to high- back, upholstered theatre chairs.  The Away Game Series 5 row transportable bleachers are the most durable option for easily moveable bleachers (indoors, outdoors, or both!) Depending on length, this transportable bleacher system is a great way to accommodate up to an additional 68 fans at any game.  These salvaged wood bleachers are Douglas Fir and Pine.  Haldeman-Homme, Inc.  Repair &amp; renovate your old wooden bleacher seating with our aluminum seat planks &amp; save! (Telescoping telescopic stadium seating DTB770XX The telescopic bleachers from Decan Sports Equipment are delivered with personalized solutions ranging from basic manual systems, via electric systems and to the highly sophisticated “intelligent” solutions.  Scope 1. com Bleacher repair parts for Hussey Bleacher telescopic bleachers.  Existing bleachers, folding and telescopic seating, and grandstands that exist prior to the adoption of this standard shallcomply with this chapter and the applicablepro-visions of Chapter 1.  This innovative telescoping seating system provides an incredibly stable walking surface and unmatched reliability.  Installation All projects are managed in-house from purchase through closeout, including product installation.  Telescopic Bleachers &amp; Platforms.  A wide variety of wood bleachers options are available to you, such as paid samples, free samples. T.  Cover Photo MXP Telescopic Platform w/ Quattro Chairs New – Indoor Bleachers.  Benefit from the best to both worlds with the telescopic bleachers. 1 General.  offers design, installation, repair, service and maintenance of wood, aluminum and plastic bleachers and seating.  Telescopic Platforms provide a space-saving retractable ‘space frame’ seating platform that can also deliver the fit, finish and stylish comfort to satisfy the most sophisticated audiences.  Available in 4/4&quot; or 5/4&quot; thickness.  Whether a small or large service/parts need contact us and we will be happy to take good care of you.  Used Bleacher want list! UsedBleachers.  Telescopic Bleachers.  You need Hussey Seating Company MAXAM retractable telescopic gym bleachers.  A wide variety of folding bleachers options are available to you, such as fabric, plastic, and metal.  Choices range from classic wood benches to individual polymer seat modules, backrests, seat spacers and even cup holder options.  Company Description: interkal manufactures telescopic bleachers and seating for gymnasiums, multipurpose rooms stadiums and arenas.  Retractable Telescopic Bleachers from Jiangxi Mingchuan Communal Facilities Co.  Our task has always been to engineer and produce specialized high performance solutions for athletes worldwide.  There are three types of bleachers common to schools that should be inspected: portable, permanent, and telescopic.  Interkal wood seats and front riser boards are richly finished in classic style to greatly enhance the appearance of any gymnasium or fieldhouse.  Rows Open Dimensions (Row Spacing) 10&quot; Rise 12&quot; Rise 22&quot; Spacing 24&quot; Spacing 26&quot; Spacing 31&quot; Spacing 32&quot; Spacing 33&quot; Spacing 25 cm 30 cm 56 cm 61 cm 65 cm 79 cm 81 cm 84 cm Indoor Telescopic Bleachers Heartland Seating Inc is the name to know in the Midwest for any type of indoor bleachers.  These pages contain video, commentary, photos, and links to related articles which are all dedicated to teaching you about the topic at ha Preferred Stadium and Theater Seating. 01 BLEACHER UNITS.  We proudly represent the Irwin Seating Company, Irwin Telescopic Seating Company, Performance Sports Systems, DeBourgh All American Lockers, Amtab and Brodart along with many other industry leading equipment and furnishing manufacturers, as well as bleachers, auditorium seating, basketball goals, lockers, repair and refurbishment.  When not in use, the system retracts to a compact storage location, maximizing the floor space of the facility.  We offer a wide array of seating options for every budget.  Official Website for Bleachers.  Alibaba.  Idaloha Inc.  THEATERS Iowa Direct Equipment provides and installs quality bleachers by Irwin Telescopic Seating Company.  The Consumer Product Safety Commission (CPSC) recommends the following bleacher safety guidelines: Telescopic Seating System.  Irwin Telescopic Seating Co.  Mud sills are 2” x 6” pressurized wood planks, also known as “sleepers”, which prevent bleachers from sinking in soft surfaces such as grass or soil, thus minimizing maintenance.  Irwin Seating Company manufactures telescopic bleachers and platforms for school gymnasiums, convention centers and arenas.  we are a member 8-20 ft.  This portable bleacher is easily tipped up onto its swivel casters for movement, and caster brakes keep the bleacher from rolling when stored.  New Indoor Telescoping Bleacher And Basketball Goal Installations.  Telescopic bleachers provide comfortable seating for your spectators.  Retractable Bleachers For Schools.  There are many wooden outdoor systems still in place.  We know the safety of your students and guests is of the utmost importance, so we only partner with preimum indoor gym seating manufacturers</span>
+
+  </button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="file-navigation in-mid-page d-flex flex-items-start">
+
+  
+
+<details class="details-reset details-overlay select-menu branch-select-menu  hx_rsm" id="branch-select-menu">
+
+  <summary class="btn btn-sm select-menu-button css-truncate"
+
+           data-hotkey="w"
+
+           
+
+           title="Switch branches or tags">
+
+    <i>Branch:</i>
+
+    <span class="css-truncate-target">master</span>
+
+  </summary>
+
+
+
+  <details-menu class="select-menu-modal hx_rsm-modal position-absolute" style="z-index: 99;" src="/victorfontes/django-mobile-helper/ref-list/master?source_action=disambiguate&amp;source_controller=files" preload>
+
+    <include-fragment class="select-menu-loading-overlay anim-pulse">
+
+      <svg height="32" class="octicon octicon-octoface" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M14.7 5.34c.13-.32.55-1.59-.13-3.31 0 0-1.05-.33-3.44 1.3-1-.28-2.07-.32-3.13-.32s-2.13.04-3.13.32c-2.39-1.64-3.44-1.3-3.44-1.3-.68 1.72-.26 2.99-.13 3.31C.49 6.21 0 7.33 0 8.69 0 13.84 3.33 15 7.98 15S16 13.84 16 8.69c0-1.36-.49-2.48-1.3-3.35zM8 14.02c-3.3 0-5.98-.15-5.98-3.35 0-.76.38-1.48 1.02-2.07 1.07-.98 2.9-.46 4.96-.46 2.07 0 3.88-.52 4.96.46.65.59 1.02 1.3 1.02 2.07 0 3.19-2.68 3.35-5.98 3.35zM5.49 9.01c-.66 0-1.2.8-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.54-1.78-1.2-1.78zm5.02 0c-.66 0-1.2.79-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.53-1.78-1.2-1.78z"/></svg>
+
+    </include-fragment>
+
+  </details-menu>
+
+</details>
+
+
+
+
+
+        <button type="button" class="btn btn-sm disabled tooltipped tooltipped-n new-pull-request-btn" aria-label="You must be signed in to create a pull request">
+
+          </button>
+
+
+
+  <div class="breadcrumb flex-auto">
+
+    
+
+  </div>
+
+ </div></div></div></main></div></div><div class="footer container-lg width-full px-3" role="contentinfo"><div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
+
+  </div>
+
+  <div class="d-flex flex-justify-center pb-6">
+
+    <span class="f6 text-gray-light"></span>
+
+  </div>
+
+</div>
+
+
+
+
+
+
+
+  <div id="ajax-error-message" class="ajax-error-message flash flash-error">
+
+    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"/></svg>
+
+    <button type="button" class="flash-close js-ajax-error-dismiss" aria-label="Dismiss error">
+
+      <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+
+    </button>
+
+    You can’t perform that action at this time.
+
+  </div>
+
+
+
+
+
+    
+
+    
+
+    
+
+    
+
+  <div class="js-stale-session-flash stale-session-flash flash flash-warn flash-banner" hidden
+
+    >
+
+    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"/>
+
+    </svg>
+
+    <span class="signed-in-tab-flash">You signed in with another tab or window. to refresh your session.</span>
+
+    <span class="signed-out-tab-flash">You signed out in another tab or window. to refresh your session.</span>
+
+  </div>
+
+  <template id="site-details-dialog">
+
+  <details class="details-reset details-overlay details-overlay-dark lh-default text-gray-dark hx_rsm" open>
+
+    <summary role="button" aria-label="Close dialog"></summary>
+
+    <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast hx_rsm-dialog hx_rsm-modal">
+
+      <button class="Box-btn-octicon m-0 btn-octicon position-absolute right-0 top-0" type="button" aria-label="Close dialog" data-close-dialog>
+
+        <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+
+      </button>
+
+      <div class="octocat-spinner my-6 js-details-dialog-spinner"></div>
+
+    </details-dialog>
+
+  </details>
+
+</template>
+
+
+
+  <div class="Popover js-hovercard-content position-absolute" style="display: none; outline: none;" tabindex="0">
+
+  <div class="Popover-message Popover-message--bottom-left Popover-message--large Box box-shadow-large" style="width:360px;">
+
+  </div>
+
+</div>
+
+
+
+  <div aria-live="polite" class="js-global-screen-reader-notice sr-only"></div>
+
+
+
+  </body>
+
+</html>
+
+

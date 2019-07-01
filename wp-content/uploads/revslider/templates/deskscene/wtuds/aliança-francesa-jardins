@@ -1,0 +1,475 @@
+
+
+<!DOCTYPE html>  
+
+<html lang="ru">
+
+  <head>
+
+    <meta name='yandex-verification' content='7245bde594e40266' />
+
+    <meta name='yandex-verification' content='7f74c136b68218c3'/>
+
+    <meta name="google-site-verification" content="-4I7BtrrbyXzA9wUUkLG4JhY9emKxTKiMLOZDJ9Ay9c" />
+
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+
+    <link rel="shortcut icon" href="http://megapoisk.com/favicon.ico" type="image/x-icon" />
+
+    <link rel="icon" type="image/png" href="http://megapoisk.com/favicon.png" />
+
+
+
+    
+
+    <title>Aliança francesa jardins</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    
+
+    <link  type="text/css" href="http://megapoisk.com//css_/jquery-ui.min.css" rel="stylesheet" />
+
+    <link href="http://megapoisk.com/css_/styles.min.css?1" rel="stylesheet" type="text/css" />
+
+    <link href="http://megapoisk.com/css_/mobile.css" rel="stylesheet" type="text/css" />
+
+    
+
+     
+
+        
+
+
+
+                      <meta name="Description" content="Aliança francesa jardins" />
+
+                      <meta name='advmaker-verification' content='cbb3e8f66ecbeda293b984eb2889b3fc'/>
+
+            
+
+   
+
+     
+
+
+
+  </head>
+
+  <body>
+
+
+
+    <!--begin fb sdk-->
+
+    <div id="fb-root"></div>
+
+     <div><img src="//mc.yandex.ru/watch/29400735" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+
+
+
+    <div id="up"></div>
+
+    
+
+    
+
+    
+
+    <div style="position:absolute; top:10px; width:100%; min-width:950px; left:0px; z-index:9999; display:none;" id="iFramePredprosmotrBlock">
+
+     <div style="width:60%; margin:0px auto; box-shadow: 0 0 20px rgba(0,0,0,0.3); position:relative; background-color:#ffffff; border:solid 1px #cccccc;">
+
+        <div class="whiteGradient" onclick="close_predpros();" style="font-style:italic; font-size:13px; color: #555555; box-shadow: 0 0 5px rgba(0,0,0,0.2); padding:7px; padding-left:20px; padding-right:20px; position: absolute; top:15px; right:-10px; border:solid 1px #cccccc; cursor:pointer; text-align:center; ">
+
+             Закрыть
+
+        </div>
+
+        <div id="ipredprosmotr" style="padding:20px; width:100%;">
+
+        </div>
+
+     </div>
+
+    </div>
+
+    <div id="globalHiderBlock"></div>
+
+        <div id="fullVideoContainer">
+
+    <div class="fullVideoInside">
+
+       <div id="FVtitle" ></div>
+
+        <div id="iFullmp4Video" style="display:none;">
+
+             
+
+         </div>
+
+         <iframe id="iFullVideoFrame" allowfullscreen></iframe>
+
+        
+
+         <div onclick="$(this).prev().attr('src', ''); tryCloseVideo();" class="closePhoto2">X</div>
+
+        
+
+         
+
+         <div id="FVComents" style="margin-top:10px; text-align:left;"></div>
+
+    </div>
+
+    </div>
+
+
+
+    <!-- ALFAVIT -->
+
+    <div id="resultLiteraContiner"  style="display:none; position:absolute !important; width:1000px; left:calc(50% - 500px); z-index:9999999; padding-top:10px; text-align:left;">
+
+    <div style="width:1000px; box-shadow: 0 0 10px rgba(0,0,0,0.6); background-color:#ffffff;  border:solid 1px #dddddd; padding-bottom:20px; position:relative;">  
+
+      <div style="text-align:center; margin-top:10px;">
+
+          </div>
+
+    <div id="ialfavitsepline" style="border-top:solid 1px #dddddd; margin-top:10px;"></div>
+
+      <div id="resultLitera" style="width:740px; float:left; padding:20px;">
+
+        <div style="text-align:center;"><img src="http://megapoisk.com/img_/loading.gif" alt="" /></div>
+
+      </div>
+
+      <div id="iblockcategories" style="width:250px; float:right; border-left:solid 1px #dddddd; padding:10px;">
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10014');" class="word icatsitems">Аварийные службы</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10001');" class="word icatsitems">Автомототранспорт</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10002');" class="word icatsitems">Бизнес</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10021');" class="word icatsitems">Для потребителя</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10007');" class="word icatsitems">Дом и семья</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10720');" class="word icatsitems">Животные и растения</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10013');" class="word icatsitems">Здоровье и медицина</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '15816');" class="word icatsitems">Интересные сайты</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10005');" class="word icatsitems">Интернет</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10004');" class="word icatsitems">Компьютеры</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10003');" class="word icatsitems">Культура и искусство</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10018');" class="word icatsitems">Наука</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '11772');" class="word icatsitems">Непознанное</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10009');" class="word icatsitems">Новости, СМИ</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10019');" class="word icatsitems">Образование</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10016');" class="word icatsitems">Общество и государство</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10017');" class="word icatsitems">Промышленность</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10319');" class="word icatsitems">Психология</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10726');" class="word icatsitems">Работа и трудоустройство</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10006');" class="word icatsitems">Развлечения</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10024');" class="word icatsitems">Религия</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '11771');" class="word icatsitems">Рестораны, кафе, ТРЦ</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10008');" class="word icatsitems">Родители и дети</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10739');" class="word icatsitems">Сельское хозяйство</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10022');" class="word icatsitems">Спорт</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10015');" class="word icatsitems">Справки и информация</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10103');" class="word icatsitems">Строительство и ремонт</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10708');" class="word icatsitems">Телефония и связь</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10760');" class="word icatsitems">Торговля</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10010');" class="word icatsitems">Туризм, путешествия, отдых</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10775');" class="word icatsitems">Услуги</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10715');" class="word icatsitems">Финансы</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10020');" class="word icatsitems">Хобби, рукоделие</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '');" class="word icatsitems"></div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '');" class="word icatsitems"></div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '');" class="word icatsitems"></div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '');" class="word icatsitems"></div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '');" class="word icatsitems"></div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '');" class="word icatsitems"></div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '');" class="word icatsitems"></div>
+
+              </div>
+
+      <div id="iresultBlock" style="width:50%; float:right; border-left:solid 1px #dddddd; padding:20px; display:none; text-align:left;">
+
+        <div style="text-align:center;"><img src="http://megapoisk.com/img_/loading.gif" alt="" /></div>
+
+      </div>
+
+      <div style="clear:both;"></div>
+
+      
+
+                            </div>
+
+                            <div class="inslideMenu level1" id="studyinsidecat10708">
+
+              
+
+              </div>
+
+            </div>
+
+                        <div class="iItem"   >
+
+                            <div onclick="document.location='http://megapoisk.com/turizm-puteshestviya-otdyih_izbrannoe';">
+
+           
+
+                            </div>
+
+                            <div class="inslideMenu level1" id="studyinsidecat10010">
+
+              
+
+              </div>
+
+            </div>
+
+                        <div class="iItem"   >
+
+                            <div onclick="document.location='http://megapoisk.com/uslugi_izbrannoe';">
+
+              
+
+                            </div>
+
+                            <div class="inslideMenu level1" id="studyinsidecat10775">
+
+              
+
+              </div>
+
+            </div>
+
+                        <div class="iItem"   >
+
+                            <div onclick="document.location='http://megapoisk.com/finansyi_izbrannoe';">
+
+             
+
+                            </div>
+
+                            <div class="inslideMenu level1" id="studyinsidecat10715">
+
+              
+
+              </div>
+
+            </div>
+
+                        <div class="iItem"   >
+
+                            <div onclick="document.location='http://megapoisk.com/hobbi_izbrannoe';">
+
+              
+
+                            </div>
+
+                            <div class="inslideMenu level1" id="studyinsidecat10020">
+
+              
+
+              </div>
+
+            </div>
+
+            
+
+          
+
+        </div>
+
+       
+
+    <div id="wrapper">
+
+      <div id="header">
+
+        <div id="searchLine">
+
+          <div class="HeaderTitleLogoText">
+
+             
+
+          </div>
+
+          <div class="AuthBlock">
+
+            <div class="AUthContainer">
+
+                                <!--noindex-->
+
+                  <div >
+
+                    
+
+                 
+
+                                          </div></div>                  </div>
+
+                                <div class="clearBlock">
+
+                                  <div class="SearchContainer">
+
+                                    <!-- PRE_SEARCH -->
+
+                                    <div id="PScontainer" style="width:100%; display:none; position:absolute; top:50px; height:20px; z-index:9999999; ">
+
+                                      <div id="presearch" style="width:80%;  text-align:left; background-color:#ffffff; border:solid 1px #dddddd;">
+
+                                        <div style="text-align:center;"><img src="http://megapoisk.com//img_/loading.gif" alt="" /></div>
+
+                                      </div>
+
+                                    </div>
+
+                                    <!-- PRE_SEARCH -->
+
+                                    <div class="stypeContainer">
+
+                                      <input class="searchTypeButRadio"  type="radio" name="type-s" value="yagoo"/>
+
+                                      <div class="TitleStype" style="cursor:pointer;" onClick="$(this).next().next().click();">WikipediA</div>
+
+                                      <input class="searchTypeButRadio"  type="radio" name="type-s" value="wiki" />
+
+                                      <div  class="StypeIcon searchTypeRadioBut "></div>
+
+                                      <div class="TitleStype" style="cursor:pointer;" onClick="$(this).next().next().click();"><span style="color:#4285F4;">G</span><span style="color:#EA4335;">o</span><span style="color:#FBBC05;">o</span><span style="color:#4285F4;">g</span><span style="color:#4285F4;">l</span><span style="color:#EA4335;">e</span></div>
+
+                                      <input class="searchTypeButRadio"  type="radio" name="type-s" value="google"  />
+
+                                      <div class="StypeIcon searchTypeRadioBut "></div>
+
+                                      <!--div class="TitleStype">Яндекс</div>
+
+              <input class="searchTypeButRadio"  type="radio" name="type-s" value="ya"   />  
+
+              <div class="StypeIcon searchTypeRadioBut "></div-->
+
+                                      <div class="TitleStype" style="cursor:pointer;" onClick="$(this).next().next().click();"><span style="color:#ff5050;">M</span>egapoisk</div>
+
+                                      <input class="searchTypeButRadio"  type="radio" name="type-s" value="all"   />
+
+                                      <div  class="StypeIcon searchTypeRadioBut  Active "></div>
+
+                                      <div class="clearBlock"></div>
+
+                                    </div>
+
+                                    <form action="/search/" onSubmit="$(this).attr('action', 'http://megapoisk.com/search/query/izbrannoe/'+$('#searchtext').val());" method="post" id="searchform">
+
+                                      <input style="z-index:999999; position:relative;" oninput="$('#searchform').attr('action', 'http://megapoisk.com/search/query/izbrannoe/' + $('#searchtext').val()+'/' ); get_pre_search('http://megapoisk.com/',$('#searchtext').val()); " name="searchtext" id="searchtext" tabindex="1" type="text" value="" autocomplete="off"  placeholder="Введите фразу для поиска" />
+
+                                      <!-- HIDDEN -->
+
+                                      <input type="hidden" name="s-typea" class="s-type" value="all"/>
+
+                                      <input type="hidden" name="section_tab" value="izbrannoe" />
+
+                                      <input type="hidden" name="bycat" value="1" />
+
+                                      <input type="hidden" name="bysite" value="1" />
+
+                                      <input type="submit" style="display: none;" value="" />
+
+                                      <!-- /HIDDEN -->
+
+                                      <input style="z-index:999999;" type="button" onClick="$('#searchform').attr('action', 'http://megapoisk.com/search/query/izbrannoe/' + $('#searchtext').val()+'/' ); submitSearchForm();" id="searchButton" value="  Начать поиск  "/>
+
+                                    </form>
+
+                                  </div>
+
+                                </div>
+
+                <!-- /Хлебные крошки -->
+
+                                                                          <div id="navigation">
+
+                  <ul >
+
+                                    <li id="menuButton" style="margin-right:-8px;"><h1>Aliança francesa jardins</h1></li>
+
+                                    <li class="menuItemLi ">
+
+                    <div class="menuItemIcon" style="background-position:-375px -6px;"></div>
+
+                   <!--noindex--> <b> Muito obrigado a vocês e ao grande publico que encheu de alegria o jardim da Aliança francesa !. Category. image by Aliança Francesa Fortaleza (@aliancafrancesafortaleza) with caption : "Vem estudar com. .  1/1 . Foto 1 - Loja de 100m² para alugar no Jardim Blumenau . Oficina de Horta Urbana – Brincar de Horta. Crédito: IStock. @lejardinbrasilia Serão 3 taças de vinho harmonizados com 4 pratos do Le Jardin Bistrot. Os jardins da Aliança Francesa. Agora harmonizado com 3 taças de vinho francês.  Vila Buarque CEP 01223-010. Centro Cultural Aliança Francesa. A Aliança Francesa traz ao Brasil, no dia 13/11, a cantora francesa de origem do Benim, Mina Agossi, com seu estilo único de jazz contemporâneo. Image may contain: text. ''Em celebração aos quarenta anos do Grupo Tapa,o espetáculo O Jardim das Cerejeiras prorroga a temporada paulista''. Acontece no próximo dia 9 de outubro, no Teatro da Aliança Francesa, em São Paulo, o Learning Management Experience 2018 (LEMA)Auditório. Quando as Máquinas Param inaugurou a Sala Atelier do Teatro Aliança Francesa em outubro de 2018.  Apresentação. #Repost @grupotapa ÚLTIMAS SEMANAS para assistir “O Jardim das Cerejeiras”!. Seminário, realizado no Teatro Aliança Francesa, analisará crise dos valores republicanos. com/IpmlkaWKZn. Sua energia transbordante irradiou a todos. Aliança Francesa Manaus. convite-jardins-fazem-a-cidade. Apartamento com 3 Quartos à venda, 130m². Galeria Imago - Aliança Francesa.  dos sos seus 40 anos de história, o grupo tapa segue em cartaz com o jardim das cerejeiras, de anton tchekhov (1860-1904), no teatro aliança francesa . A Aliança Francesa de Paris (a mesma do Brasil), onde estou estudando. O cantinho francês mais charmoso da cidade. Aliança Francesa de Salvador. O Jardim das Cerejeiras, de Anton Tchekhov. Aliança Francesa Juiz de Fora.  em 12 . Grupo Tapa prorroga temporada de O Jardim das Cerejeiras no Teatro Aliança Francesa, em São. 1964-1985: Inaugurado com a peça francesa O Ovo, o teatro teve intenso movimento nesses 22 anos, apresentando grandes nomes da dramaturgia dirigidos por . Grupo Tapa prorroga temporada de O Jardim das Cerejeiras no Teatro Aliança Francesa, em São Paulo. Mediateca. Os jardins da Aliança Francesa do Derby foi o local escolhido para celebrar a vinda da delegação composta por 70 representantes franceses da Universidade de . Oficina de agricultura urbana: As Plantas Alimentícias Não Convencionais. Alter Ego Plus 3 - Eleve (Ed Aliança Francesa). Teatro Aliança Francesa (São Paulo) - ATUALIZADO 2019 O que saber antes de ir - Sobre o que as pessoas estão falando - TripAdvisor. A PROGRESSÃO. Aliança Francesa de Santos - Language School - Santos, Sao Paulo, Brazil | Facebook - 38 Reviews - 2,518 Photos. Vila do Namorados.  Direção de Eduardo Tolentino de AraújoO Grupo BULAWE PASTELIN encantou o público na noite de sexta-feira em animando uma noite dançante muito festiva nos jardins da Aliança francesa. Comercial exibido nos cinemas de São Paulo, em 2010.  Gout de France 2019. 13.  em 5 . Participam do lançamento da exposição Luiz Flávio Borges D'Urso, presidente da OAB/SP; Maurice Nahory, diretor-geral da Aliança Francesa de São Paulo; . : (11) 3017-5699. O ingresso para a leitura dá desconto na compra do ingresso para a peça O Jardim das Cerejeiras, . 06. Dora Coelho.  baseada no livro "Des Jardins Dans La Ville", do renomado fotografo francês Michel Corbou. Postado .  Menu 6 etapas.  Roteiro: Equipe do Marketing da AFSP e Juliette Streitwieser. #TeatroAliancaFrancesa • Browse images about TeatroAliancaFrancesa at Instagram-Imgrum. Iara Morselli; Iara Morselli . Share. Realizado desde 2007 em Brasília, o Bazar está de casa nova este ano. ESTUDE NA FRANÇA COM A ALIANÇA FRANCESA. [ENTRETENIMENTO] Grupo TAPA estreia "O Jardim das Cerejeiras". 2. Foto opinião do Leticia Figueiredo sobre Aliança Francesa.  VAMOS?pic. MADRE™ | Babylone ocupa jardim de Burle Marx na Aliança Francesa.  Um autêntico bistrot francês, no jardim mais lindo de Brasília, . Aliança Francesa - Jardins zoom_out_map.  Nesse dia fomos tomar suco no Jardim Luxemburgo depois da aula. O Grupo TAPA levou para o Teatro Aliança Francesa a última peça de Anton Tchekhov:.  @grupotapa · Teatro Aliança Francesa. Acontecerá dia 25 de outubro, as 19h na Biblioteca Claude Montreil, na unidade Centro da Aliança Francesa – Rua General Jardim, 182. Image may contain: text, nature and outdoorQuando:. Aliança Francesa de Nova Friburgo. 5699 – Ramal 5607 – Alto de Pinheiros: Avenida Faria Lima, 2421(prédio da . Peça: O Jardim das Cerejeiras, foto 3. 17/07/2018 rropiniaodepeso 12 anos, 90 minutos, Agosto, Domingo, Eles Não Usam Black Tie, Julho, Sábado, Setembro, Sexta, Teatro Aliança Francesa, . LOGO_ALIAN;A FRANCESA SP. Um casamento de sonho num dos mais belos jardins de Brasília, na Aliança Francesa da Asa Sul.  em 2 . fvcf2016_cartaz_baixa. Aliança Francesa transforma sua sede nacional na Rua Muniz Barreto, em Botafogo, em prédio.  Foto: Thiago Sampaio. Oficina de Horta Urbana: Sementes e berços – Aliança Francesa Belo Horizonte.  O jardim mais lindo de Brasília, dentro da Aliança Francesa da Asa Sul. A nova unidade da Livraria Francesa. Realidade Virtual – Aliança Francesa SP. Salas de Aula - Cada sala é nomeada por um célebre e importante francês.  A escola de idioma oferece, nos meses de setembro . Oficina de Horta Urbana: Colheita e Plantio – Aliança Francesa Belo Horizonte. Post Insta_Face. Vinho e Delicias - Sobre vinho. 31 jan [Leitura Dramática] Grupo Tapa faz leitura dramática de “A Gaivota” de Tchekhov no Aliança Francesa.  Foto tirada no(a) Aliança Francesa de Brasília por Paulo C.  Direção: Mariana K. O jardim da Aliança Francesa ficou pequeno para o enorme público. Heloísa Starling, Cicero Araújo e Sergio Cardoso discutem a crise na República no Teatro Aliança Francesa. Férias: veja dicas de cursos intensivos de idiomas em SP e no exterior. 15_MOVIMENTOS MORADIA.  Salvador Bahia.  São Paulo A 300m do metro República (linhas amarela e vermelha). MATRICULE-SE EM JANEIRO E GARANTA. Atores: Adriano Bedin, Alan Foster, Alexandre Martins, Anna Cecília Junqueira, Brian Penido Ross, Bruno Barchesi, Clara Carvalho, Gabriela Westphal, . rioecultura - Galeria Alliance Verte - Galeria da Aliança Francesa de Botafogo. back. Caiena, na Guiana Francesa. Foto de Aliança Francesa - São Paulo - SP, Brasil. Ditirambos RNPA#3 - São Paulo. Brasil_mon_amour. Apartamento para alugar no Centro. Como fica anexo à da Aliança Francesa, é normal alguém chegar na mesa ao lado dando um “bonsoir” pro pessoal. SERVIÇO. 1 / 1. Patisserie Douce France. A agência Kindle criou uma ação diferente para divulgar um novo método de ensino da Aliança Francesa. 'As Irmãs Siamesas' estreia no Teatro da Aliança Francesa. Alliance française, Aliança francesa, Rua general Jardim, centro, São Paulo. Iara Morselli . Jardim de livros. TEATRO ALIANÇA FRANCESA Rua General Jardim,182. Já sabe da novidade? 😀 Este ano, o Bazar Europeu acontecerá em novo local. Festival Varilux de Cinema Francês.  A montagem do @. curso de francês gratuito. Aliança Francesa. Les Jardins Font La Ville. Exposição "Os jardins fazem a cidade". twitter. A ALIANÇA FRANCESA.  Foto tirada no(a) Aliança Francesa de Brasília por Núbia G.  o tradicional Bazar da Francofonia ocupou não só os lindos jardins de Burle Marx, mas também o estacionamento principal da Aliança Francesa. 2 peças revisitadas de Molière até o 30/11 no teatro Aliança Francesa (perto. O impressionismo se inscreve na continuação das rupturas iniciadas a partir do século . Aviso - Coletiva Imprensa - Chandon e Vai Vai . Segunda começa o “Ciclo de Leituras de autores Russos” no Teatro Aliança Francesa!.  As notícias capa do jornal Metro da última sexta-feira . O TEATRO - FOTOS. Local: Teatro Aliança Francesa, localizado na Rua General Jardim, 182, próximo ao Metrô República. Em São Paulo (SP), mais uma homenagem ao Ano da França no Brasil, desta vez por parte da Aliança Francesa. Está em exposição nos muros externos da ALIANÇA FRANCESA (Jardins da Aliança Francesa - Rua Amaro Bezerra, 466 - Derby, Recife/PE) Os murais da Brigada . O Francês de Cada Um | Aliança Francesa | 2012. A Aliança Francesa . feira-doutoral-0. ALIANÇA FRANCESA - JARDINS/TRIANON. Nesta 4ª Feira, 24/04, tem lançamento!!! Livro com duas peças do Oduvaldo Viana Filho (Vianinha )! Haverá a leitura dramática de uma das peças, . As inscrições devem ser feitas na Aliança Francesa de Londrina (Rua Antonio Moraes de Barros, 44). Revista @cartacapital destaca a temporada de O Jardim das Cerejeiras. Escola da Cidade promove aula aberta com o filósofo Paulo Arantes | ArchDaily Brasil. Será dia 11/Dezembro às 18h, no Teatro Aliança Francesa (Rua General Jardim, 182 - Centro).  Numa bela tarde de domingo, Clézio e Andressa celebraram sua . Carregando zoom. BvEjAOng0zY. Clara Carvalho e Sérgio Mastropasqua à frente do elenco de O Jardim Das Cerejeiras. Venham!. : 11- 3017. Noite de teatro 🎭, peça de hoje : o jardim das cerejeiras . Michel Corbou, Os Jardins Fazem a Cidade. [TEATRO] Em cartaz no teatro Aliança Francesa está a última peça escrita pelo escritor.  Tudo lá, aliás, do ambiente à comida, . Taanteatro Companhia na Aliança Francesa 23 a 28 de agosto de 2016. 07 jan [Teatro] Grupo TAPA comemora 40 anos de trajetória e estreia “O Jardim das Cerejeiras”, no Teatro Aliança Francesa. | Gafisa | J330 Journal Tabloid on Behance. Fachada da Aliança Francesa de Brasília: escola foi fundada por JK antes mesmo da inauguração. Você já ouviu falar do Mont Saint-Michel, dos Jardins de Monet, das cidades de Rouen, Honfleur e Trouville? Se não conhece, está na hora de pesquisar sobre .  CURSO SUPERINTENSIVO DE JULHO. Aliança Francesa, na Rua General Jardim, no centro da cidade. Exposição "Imagine France: A Viagem Fantástica de Maria Flore" - R4P Brazil. Intercâmbio cultural na Normandia é proposta da Aliança Francesa de Curitiba. Trabalho incrível dos contrarregras do Jardim das Cerejeiras!!! 👏👏👏 Hoje tem. Amuse Bouche no restaurante Le Jardin !Aproveitem a gastronomia francesa no centro de Brasília. PORTFOLIO. O Jardim das Cerejeiras.  Espetáculo no Teatro Aliança Francesa . Escola da Cidade encerra o ano com palestra do arquiteto mexicano Maurício Rocha, Cortesia de. ALTER EGO PLUS 1 - ÉLÈVE (Edição Aliança Francesa). Conheça o novo método AF. A mansão em estilo clássico francês tem trinta cômodos, edícula, jardins, pomar, e hoje é um símbolo cultural da cidade, já que não faltam eventos ligados à . Essa semana tem mais “O JARDIM DAS CEREJEIRAS”!!! De quinta a. Teatro Aliança Francesa. Atelier Maurice Durozier. Advogados têm desconto em cursos da Aliança Francesa.  Foto tirada no(a) Aliança Francesa de Brasília por Fernando A. 10. No ano em que o Teatro Aliança Francesa completa 55 anos de vida, a programação 2019 é inaugurada com dois clássicos do teatro, um internacional e outro .  Saiba mais.  #ongbandadofuxico #ojardimdascerejeiras #teatroalincafrancesa #grupotapa #teatro🎭 . Clique aqui para ver o evento oficial no Facebook. #Teatro: . Centro: Rua General Jardim, 182 (prédio da Aliança Francesa) – Tel.  A mostra que é uma parceria do MuBE com a Aliança Francesa. Grupo Tapa apresenta o espetáculo O Jardim das Cerejeiras no Teatro Aliança Francesa.  Ele acontece nos jardins de Burle Marx na Aliança Francesa. Publicado em teatro. Aliança Francesa, Jardim Paulista, Sao Paulo Region.  Mais informações pelo telefone (43) 3324-7508.  um novo jardim - exposição íntimo impessoal - Aliança Francesa, 2008 | by laisandrade. Ampliação e qualificação do percurso do pedestre contendo proposta para calçamento homogêneo, enterramento das redes de distribuição elétrica e de .  DSC04339. O Grupo BULAWE PASTELIN encantou o público na noite de sexta-feira em animando uma noite dançante muito festiva nos jardins da Aliança francesa.  Bairro do Sacomã. Atelier nº1 LA NORMANDIE - 11 DE SETEMBRO DE 2012 Mont Saint-Michel, as. Associação de Cultura Franco Brasileira Aliança Francesa - Jardim Esplanada, São José Dos Campos, SP - Apontador.  A Aliança Francesa . Memória e resistência marcam comemoração de 50 anos do Teatro Aliança Francesa – APLAUSO BRASIL. Encerrou ontem, no Teatro Aliança Francesa, a temporada de sucesso do espetáculo "O. Leões de Paraisópolis no Teatro Aliança Francesa.  Rua General Jardim, 182 – Tel</b><!--/noindex-->                  </li>
+
+                                    <li  class="menuItemLi  active">
+
+                    информацию.
+
+           <!--/noindex-->           <div style="margin-top:5px;">
+
+            <!--noindex-->
+
+            <!--LiveInternet counter--> <!--/LiveInternet-->
+
+            <!--/noindex-->
+
+          </div>
+
+          
+
+          
+
+		 
+
+<!--</div>-->
+
+  	
+
+  	 
+
+
+
+  </body>
+
+
+
+
+
+            
+
+</html>

@@ -1,0 +1,801 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+
+  <link rel="dns-prefetch" href="https://github.githubassets.com">
+
+  <link rel="dns-prefetch" href="https://avatars0.githubusercontent.com">
+
+  <link rel="dns-prefetch" href="https://avatars1.githubusercontent.com">
+
+  <link rel="dns-prefetch" href="https://avatars2.githubusercontent.com">
+
+  <link rel="dns-prefetch" href="https://avatars3.githubusercontent.com">
+
+  <link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
+
+  <link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
+
+
+
+
+
+
+
+  <link crossorigin="anonymous" media="all" integrity="sha512-67V2J9Se2CifJlftk9/cExHGvxd7N9b9EdGnQEpszu99Ogeecilu9jIDxoCkx3zNLfB9ArraXW0J03qyVmN0Uw==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-e7318add1f7e055d040edb0f75aaa0ba.css" />
+
+  <link crossorigin="anonymous" media="all" integrity="sha512-MRlTIqIyb8caK5+o8llXVntXovciHyAM4qE3kWU2S7SIjAPDxYp4mE0jQp4kP5UYegy+lG9y1I6VlsdzEjb5Qw==" rel="stylesheet" href="https://github.githubassets.com/assets/site-294181adec18ed639e160b96b45d17ac.css" />
+
+    <link crossorigin="anonymous" media="all" integrity="sha512-sdCBXlLRZegVx3t99SkEmQxO9DDMm2nGm5wNJsuBc72c3KYXj0mpM+97TIsreSTHPioEFxyFgIip3TDtGPQuDA==" rel="stylesheet" href="https://github.githubassets.com/assets/github-54fcb3a87437ca29a24557c268985ca6.css" />
+
+    
+
+    
+
+    
+
+    
+
+
+
+  <meta name="viewport" content="width=device-width">
+
+  
+
+  <title>Canadian journal of electrical and electronics engineering</title>
+
+    <meta name="description" content="Canadian journal of electrical and electronics engineering">
+
+    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
+
+  <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
+
+  <meta property="fb:app_id" content="1401488693436528">
+
+
+
+    <meta name="twitter:image:src" content="https://avatars3.githubusercontent.com/u/130982?s=400&amp;v=4" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="victorfontes/django-mobile-helper" /><meta name="twitter:description" content="A package to help dealing with mobile clients in Django - victorfontes/django-mobile-helper" />
+
+    <meta property="og:image" content="https://avatars3.githubusercontent.com/u/130982?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="victorfontes/django-mobile-helper" /><meta property="og:url" content="https://github.com/victorfontes/django-mobile-helper" /><meta property="og:description" content="A package to help dealing with mobile clients in Django - victorfontes/django-mobile-helper" />
+
+
+
+  <link rel="assets" href="https://github.githubassets.com/">
+
+  
+
+  <meta name="pjax-timeout" content="1000">
+
+  
+
+  <meta name="request-id" content="CCF3:29219:24F761:36B2A1:5D124B64" data-pjax-transient>
+
+
+
+
+
+  
+
+
+
+  <meta name="selected-link" value="repo_source" data-pjax-transient>
+
+
+
+      <meta name="google-site-verification" content="KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU">
+
+    <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
+
+    <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
+
+
+
+  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="CCF3:29219:24F761:36B2A1:5D124B64" /><meta name="octolytics-dimension-region_edge" content="ams" /><meta name="octolytics-dimension-region_render" content="iad" />
+
+<meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;" data-pjax-transient="true" />
+
+
+
+
+
+
+
+    <meta name="google-analytics" content="UA-3769691-2">
+
+
+
+
+
+<meta class="js-ga-set" name="dimension1" content="Logged Out">
+
+
+
+
+
+
+
+  
+
+
+
+      <meta name="hostname" content="github.com">
+
+    <meta name="user-login" content="">
+
+
+
+      <meta name="expected-hostname" content="github.com">
+
+    <meta name="js-proxy-site-detection-payload" content="NjQ5ODVmNzZjNjA0YzAwYTQwZjkxMTM5NzI0MWNlMzQ5NTgxYWEwMWMwZTg5OGQ1MmY5OTEyNDdjYTUwZDk4Y3x7InJlbW90ZV9hZGRyZXNzIjoiODUuMTc0LjE5MS4xOTAiLCJyZXF1ZXN0X2lkIjoiQ0NGMzoyOTIxOToyNEY3NjE6MzZCMkExOjVEMTI0QjY0IiwidGltZXN0YW1wIjoxNTYxNDgwMDM4LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+
+
+
+    <meta name="enabled-features" content="MARKETPLACE_FEATURED_BLOG_POSTS,MARKETPLACE_INVOICED_BILLING,MARKETPLACE_SOCIAL_PROOF_CUSTOMERS,MARKETPLACE_TRENDING_SOCIAL_PROOF,MARKETPLACE_RECOMMENDATIONS,MARKETPLACE_PULL_PANDA_HOMEPAGE,DISPLAY_COMMENTER_FULL_NAME">
+
+
+
+  <meta name="html-safe-nonce" content="12876d413857186b346f0c018cda750302834381">
+
+
+
+  <meta http-equiv="x-pjax-version" content="6b1033cb022e79b6905f5cb0b638baf0">
+
+  
+
+
+
+      <link href="https://github.com/victorfontes/django-mobile-helper/commits/master.atom" rel="alternate" title="Recent Commits to django-mobile-helper:master" type="application/atom+xml">
+
+
+
+  <meta name="go-import" content="github.com/victorfontes/django-mobile-helper git https://github.com/victorfontes/django-mobile-helper.git">
+
+
+
+  <meta name="octolytics-dimension-user_id" content="130982" /><meta name="octolytics-dimension-user_login" content="victorfontes" /><meta name="octolytics-dimension-repository_id" content="739954" /><meta name="octolytics-dimension-repository_nwo" content="victorfontes/django-mobile-helper" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="739954" /><meta name="octolytics-dimension-repository_network_root_nwo" content="victorfontes/django-mobile-helper" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
+
+
+
+
+
+    <link rel="canonical" href="https://github.com/victorfontes/django-mobile-helper" data-pjax-transient>
+
+
+
+
+
+  <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
+
+
+
+  <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
+
+
+
+  <link rel="mask-icon" href="https://github.githubassets.com/pinned-octocat.svg" color="#000000">
+
+  <link rel="icon" type="image/x-icon" class="js-site-favicon" href="https://github.githubassets.com/favicon.ico">
+
+
+
+<meta name="theme-color" content="#1e2327">
+
+
+
+
+
+
+
+
+
+
+
+  <link rel="manifest" href="/manifest.json" crossOrigin="use-credentials">
+
+
+
+  </head>
+
+
+
+  <body class="logged-out env-production min-width-lg">
+
+    
+
+
+
+  <div class="position-relative js-header-wrapper ">
+
+    
+
+    <div id="js-pjax-loader-bar" class="pjax-loader-bar"><div class="progress"></div></div>
+
+
+
+    
+
+    
+
+    
+
+
+
+
+
+        <header class="Header-old header-logged-out  position-relative f4 py-2" role="banner">
+
+  <div class="container-lg d-flex px-3">
+
+    <div class="d-flex flex-justify-between flex-items-center">
+
+        
+
+          <svg height="32" class="octicon octicon-mark-github text-white" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+
+        </a>
+
+    </div>
+
+
+
+    <div class="HeaderMenu HeaderMenu--logged-out d-flex flex-justify-between flex-items-center flex-auto">
+
+      <div class="d-none">
+
+        <button class="btn-link js-details-target" type="button" aria-label="Toggle navigation" aria-expanded="false">
+
+          <svg height="24" class="octicon octicon-x text-gray" viewBox="0 0 12 16" version="1.1" width="18" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+
+        </button>
+
+      </div>
+
+
+
+        <nav class="mt-0" aria-label="Global">
+
+          <ul class="d-flex list-style-none"> 
+
+          <li class=" mr-3 mr-lg-3 edge-item-fix position-relative flex-wrap flex-justify-between d-flex flex-items-center "></li>
+
+          </ul>
+
+        </nav>
+
+
+
+      <div class="d-flex flex-items-center px-0 text-center text-left">
+
+          <div class="d-lg-flex ">
+
+            <div class="header-search mr-3 scoped-search site-scoped-search js-site-search position-relative js-jump-to"
+
+  role="combobox"
+
+  aria-owns="jump-to-results"
+
+  aria-label="Search or jump to"
+
+  aria-haspopup="listbox"
+
+  aria-expanded="false"
+
+>
+
+  <div class="position-relative">
+
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="739954" data-scoped-search-url="/victorfontes/django-mobile-helper/search" data-unscoped-search-url="/search" action="/victorfontes/django-mobile-helper/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+
+      <label class="form-control input-sm header-search-wrapper p-0 header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center js-chromeless-input-container">
+
+        <input type="text"
+
+          class="form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
+
+          data-hotkey="s,/"
+
+          name="q"
+
+          value=""
+
+          placeholder="Search"
+
+          data-unscoped-placeholder="Search GitHub"
+
+          data-scoped-placeholder="Search"
+
+          autocapitalize="off"
+
+          aria-autocomplete="list"
+
+          aria-controls="jump-to-results"
+
+          aria-label="Search"
+
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=AK6grC5cGEh6WbkUATQhFSFpKOO7MEA9hyKSe/Foj7r4RH1QvaHE3k+9OwBAZ2+KMuRi0MhRYWwjJTJNNX+mVA=="
+
+          spellcheck="false"
+
+          autocomplete="off"
+
+          >
+
+          <input type="hidden" class="js-site-search-type-field" name="type" >
+
+            <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
+
+
+
+            <div class="Box position-absolute overflow-hidden d-none jump-to-suggestions js-jump-to-suggestions-container">
+
+              
+
+<ul class="d-none js-jump-to-suggestions-template-container">
+
+  
+
+
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-suggestion" role="option">
+
+   
+
+    <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
+
+      <svg height="16" width="16" class="octicon octicon-repo flex-shrink-0 js-jump-to-octicon-repo d-none" title="Repository" aria-label="Repository" viewBox="0 0 12 16" version="1.1" role="img"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
+
+      <svg height="16" width="16" class="octicon octicon-project flex-shrink-0 js-jump-to-octicon-project d-none" title="Project" aria-label="Project" viewBox="0 0 15 16" version="1.1" role="img"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z"/></svg>
+
+      <svg height="16" width="16" class="octicon octicon-search flex-shrink-0 js-jump-to-octicon-search d-none" title="Search" aria-label="Search" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M15.7 13.3l-3.81-3.83A5.93 5.93 0 0 0 13 6c0-3.31-2.69-6-6-6S1 2.69 1 6s2.69 6 6 6c1.3 0 2.48-.41 3.47-1.11l3.83 3.81c.19.2.45.3.7.3.25 0 .52-.09.7-.3a.996.996 0 0 0 0-1.41v.01zM7 10.7c-2.59 0-4.7-2.11-4.7-4.7 0-2.59 2.11-4.7 4.7-4.7 2.59 0 4.7 2.11 4.7 4.7 0 2.59-2.11 4.7-4.7 4.7z"/></svg>
+
+    </div>
+
+
+
+    <span class="d-inline-block ml-1 v-align-middle"></span>
+
+    
+
+  </a>
+
+</li>
+
+
+
+</ul>
+
+
+
+<ul class="d-none js-jump-to-no-results-template-container">
+
+  <li class="d-flex flex-justify-center flex-items-center f5 d-none js-jump-to-suggestion p-2">
+
+    <span class="text-gray">No suggested jump to results</span>
+
+  </li>
+
+</ul>
+
+
+
+<ul id="jump-to-results" role="listbox" class="p-0 m-0 js-navigation-container jump-to-suggestions-results-container js-jump-to-suggestions-results-container">
+
+  
+
+
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-scoped-search d-none" role="option">
+
+  </li>
+
+
+
+
+
+</ul>
+
+
+
+            </div>
+
+      </label>
+
+</form>  </div>
+
+</div>
+
+
+
+          </div>
+
+
+
+       
+
+      </div>
+
+    </div>
+
+  </div>
+
+</header>
+
+
+
+  </div>
+
+
+
+  <div id="start-of-content" class="show-on-focus"></div>
+
+
+
+
+
+    <div id="js-flash-container">
+
+
+
+</div>
+
+
+
+
+
+
+
+  <div class="application-main " data-commit-hovercards-enabled>
+
+        <div itemscope itemtype="http://schema.org/SoftwareSourceCode" class="">
+
+    <main id="js-repo-pjax-container" data-pjax-container >
+
+      
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="pagehead repohead instapaper_ignore readability-menu experiment-repo-nav  ">
+
+    <div class="repohead-details-container clearfix container">
+
+
+
+      <ul class="pagehead-actions">
+
+
+
+
+
+
+
+
+
+  <li>
+
+    
+
+ 
+
+    <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/>
+
+    </svg>
+
+    </li>
+
+</ul>
+
+
+
+      <h1 class="public ">&nbsp; </h1>
+
+
+
+    </div>
+
+    
+
+<nav class="hx_reponav reponav js-repo-nav js-sidenav-container-pjax container"
+
+     itemscope
+
+     itemtype="http://schema.org/BreadcrumbList"
+
+    aria-label="Repository"
+
+     data-pjax="#js-repo-pjax-container">
+
+
+
+  <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+
+    
+
+      <svg class="octicon octicon-code" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"/>
+
+      </svg>
+
+      <span itemprop="name"> </span> 
+
+
+
+</nav>
+
+
+
+
+
+  </div>
+
+<div class="container new-discussion-timeline experiment-repo-nav  ">
+
+  <div class="repository-content ">
+
+
+
+    
+
+    
+
+        <div class="signup-prompt-bg rounded-1">
+
+      <div class="signup-prompt p-4 text-center mb-4 rounded-1">
+
+        <div class="position-relative">
+
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/prompt_dismissals/signup" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="DIrD76oeqq0Lw6iPB5ZCSQE+1Vrm8GqAXagjCDmQnJQ1UZvv2HI6nTAOFhEpzMTGmgUGXiJQNLOs57oja2C96A==" />
+
+            <button type="submit" class="position-absolute top-0 right-0 btn-link link-gray" data-ga-click="(Logged out) Sign up prompt, clicked Dismiss, text:dismiss">
+
+              Dismiss
+
+            </button>
+
+</form>          <h1 class="pt-2">Canadian journal of electrical and electronics engineering</h1>
+
+          <p class="col-6 mx-auto">&nbsp; </p>
+
+          
+
+        </div>
+
+      </div>
+
+    </div>
+
+
+
+
+
+
+
+       
+
+
+
+
+
+
+
+
+
+        <div class="overall-summary overall-summary-bottomless">
+
+    <div class="stats-switcher-viewport js-stats-switcher-viewport">
+
+      <div class="stats-switcher-wrapper">
+
+      <ul class="numbers-summary">
+
+        <li class="commits"> 
+
+            </li></ul><div class="repository-lang-stats">
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+
+
+    <button type="button" class="d-flex p-0 repository-lang-stats-graph js-toggle-lang-stats" title="Click for language details" data-ga-click="Repository, language bar stats toggle, location:repo overview">
+
+      <span class="language-color" aria-label="Python 100.0%" style="width:100.0%; background-color:#3572A5;" itemprop="keywords"> The Canadian Journal of Electrical and Computer Engineering, issued quarterly, has been publishing high-quality refereed scientific papers in all areas of electrical and computer engineering since 1976.  Dr.  0% of workplace accident deaths are caused by burn injuries.  AJEAS is a peer reviewed technical journal publishes original research contributions and is an unparalleled resource for key advances in the field of engineering.  The list given here is far from exhaustive, only containing some of the most influential, currently publishing journals in each field. &quot; 8th International Conference on &quot;Innovations in Electronics and Communication Engineering (ICIECE-2019)” aims to provide an opportunity for researchers, scientists, technocrats, academicians and engineers to exchange their innovative ideas and research findings in the field of Electronics and Communication Engineering.  The SPIE Digital library provides access to the papers published in: Proceedings of SPIE, Optical Engineering, Journal of Electronic Imaging, Journal of Biomedical Optics, Journal of Microlithography, Microfabrication, and Microsystems, Journal of Applied Remote Sensing, and Journal of Nanophotonics.  IEEE Vehicular Technology Conference 2013 Fall (Satellite Networks, Positioning Technologies, Localization and Navigation) IEEE Canadian Conference on Electrical and Computer Engineering, 2012.  Some content that appears in print may not be available in electronic books.  The journal interfaces engineering with the biological world and covers wide range of fields including energy, soil and water, power and machinery, bioprocess, information and electrical technologies, food processing, forestry, agricultural 2010-present Member of the Editorial Board, Journal of Scientia Iranica in Power Electronics, Energy Management Systems.  The journal welcomes publications of high quality papers on theoretical developments and practical About IISE .  See also JOC at Springer-Verlag; IEEE Transactions on Pattern Analysis and Machine Intelligence, Institute of Electrical and Electronics Engineers (New York) 1985 Canadian Patents and Development Corporation, “The Thinker” Award.  [64] [65] The same fundamental principles are taught in all programs, though emphasis may vary according to title.  Volume 8 issue 4 international journal of innovative , international journal of innovative technology and exploring engineering (ijitee) covers topics in the field of computer science &amp; engineering, information technology, electronics &amp; communication, electrical and electronics, electronics and telecommunication, civil International Journal of Soft Computing is a peer reviewed open access scientific journal.  Iranian Journal of Electrical and Computer Engineering (ISSN 1682-0053) is a peer-reviewed Journal that its objective is to discuss, through papers, new theoretical developments and techniques in the field of Electrical or Computer Engineering and their application to real world problems. D.  We expect all reviewers and authors to respect the confidentiality of the peer review process. 99; SJR &amp; CiteScore Q2 on both of the Electrical &amp; Electronics Engineering, and Computer Science) is the official publication of the Institute of Advanced Engineering and Science (IAES).  If you wish to publish an article it will be very easy.  Research areas include: Power Generation, Transmission and Distribution, Electric Machines, Electric Drives, Power Electronics, Electromagnetic Propulsion and Design, Distributed Generation, and Smart Grid.  The Professional Associations Directory gives members information on becoming a member, certification, reference material and much more information including a direct link to each association&#39;s website.  Natarajan finished his Bachelor&#39;s Degree at the University of Bombay (VJTI Campus), India in 1980 in Electrical Engineering.  The users of Scimago Journal &amp; Country Rank have the possibility to dialogue through comments linked to a specific journal.  Engineering Technology 2007 [PDF] [EPUB] [BOOKS] Electrical engineering is a technical discipline concerned with the study, design and application of equipment, devices and systems which use electricity, electronics, and electromagnetism.  · ECE 410 Power Electronics · ECE 370 Electromechanical Energy Conversion · ECE 581 Power Electronics · ECE 365 Applied Electronics and Electric Machines Research · Selected Publications Service · Associate Editor, Canadian Journal on Electrical and Computer Engineering, 2000-2002 He was the Associate and Managing Editor for the IEEE Canadian Review, and is currently an Associate Editor for Control Engineering Practice and the Canadian Journal of Electrical and Computer Engineering.  electricalindustry. 2691, High Impact Factor Journal, Online and Print Mode, Indexed Journal, Management Journals, Journal Publication in Chennai, Journal Publication in India, Journal Subscription in India, Engineering Journals Subscription, Technology Journals Subscription, Management Top Journals for Computer Science and Electronics Canadian Journal of Electrical and Computer Engineering and Mathematics in Electrical and Electronic Overview of all indexing and abstracting services for Journal &#39;Engineering Science and Technology, an International Journal&#39; on Elsevier.  Subscribe.  Info about research and undergraduate and graduate programs.  He received his Masters and Ph.  Biomass and Bioenergy, Volume Electrical engineering | Economist - World News, Topics Index Electrical engineering Electrical engineering.  Hamedi-Hagh, &quot;An Efficient 2.  Together, we work to advance the profession in the public interest.  Electronics Engineering .  Updated daily.  IEEE Canadian Conference on Electrical and Computer Engineering, May 2018.  Electrical Engineering.  Journal Abbreviation: CAN J ELECT COMPUT E Journal of Electrical and Electronic Engineering (JEEE), a peer-reviewed open access journal published bimonthly in English-language, aims to foster a wider academic interest in electrical and electronics engineering, including its intersection with physics.  Over 2000 workers are sent to burn centers each year with severe Arc-Flash burns.  Tabesh and S. 674.  This open-access online journal includes reports on electrical engineering events and news as well as research by engineers.  He is a fellow of Institute of Electrical and Electronics Engineers (IEEE), Engineering Institute of Canada (EIC), and Canadian Academy of Engineering (CAE).  She is currently serving as Executive Director of IBN, Institute of Bioengineering and Nanotechnology, Singapore and Editor-in-chief of Nano Today which is an international peer-reviewed academic journal for nanoscience and technology.  edu.  Canadian Journal of Electrical and Computer Engineering 38 (3), 238-245, 2015 20 Simultaneus placement of conventional and renewable distributed generation using fuzzy multiobjective optimization Search 3,056 Electrical Engineer jobs now available on Indeed. com&#39;s Professional Association connect engineers to associations related to their engineering discipline in their surround area.  Kazemi, S.  The Journal of Microwaves, Optoelectronics and Electromagnetic Applications (JMOe), published by the Brazilian Microwave and Optoelectronics Society (SBMO) and Brazilian Society of Electromagnetism (SBMag), is a professional, refereed publication devoted to disseminating technical information in the areas of Microwaves, Optoelectronics, Photonics, and Electromagnetic Applications. K.  New content alerts RSS.  -Review and publication of your paper in the Canadian International Journal of Science and Technology IEEE All-Society Periodicals Package (ASPP), brought to you via the IEEE Xplore digital library, is available online or in print and provides access to the IEEE core collection of engineering, electronics, and computer science periodicals.  The 2016 International Conference on Automotive Engineering, Mechanical and Electrical Engineering (AEMEE 2016) Hong Kong, China 9–11 December 2016 Automotive, Mechanical and Electrical Engineering CRC Press Taylor &amp; Francis Group, 6000 Broken Sound Parkway NW, Suite 300, Boca Raton, FL 33487-2742 , (2017).  Productivity.  Risk identification and assessment for engineering procurement construction management projects using fuzzy set theory.  The JCR Impact Factor of Advances in Electrical and Computer Engineering is 0.  80 likes.  Standards can be found in print at the Sexton Library from the following associations, institutes, and organizations: Check the Novanet Catalogue to find standards that do not appear on the list below.  These are words that describe the distinctive attributes of industrial engineering, and IISE is the world&#39;s largest professional society dedicated solely to the support of the industrial engineering profession and individuals involved with improving quality and productivity.  Sign in.  Journal of Staff textbook on Electrical Engineering Economics, Optimal location, technology and capacity planning in the field of biogas, traditional engineering economics E.  Research Assistant (February 1998 – July 1999), Department of Electrical and information Engineering, Yamagata University, Yonezawa, Japan.  Welcome to International Journal of Engineering Research and Development (IJERD) International Journal of Engineering Research and Development is an international premier peer reviewed open access engineering and technology journal promoting the discovery, innovation, advancement and dissemination of basic and transitional knowledge in engineering, technology and related disciplines. e.  Read full text articles or submit your research for publishing.  Efficiency. 699, and the JCR 5-Year Impact Factor is 0.  Science and Education Publishing, publisher of open access journals in the scientific, technical and medical fields.  Fellow , Institute of Electrical and Electronics Engineers (IEEE) Young Scholar Award, Brigham Young University Outstanding Faculty Member, Department of Electrical and Computer Engineering Karl G.  All this time it was owned by Institute of Electrical and Electronics Engineers of Canada, it was hosted by Amazon Technologies Bin Wu is a Professor and Senior NSERC/Rockwell Automation Industrial Research Chair in Power Electronics and Electric Drives at Ryerson University, Canada.  Anirban Sengupta is an Associate Professor in Computer Science and Engineering at Indian Institute of Technology (I.  Ccece2019. Welcome to the Canadian Journal of Electrical and Computer Engineering website.  Contributions are in English.  Rajni Patel received the Ph. sk Driven by the Internet of Things (IoT), a new computing model – Edge computing – is currently evolving, which allows IoT data processing, storage and service supply to be moved from Cloud to the local Edge devices such as smart phones, smart gateways or routers and base stations that can offer Horizon Research Publishing,USA (HRPUB) is a worldwide open access publisher serving the academic research and scientific communities by launching peer-reviewed journals covering a wide range of academic disciplines.  International Journal of Engineering and Technology Innovation(IJETI), ISSN 2223-5329 (Print), ISSN 2226-809X (Online), is an international, multidiscipline, peer-reviewed scholarly journal, published quarterly for researchers, developers, technical managers, and educators in the field of engineering and technology innovation.  B.  The Department has 40 full-time faculty members, 14 support staff, and over 1,000 undergraduate students pursuing Bachelor of Engineering degrees in Electrical Journal of Nonparametric Statistics, Gordon and Breach Science (New York) Journal of Classification, Classification Society of North America (St.  No installation, real-time collaboration, version control, hundreds of LaTeX templates, and more.  tr.  Sponsored by IEEE Canada, the CJECE complements international journals and provides Canadian Journal on Electrical and Electronics is an open access journal encompassing broad spectrum of topics in electrical and electronics engineering.  Labeau, From Wired to Wireless: Challenges of False Data Injection Attacks Against Smart Grid Sensor Networks, in Proc.  CCECE is the flagship Canadian conference for researchers, students, and professionals in the area of Electrical and Computer Engineering.  H.  Canadian Journal on Electrical and Electronics is an open access e-journal Canadian Journal on Electrical and Electronics Engineering Can J Electr Electron Eng.  Hartmann Department of Electrical and Computer Engineering Antoine Ferreira received his MS and PhD degrees in electrical and electronics engineering from University of Franche-Comté, Besançon, France, in 1993 and 1996, respectively.  Effects of Excitation Control Systems on Parallel Operation of Distributed Generations with the Main Grid.  ASME, founded as the American Society of Mechanical Engineers, is a not- for-profit membership organization that enables collaboration, knowledge sharing, career enrichment, and skills development across all engineering disciplines, toward a goal of helping the global engineering community develop solutions to benefit lives and IOSR Journal of Mechanical and Civil Engineering (IOSR-JMCE) is a double blind peer reviewed International Journal that provides rapid publication (within a month) of articles in all areas of mechanical and civil engineering and its applications.  Electrical and electronics engineers design, plan, research, evaluate and test electrical and electronic equipment and systems.  Electrical engineers typically possess an academic degree with a major in electrical engineering, electronics engineering, electrical engineering technology, or electrical and electronic engineering.  The journal publishes original research and review articles that are prepared in accordance with ethical guidelines.  I have published in Electrical Engineering journals such as IEEE transactions on Wireless Communications, IEEE transaction on Vehicular Technology, IET Communications and IET Circuit, Device and System. : D12-21E-PDF &quot;The Maritime Engineering Journal is an unofficial publication of the Canadian Armed Forces published by the Director General Maritime Equipment Program Management.  The role of the Canadian Journal of Electrical and Computer Engineering is to provide scientific and professional activity for its members in Canada, the CJECE complements international journals and will be of particular interest to anyone involved in research and development activities in the field of electrical and computer engineering.  With Open Access, Science Publishing Group (SPG) allows us to distribute knowledge more widely and at a lower cost than was previously possible.  According to the Labour Force Survey (2015), in Canada, 12% of workers in this group were self-employed, while the average for all occupations was 14%.  Published since 1973, Computers &amp; Electrical Engineering provides rapid publication of topical research into the integration of computer technology and computational techniques with electrical and electronic systems.  .  Calgary, Alberta, May 26-29, 1996, pp 851-954.  At that time, the symbol that now appears as the right hand portion of the IEEE Canada logo (displayed at the top of this page) was adopted as the Canadian Journal on Electrical and Electronics Engineering.  This is a list of possibly predatory journals.  36, pp.  He received his BSc and MSc degrees in Electrical Engineering at Isfahan University of Technology, Iran.  Sheldrake.  Journal of Engineering Technology is an international scholarly refereed research journal.  It covers the original, scientific, theoretical and applied research in the field of Soft Computing. com Research and Reviews: Journal of Engineering and Technology renders a global platform for important scientific discussions in all the associated areas of engineering and technologies.  IOSR Journal of Electrical and Electronics Engineering 10 (5), 29-34, 2015 2 Design of Low Noise Amplifiers at 10 GHz and 15 GHz for Wireless Communication System canadian journal of electrical and computer engineering-revue canadienne de genie electrique et informatique quarterly issn: 0840-8688 e-issn: 0840-8688 ieee canada, universite laval, dept genie electrique, quebec city, canada, pq, g1k 7p4 coverage To begin with, it is important to distinguish the difference between electric and electronic engineering.  It is frequently used as a proxy for the relative importance of a journal within its field, with journals with higher impact factors deemed to be more important than those with lower ones.  Learn more about our review confidentiality policy and check the review model for Wiley journals.  Venkataramanan, and M.  He has published over 70 papers in international journals and conferences, along with book authorship and chapter contribution.  (2010).  IEEE Canada provides a high quality general interest magazine, a technical journal, an electronic newsletter, an annual conference, and web services designed for all IEEE Canada members, as well as support for our volunteer network of local Sections, Chapters, and Student Branches.  1994).  Worldwide readership and database coverage.  Sanjeevikumar Padmanaban received his Bachelor of Engineering (Electrical &amp; Electronics), Master of Technology (Electrical Drives &amp; Control), and Ph.  Professor PhD, PEng, FRSC, FCAE, LFIEEE, FASME, FIET, FEIC My Research Group.  He was elected Fellow of CSME (Canadian Society for Mechanical Engineering), EIC (Engineering Institute of Canada), AAAS (American Association for the Advancement of Science) ASME (American Society of Mechanical Engineers), IEEE (Institute of Electrical and Electronics Engineers), and CAE (Canadian Academy of Engineering) for his work on micro The online edition of the electrical industry monthly electrical business magazine, provides technical, business and industry-related information.  Journal of Instructional Development.  University Admission Open Joseph Palais, Professor School of Electrical, Computer and Energy Engineering Ira A. 001; SJR: 0.  IEEE—that is, the Institute of Electrical and Electronics Engineers.  Engineering journal | Journal Impact Factor List provide the complete list of journals with last 10 years impact factor, hindex and sjr impact factor.  The publication language of the journal is English.  Canadian Journal on Electrical and Electronics Engineering is an open access e-journal encompassing broad spectrum of topics in electrical and electronics engineering.  In 1997, he was a Visiting Researcher at the ElectroTechnical Laboratory, Tsukuba, Japan. , &amp; Rasouli, M.  Journal of Engineering and Technological Sciences, ISSN: 2337-5779, E-ISSN: 2338-5502 Welcomes full research articles in the area of Engineering Sciences from the following subject areas: Aerospace Engineering, Biotechnology, Chemical Engineering, Civil Engineering, Electrical Engineering, Engineering Physics, Environmental Engineering, Industrial Engineering, Information Engineering He received the Ph.  It aims at disseminating original research and practical systems contribution in form of research papers, tutorials, survey articles from Australian Journal of Electrical and Electronics Engineering Submit an article Journal homepage. ca receives about 29.  This paper presents the bifurcation analysis of fractional order model of delayed single cell which is proposed for delayed cellular neural networks with respect to the time delay τ.  by November 11, 2016).  For the 2017-2018 academic session, he was selected by third-year Computer Engineering students and fourth-year Electrical Engineering students as a Professor of the Year.  Department of Building, Civil and Environmental Engineering Department, Concordia University, Montreal, QC H3G 1M8 Canada.  cm.  Ahmad Salah, Osama Moselhi .  About 15,000 papers are added annually.  via Wikipedia.  Liu and F.  This is not intended to be a theoretical document, nor a technical catalogue, but, in Sign in with your EVISE or Elsevier profile A single login credential that grants access to EVISE and other Elsevier products including ScienceDirect, Scopus and Mendeley credentials The following is a partial list of scientific journals.  AASHTO American Concrete Institute (ACI) Manual of Concrete Practice International Journal of Electric Power Systems Research, 88, 1-8.  1994 (also presented at rump session of CRYPTO &#39;94, Santa Barbara, Calif.  Clarivate Analytics published the InCites Journal Citations Report for 2017.  Over 1000 electrical workers die each year from workplace accidents.  Trade Magazines Electrical engineers typically possess an academic degree with a major in electrical engineering, electronics engineering, electrical engineering technology, or electrical and electronic engineering.  In 1963, the Bulletin of Electrical Engineering Education evolved into the peer-reviewed International Journal of Electrical Engineering Education (IJEEE).  The journal considers articles in the form of a research article, review article, technical note, short commentary, conference proceedings etc.  Johnson, G. The kernel for this list was extracted from the archive of Beall’s list at web.  degree from the University of Southern California in 1989, also in electrical engineering. I.  IJSC started publishing activity in 2006, since that time, it is available in online and print format.  Weimin Huang is an Associate Professor with the Department of Electrical Engineering and Computer Engineering at Memorial University.  Tavares, &quot;On the Security of the CAST Encryption Algorithm&quot;, Proceedings of Canadian Conference on Electrical and Computer Engineering (CCECE &#39;94), Halifax, Nova Scotia, Sep. The journal therefore addresses the field of ‘Engineering of Intelligent Systems’.  Journal of Negro Education Online Submissions.  The International Journal of Electrical Engineering Education&#39;s origins date back to 1948, when the world’s first stored-programme digital computer ran at the University of Manchester.  Journal of Construction Engineering; Journal of Control Science and Engineering; Journal of Diabetes Research; Journal of Drug Delivery; Journal of Electrical and Computer Engineering; Journal of Energy; Journal of Engineering; Journal of Environmental and Public Health; Journal of Food Quality; Journal of Function Spaces; Journal of Geological Electrical and Computer Engineering, Canadian Journal of -- 0840-8688 IEEE - Institute of Electrical and Electronics Engineers, Inc.  The bifurcation points, time delay τ c, are determined by modified Mikhailov stability criterion for a range of B.  Canizares is the recipient of various IEEE Power &amp; Energy Society (PES) Technical Committee and Working Group awards and recognitions, and has held/holds several leadership positions on various IEEE Read the latest articles of Journal of Systems Engineering and Electronics at ScienceDirect. , Aug.  International Journal on Electrical Engineering and Informatics is a quarterly publication peer reviewed journal in electrical engineering and informatics. 2561, High Impact Factor Journal, Online and Print Mode, Indexed Journal, Electronics Engineering Journals, Journal Publication in Chennai, Journal Publication in India, Journal Subscription in India, Engineering Journals Subscription, Technology Journals Subscription, Management Journals A number of issues related to the development of these systems for the different application areas are common.  Electrical engineering is one of the newer branches of engineering, and dates back to the late 19th century.  Articles published in JEE are now available at Wiley Online Library. com. 71% of its total traffic.  The Journal of Higher Education Online.  in Electrical (Biomedical) Engineering (Indian Institute of Science, Bangalore, India) P.  Helen and John C.  Over the time it has been ranked as high as 396 599 in the world, while most of its traffic comes from Canada, where it reached as high as 27 442 position.  News Alerts.  1987 Institute of Electrical &amp; Electronics Engineers, IEEE, Life Fellow She is a Fellow of the American Society of Mechanical Engineers (ASME - 2017), a Senior Member of the Institute of Electrical and Electronics Engineers (IEEE), a member of Canadian Society of Mechanical Engineering (CSME) and a Registered Professional Engineer in the Province of Nova Scotia, Canada.  An online LaTeX editor that&#39;s easy to use.  Aims and Scope: The International Journal of Electrical Engineering is a international scholarly journal which publishes original research findings in power generation, transmission and conversion, electrical machinery, control theory and industrial controls, robotics, electrical transportation equipment (including magnetic levitation devices At the age of 35, she became the youngest full professor at MIT, where she taught chemical engineering.  Maeser Research and Creative Arts Award, BYU (2012) Committee/Council Chair, Graduate Committee, January 2018 I also hold another PhD degree in electronics and telecommunications from the University of Limoges, Xlim CNRS 6172 (France).  Electrica aims to contribute to the literature by publishing manuscripts at the highest scientific level on all fields of electrical and electronics engineering.  Journal of Further and Higher Education Online Submissions. E. T) Indore, where he directs the research lab on ‘CAD for Consumer Electronics Hardware Device Security &amp; Reliability’.  If you have any comments or inquiries, please send them to index@oalib. 99) 5-Journal of Advanced and Applied Sciences 6-Computational Research Progress in Applied Science &amp; Engineering (ICONDA)(TRB)(Index Copernicus) Clarivate Analytics published the InCites Journal Citations Report for 2017.  Three external Web sites offer general guidelines and sample references: Canadian Journal of Electrical and Computer Engineering Sample Reference Formats; IEEE Computer Society Style Guide Sign in to view your account details and order history.  The journal links engineering, science, and technology disciplines.  Canadian Journal of Learning and Technology Turkish Journal of Electrical Engineering and Computer Sciences Universal Journal of Computer Science and Engineering 2009 – Fellow of the Engineering Institute of Canada (EIC) 2009 – Fellow of the Canadian Academy of Engineering (CAE) 2009 – Alberta Ingenuity Fund Research Excellence Award, APEGA; 2008 – Fellow of the Institution of Engineering and Technology (IET) 2007 – Fellow of the Institution of Electrical and Electronics Engineers (IEEE) Electric stimulation is known to initiate signaling pathways and provides a technique to enhance osteogenic differentiation of stem and/or progenitor cells.  Then, we’ll examine the C language syntax to declare a structure.  The aim of the Iranian Journal of Science and Technology Transactions of Electrical Engineering is to foster the growth of scientific research in all branches of electrical engineering and its related grounds and to provide a medium by means of which the fruits of these researches may be brought to the attentionof the world’s scientific communities.  The 30th annual IEEE Canadian Conference on Electrical and Computer Engineering (IEEE 2017 CCECE) will be held in Windsor, Ontario, Canada from April 30 to May 3, 2017.  ISSN: 1923-0540.  The same fundamental principles are taught in all programs, though emphasis may vary according to title.  Handbook of electrical engineering : for practitioners in the oil, gas, and petrochemical industry / Alan L.  International Journal of Innovations in Engineering and Technology (IJIET)is a scholarly online, open access, peer-reviewed, Impact factor – 0.  Assistant Professor (tenured, October 1996 -January 1998), Department of Electrical and Electronic Engineering, Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh. , Province of Alberta, Canada.  Special Issue Special issue is an effective way for researchers to focus on a hot topic for an in-depth study.  Journal of Engineering and Technology (JET) OPEN ACCESS JOURNAL ISSN: 2180-3811 E-ISSN: 2289-814X. ca receives about 22.  Data mining is a subfield of computer science that focuses on the design of algorithms to extract useful information or models from data. B.  Best university of Bangladesh.  Its aims are to promote the theory and practice of Engineering, Technology, Implementation.  93-101, 2013.  The research journal ELEKTRONIKA IR ELEKTROTECHNIKA publishes previously unpublished high scientific level articles imposed not only for specialists but also to the wider public.  Heys and S.  The new system will allow the publishers as well as the JEE team to make publishing more efficient.  The purpose is to have a forum in which general doubts about the processes of publication in the journal, experiences and other issues derived from the publication of papers are resolved.  Department of Electrical and Electronics Engineering, Faculty of Engineering Adnan Menderes University, Aytepe Central Campus-09100 Aydin, Turkey.  Manjrekar, ``A Hybrid Solid State Phase Shifter for Continuous Phase Shift Control in Transmission Lines,&#39;&#39; Proceedings of the 1996 Canadian Conference on Electrical and Computer Engineering.  Major fields of interest include electronics and communications, electric energy, instrumentation and control, and automation.  The Journal of Scholarship of Teaching and Learning Online.  Trade publications may or may not contain peer-reviewed content; check with the publication&#39;s website to find more information.  If you have a great topic or idea, you can propose a special issue and you will have the opportunity to be the Lead Guest Editor of the special issue.  It is the branch of engineering that deals with the technology of electricity textbook on Electrical Engineering Economics, Optimal location, technology and capacity planning in the field of biogas, traditional engineering economics E.  This commonality in experience across these fields will be drawn out in papers in the journal.  Rajni Patel. ca is the “go-to” online resource for electrical contractors, plant electrical personnel, electrical consulting engineers and electrical distributors, for industry news, product sourcing and technical know-how… all from a Canadian perspective. 4GHz RFID in a Standard CMOS Process,&quot; IEEE Canadian Journal of Electronics and Computer Engineering, Vol.  1987 University of Manitoba, Faculty Association Merit Award in Research.  View account Sign out JOURNAL OF ELECTRONICS AND COMMUNICATION ENGINEERING &amp; TECHNOLOGY (JECET), Journal Impact Factor (2016)=2.  This report includes province-level projections of supply and demand for engineers and serves to highlight the continued importance of engineers to the Canadian economy. stuba.  Canadian Journal of Electrical and Computer Engineering | Citations: 59 | The CJECE publishes material in both English and French under three main headings: (a) Technical papers of between 3,000 Canadian Journal of Electrical and Computer Engineering.  Journals.  People of the Department of Electrical &amp; Computer Engineering.  Journal of General Education Online Submissions - NOT availiable at this time. It emerged as an identified activity in Wiley also publishes its books in a variety of electronic formats.  The Sexton Library has the largest standards collection in the Maritimes.  There is a large and growing need to replace retiring engineers.  The journal “Electrical Engineering” following the long tradition of Archiv für Elektrotechnik publishes original papers of archival value in electrical engineering with a strong focus on electric power systems, smart grid approaches to power transmission and distribution, power system planning, operation and control, electricity markets Engineers Canada is pleased to publish its Engineering Labour Market in Canada: Projections to 2025.  International Journal of Advanced Research in Electrical, Electronics and Instrumentation Engineering (IJAREEIE) is a scholarly international journal that publishes original research articles in the fields of Electrical, Electronics and Instrumentation.  Balancing gas supply and costs.  Journal Impact Factor (IF) is a measure reflecting the average number of citations to articles published in science and social science journals.  Engineering today brings us a monthly journal, magazine/newspaper and newsletter, of which are available to members.  Malaysian Matriculation Student’s Factors in Choosing University and Undergraduate Program Norbahiah Misran1, 2, Sarifah Nurhanum Syed Sahuri 1, 2, Norhana Arsad1, Hafizah Hussain1, 2, Wan Mimi Diyana Wan Zaki1 &amp; Norazreen Abd Aziz 1 1 Department of Electrical, Electronic and System Engineering, Universiti Kebangsaan Malaysia, Selangor, Malaysia.  The CJECE (ISSN-0840-8688), issued quarterly, has been publishing high-quality refereed scientific papers in all areas of electrical and computer engineering since 1976.  The Journal considers only manuscripts that have not been published (or submitted simultaneously), at any language, elsewhere.  International Journal of Engineering Research and Applications (IJERA) is an open access online peer reviewed international journal that publishes research and review articles in the fields of Computer Science, Neural Networks, Electrical Engineering, Software Engineering, Information Technology, Mechanical Engineering, Chemical Engineering, Plastic Engineering, Food Technology, Textile The Department of Electrical, Computer and Biomedical Engineering is the largest department in the Faculty of Engineering and Architectural Science (FEAS) at Ryerson University.  p.  Email for correspondence: cdeniz@adu.  2017-Jun-14 Thomson Reuters published the Journal Citations Report for 2016.  The Journal of Engineering Education is supported in part by the Clemson University College of Engineering, Computing and Applied Sciences. 81% of its total traffic.  IEEE All-Society Periodicals Package (ASPP), brought to you via the IEEE Xplore digital library, is available online or in print and provides access to the IEEE core collection of engineering, electronics, and computer science periodicals.  The new JEE Journal is designed to be able to manage the increasing number of published articles.  Articles are indexed in IET Inspec, Science Citation Index (SCI and SCI-E), Google Scholar, Scopus and Ei Compendex, allowing for easy discovery of content.  My past and present research focuses on the mapping of oceanic surface parameters via high frequency ground-wave radar and, more recently, ocean surface target detection and tracking and wave and current information extraction from ocean clutter using INTERNATIONAL JOURNAL OF ELECTRONICS AND COMMUNICATION ENGINEERING &amp; TECHNOLOGY (IJECET), Journal Impact Factor (2016)=8.  Electrical and electronic products have become an integral part of the current economy and, with the development of newer technologies, the life span of these products are getting shorter.  It is the ideal starting The Journal of Engineering Science and Technology Review (JESTR) is a peer reviewed international journal publishing high quality articles dediicated to all aspects of engineering.  CRP was listed on Beall&#39;s list before it was taken down in 2017 and is considered to engage in predatory publishing practices.  Electric engineering covers the large-scale production and distribution of electrical power, whereas electronic engineering is about much smaller electronic circuits, such as those found in computers and other modern technologies.  Fellow, IEEE: Institute of Electrical and Electronics Engineers Fellow, EIC: Engineering Institute of Canada The Encyclopedia of Electrical and Electronics Engineering is a unique, comprehensive reference work that defines the entire discipline, bringing together the core knowledge from every one of the many specialties encompassed by electrical and electronics engineering.  Citation search Journal of Electrical and Electronic Engineering (JEEE) , a peer-reviewed open access journal published bimonthly in English-language, aims to foster a wider academic interest in electrical and electronics engineering, including its intersection with physics. It will be updated as new information or suggested edits are submitted or found by the maintainers of this site.  Engineers Canada is the national organization of the 12 engineering regulators that license the country&#39;s 295,000 members of the profession. org. .  International Journal of Innovative Technology and Exploring Engineering (IJITEE) covers topics in the field of Computer Science &amp; Engineering, Information Technology, Electronics &amp; Communication, Electrical and Electronics, Electronics and Telecommunication, Civil Engineering, COMPEL - The international journal for computation and mathematics in electrical and electronic engineering Volume 31, Issue 6 Lateral forces on a magnet falling in a conducting pipe Xiao, a Fellow of the Institute of Electrical and Electronics Engineers (IEEE) and a Fellow of the Canadian Academy of Engineering, previously served as a Professor at Missouri University of Science &amp; Technology, and as a Program Director with the National Science Foundation’s Division of Electrical, Communications and Cyber Systems.  -Review and publication of your paper in the Canadian International Journal of Social Science and Education From Bentham Open, an online journal, which publishes research articles, reviews, and letters in all areas of electrical and electronic engineering.  COMPEL - The international journal for computation and mathematics in electrical and electronic engineering Volume List Issue(s) available: 177 - from Volume 1 Issue 1, to Volume 38 Issue 1 Electrical Engineering.  Citation search.  degree respectively from Madras University, Pondicherry University, India and Alma Mater Studiorum 1088AD - University of Bologna, Italy in 2002, 2006 and 2011.  They are employed by electrical utilities, communications companies, manufacturers of electrical and electronic equipment, consulting firms, and by a wide range of manufacturing, processing and transportation industries and government.  CCECE 2019 authors are invited to submit extended versions of their presented conference papers for publication in the IEEE Canadian Journal of Electrical and Computer Engineering (CJECE) special issue within four weeks of the conference final day.  Unique in New York City, the Department of Electrical and Computer Engineering offers a complete program in electrical power systems. D degrees from the University of New Brunswick, Fredericton, N.  69 likes. J.  IEEE Online Resources for Citation Formats Wiley is committed to ensuring integrity in the peer review process.  Maritime engineering journal : Canada&#39;s naval technical forum.  2009-present Member of the Editorial Board, International Journal of Electrical and Power Engineering American Journal of Engineering and Applied Sciences, an international journal publishes four times a year in print and electronic form.  About journal: Canadian Journal of Basic and Applied Sciences (CJBAS) ISSN 2292-3381 is a multidisciplinary OPEN ACCESS peer-reviewed journal that will be published monthly .  Her research interests lie at the interface of cybersecurity, signal processing and complex dynamical systems.  Areas included (but not limited to) are signal and system IOSR Journal of Electrical and Electronics Engineering (IOSR-JEEE) IOSR Journal of Mechanical and Civil Engineering (IOSR-JMCE) IOSR Journal of Electronics and Communication Engineering (IOSR-JECE) IOSR Journal of VLSI and Signal Processing (IOSR-JVSP) IOSR Journal of Mobile Computing &amp; Application (IOSR-JMCA) IOSR Journal of Environmental Journal of Electrical Engineering Faculty of Electrical Engineering and Information Technology jeeec@elf.  Institute of Electrical and Electronics Engineers (IEEE) In the IEEE system, references are signaled by numbers presented in square brackets on the same line as the sentence, and full citations are presented in a “References” list at the end of the paper.  Journal.  The lively monthly journal/magazines , News Paper incorporates news about members, the profession, technical advancement, job prospects, product and business news.  Bobby was awarded an Institute Medal for his work in Bachelor of Electrical Engineering program at the Thapar Institute of Engineering &amp; Technology, India.  Library of Congress Cataloging-in-Publication Data Sheldrake, Alan L.  There are thousands of scientific journals in publication, and many more have been published at various points in the past.  Fulton Schools of Engineering Arizona State University Tempe, AZ 85287-5706 Mission: The Journal of Engineering Education serves to cultivate, disseminate, and archive scholarly research in engineering education.  1 This paper is part of a Special Issue entitled the 33rd International Physics Conference of Turkish This is a category which contains journals published by Canadian Research Publication (CRP).  All you have to do is go to the publish section, get an account and start publishing. 672 interdisciplinary, bimonthly, and fully refereed journal focusing on theories, methods and applications in Engineering and relevant fields.  The benefits of publishing with us.  Computers &amp; Digital Techniques, IET -- 1751-8601 1 of 3 SHARIEF NASR SHARIEF ABDEL-RAZEQ CONTACT INFORMATION CITIZENSHIP University of Connecticut, Department of Electrical and Computer Engineering, Storrs, CT 06269-4157, USA.  Manuscript Submission Guidelines: International Journal of Electrical Engineering Education This Journal is a member of the Committee on Publication Ethics.  degree in Electrical Engineering from the University of Cambridge, England, in 1973 and currently holds the position of Distinguished University Professor and Tier-1 Canada Research Chair in the Department of Electrical and Computer Engineering with a cross appointment Search 286 Electrical Engineering faculty positions at colleges and universities on HigherEdJobs.  Science and Education plans to expand its open access publishing project to become a publisher of reasonable size.  Johns).  Manjrekar, “A Hybrid Solid State Phase Shifter for Continuous Phase Shift Control in Transmission Lines,” Proceedings of the 1996 Canadian Conference on Electrical and Computer Engineering.  International Journal of Electrical and Computer Engineering (IJECE, ISSN: 2088-8708, a SCOPUS indexed Journal, SNIP: 1.  Canadian Journal on Electrical and Electronics Engineering includes topics but not limited to: novel experimentation and theoretical work in field of electrical and electronics, circuits and devices, communication and information processing, electrical engineering communications, electromagnetics and microwave, instrumentation, measturement and Canadian Journal on Electrical and Electronics Engineering includes topics but not limited to: novel experimentation and theoretical work in field of electrical and electronics, circuits and devices, communication and information processing, electrical engineering communications, electromagnetics and microwave, instrumentation, measturement and Journal.  Karim Karim is a Professor in the Electrical and Computer Engineering department, the Associate Director of the Center for Bioengineering and Biotechnology (CBB), a Researcher in the Waterloo Institute of Nanotechnology, as well as the Director of Silicon Thin Film Applied Research at the University of Waterloo.  I also hold another PhD degree in electronics and telecommunications from the University of Limoges, Xlim CNRS 6172 (France).  You will also find historical details about our predecessor societies, IEEE and CSECE (which was part of EIC), as well as the history of our conference CCECE (Canadian Conference of Electrical and Computer Engineering), our journal CJECE (Canadian Journal of Electrical and Computer Engineering), and our magazine (IEEE Canadian Review).  For this purpose, we are in the process of launching more journals.  The EPEC 2016 authors are invited to submit extended versions of their presented conference papers for publication in the IEEE Canadian Journal of Electrical and Computer Engineering (CJECE) Special Issue within 4 weeks of the conference final day (i.  He then left the University of Windsor in 2008 in order to assume duties as an Associate Professor in the School of Engineering at The University of British Columbia | Okanagan, where he is currently employed.  Aim and Scpe : The International Journal of Electronics and Communication Engineering is a scholarly international journal that publishes original research papers in the fields of theory and design of circuits, systems and devices for electronics, signal processing, and communication.  Journal of Computer Science Journal of Computer Science and Control Systems Journal of Computer Science and Technology Journal of Computer Systems, Networks, and Communications Journal of Computers Journal of Computing Journal of Computing and Information Technology Journal of Control Science and Engineering Clarivate Analytics published the InCites Journal Citations Report for 2017. , Parniani, M.  in Electronics and Communication Engineering (University of Mysore, India) Ph.  The journal “Electrical Engineering” following the long tradition of Archiv für Elektrotechnik publishes original papers of archival value in electrical engineering with a strong focus on electric power systems, smart grid approaches to power transmission and distribution, power system planning, operation and control, electricity markets, renewable power generation, microgrids, power This occupation (Electrical and electronics engineering technologists and technicians) is part of a larger group called Technical occupations in electronics and electrical engineering (NOC 224). com, the world&#39;s largest job site.  After introducing structures, we’ll take a look at some of the important applications of this powerful data object.  ENGINEERING. ieee. archive.  It can be applied to analyze all kinds of data, and I believe that many opportunities lie in its applications in engineering.  Description.  On January 1, 1990, the name of the society was officially changed to the Canadian Society of Electrical and Computer Engineering (CSECE).  Aims &amp; Scope of the Journal.  Since 1990 he has been in the Department of Electrical and Computer Engineering at Brigham Young University and is currently a professor.  Malaysian Technical Universities Network (MTUN) is pleased to announce the Journal of Engineering and Technology (JET) as a platform that aims to provide an excellent opportunity for research scholars to share their latest research findings through this publication.  IHS Markit is your source for ASME standards and publications.  Bobby is a frequent speaker at national and international industry conferences and symposiums; and has published numerous conference and IEEE journal papers for his work in above areas.  The Open Electrical &amp; Electronic Engineering Journal.  As a consequence, the volume of electronic waste is increasing drastically around the globe.  Free to job seekers.  IEEE Canadian Conference on Electrical and Computer Engineering, 2011. 296; CiteScore: 0.  Trade publications are often produced by a commercial or society publisher and written for a more general audience than a scholarly journal.  This journal is an open access and peer reviewed monthly international journal.  Journal of Staff Mathematics Journals Share this page Mathematics is a fundamental branch of science that represents the study of basic concepts of numbers, space and quantity as well as application of these concepts in the fields of physics and engineering.  * The h5-index for this journal is calculated based on the citations statistics from Google Scholar.  Featuring product reviews, industry news for electrical contractors, plant electrical engineers, Journal Impact Factor (IF) is a measure reflecting the average number of citations to articles published in science and social science journals.  Canadian University of Bangladesh approved by UGC.  Department of Electrical and Computer Engineering at Johns Hopkins University.  This Journal recommends that authors follow the Recommendations for the Conduct, Reporting, Editing, and Publication of Scholarly Work in Medical Journals formulated by the International Committee of Medical Journal Editors (ICMJE).  More information can be found on the Journal web site.  Journal of Iranian Association of Electrical and Electronics Engineers, 4(1), 27-34.  (2007).  M. , Canada in 1983 and 1987 respectively in Electrical Engineering.  Estimates show that 10 Arc-Flash incidents occur every day in the uS.  Ali Khajehoddin completed his PhD in Electrical Engineering specialized in power electronics and their applications in renewable energy systems from Queen&#39;s University, Kingston, Ontario, Canada, in April 2010. M.  Please fill in this form to Receive our Newest media and Improvements.  At the age of 35, she became the youngest full professor at MIT, where she taught chemical engineering.  The bifurcation points, time delay τ c, are determined by modified Mikhailov stability criterion for a range of Welcome to Canadian University of Bangladesh.  He lectures in the areas of digital signal processing, digital image processing, and circuits.  The Journal of Engineering Science and Technology Review (JESTR) is a peer reviewed international journal publishing high quality articles dediicated to all aspects of engineering.  All this time it was owned by Institute of Electrical and Electronics Engineers of Canada, it was hosted by New Dream Network LLC.  Systems world view. com, Elsevier’s leading platform of peer-reviewed scholarly literature Canadian Biosystems Engineering provides a platform for rapid dissemination of novel and high impact research in engineering and biological sciences.  Canadian Journal Of Electrical And Computer Engineering-Revue Canadienne De Genie Electrique Et Info Impact Factor.  A triple alumna of ECE, Professor Kundur is also a Fellow of the Institute of Electrical and Electronics Engineers (IEEE), and the Canadian Academy of Engineering (CAE).  4-Canadian Journal of Basic and Applied Sciences (Index Copernicus)(GIF=0.  There are a variety of in vitro stimulation devices to apply electric fields to such cells.  Journal of Electrical and Electronic Engineering is an Open Access journal accessible for free on the Internet.  6 Protection, control and electrical devices | ABB Introduction Scope and objectives The scope of this electrical installation handbook is to provide the designer and user of electrical plants with a quick reference, immediate-use working tool.  The Engineering Institute of Canada (EIC) is a not-for-profit corporation originally founded in 1887 under the name “Canadian Society of Civil Engineers” (not to be confused with today’s CSCE which is the Canadian Society for Civil Engineering).  He is a member of the Institute of Electrical and Electronics Engineers, the IEEE Computer Society, and the American Society of Engineering Education Editorial Board, Electrical and Mechanical Journal; Editorial Board, ICTACT Journal on Microelectronics; Editorial Board, Signal and Information Processing, Whioce, 2018 onwards Editorial Board, Journal of Electrical and Computer Engineering(2013-2017) Editor - Electronics, Cogent Engineering (2014) Associate Editor, Canadian Journal of K.  Professor O’Leary is a senior member of the Institute of Electrical and Electronics Engineers.  The journal publishes papers featuring novel implementations of computers and computational techniques in areas like signal and Aims And Scope. Eng.  The listed h5 indexes were originated from Google Scholar Metrics updated in June 2017.  [C136] J.  2009-present Member of the Editorial Board, IEEE Transactions on Smart Grid .  The Biography.  See the IEEE section of this Web site. ieee has a high Google pagerank and bad results in terms of Yandex topical citation index.  He is a Fellow of the Institute of Electrical &amp; Electronic Engineering (IEEE), Royal Society of Canada, and Canadian Academy of Engineering.  Andreas Mandelis is a full professor of Mechanical and Industrial Engineering, of Electrical and Computer Engineering, and of the Institute of Biomaterials and Biomedical Engineering, University of Toronto</span>
+
+  </button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="file-navigation in-mid-page d-flex flex-items-start">
+
+  
+
+<details class="details-reset details-overlay select-menu branch-select-menu  hx_rsm" id="branch-select-menu">
+
+  <summary class="btn btn-sm select-menu-button css-truncate"
+
+           data-hotkey="w"
+
+           
+
+           title="Switch branches or tags">
+
+    <i>Branch:</i>
+
+    <span class="css-truncate-target">master</span>
+
+  </summary>
+
+
+
+  <details-menu class="select-menu-modal hx_rsm-modal position-absolute" style="z-index: 99;" src="/victorfontes/django-mobile-helper/ref-list/master?source_action=disambiguate&amp;source_controller=files" preload>
+
+    <include-fragment class="select-menu-loading-overlay anim-pulse">
+
+      <svg height="32" class="octicon octicon-octoface" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M14.7 5.34c.13-.32.55-1.59-.13-3.31 0 0-1.05-.33-3.44 1.3-1-.28-2.07-.32-3.13-.32s-2.13.04-3.13.32c-2.39-1.64-3.44-1.3-3.44-1.3-.68 1.72-.26 2.99-.13 3.31C.49 6.21 0 7.33 0 8.69 0 13.84 3.33 15 7.98 15S16 13.84 16 8.69c0-1.36-.49-2.48-1.3-3.35zM8 14.02c-3.3 0-5.98-.15-5.98-3.35 0-.76.38-1.48 1.02-2.07 1.07-.98 2.9-.46 4.96-.46 2.07 0 3.88-.52 4.96.46.65.59 1.02 1.3 1.02 2.07 0 3.19-2.68 3.35-5.98 3.35zM5.49 9.01c-.66 0-1.2.8-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.54-1.78-1.2-1.78zm5.02 0c-.66 0-1.2.79-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.53-1.78-1.2-1.78z"/></svg>
+
+    </include-fragment>
+
+  </details-menu>
+
+</details>
+
+
+
+
+
+        <button type="button" class="btn btn-sm disabled tooltipped tooltipped-n new-pull-request-btn" aria-label="You must be signed in to create a pull request">
+
+          </button>
+
+
+
+  <div class="breadcrumb flex-auto">
+
+    
+
+  </div>
+
+ </div></div></div></main></div></div><div class="footer container-lg width-full px-3" role="contentinfo"><div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
+
+  </div>
+
+  <div class="d-flex flex-justify-center pb-6">
+
+    <span class="f6 text-gray-light"></span>
+
+  </div>
+
+</div>
+
+
+
+
+
+
+
+  <div id="ajax-error-message" class="ajax-error-message flash flash-error">
+
+    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"/></svg>
+
+    <button type="button" class="flash-close js-ajax-error-dismiss" aria-label="Dismiss error">
+
+      <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+
+    </button>
+
+    You can’t perform that action at this time.
+
+  </div>
+
+
+
+
+
+    
+
+    
+
+    
+
+    
+
+  <div class="js-stale-session-flash stale-session-flash flash flash-warn flash-banner" hidden
+
+    >
+
+    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"/>
+
+    </svg>
+
+    <span class="signed-in-tab-flash">You signed in with another tab or window. to refresh your session.</span>
+
+    <span class="signed-out-tab-flash">You signed out in another tab or window. to refresh your session.</span>
+
+  </div>
+
+  <template id="site-details-dialog">
+
+  <details class="details-reset details-overlay details-overlay-dark lh-default text-gray-dark hx_rsm" open>
+
+    <summary role="button" aria-label="Close dialog"></summary>
+
+    <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast hx_rsm-dialog hx_rsm-modal">
+
+      <button class="Box-btn-octicon m-0 btn-octicon position-absolute right-0 top-0" type="button" aria-label="Close dialog" data-close-dialog>
+
+        <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+
+      </button>
+
+      <div class="octocat-spinner my-6 js-details-dialog-spinner"></div>
+
+    </details-dialog>
+
+  </details>
+
+</template>
+
+
+
+  <div class="Popover js-hovercard-content position-absolute" style="display: none; outline: none;" tabindex="0">
+
+  <div class="Popover-message Popover-message--bottom-left Popover-message--large Box box-shadow-large" style="width:360px;">
+
+  </div>
+
+</div>
+
+
+
+  <div aria-live="polite" class="js-global-screen-reader-notice sr-only"></div>
+
+
+
+  </body>
+
+</html>
+
+

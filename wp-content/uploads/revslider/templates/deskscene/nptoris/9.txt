@@ -1,0 +1,33 @@
+
+<html>
+<head>
+<META http-equiv="Context-Type" context="text/html;charset=windows-1251">
+<META name="Author" content="Elena P. Chernikova">
+<meta name="DESCRIPTION" content="{keyword}">
+<meta name="KEYWORDS" content="{keyword}">
+<title>{keyword}</title>
+
+ 
+<LINK REL="stylesheet" 
+TYPE="text/css" 
+TITLE="tema" href="css/tema.css">
+</head>
+
+<body class="next">
+<h1>{keyword}</h1>
+<p> 
+<table width="99%" border="1">
+  <tr align="center"> 
+    <td width="134%" height="52" align="left"> 
+      <div align="center"> <!-- <a href="http://www.Beeonline.ru" target="_blank">www.Beeonline.ru</a> "БиОнЛайн.ру"- 
+        Проект компании "Вымпелком" построения сервисного портала для аудитории 
+        мобильных пользователей. -->
+      {manytext_bing}  </div>
+    </td>
+  </tr>
+</table>
+<p> <br>
+  </p>
+<center> <img src="images/myup.gif" width="83" height="17" alt="На начало" border="0"> </center>
+</body>
+</html>

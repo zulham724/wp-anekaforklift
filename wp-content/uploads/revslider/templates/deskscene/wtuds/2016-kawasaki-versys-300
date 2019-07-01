@@ -1,0 +1,475 @@
+
+
+<!DOCTYPE html>  
+
+<html lang="ru">
+
+  <head>
+
+    <meta name='yandex-verification' content='7245bde594e40266' />
+
+    <meta name='yandex-verification' content='7f74c136b68218c3'/>
+
+    <meta name="google-site-verification" content="-4I7BtrrbyXzA9wUUkLG4JhY9emKxTKiMLOZDJ9Ay9c" />
+
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+
+    <link rel="shortcut icon" href="http://megapoisk.com/favicon.ico" type="image/x-icon" />
+
+    <link rel="icon" type="image/png" href="http://megapoisk.com/favicon.png" />
+
+
+
+    
+
+    <title>2016 kawasaki versys 300</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    
+
+    <link  type="text/css" href="http://megapoisk.com//css_/jquery-ui.min.css" rel="stylesheet" />
+
+    <link href="http://megapoisk.com/css_/styles.min.css?1" rel="stylesheet" type="text/css" />
+
+    <link href="http://megapoisk.com/css_/mobile.css" rel="stylesheet" type="text/css" />
+
+    
+
+     
+
+        
+
+
+
+                      <meta name="Description" content="2016 kawasaki versys 300" />
+
+                      <meta name='advmaker-verification' content='cbb3e8f66ecbeda293b984eb2889b3fc'/>
+
+            
+
+   
+
+     
+
+
+
+  </head>
+
+  <body>
+
+
+
+    <!--begin fb sdk-->
+
+    <div id="fb-root"></div>
+
+     <div><img src="//mc.yandex.ru/watch/29400735" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+
+
+
+    <div id="up"></div>
+
+    
+
+    
+
+    
+
+    <div style="position:absolute; top:10px; width:100%; min-width:950px; left:0px; z-index:9999; display:none;" id="iFramePredprosmotrBlock">
+
+     <div style="width:60%; margin:0px auto; box-shadow: 0 0 20px rgba(0,0,0,0.3); position:relative; background-color:#ffffff; border:solid 1px #cccccc;">
+
+        <div class="whiteGradient" onclick="close_predpros();" style="font-style:italic; font-size:13px; color: #555555; box-shadow: 0 0 5px rgba(0,0,0,0.2); padding:7px; padding-left:20px; padding-right:20px; position: absolute; top:15px; right:-10px; border:solid 1px #cccccc; cursor:pointer; text-align:center; ">
+
+             Закрыть
+
+        </div>
+
+        <div id="ipredprosmotr" style="padding:20px; width:100%;">
+
+        </div>
+
+     </div>
+
+    </div>
+
+    <div id="globalHiderBlock"></div>
+
+        <div id="fullVideoContainer">
+
+    <div class="fullVideoInside">
+
+       <div id="FVtitle" ></div>
+
+        <div id="iFullmp4Video" style="display:none;">
+
+             
+
+         </div>
+
+         <iframe id="iFullVideoFrame" allowfullscreen></iframe>
+
+        
+
+         <div onclick="$(this).prev().attr('src', ''); tryCloseVideo();" class="closePhoto2">X</div>
+
+        
+
+         
+
+         <div id="FVComents" style="margin-top:10px; text-align:left;"></div>
+
+    </div>
+
+    </div>
+
+
+
+    <!-- ALFAVIT -->
+
+    <div id="resultLiteraContiner"  style="display:none; position:absolute !important; width:1000px; left:calc(50% - 500px); z-index:9999999; padding-top:10px; text-align:left;">
+
+    <div style="width:1000px; box-shadow: 0 0 10px rgba(0,0,0,0.6); background-color:#ffffff;  border:solid 1px #dddddd; padding-bottom:20px; position:relative;">  
+
+      <div style="text-align:center; margin-top:10px;">
+
+          </div>
+
+    <div id="ialfavitsepline" style="border-top:solid 1px #dddddd; margin-top:10px;"></div>
+
+      <div id="resultLitera" style="width:740px; float:left; padding:20px;">
+
+        <div style="text-align:center;"><img src="http://megapoisk.com/img_/loading.gif" alt="" /></div>
+
+      </div>
+
+      <div id="iblockcategories" style="width:250px; float:right; border-left:solid 1px #dddddd; padding:10px;">
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10014');" class="word icatsitems">Аварийные службы</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10001');" class="word icatsitems">Автомототранспорт</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10002');" class="word icatsitems">Бизнес</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10021');" class="word icatsitems">Для потребителя</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10007');" class="word icatsitems">Дом и семья</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10720');" class="word icatsitems">Животные и растения</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10013');" class="word icatsitems">Здоровье и медицина</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '15816');" class="word icatsitems">Интересные сайты</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10005');" class="word icatsitems">Интернет</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10004');" class="word icatsitems">Компьютеры</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10003');" class="word icatsitems">Культура и искусство</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10018');" class="word icatsitems">Наука</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '11772');" class="word icatsitems">Непознанное</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10009');" class="word icatsitems">Новости, СМИ</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10019');" class="word icatsitems">Образование</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10016');" class="word icatsitems">Общество и государство</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10017');" class="word icatsitems">Промышленность</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10319');" class="word icatsitems">Психология</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10726');" class="word icatsitems">Работа и трудоустройство</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10006');" class="word icatsitems">Развлечения</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10024');" class="word icatsitems">Религия</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '11771');" class="word icatsitems">Рестораны, кафе, ТРЦ</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10008');" class="word icatsitems">Родители и дети</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10739');" class="word icatsitems">Сельское хозяйство</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10022');" class="word icatsitems">Спорт</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10015');" class="word icatsitems">Справки и информация</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10103');" class="word icatsitems">Строительство и ремонт</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10708');" class="word icatsitems">Телефония и связь</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10760');" class="word icatsitems">Торговля</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10010');" class="word icatsitems">Туризм, путешествия, отдых</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10775');" class="word icatsitems">Услуги</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10715');" class="word icatsitems">Финансы</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10020');" class="word icatsitems">Хобби, рукоделие</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '');" class="word icatsitems"></div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '');" class="word icatsitems"></div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '');" class="word icatsitems"></div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '');" class="word icatsitems"></div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '');" class="word icatsitems"></div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '');" class="word icatsitems"></div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '');" class="word icatsitems"></div>
+
+              </div>
+
+      <div id="iresultBlock" style="width:50%; float:right; border-left:solid 1px #dddddd; padding:20px; display:none; text-align:left;">
+
+        <div style="text-align:center;"><img src="http://megapoisk.com/img_/loading.gif" alt="" /></div>
+
+      </div>
+
+      <div style="clear:both;"></div>
+
+      
+
+                            </div>
+
+                            <div class="inslideMenu level1" id="studyinsidecat10708">
+
+              
+
+              </div>
+
+            </div>
+
+                        <div class="iItem"   >
+
+                            <div onclick="document.location='http://megapoisk.com/turizm-puteshestviya-otdyih_izbrannoe';">
+
+           
+
+                            </div>
+
+                            <div class="inslideMenu level1" id="studyinsidecat10010">
+
+              
+
+              </div>
+
+            </div>
+
+                        <div class="iItem"   >
+
+                            <div onclick="document.location='http://megapoisk.com/uslugi_izbrannoe';">
+
+              
+
+                            </div>
+
+                            <div class="inslideMenu level1" id="studyinsidecat10775">
+
+              
+
+              </div>
+
+            </div>
+
+                        <div class="iItem"   >
+
+                            <div onclick="document.location='http://megapoisk.com/finansyi_izbrannoe';">
+
+             
+
+                            </div>
+
+                            <div class="inslideMenu level1" id="studyinsidecat10715">
+
+              
+
+              </div>
+
+            </div>
+
+                        <div class="iItem"   >
+
+                            <div onclick="document.location='http://megapoisk.com/hobbi_izbrannoe';">
+
+              
+
+                            </div>
+
+                            <div class="inslideMenu level1" id="studyinsidecat10020">
+
+              
+
+              </div>
+
+            </div>
+
+            
+
+          
+
+        </div>
+
+       
+
+    <div id="wrapper">
+
+      <div id="header">
+
+        <div id="searchLine">
+
+          <div class="HeaderTitleLogoText">
+
+             
+
+          </div>
+
+          <div class="AuthBlock">
+
+            <div class="AUthContainer">
+
+                                <!--noindex-->
+
+                  <div >
+
+                    
+
+                 
+
+                                          </div></div>                  </div>
+
+                                <div class="clearBlock">
+
+                                  <div class="SearchContainer">
+
+                                    <!-- PRE_SEARCH -->
+
+                                    <div id="PScontainer" style="width:100%; display:none; position:absolute; top:50px; height:20px; z-index:9999999; ">
+
+                                      <div id="presearch" style="width:80%;  text-align:left; background-color:#ffffff; border:solid 1px #dddddd;">
+
+                                        <div style="text-align:center;"><img src="http://megapoisk.com//img_/loading.gif" alt="" /></div>
+
+                                      </div>
+
+                                    </div>
+
+                                    <!-- PRE_SEARCH -->
+
+                                    <div class="stypeContainer">
+
+                                      <input class="searchTypeButRadio"  type="radio" name="type-s" value="yagoo"/>
+
+                                      <div class="TitleStype" style="cursor:pointer;" onClick="$(this).next().next().click();">WikipediA</div>
+
+                                      <input class="searchTypeButRadio"  type="radio" name="type-s" value="wiki" />
+
+                                      <div  class="StypeIcon searchTypeRadioBut "></div>
+
+                                      <div class="TitleStype" style="cursor:pointer;" onClick="$(this).next().next().click();"><span style="color:#4285F4;">G</span><span style="color:#EA4335;">o</span><span style="color:#FBBC05;">o</span><span style="color:#4285F4;">g</span><span style="color:#4285F4;">l</span><span style="color:#EA4335;">e</span></div>
+
+                                      <input class="searchTypeButRadio"  type="radio" name="type-s" value="google"  />
+
+                                      <div class="StypeIcon searchTypeRadioBut "></div>
+
+                                      <!--div class="TitleStype">Яндекс</div>
+
+              <input class="searchTypeButRadio"  type="radio" name="type-s" value="ya"   />  
+
+              <div class="StypeIcon searchTypeRadioBut "></div-->
+
+                                      <div class="TitleStype" style="cursor:pointer;" onClick="$(this).next().next().click();"><span style="color:#ff5050;">M</span>egapoisk</div>
+
+                                      <input class="searchTypeButRadio"  type="radio" name="type-s" value="all"   />
+
+                                      <div  class="StypeIcon searchTypeRadioBut  Active "></div>
+
+                                      <div class="clearBlock"></div>
+
+                                    </div>
+
+                                    <form action="/search/" onSubmit="$(this).attr('action', 'http://megapoisk.com/search/query/izbrannoe/'+$('#searchtext').val());" method="post" id="searchform">
+
+                                      <input style="z-index:999999; position:relative;" oninput="$('#searchform').attr('action', 'http://megapoisk.com/search/query/izbrannoe/' + $('#searchtext').val()+'/' ); get_pre_search('http://megapoisk.com/',$('#searchtext').val()); " name="searchtext" id="searchtext" tabindex="1" type="text" value="" autocomplete="off"  placeholder="Введите фразу для поиска" />
+
+                                      <!-- HIDDEN -->
+
+                                      <input type="hidden" name="s-typea" class="s-type" value="all"/>
+
+                                      <input type="hidden" name="section_tab" value="izbrannoe" />
+
+                                      <input type="hidden" name="bycat" value="1" />
+
+                                      <input type="hidden" name="bysite" value="1" />
+
+                                      <input type="submit" style="display: none;" value="" />
+
+                                      <!-- /HIDDEN -->
+
+                                      <input style="z-index:999999;" type="button" onClick="$('#searchform').attr('action', 'http://megapoisk.com/search/query/izbrannoe/' + $('#searchtext').val()+'/' ); submitSearchForm();" id="searchButton" value="  Начать поиск  "/>
+
+                                    </form>
+
+                                  </div>
+
+                                </div>
+
+                <!-- /Хлебные крошки -->
+
+                                                                          <div id="navigation">
+
+                  <ul >
+
+                                    <li id="menuButton" style="margin-right:-8px;"><h1>2016 kawasaki versys 300</h1></li>
+
+                                    <li class="menuItemLi ">
+
+                    <div class="menuItemIcon" style="background-position:-375px -6px;"></div>
+
+                   <!--noindex--> <b> Most Popular Discussions: 38.  When the Kawasaki Versys-X 300 was announced last fall, many of the specs were not announced; now, we’ve got some more of those details.  Specifications.  2016 Kawasaki Motorcycles Prices and Values Select any 2016 Kawasaki Motorcycles model Founded in 1896, Kawasaki Heavy Industries Ltd.  No services for 300+km.  In this case that The new Kawasaki Versys 650 is finally here - a bike many enthusiasts have been waiting for.  Bike Review Sponsors.  Official info for the 2019 VERSYS® 650 ABS - specs, photos, videos, brochure &amp; reviews. Please clarify.  This 2016 Kawasaki Versys 650 with 6,007 miles has been detailed and passes Motorcycles on Autotrader has listings for new and used 2016 Kawasaki Versys Motorcycles for sale near you.  Shop Southern California Motorcycles in Brea California to find your next Kawasaki Versys 650 LT Motorcycles. com.  03-16-2015 02 And if you want to accessorise, you&#39;ll be able to talk to your local dealer about the Versys-X 300 Urban package which includes a tank pad, a centre stand, hand shields and a 30-litre topbox, or the Versys-X 300 Adventure (tank pad, centre stand, engine guard, and 17-litre panniers).  The new for 2017 Kawasaki Versys-X 300 is an adventure-styled touring model, offering an entry level option capable of commuting and strong unsealed road performance.  Note : Price range may change depending upon your location.  It uses the same 296cc parallel-twin engine as the Ninja 300 2017-Kawasaki-Versys-X-300-20 By Kris Hodgson • 2 years ago • 2017 Kawasaki Versys-X 300.  Encuentra los mejores precios de motocicletas y seguros del mercado con nuestro comparador.  2016 All Name: Kawasaki Versys 650, Kawasaki Versys 650 ABS Code: KLE650FGF 2017 Double disc, 300 mm, 2-piston caliper (ABS) Rear brake FRAM Motorcycle Full-Flow Spin-on Oil Filter PH6017A USED 2016 KAWASAKI VERSYS® 650 ABS IN GRAY @ RIDENOW Notes from the Dealer About Us We know good times are associated with ATV, motorcycle, personal watercraft, scooter, and UTV, that is why at RideNow Powersports Tucson, we believe buying a new or used motorcycle, ATV or parts and accessories should be a fun experience.  The 2017 Kawasaki Versys-X 300 motorcycle is available with and without ABS.  The VERSYS-X 300 is an adventure-styled touring model that builds on the any-road any-time performance of Kawasaki’s VERSYS models by adding increased capability on unpaved roads.  There are a great deal of factors that affect the Kawasaki motorcycle 0-60 stats, so different sources may test the same bike and each may arrive at a unique 0-60 mph and quarter mile result.  Gasket Cover Clutch Kawasaki Versys 650.  Newly-designed 649cc parallel twin engine has more torque than the previous model.  Corbin Motorcycle Seats, Saddles, and Accessories Online.  Its adventure credentials are also verified by a 19-inch front wheel, dual-purpose IRC Trail Winner rubber, tall screen, wire spoked wheels and longer travel suspension.  1 day ago · Kawasaki Versys 300X.  for example the heated grip.  Lowers the rear suspension and reduces the seat height.  Kawasaki&#39;s futuristic, three-wheeled &quot;Concept J&quot; motorcycle is still happening after all.  Share this: Facebook.  Cash in hand for test ride.  KYN Motorcycle Exhaust Muffler Middle Link Pipe for Kawasaki Ninja 300 2013-2016 Ninja 250R 2008-2016 Middle Pipe Link for Kawasaki Z250 2013-2016 Z300 2015 2016 Slip-on.  We&#39;ve never been fans of Kawasaki&#39;s green livery.  View our full range of Kawasaki Versys-X 300 (KLE300C) Motorcycles online at bikesales.  Called the Versy-X 300, it’s tuned for low-and-mid-range power according to Kawasaki and comes with an assist and slipper clutch making the lever easier to pull.  According to ADV Pulse, the Versys-X 300 will make 39 hp at 11,000 RPM, probably the most of the rising mini-adventure class (including the Honda CRF250 Rally, BMW G310 GS, Suzuki V-Strom 250, and CSC Cyclone RX3).  The Kawasaki Versys 650 forum is for discussion of: General Versys conversation.  Kawasaki Versys X 300 2017 Precio Fotos Ficha T Cnica 2016 Ninja Videos 2016 This is the 3rd addition to Kawasaki’s Versys range.  You want to ride it for hours on end, but find your rear end aches from the lack of support and padding.  The Kawasaki Versys 650 (codenamed KLE650) is a middleweight motorcycle.  High quality lowering kit in roll forged steel made in United Kingdom.  BikeBandit. au – Australia’s number 1 motorbike classified website. 2016 There have been a string of new releases in the 250-300cc Adventure Bike range recently with offerings from Honda , BMW and Suzuki .  Kawasaki Versys 650 &amp; Versys-X 300 &amp; Z 650.  And there are good reasons for this.  THE KAWASAKI DIFFERENCE. I like the 300 best.  Accessories Bikers Yamaha XMAX 300 ; MT-03 / MT-25 2016/19 .  I&#39;ve been severely distracted by the advent of dirt bikes that can both carry Cycle World has specs and reviews on the 2017 Versys-X 300.  KAWASAKI 650 VERSYS 2015 &gt; 2016 R&amp;G Aero Crash Pads / Frame Sliders Bobbins - $109.  There is nothing more frustrating than having a great motorcycle with an uncomfortable seat.  Moto Werk online store features the latest products for Kawasaki Versys 650, Kawasaki Versys 1000, Kawasaki Versys X300, Ninja 650, Ninja 650R, Kawasaki ER-6N/F, Ninja 1000, Ninja 400R, Kawasaki Z1000, Kawasaki Z650, Kawasaki Z900, Honda CB500X, Honda CB500F, Honda CBR500R, and Honda NC700X.  6 days ago; Ryephile fueled-up their 2017 Kawasaki Versys-X 300.  Pictures.  While having some of the styling characteristics of the venerable KLR650 including the spoked wheels.  Kawasaki’s Versys family gets another member for 2017 – and it’s at the smaller end of the capacity range.  10. 00.  Canyon Dual Sport seat provides total comfort for you and a passenger on the Versys.  Fuel Maps, Ignition Maps, Secondary Throttle Plate Maps, RPM Limiters and many more advanced settings can be modified allowing you to tune your bike to the limit.  Power Engine 4-stroke, 2-cylinder, DOHC, liquid-cooled, 4 valves per cylinder parallel twin The 2016 Kawasaki Versys 650 ABS and all other motorcycles made 1894-2019.  kawasaki ninja 300 2015 15000 miles 30th anniversary edition 2016 videos. 1 and above.  2016 Kawasaki Versys 1000 LT Motorcycle Tires - BikeBandit.  As the name suggests, the new Versys-X 300 joins the adventure motorcycle range of Kawasaki that includes Versys 650 and Versys 1000, which will also receive new colours and graphic upgrades for 2017.  Kawasaki intègre en 2017 un nouveau trail dans sa gamme de motos.  Kawasaki Free Touring Package on Versys 650 &amp; Z1000SX Models 19th March 2019 Realise the full potential of your Versys 650 or Z1000SX and explore more by leaving nothing behind thanks to the increased carrying capacity offered by a free Touring package.  Kawasaki Versys The 2014 MY Kawasaki Versys 650 ABS comes with some new features that improve almost every aspect of the two-wheeler.  A slipper clutch, ABS, mini-fairing, spoke wheels and long travel suspension are standard, with a weight around 170kg, and seat height of around 80cm.  Very powerful Here’s our round up of Kawasaki @ EICMA 2016.  $299.  Get free shipping, 4% cashback and 10% off select brands with a Gold Club membership, plus free everyday tech support on aftermarket 2016 Kawasaki Versys 1000 LT KLZ1000 Tires &amp; motorcycle parts.  Established in (1975) Kawasaki Ireland has grown from strength to strength developing the Kawasaki name amongst a host of Kawasaki dealers around the country.  Price.  Parts Online diagrams for easy selection of Kawasaki Parts.  Suspension.  Je nach Version kostet sie 5800 bis 6700 Euro.  The ultimate Kawasaki Versys motorcycle enthusiast site for owners of the Kawasaki Versys motorcycle.  Woolich Racing 2016 Kawasaki Versys 1000 ECU Flashing products allow you to tune the maps and settings in the 2016 Kawasaki Versys 1000 ECU. 0 million miles driven in 146 Kawasaki Versys Kawasaki Versys MPG - Actual MPG from 146 Kawasaki Versys owners Click here to see important news regarding the aCar App Joining Kawasaki’s lineup for 2017 is the Versys-X 300, powered by the liquid-cooled, fuel-injected 296cc parallel twin from the Ninja 300 and boasting a 19-inch front wheel, available ABS and The big news from Kawasaki is a new addition to the Versys family.  Precision Power Sports 2018 Kawasaki Versys-X 300 ABS Designed to be the ideal travel partner, the Versys-X 300 is built for adventure.  Kawasaki has now released the full range of specs for the 2017 Versys-X 300, giving us a clearer picture of how it may perform in the dirt.  Our tail tidy units are easy to fit and transform the rear of the bike.  BikeWale take utmost care in providing you the accurate information about *Kawasaki Factory offers a standard warranty per model and vehicle category.  Join millions of people using Oodle to find unique used motorcycles, used roadbikes, used dirt bikes, scooters, and mopeds for sale.  The Versys-X 300 needs to be treated like an 85 – with a flurry of throttle, clutch and gearshift action – when it comes to keeping up with the traffic. Totalmotorcycle.  We spent 7 days, riding 2000+kms, starting from Chiang mai and ending in Bangkok.  Kawasaki Versys X-300 Ex-showroom starts at - ₹ 4,69,000 and Kawasaki KX250F [2016] Ex-showroom starts at - ₹ 7,52,000.  This new 2017 Kawasaki is made in Japan with an MSRP of $5,399.  29,610 results for kawasaki versys 650 2016 KAWASAKI VERSYS 650 ABS LT KQR 47 LITER TOP CASE TRIM - CANDY MATTE ORANGE Kawasaki VERSYS 300, 650,1000 Smart Official site of India Kawasaki Motors.  So, the grand total of a Kawasaki Versys-X 300 kitted out for touring and fitted with a top box rather than panniers and the above accessories, comes to £6,095.  Kawasaki Versys 300 fans and info 2016.  from other Kawasaki Versys-X 300 vehicles .  Find dealer inventory, schedule a test ride &amp; get a quote.  Kawasaki Versys 1000 Carbon Exhaust complete with Versys 1000 Link Pipe, Hanger Strap, Clamps and Removable Baffle/DB Killer. com USA Specifications/Technical Details US MSRP Price: $7999 USD.  Kawasaki Versys-X 300 Hand Guard Shell Set 99994-0992 2017-2018.  Reduces the seat height on the Kawasaki ninja 300 by lowering the rear suspension. D.  Plus petite et plus typée &quot;cross&quot; que les cossues Versys 650 et 1000, la Versys-X 300 pique le moteur des Z300 et Ninja 300.  The niche the Versys-X 300 attempts to fill is a manageable, approachable and economical adventure bike with versatility to handle a wide range of Adventure Touring scenarios. 52.  See prices, photos and find dealers near you.  People.  Page 1 VERSYS VERSYS ABS Motorcycle Service Manual; Page 3: General Information Quick Reference Guide General Information Periodic Maintenance Fuel System (DFI) Cooling System Engine Top End Clutch Engine Lubrication System Engine Removal/Installation Crankshaft/Transmission Wheels/Tires 10 j Final Drive 11 j Brakes 12 j Suspension 13 j Steering 14 j Frame 15 j Electrical System 16 j &gt;&gt;&gt; Kawasaki reveal new colour schemes for 2016 models.  Genuine kawasaki Parts for Kawasaki Road Motorcycles, Off Road Bikes, ATV Quad Bikes, Jet Ski, Mules, Accessories and Kawasaki Clothing fast shipping.  Search for genuine Kawasaki road bike parts by nickname, year and model.  We get you the complete details, images and more.  Motorcycles on Autotrader has listings for new and used 2016 Kawasaki Versys Motorcycles for sale near you.  Twitter. , U.  I&#39;ve been severely distracted by the advent of dirt bikes that can both carry luggage and push the ton at the same timeoff the pavement.  Kawasaki Versys-X 300 Adventure The Kawasaki Versys-X 300 has the same 300cc motor as the Ninja 300, but with a new chassis to suit it&#39;s mission.  It is powered by a restricted fuel-injected 649cm3 liquid-cooled, four-stroke Versys 300.  It is a Sport Touring Motorcycle and is for sale at $9699.  .  It is a Dual Sport Motorcycle and is for sale at $5400.  Difficult to explain and impossible to categorise, the Versys simply exceeds the sum of its parts. .  Kawasaki Versys 650 2016 is a Sports Bike class.  Hearing the rocks kick up against the underside of the machine made me all too aware of how exposed the new, twisting header pipes are.  08-02-2018 08:11 PM by xorbe.  It competes with bikes like the Suzuki V-Strom 250, and upcoming ones like the BMM G310GS and KTM Duke 390 Adventure in most markets.  The name Versys is a portmanteau of the words versatile and system.  Versys-X 250/300 In the midst of all its new and heavily updated models for 2017, Kawasaki also took the opportunity at surprising journos with the debut of its Versys-X 250/300 model.  Its combination of long-travel suspension, sporty 17” wheels, a slim upright riding position and a low-mid range focused parallel-twin engine result in a highly versatile package offering riders maximum riding excitement.  A new model last year, the Kawasaki Versys 650 LT returns unchanged for 2106.  Turbine smooth at all speeds, the little mill churns out 40 hp at 11500 rpm and 25.  Related Pages.  The own machine is the absolute heart of every motorbike rider.  Zero to 60 times does not guarantee the accuracy of any of the Kawasaki 0-60 mph times.  jlovering added a 2017 Kawasaki Versys-X 300 to their garage.  It borrows design elements from dual-sport bikes, standards, adventure tourers and sport bikes; sharing characteristics of all, but not neatly fitting into any of those categories.  Check out current Kawasaki motorcycles, locate a dealer, browse latest offers, events, service, motorcycle parts and accessory.  Skid Plate For Kawasaki Versys-X 300 KLE300 2017-2018 RB Frame Protector for 2015-2016 Kawasaki Versys 2016 versys 650 front brake master cyl.  There are some welcome returns along with a few young upstarts that’ll get your heart racing.  Provides the perfect blend of rider comfort and custom styling.  Cars.  The SW-Motech Sidestand Foot Enlarger expands the surface area of your existing kickstand to improve the bike’s balance on off-road surfaces and soft ground.  Ergonomically the Versys is spot on for my 6ft 2in frame with the hand, backside and foot positions offering a very satisfying upright riding position and the ability to have both feet flat on the floor at stops.  Shop with confidence. ) is southern Ireland’s official Kawasaki distributor.  phone holder, sw motech engine guard/cras bars 2016 kawasaki versys 1000 lt specs:en | otobekas The 2016 Kawasaki Versys 650 ABS model is nimble but nevertheless powerful with the fuel-injected 649cc parallel-twin engine.  2016 Kawasaki Versys 650 LT 2016 Kawasaki Versys 650 LT. It comes with a comfortable slim, upright riding position, and a windscreen with 2 inches of tool-free adjustment.  Suitable for the Kawasaki Versys 1000 (&#39;12-16).  Our Standard Lowering Kit for Kawasaki Versys 650 (2007-09 &amp; 2010-13 model years) was designed by Speedy to seamlessly fit your bike and to provide for easy, smooth installation in your garage.  Where&#39;s the fourth point?Other manufacturer&#39;s racks seem to connect to the bike&#39;s frame near the back of the seat / turn signals but it&#39;s not clear if the SU rack connects there.  Fuel economy of Kawasaki Versys 650 2016 is in city.  Versys-X 300 -mallissa yhdistyy ison all road -pyörän tyyli ja pienen pyörän käyttökulut. com is the web&#39;s Motorcycle tire leader, with fast &amp; free shipping over $99 always! Get your tires at BikeBandit.  We jump aboard and take it ‘any roads’ riding The new launched 2016 Kawasaki Versys 1000LT is an excellent bike, and its review is covered under www.  Test &amp; Photography: Kris Hodgson We’ve just done a review of the 2016 Kawasaki Versys 650L and not only is the Kawasaki a looker but it’s also an ideal choice for an all-rounder for Australian conditions.  SW-MOTECH Crash Bars Kawasaki Versys 300.  V STROM 650 XT.  kawasaki ninja 300 price spec reviews promo for may 2019 2016 videos. 1 MPG 2 weeks ago The most accurate Kawasaki Versys MPG estimates based on real world results of 1.  05-17-2019 04:29 PM by Mit der Versys-X 300 tritt eine neue Dreihunderter an, der Kawasaki hierzulande eine ganz ordentliche Karriere zutraut.  Discover over 246 of the best Selection Kawasaki Ninja 300 Stand on Aliexpress.  865 likes.  Item # 2100008-10.  Kawasaki designed them to help improve low- and mid-range performance, along with an updated airbox.  05-17-2019 04:29 PM by Project bikes come and go, but some are harder to let go than others.  Russell Cycle Products has been providing custom made bike seats for Kawasaki owners for over a decade.  Top &gt; Suche nach Bedienungsanleitungen (Motorrad) .  Discussions.  2016 Kawasaki Versys 1000 LT The Sport-Naked Goes Sport-Commuter Sadly, the entire Versys line is new to this guy.  The new 2016 Kawasaki Versys 1000LT also has hand guards for the comfort of a rider during harsh weather and has an adjustable windshield to avoid wind protection.  In order to maintain its value, you should always treat it with care and protect it from damage.  2016 Kawasaki Versys 650 LT.  the x joins the rest of Sure, as Fish says, any motorcycle can be a dirtbike if you believe in yourself, but the interesting thing about the Versys-X 300 isn’t whether or not it can function as a bona fide lightweight adventure bike, but rather how Kawasaki, who long dominated the beginner bike segment with their Ninja 250s and 300s, have offered up a legitimately new and different option for new riders.  CHECK OUT THE REST 2016 Kawasaki Versys® 650 ABS pictures, prices, information, and specifications.  The Kawasaki Versys-X 300 can do it all, and isn’t that far behind its big brother, the Versys 650.  Rating.  There are bikes from the Versys series available in the Indian market right now, namely Versys X-300, Versys 650 and the Versys 1000.  We have been the official importers of Kawasaki Motorcycles, Jetski’s and ATV’s into South Africa for the past 40 years.  KAWASAKI 650 VERSYS 2015 &gt; 2016 R&amp;G AERO CRASH PADS / FRAME SLIDERS BOBBINS AERO-STYLE CRASH PADS KAWASAKI 650 VERSYS 2015 &gt; 2016 Material: Steel core and mounting brackets.  Kawasaki has dropped an adventure themed entry level bike into its Versys line with the reveal of the Versys 300X.  Anodized Oil Filler Security Cap, Kawasaki Versys 650 / 1000.  Second bike ideas.  h20hamkawi.  Sales (877) 878-6253 1350 Lakeshore Drive #160 Coppell Texas 75019 2017 Kawasaki KLE300CHFL VERSYS-X 300 (ABS) Vehicle Information Year: 2017 Make: Kawasaki Model: KLE300CHFL VERSYS-X 300 | OTOBekas Here&#39;s our 2016 Kawasaki Versys 650L Review.  We have tested the Z300 which is sold in our country by Kawasaki India.  At 60 to 75 mph.  kawasaki ninja h2 and h2r two great videos from the qatar launch 2016 300.  The learner-approved motorcycle is equally at home as a commuter, tourer or weekend fun bike.  The Versys-X 300 is said to weigh in at 170kg. 399 atau kalau dirupiahkan setara Rp. com - delivering service &amp; quality since 1999. I.  It has a 6 speed manual transmission.  Kawasaki street bike parts at ChapMoto.  Sitting bike for 2 years.  Street manners are excellent; streaking through the I went from the DL650 to a versys 650 to a cb500x to the versys 300x .  Has not been in an accident or fallen over.  we add some extra to the bike, you can see pictures.  La Versys X 300, a diferencia de sus hermanas mayores, la 650 y la 1000, es la única Versys diseñada para circular fuera de vías pavimentadas, como lo demuestran sus llantas de radios -la delantera de 19 pulgadas- y sus neumáticos mixtos.  Besides, various selected Kawasaki Ninja 300 Stand brands are prepared for you to choose.  ANY ROAD, ANY TIME.  $6500 OBO.  Kawasaki Versys Parts ( 1 - 24 of 27 ) Kawasaki Versys 650, 2015-2016.  What do you get when you combine a Ninja 300 with a Versys? The answer is the 2017 Versys-X 300, Kawasaki’s gift to the growing market for entry-level bikers who want a little more freedom to explore.  I agree with Jgiacobbe on everything except that I find the 300 to be very good on the freeway, I set mine up for long distance running. com today.  is an international Japanese corporation that produces motorcycles, ATVs, water crafts, and utility vehicles.  Shad Top Case Rack Kawasaki Versys 650 2015-2019 G310R 2016-2018 G650GS 2011-2016 Versys-X 300 2017-2019 Kawasaki reveals new Versys-X 300 for 2017 at EICMA 9 th Nov 2016 10:45 am.  First, the BMW G 310 GS, then the Suzuki DL250 V-Strom and now the Kawasaki Versys-X 300! It was not a Motorcyclist staffer Zack Courts is always arriving to office after his commute with a bunch of opinions about the bike he’s riding.  Kawasaki Ninja 300 Forums.  Just when you thought adventure tourers were quite literally a big boy game, along came the Royal Enfield Himalayan.  When designing the Versys-X 300, the front suspension was an important part in terms of form and function, with great care taken into making the front suspension fit the adventure look from handlebar to axle.  The skid plate is made from precision CNC machined aircraft grade aluminum finished with black powder coating.  2016 Kawasaki ZX-636, ZX Page 11: Find Kawasaki Versys for Sale on Oodle Classifieds.  PLATE For Kawasaki Versys-X 300 17-18 Black Kawasaki KLZ1000 Versys 1000 Z1000 2016 The new Kawasaki Versys-X 300 is going into production, featuring the 296cc engine from the Z300.  2017-2018 Versys-X 300.  Too much this, not enough that, and occasionally has some I had a HONDA XRE 300, but she did not pick me up on the freeways.  We were eager to test these two do-it-all street-friendly liter-bikes head-to-head where their similarities and differences were revealed on the open road.  Sadly, the entire Versys line is new to this guy.  The Versys 300 joins a KAWASAKI revealed this new addition to the Versys family, with a 296cc parallel-twin engine.  2018 Kawasaki Versys®-X 300 ABS.  That would drive me nuts but more importantly, if I was on a WR250R when I rode the Dempster Highway I would still be there.  2016 Kawasaki Versys 650 ABS – www.  With its revamped features such as the long travelling suspension, sport 17” wheels, a sleek chassis for a slim upright riding position and its low-mid range focused Parallel-Twin engine that focuses on a balanced feeling.  Kawasaki Versys 1000 SP Engineering Round GP-R 300 Carbon Fibre Road Legal Exhausts are UK manufactured using UK sourced materials, finished to very high standard.  the new 300X is not intended as an off-road machine but rather the new small Versys offers riders the benefits … What prevents a center stand for a Versys from working on a 650r? This is a discussion on What prevents a center stand for a Versys from working on a 650r? within the General Ninja 650R forums, part of the Kawasaki Ninja 650R category; What is it about the Versys 650 that it can accept an aftermarket center stand from SW Motech but it won&#39;t fit on a 650r 2017 Kawasaki Versys-X 300 ABS, 2017 Kawasaki Versys®-X 300 ABS THE KAWASAKI DIFFERENCE ANY ROAD.  2016 Kawasaki Versys 650. 0.  Save $2,699.  The Kawasaki Versys-X 300 uses the 300cc liquid-cooled parallel twin out of the ever-popular Ninja 300 but has a new and more rugged chassis. 6 lakhs in Mumbai, it is also very expensive; if not for anything else, for being a 300.  Well, how does the Kawasaki 300 Versys measure up – Damn well, that’s how! At the heart of the bike is the 296cc parallel twin, with double overhead cams engine and a six-speed gearbox, from the Ninja 300.  This unit is located and easily accessible near the following cities: Las Vegas NV, Henderson NV, North Las Vegas NV, Paradise NV, Apple Valley CA, Lake Havasu City AZ, Mesquite NV, St George UT, Coyote Springs NV, Bull Head City AZ.  There was an opportunity and I ended up changing my old bike in this machine.  Chaparral Motorsports offers a complete selection of sportbike Kawasaki motorcycle parts and accessories for most models.  Last Tank: 56.  Joining Kawasaki’s lineup for 2017 is the Versys-X 300, powered by the liquid-cooled, fuel-injected 296cc parallel twin from the Ninja 300 and boasting a 19-inch front wheel, available ABS and Puig Touring Windscreen Kawasaki Versys-X 300 The Puig Touring Windscreen was wind tunnel tested to increase both wind protection and comfort at highway speeds.  Would suit new buyer.  Find many great new &amp; used options and get the best deals for Water Temperature Sensor For Kawasaki Versys-X 250 300 Versys 650 1000 KLE KLZ at the best online prices at eBay! Moto Werk online store features the latest products for Kawasaki Versys 650, Kawasaki Versys 1000, Kawasaki Versys X300, Ninja 650, Ninja 650R, Kawasaki ER-6N/F, Ninja 1000, Ninja 400R, Kawasaki Z1000, Kawasaki Z650, Kawasaki Z900, Honda CB500X, Honda CB500F, Honda CBR500R, and Honda NC700X.  we also include the two side bag.  865 likes · 21 talking about this.  With an engine based on the same Parallel Twin that powers the popular Ninja 300.  Forever (1.  The Versys 1000 was launched recently in the Indian market and offers comfortable seats with a great performance.  Designed to be the ideal travel partner, the Versys®-X 300 ABS is built for adventure.  First is the range of about 120 miles.  Only 1117 miles. You don’t have to make allowances for it’s a lower capacity. 1 MPG 2 weeks ago Genuine kawasaki Parts for Kawasaki Road Motorcycles, Off Road Bikes, ATV Quad Bikes, Jet Ski, Mules, Accessories and Kawasaki Clothing fast shipping. 7 Nm of torque at 10000 rpm.  the new 300X is not intended as an off-road machine but rather the new small Versys offers riders the benefits … from other Kawasaki Versys-X 300 vehicles .  No one is a stranger to Kawasaki’s ability to utilize an engine platform and the baby-Versys is another example of that ingenuity.  KAWASAKI VERSYS X 300 2017 &gt; R&amp;G ENGINE CRANK CASE COVER KIT 2 PROTECTORS ENGINE CASE COVER KIT KAWASAKI VERSYS X 300 2017 &gt; 2018 THE KIT INCLUDES 2 CRANKCASE COVERS FOR BOTH LEFT AND RIGHT SIDE These crankcase protectors, developed on the track by the British specialist R&amp;G are made of polypropylene 4 mm Made from 3mm aluminium for strength and powder coated black for great looks and durability. com offers thousands of 2016 Kawasaki Versys 650 ABS parts to repair or restore your 2016 Kawasaki Versys 650 ABS to original factory condition and increase its resale value.  2016 Kawasaki Versys® 650 ABS The Kawasaki Difference.  MILAN SHOW: Kawasaki Versys-X 300.  The Kawasaki Versys is a popular long-distance touring series.  If we do not have the part you need in stock get in touch and we could source and deliver in a matter of days. , distributor of powersports vehicles including motorcycles, ATVs, Side x Sides and personal watercraft. 9 lbs (175 kg). Official website of Kawasaki Motors Corp.  Kawasaki’s Versys-X 300 Might Just Be What Adventure Riding Needed Matt Scott / November 30th, 2016 If you’re looking to travel overland by motorcycle, the options have never been more plentiful, but they’ve never been more expensive either.  Wide foot pegs 2019 Kawasaki Versys-X 300 Review - Touring Tempo.  Kawasaki Versys vs Honda CB500X, a 600cc bike versus 500cc bike.  2017 Kawasaki Versys-X 300 For Sale Search over (40) 2017 Kawasaki Versys-X 300 listings to find the best deal.  Must have M1.  Description: 2016 Kawasaki Versys® 1000 LT The Kawasaki Difference.  With an inspiring 1,043cc inline four-cylinder engine and nimble chassis, the Versys® 1000 LT is sure to take you on an unforgettable adventure.  Oil Filler Plug Bikers Kawasaki Versys 650 .  KAWASAKI VERSYS X 300 2017 &gt; R&amp;G Engine Crank Case Cover Kit 2 Protectors - $141.  Kawasaki US now claims a wet weight of 385. 5 safety factor is pretty common, and these are consumer products so the safety factor is likely even higher due to the potential threat of lawsuits).  Consulta precios de motos Kawasaki Versys 650 2016 en Arpem.  Such damage can occur not only while riding, but also when your motorcycle is stationary for a long time.  [https://cdn](Kawasaki Versys-X 300- instrument console) Kawasaki will have two variants of the Versys in the &#39;Urban&#39; and the &#39;Adventure.  Sold in its original packaging.  Kawasaki targets small ADV segment with unveiling of the new Versys-X 300. com - Kawasaki Motorcycle Forum.  2016 Kawasaki Versys 1000 LT The Sport-Naked Goes Sport-Commuter.  With long-travel suspension &amp; sporty 17” wheels, plus a slim, upright riding position and its low to mid-range focused Parallel-Twin engine, the Versys 650 is a sports partner, city friend and mountain road conqueror all in one. 72 jutaan.  2016 Kawasaki Motorcycles Kawasaki emerged out of the ashes of the second World War to become one of the big players from Japan.  5.  Original Part Kawasaki OEM.  But, at Rs 5.  Published: 08 November 2016.  Below you will find a list of discussions in the Kawasaki Versys 650 forums at the RiderForums.  2016 Kawasaki Versys 1000LT is a fantastic bike which can be used to ride on both on city road and on mountains, this is only possible due to the powerful engine which produces amazing torque and acceleration with an The Kawasaki Versys X300, which made debut in 2016, is one of the smallest Adventure-tourer from the Japanese manufacturer .  Launched in India back in 2017, it is touted as one of the best small ADVs in the market.  We take a brief ride on the latest sport tourer from Kawasaki and come back suitably impressed.  Designed to be the ideal travel partnet, the Versys®-X300 is built for adventure.  If you would like to get a quote on a new 2016 Kawasaki Versys® 650 ABS use our Build Your Own tool, or Compare this bike to other On-Off Road motorcycles.  Having a compact and responsive, ninja-derived 296cc twin cylinder engine makes it one of a kind.  Versys 650 is a versatile bike for the sporty adventurer.  Only selling as I have bought another bike.  Find great deals on eBay for 2016 kawasaki versys 650.  2017-Kawasaki-Versys-X-300-20 By Kris Hodgson • 2 years ago • 2017 Kawasaki Versys-X 300.  Find the best deals today! Find great deals on eBay for kawasaki versys and kawasaki versys 650. Compare Kawasaki Versys X-300 and Kawasaki KX250F [2016] specs, colors, reviews and ratings.  Supplied with an &#39;E&#39; marked rear number plate illuminator for assured quality and reliability.  Having a compact and responsive.  The 2016 Kawasaki Versys 650 Tourer and all other motorcycles made 1894-2019.  The Kawasaki Versys-X 300 has been unveiled at the 2016 EICMA.  New Kawasaki Versys-X 300 Fender Eliminator Kit by Yoshimura.  Check out this 2016 Kawasaki Versys 1000 LT listing in Hillsboro, OR 97124 on Cycletrader.  More recently, BMW just revealed the G 310 GS at EICMA and now, the Japanese have introduced a new sub-500cc contender for the segment as well – the Versys-X 300! 2016 Kawasaki Versys® 650 ABS The Kawasaki Difference.  Modellname The compact adventure class has its road warrior in the form of the Kawasaki Versys-X 300.  The most accurate Kawasaki Versys MPG estimates based on real world results of 1.  02-25-2017 06:58 PM by h20hamkawi Last Trade 2007 Kawasaki 650R for 2008 650 Versys? William.  Originally, Kawasaki’s European websites listed a wet weight of 370 lbs (168 kg) for the standard and 375 lbs (170 kg) for the ABS model.  This is a great bike and you would be very happy with it.  Kawasaki are combining two motorcycles with a rich fan base, pairing the motor from the Ninja 300 and the stature of the Versys 650, to create the 2017 Kawasaki Versys-X 300.  Also, read comparison test of Kawasaki Versys X-300 vs Kawasaki KX250F [2016] from our experts.  favorite this post 2016 Kawasaki Versys - $6000 (Gallipolis) hide this posting unhide &lt; image 1 of 6 &gt; 2016 Kawasaki Versys.  Only 1450 Kms.  The Versys-X is powered by a 296cc parallel twin cylinder DOHC engine with fuel-injection that runs in Kawasaki’s strong selling Ninja 300 sports bike and Z300 street fighter road models.  In the late ’60s and early ’70s, Kawasaki built a reputation for some of the most powerful engines on two wheels, spawning legendary sportbikes like the Ninja series and a line of championship-winning off-road bikes.  This set is designed for the newest versions of the Kawasaki Versys 650 and 1000.  The Versys-X 300 aims to give beginners a motorcycle with more terrain flexibility, so they can hit a bit of trail right off the bat.  Ninja®-derived 296cc twin-cylinder engine makes it one of a kind.  Having a compact and responsive, Ninja®-derived 296cc twin-cylinder engine makes it one of a kind.  New bike with a used price. S.  Garage kept and dual saddlebags.  Kawasaki Versys is a great bike.  Pitkä joustomatka, leveä ohjaustanko ja matala istuin lisäävät pyörän käyttömukkavuutta erityyppisillä ja vaihtuvilla tieosuuksilla.  Accessory Bikers Brand for Kawasaki Versys 650 for Models 2011 2012 2013 2014 2015 2016 2017 2018 2019 11 Colors Available All road, one bike.  Bike Review This is the Kawasaki Versys-X300.  Used Dual 300 mm Based on the Ninja 300, the new-for-2017 Kawasaki Versys-X 300 is an adventure bike with a 296cc parallel twin, 19/17-inch spoked wheels, long travel suspension and more.  In a series of additions to the smaller displacement adventure tourers this year, the Versys-X 300 fits into the smaller end of capacity range.  Page 1 VERSYS VERSYS ABS Motorcycle Service Manual; Page 3: General Information Quick Reference Guide General Information Periodic Maintenance Fuel System (DFI) Cooling System Engine Top End Clutch Engine Lubrication System Engine Removal/Installation Crankshaft/Transmission Wheels/Tires 10 j Final Drive 11 j Brakes 12 j Suspension 13 j Steering 14 j Frame 15 j Electrical System 16 j Versys-X 300 -mallissa yhdistyy ison all road -pyörän tyyli ja pienen pyörän käyttökulut.  The new Kawasaki Versys-X 300 is going into production, featuring the 296cc engine from the Z300.  2016 KAWASAKI VERSYS 650 - KQR 28 LITER SADDLEBAG COLOR PANEL SET - GRAY 51B - 99994-0422-51B.  FRAM Motorcycle Full-Flow Spin-on Oil Filter PH6017A For example, if something has a capacity of 300 lbs, often it&#39;ll &quot;take&quot; 450 lbs.  Check out this 2016 Kawasaki VERSYS 650 ABS listing in Petaluma, CA 94954 on Cycletrader.  One mature owner.  This is our second experience with the SW-Motech wide foot pegs.  It is constructed of 3mm thick high impact acrylic to resist vibration, scratching and cracking.  The Versys 300 joins a high-buzz segment which now includes the likes of the BMW G 310 GS and the Suzuki V-Strom 250. bikescatalog.  Excellent aftermarket accessory for shorter riders who do not reach down to the ground properly with both feet.  The stock Versys can probably do 450km under most conditions so that is a big plus (to me).  At 300cc, the VERSYS-X 300 is the smallest-displacement model in the touring category, and the only model of its kind.  Provided Released or Expected month and year details are approximately Beberapa waktu yang lalu pihak Kawasaki telah mengumumkan motor teranyarnya yaitu Kawasaki Versys 300.  Kawasaki Ninja 300 lowering link kit for year models 2013 to 2018.  condition: excellent engine 2018 Online shopping for popular &amp; hot Kawasaki Ninja 300 Stand from Automobiles &amp; Motorcycles, Stands and more related Kawasaki Ninja 300 Stand like Kawasaki Ninja 300 Stand. 1 / iOS Safari 7.  Find 2016 Kawasaki Versys for Sale on Oodle Classifieds. 10.  Comes with Ricochet Aluminium sump guard and original plastic guards.  *4 Doors* *Doors* *Bad Credit* *Bankruptcy* *First time buyer* *no credit* *For Sale* *Clean* *Cheap* *Used* *pre-owned* *Like 2016 Kawasaki Versys 650 road test review (India) Shubhabrata Marmar | Updated: January 08, 2016, 04:45 PM IST Oh boy, have I been waiting for this bike to come out and go on sale.  With the class scattered across the adventure touring spectrum, this Kawasaki places itself firmly at the more road-biased end of the spectrum.  Fit Models: Kawasaki ; 2017 - 2019 Versys-X 300; This purchase is for one skid plate for the Kawasaki Versys-X 300, designed to minimize protect your bike from dirt, mud, and other debris.  Like all ADVs, this one too has a tall-ish design with a 19-inch wheel up front wrapped in 100/90 rubber, while the rear gets a 17-inch rim wrapped in a 130/80 tyre.  But as is the Versys-X 300 works well for a rider my size.  The 2014 MY Kawasaki Versys 650 ABS comes with some new features that improve almost every aspect of the two-wheeler.  Earlier this month, I had a unique opportunity to ride all across northern Thailand for a week on bikes, courtesy an invitation from Thailand tourism authority.  your just coming into the best part of your power band, and the little versys wants to go faster.  A lightweight chassis and long-travel suspension provide sporty and nimble Kawasaki 2019 Tamashi Mens T Shirt Short Green The description states &quot;Four point mounting system&quot; but the installation instructions only illustrate three points (labeled A,B &amp; C).  That’s been the case with our 2017 Kawasaki Versys-X 300, a lightweight and capable on- and off-roader that just gets better the longer we ride it.  Below is the information on the 2016 Kawasaki Versys® 650 ABS.  Untuk harganya sendiri telah diumumkan pada ajang pameran otomotif EICMA 2016 lalu dan harga yang dibandrol untuk Kawasaki Versys senilai USD 5.  This website is best viewed in Firefox 25 / Chrome 31 / Internet Explorer 10 / Android Browser 4.  Kawasaki Versys 650. 0 million miles driven in 146 Kawasaki Versys Kawasaki Versys MPG - Actual MPG from 146 Kawasaki Versys owners Click here to see important news regarding the aCar App Kawasaki’s Versys X 300 aims to bridge that gap to a certain extent.  2016 Suzuki GSX-S1000F vs Kawasaki Ninja 1000 Comparison Review Video Kawasaki&#39;s Ninja 1000 faces a direct rival in 2016 from Suzuki&#39;s new GSX-S1000F.  Any and all other warranties that differ from the official Factory Warranty, are offered at dealership level, as per the terms and conditions of the dealership concerned.  Bike Review Find 2016 Kawasaki Motorcycles for Sale on Oodle Classifieds.  Versys X-300 Burning oil! 05-17-2019 01:01 PM by onewizard.  Lowering kit for Kawasaki Versys X-300 year models 2017 2018 2019 (to present).  2016 Kawasaki Versys 1000LT comes with all new suspension systems which help the bike to soak up the bumps during the long ride.  Shop the best 2016 Kawasaki Versys 1000 LT KLZ1000 Tires for your motorcycle at J&amp;P Cycles.  ANY TIME.  Here&#39;s our 2016 Kawasaki Versys 650L Review.  It is powered by 4 Stroke ,Liquid Cooled.  KAWASAKI VERSYS X 300 2017 &gt; R&amp;G ENGINE CRANK CASE COVER KIT 2 PROTECTORS ENGINE CASE COVER KIT KAWASAKI VERSYS X 300 2017 &gt; 2018 THE KIT INCLUDES 2 CRANKCASE COVERS FOR BOTH LEFT AND RIGHT SIDE These crankcase protectors, developed on the track by the British specialist R&amp;G are made of polypropylene 4 mm Find many great new &amp; used options and get the best deals for Water Temperature Sensor For Kawasaki Versys-X 250 300 Versys 650 1000 KLE KLZ at the best online prices at eBay! 2 days ago · ~ 2017 *Kawasaki* *Versys-X 300*.  Find great deals on eBay for kawasaki versys for sale.  This means the riders position on the bike keeps the good ergonomic position while the rider can reach easier to the ground.  Kawasaki Versys-X 300 Forum 2016 Versys 650 ABS NorCal.  Kawasaki KLE650 Versys Replacement Powersports Oil Filters Get a 100% money back guarantee on any motorcycle &amp; ATV oil filter when you buy now from the K&amp;N Online Store.  SW-MOTECH Sidestand Foot Enlarger Kawasaki Versys 1000.  Kawasaki Versys X 300 2017 Precio Fotos Ficha T Cnica 2016 Ninja Videos 2016 Kawasaki reveals new Versys-X 300 for 2017 at EICMA 9 th Nov 2016 10:45 am.  While we might have already forgotten about Kawasaki&#39;s &quot;Concept J&quot; motorcycle, which was shown off at the 2013 Tokyo Motor Show, the Japanese vehicle maker published a video to remind us that we are about to see the motorcycle on our streets soon.  Welcome to Kawasaki Motors South Africa.  Serving San Francisco, California (CA), SF Moto is the place to purchase your next View photos and details of our entire new inventory. 64.  SW Motech crash bars provide maximum protection thanks to mild steel construction affixed to key mounting points on your motorcycle&#39;s frame.  The foot peg is virtually the same, the only difference is the mounting points.  This year continues Kawasaki’s heritage of high performing, versatile, rider-friendly sports motorcycles.  The 2016 Kawasaki Versys 650L ABS comes in a bright new matte orange paint and the price has increased $200 to $10,199 (+ORC).  First Ride Review: 2017 Kawasaki Versys-X 300 The Versys 300 trundles along sweetly with 9,000 rpm working out to be 75 mph indicated. 65 which is starting to look like a lot of money for a 300cc motorcycle fit for touring purpose.  The flavour of the season is small capacity ADV at the on-going EICMA 2016 Motorcycle Show.  Yes, this is the mini adv-styled Versys you’ve been waiting for.  You’re looking at the new for 2017 Versys-X 300.  Kawasaki Distributors Ireland (K.  Never used offroad.  But there are very few differences, no matter the bike.  Rod&#39;s Ride On Powersports located in La Crosse, WI, offers new &amp; pre-owned Yamaha, Polaris, Kawasaki, Suzuki, CFMoto and Genuine scooters, motorcycles, dirt bikes, jet skis, atvs, and utvs along with providing parts &amp; accessories, service, and financing.  This article provides complete information about it.  Think a 300 can’t cut the touring mustard? Here’s one that reckons it can, the Versys-X 300. A.  Published on 11.  Japanese motorcycle manufacturer Kawasaki unveiled three new motorcycles -- Versys-X 300, Z650 and Z900 -- at the ongoing EICMA show in Milan.  Sporty and nimble handling comes thanks to a lightweight chassis and long-travel suspension.  It uses the same motor and a modified version of the frame from the Ninja 300, all wrapped in purposeful-looking bodywork The Kawasaki Versys-X 300 is the first twin-cylinder in a growing small-displacement adventure bike class currently filled by single-cylinder machines.  That’s no problem as the LT is a highly competent light kawasaki enters the 2017 model year with an eye toward the small-displacement adventure-bike market and the all-new versys-x 300 is its weapon of choice for this new front</b><!--/noindex-->                  </li>
+
+                                    <li  class="menuItemLi  active">
+
+                    информацию.
+
+           <!--/noindex-->           <div style="margin-top:5px;">
+
+            <!--noindex-->
+
+            <!--LiveInternet counter--> <!--/LiveInternet-->
+
+            <!--/noindex-->
+
+          </div>
+
+          
+
+          
+
+		 
+
+<!--</div>-->
+
+  	
+
+  	 
+
+
+
+  </body>
+
+
+
+
+
+            
+
+</html>

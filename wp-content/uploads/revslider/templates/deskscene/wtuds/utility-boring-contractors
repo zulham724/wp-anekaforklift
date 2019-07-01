@@ -1,0 +1,719 @@
+
+
+<!DOCTYPE html>
+
+<html lang="ru-RU" prefix="og: http://ogp.me/ns#">
+
+<head>
+
+<meta charset="UTF-8" />
+
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+
+<link rel="pingback" href="" />
+
+<title>Что такое WAP в телефоне и чем он отличается от GPRS? | База ответов на любые вопросы</title>
+
+<meta property="og:title" content="Что такое WAP в телефоне и чем он отличается от GPRS? - База ответов на любые вопросы"/>
+
+<meta property="og:type" content="article"/>
+
+<meta property="og:description" content="Мобильный интернет сегодня занимает существенную долю пользования телефоном у многих абонентов сотов"/>
+
+<meta property="og:url" content="https://www.mnogo-otvetov.ru/computery/chto-takoe-wap-v-telefone-i-chem-on-otlichaetsya-ot-gprs/"/>
+
+<meta property="og:site_name" content="База ответов на любые вопросы"/>
+
+<meta property="og:image" content="https://www.mnogo-otvetov.ru/wp-content/uploads/2015/12/3334-560x330.jpg" />
+
+
+
+<!-- All in One SEO Pack 3.1.1 от Michael Torbert из Semper Fi Web Designob_start_detected [-1,-1] -->
+
+<meta name="description"  content="Мобильный интернет сегодня занимает существенную долю пользования телефоном у многих абонентов сотовой связи. Тем не менее, далеко не все из них достаточно" />
+
+
+
+<link rel="canonical" href="https://www.mnogo-otvetov.ru/computery/chto-takoe-wap-v-telefone-i-chem-on-otlichaetsya-ot-gprs/" />
+
+<!-- All in One SEO Pack -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+
+<link rel='dns-prefetch' href='//s.w.org' />
+
+<link rel="alternate" type="application/rss+xml" title="База ответов на любые вопросы &raquo; Лента" href="https://www.mnogo-otvetov.ru/feed/" />
+
+<link rel="alternate" type="application/rss+xml" title="База ответов на любые вопросы &raquo; Лента комментариев" href="https://www.mnogo-otvetov.ru/comments/feed/" />
+
+<link rel="alternate" type="application/rss+xml" title="База ответов на любые вопросы &raquo; Лента комментариев к &laquo;Что такое WAP в телефоне и чем он отличается от GPRS?&raquo;" href="https://www.mnogo-otvetov.ru/computery/chto-takoe-wap-v-telefone-i-chem-on-otlichaetsya-ot-gprs/feed/" />
+
+		 
+
+		<style type="text/css">
+
+img.wp-smiley,
+
+img.emoji {
+
+	display: inline !important;
+
+	border: none !important;
+
+	box-shadow: none !important;
+
+	height: 1em !important;
+
+	width: 1em !important;
+
+	margin: 0 .07em !important;
+
+	vertical-align: -0.1em !important;
+
+	background: none !important;
+
+	padding: 0 !important;
+
+}
+
+</style>
+
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.mnogo-otvetov.ru/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+
+<link rel='stylesheet' id='wp-pagenavi-css'  href='https://www.mnogo-otvetov.ru/wp-content/plugins/wp-pagenavi/pagenavi-css.css' type='text/css' media='all' />
+
+<link rel='stylesheet' id='tie-style-css'  href='https://www.mnogo-otvetov.ru/wp-content/themes/kometa/style.css' type='text/css' media='all' />
+
+<link rel='stylesheet' id='tie-ilightbox-skin-css'  href='https://www.mnogo-otvetov.ru/wp-content/themes/kometa/css/ilightbox/dark-skin/skin.css' type='text/css' media='all' />
+
+<link rel='stylesheet' id='Droid+Sans-css'  href='https://fonts.googleapis.com/css?family=Droid+Sans%3Aregular%2C700' type='text/css' media='all' />
+
+
+
+<link rel='https://api.w.org/' href='https://www.mnogo-otvetov.ru/wp-json/' />
+
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.mnogo-otvetov.ru/xmlrpc.php?rsd" />
+
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.mnogo-otvetov.ru/wp-includes/wlwmanifest.xml" /> 
+
+<link rel='prev' title='Кто такие хипстеры и что они делают?' href='https://www.mnogo-otvetov.ru/obshestvo/kto-takie-xipstery-i-chto-oni-delayut/' />
+
+<link rel='next' title='Что такое спред на бирже?' href='https://www.mnogo-otvetov.ru/finansy/chto-takoe-spred-na-birzhe/' />
+
+<meta name="generator" content="WordPress 5.2.2" />
+
+<link rel='shortlink' href='https://www.mnogo-otvetov.ru/?p=11137' />
+
+<link rel="alternate" type="application/json+oembed" href="https://www.mnogo-otvetov.ru/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.mnogo-otvetov.ru%2Fcomputery%2Fchto-takoe-wap-v-telefone-i-chem-on-otlichaetsya-ot-gprs%2F" />
+
+<link rel="alternate" type="text/xml+oembed" href="https://www.mnogo-otvetov.ru/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.mnogo-otvetov.ru%2Fcomputery%2Fchto-takoe-wap-v-telefone-i-chem-on-otlichaetsya-ot-gprs%2F&#038;format=xml" />
+
+
+
+<link rel="stylesheet" href="https://www.mnogo-otvetov.ru/wp-content/plugins/related-posts-by-zemanta/static/themes/vertical.css?version=1.8.1" />
+
+<link rel="shortcut icon" href="https://www.mnogo-otvetov.ru/wp-content/themes/kometa/favicon.ico" title="Favicon" />
+
+<!--[if IE]>
+
+<script type="text/javascript">jQuery(document).ready(function (){ jQuery(".menu-item").has("ul").children("a").attr("aria-haspopup", "true");});</script>
+
+<![endif]-->
+
+<!--[if lt IE 9]>
+
+<script src="https://www.mnogo-otvetov.ru/wp-content/themes/kometa/js/html5.js"></script>
+
+<script src="https://www.mnogo-otvetov.ru/wp-content/themes/kometa/js/selectivizr-min.js"></script>
+
+<![endif]-->
+
+<!--[if IE 9]>
+
+<link rel="stylesheet" type="text/css" media="all" href="https://www.mnogo-otvetov.ru/wp-content/themes/kometa/css/ie9.css" />
+
+<![endif]-->
+
+<!--[if IE 8]>
+
+<link rel="stylesheet" type="text/css" media="all" href="https://www.mnogo-otvetov.ru/wp-content/themes/kometa/css/ie8.css" />
+
+<![endif]-->
+
+<!--[if IE 7]>
+
+<link rel="stylesheet" type="text/css" media="all" href="https://www.mnogo-otvetov.ru/wp-content/themes/kometa/css/ie7.css" />
+
+<![endif]-->
+
+
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+
+
+
+
+
+
+<style type="text/css" media="screen">
+
+
+
+::-webkit-scrollbar {
+
+	width: 8px;
+
+	height:8px;
+
+}
+
+
+
+
+
+::-moz-selection { background: #1975d2;}
+
+::selection { background: #1975d2; }
+
+#main-nav,
+
+.cat-box-content,
+
+#sidebar .widget-container,
+
+.post-listing,
+
+#commentform {
+
+	border-bottom-color: #0e4d7a;
+
+}
+
+
+
+.search-block .search-button,
+
+#topcontrol,
+
+#main-nav ul li.current-menu-item a,
+
+#main-nav ul li.current-menu-item a:hover,
+
+#main-nav ul li.current_page_parent a,
+
+#main-nav ul li.current_page_parent a:hover,
+
+#main-nav ul li.current-menu-parent a,
+
+#main-nav ul li.current-menu-parent a:hover,
+
+#main-nav ul li.current-page-ancestor a,
+
+#main-nav ul li.current-page-ancestor a:hover,
+
+.pagination span.current,
+
+.share-post span.share-text,
+
+.flex-control-paging li a.flex-active,
+
+.ei-slider-thumbs li.ei-slider-element,
+
+.review-percentage .review-item span span,
+
+.review-final-score,
+
+.button,
+
+a.button,
+
+a.more-link,
+
+#main-content input[type="submit"],
+
+.form-submit #submit,
+
+#login-form .login-button,
+
+.widget-feedburner .feedburner-subscribe,
+
+input[type="submit"],
+
+#buddypress button,
+
+#buddypress a.button,
+
+#buddypress input[type=submit],
+
+#buddypress input[type=reset],
+
+#buddypress ul.button-nav li a,
+
+#buddypress div.generic-button a,
+
+#buddypress .comment-reply-link,
+
+#buddypress div.item-list-tabs ul li a span,
+
+#buddypress div.item-list-tabs ul li.selected a,
+
+#buddypress div.item-list-tabs ul li.current a,
+
+#buddypress #members-directory-form div.item-list-tabs ul li.selected span,
+
+#members-list-options a.selected,
+
+#groups-list-options a.selected,
+
+body.dark-skin #buddypress div.item-list-tabs ul li a span,
+
+body.dark-skin #buddypress div.item-list-tabs ul li.selected a,
+
+body.dark-skin #buddypress div.item-list-tabs ul li.current a,
+
+body.dark-skin #members-list-options a.selected,
+
+body.dark-skin #groups-list-options a.selected,
+
+.search-block-large .search-button,
+
+#featured-posts .flex-next:hover,
+
+#featured-posts .flex-prev:hover,
+
+a.tie-cart span.shooping-count,
+
+.woocommerce span.onsale,
+
+.woocommerce-page span.onsale ,
+
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle,
+
+.woocommerce-page .widget_price_filter .ui-slider .ui-slider-handle,
+
+#check-also-close,
+
+a.post-slideshow-next,
+
+a.post-slideshow-prev,
+
+.widget_price_filter .ui-slider .ui-slider-handle,
+
+.quantity .minus:hover,
+
+.quantity .plus:hover,
+
+.mejs-container .mejs-controls .mejs-time-rail .mejs-time-current,
+
+#reading-position-indicator  {
+
+	background-color:#0e4d7a;
+
+}
+
+
+
+::-webkit-scrollbar-thumb{
+
+	background-color:#0e4d7a !important;
+
+}
+
+
+
+#theme-footer,
+
+#theme-header,
+
+.top-nav ul li.current-menu-item:before,
+
+#main-nav .menu-sub-content ,
+
+#main-nav ul ul,
+
+#check-also-box {
+
+	border-top-color: #0e4d7a;
+
+}
+
+
+
+.search-block:after {
+
+	border-right-color:#0e4d7a;
+
+}
+
+
+
+body.rtl .search-block:after {
+
+	border-left-color:#0e4d7a;
+
+}
+
+
+
+#main-nav ul > li.menu-item-has-children:hover > a:after,
+
+#main-nav ul > li.mega-menu:hover > a:after {
+
+	border-color:transparent transparent #0e4d7a;
+
+}
+
+
+
+.widget.timeline-posts li a:hover,
+
+.widget.timeline-posts li a:hover span.tie-date {
+
+	color: #0e4d7a;
+
+}
+
+
+
+.widget.timeline-posts li a:hover span.tie-date:before {
+
+	background: #0e4d7a;
+
+	border-color: #0e4d7a;
+
+}
+
+
+
+#order_review,
+
+#order_review_heading {
+
+	border-color: #0e4d7a;
+
+}
+
+
+
+
+
+body {
+
+	background-color: #ffffff !important;
+
+	background-image : url(https://www.mnogo-otvetov.ru/wp-content/themes/kometa/images/patterns/body-bg1.png);
+
+	background-position: top center;
+
+}
+
+
+
+a {
+
+	color: #226078;
+
+}
+
+		
+
+a:hover {
+
+	color: #1889d9;
+
+}
+
+		
+
+</style>
+
+ 
+
+		</head>
+
+<body id="top" class="post-template-default single single-post postid-11137 single-format-standard lazy-enabled">
+
+
+
+<div class="wrapper-outer">
+
+
+
+	<div class="background-cover"></div>
+
+
+
+	<aside id="slide-out">
+
+
+
+			<div class="search-mobile">
+
+			<form method="get" id="searchform-mobile" action="https://www.mnogo-otvetov.ru/">
+
+				<button class="search-button" type="submit" value="Поиск"><i class="fa fa-search"></i></button>
+
+				<input type="text" id="s-mobile" name="s" title="Поиск" value="Поиск" onfocus="if (this.value == 'Поиск') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Поиск';}"  />
+
+			</form>
+
+		</div><!-- .search-mobile /-->
+
+	
+
+			<div class="social-icons">
+
+		 	</div>
+
+
+
+	
+
+		<div id="mobile-menu" ></div>
+
+	</aside><!-- #slide-out /-->
+
+
+
+		<div id="wrapper" class="boxed">
+
+		<div class="inner-wrapper">
+
+
+
+		<header id="theme-header" class="theme-header">
+
+						<div id="top-nav" class="top-nav">
+
+				<div class="container">
+
+
+
+			
+
+				<div class="menu"> </div>
+
+
+
+						<div class="search-block">
+
+						<form method="get" id="searchform-header" action="https://www.mnogo-otvetov.ru/">
+
+							<button class="search-button" type="submit" value="Поиск"><i class="fa fa-search"></i></button>
+
+							<input class="search-live" type="text" id="s-header" name="s" title="Поиск" value="Поиск" onfocus="if (this.value == 'Поиск') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Поиск';}"  />
+
+						</form>
+
+					</div><!-- .search-block /-->
+
+			<div class="social-icons">
+
+		 
+
+			</div>
+
+
+
+	
+
+	
+
+				</div><!-- .container /-->
+
+			</div><!-- .top-menu /-->
+
+			
+
+		<div class="header-content">
+
+
+
+					 
+
+		
+
+			<div class="logo" style=" margin-top:15px; margin-bottom:15px;">
+
+			<h2>						 
+
+					<img src="https://www.mnogo-otvetov.ru/wp-content/themes/kometa/images/logo.png" alt="База ответов на любые вопросы"  /><strong><h1>Utility boring contractors</h1></strong>
+
+				 
+
+			</h2>			</div><!-- .logo /-->
+
+						<div class="clear"></div>
+
+
+
+		</div>
+
+													<nav id="main-nav" class="fixed-enabled">
+
+				<div class="container">
+
+
+
+				
+
+														 
+
+					
+
+					
+
+				</div>
+
+			</nav><!-- .main-nav /-->
+
+					</header><!-- #header /-->
+
+
+
+		
+
+	<div class="clear"></div>
+
+	<div id="breaking-news" class="breaking-news">
+
+		<span class="breaking-news-title"><i class="fa fa-bolt"></i> <span> </span></span>
+
+		
+
+					<ul>
+
+					<li><b>banner2. Directional Boring. Horizontal Directional Drilling. Snohomish County, WA Underwater Utility Directional Bore. earthworks-wide_0007_IMG_2078. What is Directional Boring?. .  Boring Contractors . Boring Contractors, LLC | Boring Your Pipe Here. Boring -- Horizaontal Contractos - Underground Utilities Contractors. For the installation of gas, electric, telecommunications and water/sewer lines for utility companies and minimal disturbance to the surface, . Directional Drilling Contractors. S&S Directional Drilling. Blankenship Utility - Boring -- Horizaontal Contractos - Underground Utilities Contractors Image | ProView. Precision Contractors - Pipeline | Excavation | Demolition | Mass Grading | Underground Utilities. J. ROCK DRILLING. DIRECTIONAL BORING DRILLING SERVICES:. Rigonomics: Modern HDD Contractor Tools For Drilling Rock. Directional boaring. Underground Tunneling. Ronco Utilities is a directional boring contractors specializing in directional boring, road boring, &. Directional Boring: Trenchless Pipe Installation. Directional Drilling Contractor Builds Company by Building Strong Employees. Contractors Find New Solutions for Slurry Handling, Disposal. Williams Excavation & Directional Boring LLC is in Ackley, Iowa. OUR Directional Drilling and Construction Services. Horizontal Directional Drilling in Progress · Weber Contracting Directional Drilling Truck . Brian Schepper 515-707-6913. Directional Drill Contractor Goes From Employee To Owner.  Contractor . 2015 Large HDD Rig Census. Kentucky Directional Drilling. Directional Drilling. Municipal - Directional Boring/Drilling projects - J. Despite pockets of negativity, the majority of horizontal directional drilling contractors continue to enjoy a robust business atmosphere for 2013, . earthworks-wide_0008_IMG_2069. Contractor Bore Salvages Water Line. Youngstown-Warren Regional Airport. Cable Man Inc.  When horizontal directional drilling . Boring Contractors Communication | Telecom Broadband Communications. CDIS Corporation. Site Development, Excavation, Directional Boring. Directional boring.  Ronco Utilities is one of the leading Texas directional boring companies . IMG_4550. Ronco Utilities excavating contractors specializes in directional boring, road boring, excavating and underground duct.  In addition, we have the experience and equipment to handle any type of . 605. Directional Boring, Directional Drilling | DBU Construction - Chichester, NH.  Though we specialize as a directional boring contractor . jpg. Snohomish County, WA Utility Directional Boring Contractors. With 11 years of experience, L & B Directional Boring, offers directional boring and excavating services in the four state areas of Missouri, Arkansas, .  Directional Drilling Contractor Builds Company by Building Strong Employees . Horizontal Directional Drilling in Progress · Weber Contracting . earthworks-wide_0006_IMG_2375. Call Us (727) 547-2200. Utility Boring Greenville, SC. Road Boring. Horizontal Directional Drilling · Employment · Contact Us.  very important to our industry because they can prevent damage to existing utilities," Levings emphasizes. S. R. The Boring Process.  We provide all-in underground utility service. Te Aratika Drilling :: Directional Drilling, Trenching, Civil Contractors and Underground Utility Services :: Operating New . Contractor Expands From Septic Focus to a Diverse Operation With Many Offerings. earthworks-wide_0002_IMG_2426. Your browswer does not support video. Horizontal Directional Drilling - Municipal. Pinnacle Construction and Directional Boring, Inc. Directional Drilling Greenville . Lighting up Missouri with High Speed Internet . Directional drilling is rapidly gaining popularity among the construction companies because of its non-destructive and non-mechanical method of use. Environmental Horizontal Wells. Horizontal Directional Drilling and Boring. South Carolina Directional Boring Contractors | Underground Utility Horizontal Directional Drilling Company. Facebook. Directional Boring Accidents - Digging Out the Truth - CED Technologies, Inc. HDD Contractor Profile: Hot Rod Directional Boring. Alabama Auger Boring Companies.  is a Licensed and Bonded SC General Contractor specializing in underground utility construction and is . ATB Services: Directional Drilling/Boring in Melbourne That Gets the Job Done. South Dakota Directional Boring Contractors. Shop. Horizontal Directional Drilling in Toronto. California Contractor Delivers Directional Drilling Services With Help From Subsidiaries. Underground Utility Contractors Anderson, SC. Today, we are proud to be one of the leading underground boring companies. Ventura Directional Drilling Equipment. Hot Rod Directional Boring Project. Work completed: Boring/trenching for Lake County medical building. An Uptick in the Directional Drilling Market. L&B Services has an extensive fleet of directional drilling and trenching equipment. Directional drilling - horizontal boring contractors. In 1971, Titan Contractors was invited to look at and bid on several road crossings for PG&E (a major California gas and electric utility) near Watsonville, .  City of Lake Oswego HDD Pipe 058. Directional drilling servicesWe bring Expertise. Utility Contractors. DIRECTIONAL. Horizontal Directional Drilling Contractors. US Boring Contractors. Exotic Directional Boring Experts BoringContractors.  Horizontal Drilling - Florida. We are professional Horizontal Directional Boring Companies in Darwin, NT. POTHOLING CROSSING UTILITIES BEFORE BORE. directional-drilling.  Myers Company, Directional Boring, Underground Contractor.  - The Gulf Coast Utility and Telecommunications Contractor. com. 1840 Site Pic. 00:00. Professional Horizontal Drilling is a customer focused directional drilling company that operates in Washington and Oregon States. Directional-Boring-Featured-Image. We have the ability to install underground utilities on grade and the technology to be 100% accurate on depth and accuracy on hitting our target exit hole. Maxi Sized Drilling Rig. We are pleased to add Directional Boring to our expertise.  Florida Directional Boring Contractors. Work with Directional Drilling Experts. Horizontal Directional Drilling - Commercial. Alabama Underground Utility Construction. A quarter century ago, when horizontal directional drilling (HDD) entered the underground utilities market, the ground was less crowded. 102811CoBankAnnualBluebirdNetworksMP0155. Since December 1999 to present he has managed the day to day operations of Tri-State Utility Contractors, Inc. Directional Drill Contractor Succeeds on Jobs of All Sizes.  Underground Utility Construction Alabama. directional. banners.  Call our Directional Boring . The auger boring market remains strong with some contractors reporting several months of work backlog. Chicago Horizontal Directional Drilling Contractor - HDD Boring Contractors. Why Use Drilling/Boring Construction?. VertHortDrilling-Bore rig 002. Contractors lowering a tunnel boring machine into an access shaft, the TBM will excavate a power cable tunnel in London. S&S Directional Boring, LTD. Excavating Contractors. 20160201_115113_resized.  Louis - Horizontal Directional Drilling, Pennsylvania. Atlantic Underground Inc uses horizontal directional drilling (HDD) to install underground pipes, telecommunications, conduits, fiber optics, sewer lines, .  prevnextpause. Horizontal Directional Drilling Vs. NC Demo e1526523413155 300x300 - Underground Boring Equipment. ellingson pipeline reaming. Directional Bore. We bring Expertise. 4 Rigs Blast Through Obstacles. Horizontal Directional Drilling in NJ, PA (Bucks, Montgomery & Delaware County),. Duct Bank & Conduit Installation. Directional Drilling Contractor Builds Company by Building Strong Employees . earthworks-wide_0001_IMG_2498. Adb Utility Contractors. Trenching Abilities. What We Do: Directional Drilling. 035 031. WORK COMPLETED: Directional boring 4" sleeves under tollway for tieback installation.  provides underground construction trenching and boring installation services for private and public utility and telecommunication . #1. In-depth report: Horizontal directional drilling. Directional Drilling Contracting Services - Pipe Repair, Boring & Installation.  "Most contractors will have one or two sets, . Boring Contractors Utility Pipes Types | HDPE Pipe. Underground Utility Construction & Installation. Your reliable source of professional directional boring contractors in WA!. Directional Borring.  Directional Drilling . However, if you operate in Washington, one drilling company that you can always count on is Keystone Directional Boring.  Directional-Boring-Featured-Image. Directional Drilling Contractors Atlanta. Ronco Utilities specializes in directional boring, road boring, excavating and underground duct bank and. Excavating Specialists have provided trenchless boring for work on various telecommunications and utilities projects in Western South Dakota. Boring Contractors Project Gallery | River Crossing Directional Bore Camp.  Experts Texas Boring Contractors. Directional Drilling Greenville, SC Utility Boring Anderson, SC. 20151105_134012. , . Top Horizontal Directional Drilling Contractors in Lucknow Cantt - Best Hdd Contractors Lucknow - Justdial.  Photo illustrates directional boring close to a building as well as hand digging around .  BORING.  Trenching: Which Is Right For Me?. Horizontal Boring Contractors. Boring Contractors Oil & Gas | Oil & Gas Pipeline Installation. Compact Directional Drilling Q3 Contracting. Drilling Vermeer 40x55 Directional Drill. We provide commercial and civil companies with: Earth stakes drilling & installations; Horizontal directional drilling . Laney Directional Drilling – A leader in design, technology, and execution. Using electronic and GPS guided boring heads, new water, gas, and electric lines can now be inserted under thousands of feet on landscape without disturbing . Directional Boring Contractor Residential, Directional Boring Contractor commercial, Directional Boring Contractor industrial. Southeast has the capability to perform directional drilling work in a variety of different territories, such as environmentally sensitive areas, . A look back at designing the first Horizontal directional drilling rigs</b></li>
+
+					</ul>
+
+					
+
+		
+
+		 
+
+	</div> <!-- .breaking-news -->
+
+
+
+	
+
+	<div id="main-content" class="container">
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	<div class="content">
+
+
+
+		
+
+		<div xmlns:v="http://rdf.data-vocabulary.org/#"  id="crumbs"><span typeof="v:Breadcrumb"> </div></div><aside id="sidebar"><div class="theiaStickySidebar"><div id="custom_html-3" class="widget_text widget widget_custom_html"><div class="widget-container"><div class="textwidget custom-html-widget"></div></div></div><!-- .widget /-->	</div><!-- .theiaStickySidebar /-->
+
+</aside><!-- #sidebar /-->	<div class="clear"></div>
+
+</div><!-- .container /-->
+
+
+
+<footer id="theme-footer">
+
+	<div id="footer-widget-area" class="footer-3c">
+
+
+
+	
+
+	
+
+
+
+	
+
+		
+
+	</div><!-- #footer-widget-area -->
+
+	<div class="clear"></div>
+
+</footer><!-- .Footer /-->
+
+				
+
+<div class="clear"></div>
+
+<div class="footer-bottom">
+
+	<div class="container">
+
+		<div class="alignright">
+
+					</div>
+
+				<div class="social-icons">
+
+		 
+
+			</div>
+
+
+
+		
+
+		<div class="alignleft">
+
+			© Copyright 2011-2019, Все права защищены. 
+
+<br>
+
+Перепечатка материалов разрешается только при указании активной ссылки на страницу с оригиналом статьи.
+
+		</div>
+
+		<div class="clear"></div>
+
+	</div><!-- .Container -->
+
+</div><!-- .Footer bottom -->
+
+
+
+</div><!-- .inner-Wrapper -->
+
+</div><!-- #Wrapper -->
+
+</div><!-- .Wrapper-outer -->
+
+	<div id="topcontrol" class="fa fa-angle-up" title="В начало"></div>
+
+<div id="fb-root"></div>
+
+ 
+
+
+
+ <div><img src="https://mc.yandex.ru/watch/30181674" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+
+<!-- /Yandex.Metrika counter -->
+
+</noindex>
+
+
+
+</body>
+
+</html>

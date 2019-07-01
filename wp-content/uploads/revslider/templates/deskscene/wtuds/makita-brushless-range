@@ -1,0 +1,475 @@
+
+
+<!DOCTYPE html>  
+
+<html lang="ru">
+
+  <head>
+
+    <meta name='yandex-verification' content='7245bde594e40266' />
+
+    <meta name='yandex-verification' content='7f74c136b68218c3'/>
+
+    <meta name="google-site-verification" content="-4I7BtrrbyXzA9wUUkLG4JhY9emKxTKiMLOZDJ9Ay9c" />
+
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+
+    <link rel="shortcut icon" href="http://megapoisk.com/favicon.ico" type="image/x-icon" />
+
+    <link rel="icon" type="image/png" href="http://megapoisk.com/favicon.png" />
+
+
+
+    
+
+    <title>Makita brushless range</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    
+
+    <link  type="text/css" href="http://megapoisk.com//css_/jquery-ui.min.css" rel="stylesheet" />
+
+    <link href="http://megapoisk.com/css_/styles.min.css?1" rel="stylesheet" type="text/css" />
+
+    <link href="http://megapoisk.com/css_/mobile.css" rel="stylesheet" type="text/css" />
+
+    
+
+     
+
+        
+
+
+
+                      <meta name="Description" content="Makita brushless range" />
+
+                      <meta name='advmaker-verification' content='cbb3e8f66ecbeda293b984eb2889b3fc'/>
+
+            
+
+   
+
+     
+
+
+
+  </head>
+
+  <body>
+
+
+
+    <!--begin fb sdk-->
+
+    <div id="fb-root"></div>
+
+     <div><img src="//mc.yandex.ru/watch/29400735" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+
+
+
+    <div id="up"></div>
+
+    
+
+    
+
+    
+
+    <div style="position:absolute; top:10px; width:100%; min-width:950px; left:0px; z-index:9999; display:none;" id="iFramePredprosmotrBlock">
+
+     <div style="width:60%; margin:0px auto; box-shadow: 0 0 20px rgba(0,0,0,0.3); position:relative; background-color:#ffffff; border:solid 1px #cccccc;">
+
+        <div class="whiteGradient" onclick="close_predpros();" style="font-style:italic; font-size:13px; color: #555555; box-shadow: 0 0 5px rgba(0,0,0,0.2); padding:7px; padding-left:20px; padding-right:20px; position: absolute; top:15px; right:-10px; border:solid 1px #cccccc; cursor:pointer; text-align:center; ">
+
+             Закрыть
+
+        </div>
+
+        <div id="ipredprosmotr" style="padding:20px; width:100%;">
+
+        </div>
+
+     </div>
+
+    </div>
+
+    <div id="globalHiderBlock"></div>
+
+        <div id="fullVideoContainer">
+
+    <div class="fullVideoInside">
+
+       <div id="FVtitle" ></div>
+
+        <div id="iFullmp4Video" style="display:none;">
+
+             
+
+         </div>
+
+         <iframe id="iFullVideoFrame" allowfullscreen></iframe>
+
+        
+
+         <div onclick="$(this).prev().attr('src', ''); tryCloseVideo();" class="closePhoto2">X</div>
+
+        
+
+         
+
+         <div id="FVComents" style="margin-top:10px; text-align:left;"></div>
+
+    </div>
+
+    </div>
+
+
+
+    <!-- ALFAVIT -->
+
+    <div id="resultLiteraContiner"  style="display:none; position:absolute !important; width:1000px; left:calc(50% - 500px); z-index:9999999; padding-top:10px; text-align:left;">
+
+    <div style="width:1000px; box-shadow: 0 0 10px rgba(0,0,0,0.6); background-color:#ffffff;  border:solid 1px #dddddd; padding-bottom:20px; position:relative;">  
+
+      <div style="text-align:center; margin-top:10px;">
+
+          </div>
+
+    <div id="ialfavitsepline" style="border-top:solid 1px #dddddd; margin-top:10px;"></div>
+
+      <div id="resultLitera" style="width:740px; float:left; padding:20px;">
+
+        <div style="text-align:center;"><img src="http://megapoisk.com/img_/loading.gif" alt="" /></div>
+
+      </div>
+
+      <div id="iblockcategories" style="width:250px; float:right; border-left:solid 1px #dddddd; padding:10px;">
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10014');" class="word icatsitems">Аварийные службы</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10001');" class="word icatsitems">Автомототранспорт</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10002');" class="word icatsitems">Бизнес</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10021');" class="word icatsitems">Для потребителя</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10007');" class="word icatsitems">Дом и семья</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10720');" class="word icatsitems">Животные и растения</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10013');" class="word icatsitems">Здоровье и медицина</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '15816');" class="word icatsitems">Интересные сайты</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10005');" class="word icatsitems">Интернет</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10004');" class="word icatsitems">Компьютеры</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10003');" class="word icatsitems">Культура и искусство</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10018');" class="word icatsitems">Наука</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '11772');" class="word icatsitems">Непознанное</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10009');" class="word icatsitems">Новости, СМИ</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10019');" class="word icatsitems">Образование</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10016');" class="word icatsitems">Общество и государство</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10017');" class="word icatsitems">Промышленность</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10319');" class="word icatsitems">Психология</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10726');" class="word icatsitems">Работа и трудоустройство</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10006');" class="word icatsitems">Развлечения</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10024');" class="word icatsitems">Религия</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '11771');" class="word icatsitems">Рестораны, кафе, ТРЦ</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10008');" class="word icatsitems">Родители и дети</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10739');" class="word icatsitems">Сельское хозяйство</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10022');" class="word icatsitems">Спорт</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10015');" class="word icatsitems">Справки и информация</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10103');" class="word icatsitems">Строительство и ремонт</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10708');" class="word icatsitems">Телефония и связь</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10760');" class="word icatsitems">Торговля</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10010');" class="word icatsitems">Туризм, путешествия, отдых</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10775');" class="word icatsitems">Услуги</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10715');" class="word icatsitems">Финансы</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10020');" class="word icatsitems">Хобби, рукоделие</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '');" class="word icatsitems"></div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '');" class="word icatsitems"></div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '');" class="word icatsitems"></div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '');" class="word icatsitems"></div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '');" class="word icatsitems"></div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '');" class="word icatsitems"></div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '');" class="word icatsitems"></div>
+
+              </div>
+
+      <div id="iresultBlock" style="width:50%; float:right; border-left:solid 1px #dddddd; padding:20px; display:none; text-align:left;">
+
+        <div style="text-align:center;"><img src="http://megapoisk.com/img_/loading.gif" alt="" /></div>
+
+      </div>
+
+      <div style="clear:both;"></div>
+
+      
+
+                            </div>
+
+                            <div class="inslideMenu level1" id="studyinsidecat10708">
+
+              
+
+              </div>
+
+            </div>
+
+                        <div class="iItem"   >
+
+                            <div onclick="document.location='http://megapoisk.com/turizm-puteshestviya-otdyih_izbrannoe';">
+
+           
+
+                            </div>
+
+                            <div class="inslideMenu level1" id="studyinsidecat10010">
+
+              
+
+              </div>
+
+            </div>
+
+                        <div class="iItem"   >
+
+                            <div onclick="document.location='http://megapoisk.com/uslugi_izbrannoe';">
+
+              
+
+                            </div>
+
+                            <div class="inslideMenu level1" id="studyinsidecat10775">
+
+              
+
+              </div>
+
+            </div>
+
+                        <div class="iItem"   >
+
+                            <div onclick="document.location='http://megapoisk.com/finansyi_izbrannoe';">
+
+             
+
+                            </div>
+
+                            <div class="inslideMenu level1" id="studyinsidecat10715">
+
+              
+
+              </div>
+
+            </div>
+
+                        <div class="iItem"   >
+
+                            <div onclick="document.location='http://megapoisk.com/hobbi_izbrannoe';">
+
+              
+
+                            </div>
+
+                            <div class="inslideMenu level1" id="studyinsidecat10020">
+
+              
+
+              </div>
+
+            </div>
+
+            
+
+          
+
+        </div>
+
+       
+
+    <div id="wrapper">
+
+      <div id="header">
+
+        <div id="searchLine">
+
+          <div class="HeaderTitleLogoText">
+
+             
+
+          </div>
+
+          <div class="AuthBlock">
+
+            <div class="AUthContainer">
+
+                                <!--noindex-->
+
+                  <div >
+
+                    
+
+                 
+
+                                          </div></div>                  </div>
+
+                                <div class="clearBlock">
+
+                                  <div class="SearchContainer">
+
+                                    <!-- PRE_SEARCH -->
+
+                                    <div id="PScontainer" style="width:100%; display:none; position:absolute; top:50px; height:20px; z-index:9999999; ">
+
+                                      <div id="presearch" style="width:80%;  text-align:left; background-color:#ffffff; border:solid 1px #dddddd;">
+
+                                        <div style="text-align:center;"><img src="http://megapoisk.com//img_/loading.gif" alt="" /></div>
+
+                                      </div>
+
+                                    </div>
+
+                                    <!-- PRE_SEARCH -->
+
+                                    <div class="stypeContainer">
+
+                                      <input class="searchTypeButRadio"  type="radio" name="type-s" value="yagoo"/>
+
+                                      <div class="TitleStype" style="cursor:pointer;" onClick="$(this).next().next().click();">WikipediA</div>
+
+                                      <input class="searchTypeButRadio"  type="radio" name="type-s" value="wiki" />
+
+                                      <div  class="StypeIcon searchTypeRadioBut "></div>
+
+                                      <div class="TitleStype" style="cursor:pointer;" onClick="$(this).next().next().click();"><span style="color:#4285F4;">G</span><span style="color:#EA4335;">o</span><span style="color:#FBBC05;">o</span><span style="color:#4285F4;">g</span><span style="color:#4285F4;">l</span><span style="color:#EA4335;">e</span></div>
+
+                                      <input class="searchTypeButRadio"  type="radio" name="type-s" value="google"  />
+
+                                      <div class="StypeIcon searchTypeRadioBut "></div>
+
+                                      <!--div class="TitleStype">Яндекс</div>
+
+              <input class="searchTypeButRadio"  type="radio" name="type-s" value="ya"   />  
+
+              <div class="StypeIcon searchTypeRadioBut "></div-->
+
+                                      <div class="TitleStype" style="cursor:pointer;" onClick="$(this).next().next().click();"><span style="color:#ff5050;">M</span>egapoisk</div>
+
+                                      <input class="searchTypeButRadio"  type="radio" name="type-s" value="all"   />
+
+                                      <div  class="StypeIcon searchTypeRadioBut  Active "></div>
+
+                                      <div class="clearBlock"></div>
+
+                                    </div>
+
+                                    <form action="/search/" onSubmit="$(this).attr('action', 'http://megapoisk.com/search/query/izbrannoe/'+$('#searchtext').val());" method="post" id="searchform">
+
+                                      <input style="z-index:999999; position:relative;" oninput="$('#searchform').attr('action', 'http://megapoisk.com/search/query/izbrannoe/' + $('#searchtext').val()+'/' ); get_pre_search('http://megapoisk.com/',$('#searchtext').val()); " name="searchtext" id="searchtext" tabindex="1" type="text" value="" autocomplete="off"  placeholder="Введите фразу для поиска" />
+
+                                      <!-- HIDDEN -->
+
+                                      <input type="hidden" name="s-typea" class="s-type" value="all"/>
+
+                                      <input type="hidden" name="section_tab" value="izbrannoe" />
+
+                                      <input type="hidden" name="bycat" value="1" />
+
+                                      <input type="hidden" name="bysite" value="1" />
+
+                                      <input type="submit" style="display: none;" value="" />
+
+                                      <!-- /HIDDEN -->
+
+                                      <input style="z-index:999999;" type="button" onClick="$('#searchform').attr('action', 'http://megapoisk.com/search/query/izbrannoe/' + $('#searchtext').val()+'/' ); submitSearchForm();" id="searchButton" value="  Начать поиск  "/>
+
+                                    </form>
+
+                                  </div>
+
+                                </div>
+
+                <!-- /Хлебные крошки -->
+
+                                                                          <div id="navigation">
+
+                  <ul >
+
+                                    <li id="menuButton" style="margin-right:-8px;"><h1>Makita brushless range</h1></li>
+
+                                    <li class="menuItemLi ">
+
+                    <div class="menuItemIcon" style="background-position:-375px -6px;"></div>
+
+                   <!--noindex--> <b> Makita&#39;s range includes the MT Series, 18V, 18V x 2 and the 12V Max range.  The ultimate power to weight ratio, 18 Volt Lithium-ion.  Both tools in this Makita 18V LXT set have a durable brushless motor that offers greater efficiency and longer life.  Shop your favorite Makita products here.  Everything from bits to full tool kits. 8 Makita is the innovation leader in brushless motor technology, and the 18V LXT Brushless Impact Driver (DTD153Z, tool only) combines power and run-time for a full range of fastening tasks.  .  And 2.  The Makita 18V LXT Lithium-Ion Brushless Cordless Quick-Shift Mode 3-Speed Impact Driver (model XDT14Z, tool only) is a best-in-class fastening solution for users who want more torque, longer run-time, and precision fastening features.  Power of Lithium-ion.  Kickback User Protection turns the motor off if rotation speed suddenly slows or wheel is forced to stop.  Great prices on Bosch tools &amp; accessories at bcfasteners.  BL brushless motor delivers 1,500 in.  The XHU07Z hedge trimmer has a 24 In.  Industry leading brushless motors – longer run time, increased power and speed, longer life motor; Systems to suit all users – home and commercial; The range of Makita cordless garden tools includes: Blowers, Chainsaws, Hedgers, Mowers, Multi-Function Power Heads – fit hedgers, trimmers, pole saws and more, Trimmers and Wheelbarrows.  The XTR01Z is engineered for a full range of cabinetry and woodworking applications.  18Vx2 Brushless Chainsaw 400mm (16&quot;) DUC405Z Compare Makita have a large range of 18v power tools &amp; use this range to make excellent cordless combo kits.  I can feel it through the whole drill. com.  The Makita brushless motor is precision engineered to be up to 50% more efficient than a comparative model.  tool is not over heating and batery is fine.  Combo Kit (5.  The Makita 18V LXT® Lithium-Ion Brushless Cordless Impact Driver Kit (XDT131) delivers maximum versatility and performance, with an efficient Makita BL™ Brushless Motor for up to 50% longer run time, increased power and speed, and longer tool life.  10 - 19 cfm This Makita brushless 18V combo has all you need to get the job done.  With Makita, you can be assured of the quality and capacity of the products.  18V plus 18V Li-Ion Cordless Grass Trimmer DUR365UZ BRUSHLESS. Powerful Brushless DC (BLDC) motor.  Makita DHR171Z 18V Cordless Brushless SDS Plus Rotary Hammer Drill - Body Only.  It also comes with a rapid charger that will charge the 5.  Makita offers a range of concrete solutions including a full line of rotary and demolition hammers, with select models featuring Anti-Vibration Technology (AVT®).  It features an efficient Makita brushless motor for longer run time, increased power and speed, and longer tool life. 080-inch line and 13-3/4-inch cutting diameter.  Excellent prices on a huge range of products.  • Compatible with Makita 18V Lithium-Ion batteries with a Star symbol. 0Ah batteries in 45 minutes each.  This powerful 18V Cordless Brushless 3/4&quot; Drive Impact Wrench is the latest in the Makita arsenal &amp; really designed to perform.  For almost 10 years, Makita have been working with brushless motors.  This innovation gives longer work life by making it run at a cooler temperature, assuring you durability and stability for a longer time.  The DRT50 18v LXT Router has an efficient Makita Brushless Motor for up to 50 percent longer run time, increased power and speed, and longer tool life.  The Makita 18 Volt XSC02z Brushless Metal Cutting Saw is Ideal for cutting a wide range of metals including Unistrut, all thread, corrugated iron, channel, conduit, pipe, sheet metal, square tubing, steel and more.  The 18V LXT Router has an efficient Makita BL Brushless Motor for up to 50% longer run time, increased power and speed, and longer tool life.  The new Makita Brushless Rebar Tying tool complements the range of battery-operated rebar cutters, as well as the steel rod cutter, and is supplied in a robust carry case. 9 lbs.  Makita DLX2176NT - Kit Includes DHP481 - Brushless Hammer Drill Driver DTD154 - Brushless Impact Driver BL1850B - 2 x 18V 5. 0 lbs.  Makita CX202RB 18V LXT Lithium‑Ion Sub‑Compact Brushless Cordless 2‑Pc. 0Ah is rated 4.  This 10-inch sliding compound miter saw spins blades at 4,400 RPM and has a brushless motor.  Dewalt DCH273N Cordless XR 18v SDS Brushless Hammer Drill 3 Mode - Bare Tool.  Makita has introduced three new tools featuring their ‘BL’ brushless-motor technology that provides improved reliability and performance.  Makita DHR242Z 18V LXT Lithium Ion 3 Mode 3KG SDS Rotary Hammer Drill Brushless.  lock torque 125Nm New Brushless DC motor (BLDC) Mechanical 2 speed gearing Variable speed control b If you are a Makita fan but weren’t necessarily bowled over by the basic Makita LS1221, this one may be more your speed.  The Makita XDT08 18V LXT Lithium-Ion Brushless Cordless Impact Driver Kit delivers great versatility as well as performance.  Driver - Drill Kit, 3.  It was a 6-speed model with good torque and tiny size.  The tie wire reel, available from Makita’s accessory range, is easily replaced by opening the reel cover.  The Makita BTW450Z High Torque Impact Wrench is a power tool that is designed for those who are looking for a high impact wrench for doing heavier jobs.  This Makita 6 piece Brushless Kit features a 6 piece Tool Bag, a two port fast charger, 3 batteries (5.  The Makita 18-Volt LXT Lithium-Ion Sub-Compact Brushless Cordless 2-piece Combo Kit (CX200RB) lets users do more with less, with two ultra-compact cordless solutions for drilling, driving and fastening in a more compact size with significantly less weight.  Plus don&#39;t forget to get a Mitre 10 card for the Glynde store Looking for MAKITA Li-Ion Battery Brushless Cordless Blower Kit, 155 cfm, 208 mph Max.  Makita-built Brushless Motors eliminate carbon brushes, enabling the motor to run cooler and more efficiently for longer life.  Featured.  Makita DTD170Z 18v LXT Brushless Cordless 6 Stage Impact Driver + Makpac Case.  FFX are proud to offer a range of products from Makita, the foremost manufacturer of power tools in the world.  Tackle a range of tasks with the ultra-compact drilling and driving capability of the Makita XFD13 brushless cordless driver drill (tool only, battery sold separately). makitauk.  It is ideal for a range of users, from iron and steel workers to pipe fitters, railroad and automotive mechanics, forming carpenters, and Makita has more than 100 years of experience in advanced motor designing and engineering.  Lawn Mower Kits Porter Cable’s new line of 20V brushless drills and impact drivers have raised eyebrows all across the industry, both in terms of performance and price. 0Ah) weighs only 4.  Shop our selection of Brushless, Makita, Power Tool Combo Kits in the Tools Department at The Home Depot.  The XWT11Z is powered by a Makita brushless motor for longer run time, increased power and speed, and longer tool life.  Makita DHR242Z 2.  Of max torque Variable speed (0-3, 400 RPM &amp; 0-3, 600 IPM) for a wide range of fastening applications The BL Brushless motor eliminates carbon brushes, enabling the BL motor to run cooler and more efficiently for longer life New Makita 18V brushles compact drill and impact driver have been spotted.  •Compact and ergonomic design at only 6-3/8 in.  the run time of the brushed will be less than burshless but I can&#39;t find any figures on that.  From 18v to 10.  It looks like we’ll be getting something similar here in the USA and presumably Canada as well – the new Makita XTD12 18V brushless impact driver.  Low Price Guarantee and Free Delivery on orders above $99.  Established in 1915 as an electric motor sales and repair company, MAKITA CORPORATION has grown to become world&quot;s top manufacturer of professional portable power tools.  The Makita 18-Volt LXT Lithium-Ion sub-compact Brushless cordless 2-piece Combo kit (CX200RB) lets users do more with less, with two ultra-compact cordless solutions for drilling, driving and fastening in a more compact size with significantly less weight.  Designed with durability and user comfort in mind, many Makita power tools feature all-metal construction and ergonomic handles.  No matter whether your maintaining the garden, out camping or cutting down a forest, our chainsaws are designed to get the job done.  Description.  Makita has more purpose-built brushless motors and more LXT® tools engineered to tackle a full range of job site applications.  The DFS452Z drywall screwdriver features innovative push-drive technology and a brushless motor that delivers efficient performance—comparable to corded models.  Body only/naked machine, supplied without batteries or charger.  Makita DTD170Z 18v LXT Brushless Cordless 6 Stage Impact Driver + Makpac Case 500,000+ 5 Star reviews.  Makita Brushless Impact Driver.  With 100+ years of experience in advanced motor design, Makita is the innovation leader in power tools and outdoor power garden equipment - Makita’s vision is to constantly strive for innovation in our products and our technology.  70 Stores Nationwide &amp; over 15,000 Tools online .  Makita hasn’t been slow to launch updated versions of your favourite cordless tools which include brushless motors, and we’ve got an exclusive videos of two brand new brushless jigsaws on Toolstop TV, which we’ve posted below.  Makita has the worlds largest 18-Volt cordless tool line-up, and the 18-Volt LXT Lithium-Ion Cordless 2-Piece Combo Kit packs 2 compact cordless tools with efficient brushless motors for a full range of drilling, driving, and fastening applications.  Makita DHR202Z 18v 2kg SDS Hammer Drill 3 Function LXT Lithium Compact BHR202.  Heavy duty, with an ULTRA-COMPACT design at just 117mm long and the Brushless DC Motor make the DTD154 impact driver one of Makita&#39;s best tools to date.  Makita XAG04 18V LXT Brushless 115 -125 mm Angle Grinder $189 In stock Makita XPH10 18V Cordless Hammer Driver Drill $99 In stock Makita XSF05 18V Brushless Screw Gun 2,500RPM (Tool Only) $199 In stock I have a NEW IN BOX - MAKITA 18-Volt LXT Lithium-Ion Sub-Compact Brushless Cordless 1/2 in.  Let’s take a look and compare them with Makita’s new brushless line, which are generally regarded as second-best in the industry, behind only Milwaukee’s M18 brushless line.  Of torque for the most demanding drilling and driving applications in wood, masonry and metal. uk/blo…-2/ the DHP482 is brushed, around the same price point but much higher torque.  Free shipping across Canada.  Makita XTR01T7 18V LXT Lithium-Ion Brushless Cordless Compact Router Kit with 5.  Get Tools Direct offers a huge online range of Makita combos and other power tools that are quite popular for any kind of household or industrial jobs.  I&#39;ve come across Makita drills and they seem great but I&#39;m struggling which model to go for Makita Brushless tools bring with them greater productivity, as not only do they last longer but they charge faster, thanks to the power of lithium-ion.  hedge trimmer (model XHU07Z, tool only) is part of Makita&#39;s wide range of cordless outdoor power equipment. Trigger switch with lock-on button.  The electronically-controlled brushless motor efficiently uses energy to match torque and RPM to the changing demands of the application.  Makita is the global market leader in Industrial Power Tools and Outdoor power garden equipment.  Of course, since the Makita Brushless range runs off the Lithium-ion system, a single battery can be used on over 75+ tools and products. 0Ah) and 6 top of the range 18v LXT Li-ion Makita Brushless power tools.  From small and lightweight to high powered and heavy duty, Makita power drills are a trade favourite with their innovative design, latest technology and powerful and efficient motors, giving you the confidence to get the job done to the high standards you would expect.  Every Tool, Every Trade.  MAKITA POWER TOOLS INDIA PVT.  Makita XFD061 18V Brushless Compact Cordless Drill 1/2″ Driver Mechanical 2-speed transmission (0-400 &amp; 0-1, 550 RPM) for a wide range of drilling and fastening applications BL Brushless motor delivers 530 in.  Where it falls a little short for commercial Pros is in its limits of 0.  If you are looking for the reliable Makita brushless combo kits , then it is definitely worth checking Makita 18V 2 Piece Brushless Combo that has a brushless motor for more power and longer Back in July 2016, we posted about the new Makita DTD170 brush less impact driver that was coming out overseas.  The BL brushless motor delivers 1500 in lbs of maximum torque to complete those harder, more Places for Makita 18 Volt LXT Lithium Ion Brushless Cordless Jig Saw Tool Only XVJ02Z.  I&#39;ve read the LXT range offer better battery life and the brushless motor drills do the same but from a power demand perspective along with less maintenance.  XT252MB Combo Kit offer two BL™ brushless motor solutions that deliver longer run time, increased power and speed, and longer tool life - as well as the industry-leading 18V hammer driver-drill with a full 1,090 inch/pound of torque, the most in the category.  Driver Drill + a 3.  Combo Kit (2.  On all orders to the UK Mainland.  The electronic 3-speed power selection switch gives users more precise fastening control.  Makita Cordless 18V 5. D-handle design. Lbs.  Makita also have an impressive range of cordless garden tools which run off 2x 18V Batteries.  At only 6-3/8 in. Tool Makita DTD170Z 18v LXT Brushless Cordless 6 Stage Impact Driver + Makpac Case 500,000+ 5 Star reviews. 0Ah batteries and the expansive breadth-of-line of the Makita 18V LXT® battery platform, so your batteries will power the Makita XDT13Z 18V Cordless Brushless Impact Driver $120+tax at Home Depot.  Your choice for Makita DFL Series Brushless Right Angle Nutrunners Makita 18V Brushless 2 Piece Combo Kit $ 649.  The efficient Makita BL Brushless Motor is electronically controlled and engineered for longer run time, increased power and speed, and longer tool life.  The XFD11ZB has an efficient Brushless motor with two speed settings and dual L.  Makita-built Brushless Motor eliminates carbon brushes, enabling the motor to run cooler and more efficiently for longer life because of no friction loss and reduced heat production caused by brushes.  Each tool features an efficient Makita Brushless Motor that is electronically controlled for longer run time, increased power and speed and longer tool life.  Makita 18V Brushless 18V 24mm Bare Brushless Rotary Hammer DHR243Z by Makita $ 429 inc Team at Beyond Tools for keeping Eric happy throughout the year with a wide range of new tools Back in July 2016, we posted about the new Makita DTD170 brush less impact driver that was coming out overseas.  FEATURES• Soft Grip with non-slip elastomer grip on front and rear handles for more comfort and control• Brushless motor - high efficiency brushless motor enables high power and longer run time• Dust Guard reduces the scatter of chips for Makita have the largest range of 18V cordless tools in the market.  The product delivers enhanced power and speed in a solid size for a wide range of driving &amp; fastening tasks. com It features a Makita BL Brushless Motor for longer run time, increased power and speed, and longer tool life.  The XDT12T comes with Makita’s BL Brushless Motor that no longer uses carbon brushes.  18V; Excellent prices on a huge range of products. 0Ah Batteries BL1016-L - 1 x Bonus 12V 1.  The Makita 18V LXT® Lithium-Ion Brushless Cordless Quick-Shift Mode™ 3-Speed Impact Driver (model XDT14Z, tool only) is a best-in-class fastening solution for users who want more torque, longer run-time, and precision fastening features.  Both are very compact and if you look closely they look strikingly similar to Makita’s latest brushless 12V CXT impact driver and drill.  with battery for a wide range of drilling, fastening and hammer 1 day ago · Makita is the innovation leader in Brushless Motor technology and the 18-Volt LXT Brushless 2-Piece Combo Kit (model XT268T) gives you two brushless solutions. 0 Ah batteries, and each reaches a full charge in only 45 minutes for less downtime and increased productivity.  It comes with 2 x lithium-Ion 5.  Square 266 in lb 14.  lbs.  Makita&#39;s LXT® System is the world’s largest and will soon have over 175* Solutions. 0Ah batteries which are compatible with all 18V and 2 x 18V Makita tools and garden products.  combo kit (4.  With this new 18V LXT Sub-Compact tool duo, Makita is once again creating a new class of cordless tools with the most compact and lightest weights in the 18-volt tool category.  Key to Makita&#39;s vision is the constant strive for innovation in our technology and our products. 8V CXT Cordless Brushless SDS Plus Rotary Hammer Drill &amp; Accessory Kit 2 x 2.  Makita caters to everyone&#39;s individual needs whether you&#39;re a DIYer or a profesional tradie.  The Makita DRT50ZX4 is the first cordless brushless router/trimmer in the range and is the 18v version of the best selling RT0700.  Makita XT275PT 18V LXT Lithium-Ion Brushless Cordless 2-Pc.  Makita DTW180ZB 3/8&quot; Sub-Compact Brushless Impact Wrench - tool only (no batteries or charger).  The efficient Makita BL™ Brushless Motor is electronically controlled and engineered for longer run time, increased power and speed, and longer tool life.  New Makita 4Ah batteries are here! Find great deals on eBay for makita impact driver 18v and makita impact driver 18v brushless.  Features a 40-position chisel lock and a vibration-absorbing handle for maximum comfort.  Makita has a legacy of innovation in the cordless impact driver category, and the 18V LXT Brushless 4-Speed Impact Driver (XDT16Z) sets new standards.  The three new 18V LXT® Brushless High Torque Impact Wrenches are part of Makita’s expanding 18V Lithium-Ion series, which will exceed 125 tools in 2016 and is the world’s largest cordless tool line-up powered by 18V Lithium-Ion slide-style batteries.  Combo Kit (4.  By providing the tools, Makita is ensuring that anything is possible.  If you are a Makita fan but weren’t necessarily bowled over by the basic Makita LS1221, this one may be more your speed.  Makita Corporation was founded in 1915 as an electric motor sales and repair company.  DGA456ZJ 18V Li-Ion Brushless Cordless Angle Grinder 115mm.  Makita HR166DSAE1 10.  Hi, I&#39;m considering a combi cordless drill.  Variable speeds of 0-3, 400 RPM and 0-3, 600 IPM give you more options to complete more tasks than ever before.  Makita 18V Brushless 165mm AWS Circular Saw Left-hand Makita Cordless Heavy Duty Hammer Drill &amp; Heavy Duty Impact Driver 18v 5Ah Top level kit, featuring the DHP481 Hammer Drill and the DTD154 Ipact driver with 2 x 5Ah batteries and charger MAKITA DHP481Z 18V LI-ION CORDLESS BRUSHLESS HAMMER DRIVER DRILL Features - Single sleeve keyless chuck While we run specific items and specials from Makita on our website we are able to get any product in the range, including hand and power tools.  Find The Full Specs and Best Prices Click Here to See The Makita Impact Driver Range Makita offers a wide range of power tools including cordless tools, outdoor power equipment, hand tools, bench tools, concrete tools, air tools, and more.  Lights to illuminate the work area.  Featuring overload protection, overheat protection, and overdischarge protection, this driver keeps users safe, while its manageable size and comfortable grip make using it a Available Now in-stores and online! Makita Subcompact 18V brushless drill/driver and 18v brushless impact that are smaller but more powerful than most 12V tools. 0Ah) Kit provides the power of corded with the convenience of cordless.  MAKITA EXPANDS BRUSHLESS MOTOR POWER TOOL RANGE · New High Torque 18v Combi Drill, Drill Driver and three-stage Impact Wrench · New compact body size · Brushless motor gives 20% more work.  Plus don&#39;t forget to get a Mitre 10 card for the Glynde store Makita DJV182Z Cordless Brushless Jigsaw (Body Only), 18 V has the following specifications In addition to the DJV180 lihtium ion cordless jigsaw Makita have now added this brushless machine to their ever expanding brushless range of cordless power tools.  The MakitaXSL06PT is an 18-volt cordless miter saw that has all the bells &amp; whistles you could ask for.  The kit includes two efficient 18V LXT 5.  Then Makita created the first brushless motors for power tools to deliver longer run time, increased power and speed and longer tool life.  Makita XSH03Z 18V LXT Brushless Circler Saw, Tool Only CFM Range. 0 Ah With FREE Husky 12” Tool Bag Mechanical 2-speed transmission (0-500 and 0-1,900 RPM) for a wide range of drilling and fastening applications Industry leading brushless motors – longer run time, increased power and speed, longer life motor; Systems to suit all users – home and commercial; The range of Makita cordless garden tools includes: Blowers, Chainsaws, Hedgers, Mowers, Multi-Function Power Heads – fit hedgers, trimmers, pole saws and more, Trimmers and Wheelbarrows.  Range of tools including top brands.  Hammer Driver-Drill (model XPH07Z) breaks new ground with full 1,090 in.  3-speed power selection switch (0-1,300, 0-2,000, 0-2,600 RPM &amp; 0-1,300, 0-2,800, 0-3,400 IPM) provides the user with precise fastening control for a wide range of applications; Makita-built Brushless Motor delivers 1,460 in.  Plus don&#39;t forget to get a Mitre 10 card for the Glynde store La Mirada, CA – Makita has released a new cordless fastening solution for automotive, installation and fabrication trades with the 18V LXT® Lithium-Ion Brushless 3-Speed ½” Impact Wrench.  The Makita 18V LXT Lithium-Ion Brushless 3-Speed Impact Wrench (XWT11Z, tool only) combines extended run time and speed control for unmatched fastening performance.  Price:$428.  The new top-of-the-range Makita DTD170 impact driver has a compact overall body length of just 117mm and weighs only 1.  Both tools come with a BL™ Brushless Motor that eliminates carbon brushes, to let the motor run cooler and more efficient, to increase longevity.  $649. 8V Impact Drivers.  Makita BTW450Z is one of the most reliable power tools produced by the company.  Makita 18V Cordless Brushless High Torque 1/4 Screwdriver DFS250Z - Skin Only It all started with the motor over 100 years ago.  The Makita XDT13Z 18V LXT Brushless Impact Driver was built for a wide range of fastening applications.  The Makita 18V LXT Brushless Cordless 30” Hedge Trimmer Kit (model XHU08T) is part of Makita’s wide range of cordless outdoor power equipment.  The impressive 3 stage impact selector is adjustable depending on the material or bolt type.  These Makita 18 Volt Brushless 6 Piece Combo Kits includes 1 x DHP481Z Brushless Hammer Drill Driver with 115Nm of torque and a 2 speed gearbox, 1 x DTD154Z Brushless Impact Driver with 175Nm of torque plus 3 stage impact power selection, 1 x DGA504Z 125mm Slide Switch Angle Grinder with automatic torque drive and an anti-restart function, 1 x DHS680Z 165mm Brushless Circular Saw with a 57mm The 18V LXT Brushless Compact Router Kit, model XTR01T7, has an efficient Makita BL Brushless Motor for up to 50% longer run time, increased power and speed, and longer tool life.  Makita XDT16 18V Brushless Impact Driver – A Smaller, Smarter Quick-Change Artist Phil May 7, 2019 Leave a Comment In our recent full review of the Makita XDT14T impact driver kit, Steve noted that the world isn’t really desperate for another new impact driver.  Makita’s current cordless miter saw is by all reports a nice machine but its motor tops out at 2,200 RPM to DeWalt’s 3,750.  Brushless motors offer you serious benefits, especially when you couple them with larger capacity li-ion batteries.  All tools are compatible with the Makita 18V and 2X18V range Save Time and Look Here For Makita Impact Drivers That Are Currently Available in 2018. 0Ah Batteries and 1 x 18 volt fast Charger, all contained in a jobsite tough tool bag.  Makita is the innovation leader in Brushless motor technology, and the 18V LXT Brushless impact driver (XDT13Z, tool only) combines power and run-time for a full range of fastening tasks. 0Ah) •Driver-Drill weighs only 2.  With zero emissions, lower noise and maximum versatility, the Power Head is a welcome solution for a range of trimming and cutting applications.  Makita brushless angle grinder 6 months old.  For those maybe wondering where this sits in the Makita range see here: its.  We do not parallel import our Makita tools.  This brushless impact driver has a 3-stage impact power selector that allows you to control it for an extensive application range. 8 lbs. co.  If you require any Makita product not listed here or on the rest of the site please feel free to contact us and we will be more than happy to assist you.  www.  of max torque.  Shop a wide range of Makita 18 Volt LXT Lithium Ion Brushless Cordless Jig Saw Tool Only XVJ02Z products and more at our online shop today.  It reduces friction within the motor and thereby releases greater power from the engine.  The Makita 18V LXT Lithium-Ion Brushless cordless ½” driver-drill kit (XFD131) is a perfect drilling and driving solution for the user who wants a drill with superior power-to-weight ratio.  Makita is meeting demand with an expanding line of cordless OPE that includes the 18V X2 LXT Lithium-Ion (36V) Brushless Cordless Couple Shaft Power Head.  Makita DTD154Z LXT 18v Li-Ion Brushless Cordless Impact Driver Body Only.  The new dual battery Makita has a brushless motor that tops out at 5,700 RPM, just 300 rpm shy of the speed of the company’s 7 1/2-inch corded miter saw.  Makita 6Pc Brushless Kit. 00.  Makita 36v Cordless Range.  Makita 18V Brushless Paddle Switch Angle Grinder Skin.  Makita&#39;s range of 36v cordless tools includes their brilliant LXT Lithium-Ion technology, providing you with a battery and optimum charging system that produces 280% more lifetime work with 2x more cycles.  Makita XFD131 18V Drill-Driver Kit Lithium-Ion Cordless 1/2&quot; Driver-Drill. 5kg.  to get special price, discount today and customer review about Makita LXDT01 18V Cordless Brushless Impact Driver please click the button below ! Seemore prices, shipping options available and additional Makita ?????out of (181) 18Volt LXT Lithium-Ion Brushless Cordless 1/2 in. 0AH batteries.  Makita XDT14Z 18V LXT Impact Driver - Tool Only Lithium-Ion Cordless 3-Speed Brushless Motor Impact Driver. 4V Brushless Angle Nutrunner, 230 rpm, DFL302FZ. 45.  Makita XPH12Z 18V LXT Brushless 1/2&quot; Hammer Driver-Drill, Tool Only Makita is the innovation leader in brushless motor technology, and the 18V LXT Brushless Hammer Driver-Drill (XPH12Z, tool only) combines power and run-time for more drilling, driving and fastening tasks in wood, metal, and masonry.  With a full 57.  Makita Power Tools and Accessories at FFX Makita are a leader in power tool technology for professional and DIY work.  The Makita 18V LXT® Lithium-Ion Brushless Motor Cordless 3-Speed Impact Driver (model XDT01) combines longer run-time with more torque and 3-speed power selection for maximum versatility and Makita XPH07Z TOC 18V LXT® LithiumIon Brushless Cordless 1/2 Hammer DriverDrill.  The Makita 18V LXT Brushless cordless 24 In.  Best in class for cordless power tool technology makes Makita a safe bet.  The DHP484 is an excellent compact combi with an all metal 2 speed gearbox, easy to grip chuck, 21 torque settings and LED light for improved visibility.  Get the best deal for Makita Brushless Corded Drills from the largest online selection at eBay.  The Features Makita LXDT01 18V Cordless Brushless Impact Driver.  Welcome to Discount Makita tools Discount Makita tools is a premium online store offering deals directly to you.  It has a solid aluminium housing and base for higher accuracy.  Makita AWS Range at Total Tools.  Rated 5 out of 5 by IC1234 from Right price for job Brought for site job.  LTD.  with battery for reduced operator fatigue •Compact and ergonomic design at only 6-3/8&quot; long •Mechanical variable 2-speed transmission (0-500 &amp; 0-1,700 RPM) for a wide range of drilling and driving applications •BL™ Brushless Motor delivers 350 in Filter By: Online Range (48) Entire Range (55) Makita Brushless Multi Function Power Head Skin with Attachments DUX60ZPS .  This Makita Brushless 4 Piece Combo Kit includes 1 x Brushless Hammer Drill Driver, 1 x Brushless Impact Driver, 1 x Brushless Angle Grinder, 2 x 5.  The Makita DUC254 is a 18V brushless top handle chain saw ideal for tree surgeons. 3 out of 5 by 10.  Haven&#39;t really noticed it earlier but today when taking out the bit it has some play in the shaft.  This Makita brushless 18V combo has all you need to get the job done.  somtimes tool works fine for 1h or longer.  with battery for reduced operator fatigue Compact and ergonomic design at only 6-15/1 Makita DDF483ZB 18V 1/2&quot; Brushless Drill Driver.  also then brushed vs brushless servicing debate surely will apply to tradesmen only. Brushless Motors.  Makita brushless drill and impact driver set in box comes with charger 1 year old.  The XDT16Z offers users four speeds, as well as Makita’s exclusive Quick-Shift Mode for increased fastening control. D.  NEW Makita 18V Brushless 165mm Circular Saw Get an edge on the competition Available with AWS Click the tiles below for more! The expansive breadth-of-line of the Makita 18V LXT Series means an 18V battery from any LXT tool will power the 18V sub-compact driver-drill.  Whether you want a Makita drill, Makita angle grinder or just genuine Makita batteries, we stock the full Makita range and are an authorised Makita dealer.  FREE SHIPPING XFD07Z 18V Lithium-Ion Brushless 1/2-inch Drill-Driver Includes: XFD07Z 18V Lithium-Ion Brushless 1/2-inch Drill-Driver (Bare Tool Only) Makita’s Brushless 18V Lithium-Ion range, Fuelled by the Makita brushless motor for extreme run time, increased power and speed, and longer tool life.  It is compatible with Makita 18V LXT Lithium-Ion batteries (sold separately).  Not a whole lot, and not on the chuck.  TradeTools are authorised online Makita sellers, so for any pricing or product information needs, just contact us &amp; we will get back to you with a great deal for Makita tools.  18V Lithium Ion.  These new Makita continues to extend the range of 18v Lithium-ion powered cordless tools that feature the innovative Brushless motor design which substantially enhances the performance and longevity of the tool. 0Ah) Makita CX202RB Combo Kit Features: Hammer Driver-Drill weighs only 2.  Excellent performance as powerful as AC model with highly enhanced Brushless DC motor.  Variable speed control dial (10,000 – 30,000 RPM) to match the speed to the application.  Plus, the variable speed also offers the user full control on the trigger while the driving shank quickly brakes upon release.  Makita is the innovation leader in brushless motor technology, and the 18V LXT® Brushless Impact Driver (XDT13Z, combines power and run-time for a full range of fastening tasks.  Makita offers a range of Cordless Tool Combo Kits to fit the needs of both the professionals and do-it-yourselfers.  Buy Now.  The 18-Volt LXT Lithium-Ion Cordless 1/2 in.  Makita&#39;s Brushless X2 tools are powered by two 18V (36V) LXT(R) batteries for maximum power, speed &amp; run-time.  MAKITA CONTINUE TO EXPAND BRUSHLESS 18V POWER TOOL RANGE Increased power from Brushless motors Metal transmissions throughout for rugged reliability Unique reverse rotation auto stop mode Makita continues to expand, refine and finesse the market leading 18v Lithium-Ion powered power tool range that has driven the brand to market leadership.  Where to buy Makita LXDT01 18V Cordless Brushless Impact Driver? We have best Makita LXDT01 18V Cordless Brushless Impact Driver for you.  Since their introduction in our tool range, brushless has shown the benefits of both longer life and greater power.  was incorporated in the year 2008 and is a wholly owned subsidiary of MAKITA CORPORATION, JAPAN.  Makita also offers concrete power cutters, surfacing tools, and accessories including bits and blades for industrial applications. 5mm (2-1/4″) cutting capacity, it is ideal for electrical contractors since it will cut 2” conduit in one pass. 0Ah Battery For Sale.  Plus don&#39;t forget to get a Mitre 10 card for the Glynde store Check out this great deal on makita xt269m 18v lxt lithium-ion brushless cordless 2-pc.  Makita 3/8 in.  BL™ BRUSHLESS MOTOR.  DLX2176M Makita DHP481Z 18V Li-ion Cordless Brushless Hammer Driver Drill - Skin Only Features: Single sleeve keyless chuck Wider torque range of 1 - 10Nm in clutch mode allows for versatile applications Mode ring selection Mechanical 2 speed gearing Long rigid side grip helps to stabilize the bit for steady drilling/s Makita has harnessed the impressive power of the incredibly successful 18v Brushless motor to reduce the back-breaking task of pushing a fully laden wheelbarrow across a rocky, bumpy building site, a muddy commercial garden or rough pasture towards a favourite fishing lake! The Makita DLX2204TX3 18v twin pack is an excellent kit for any professional tradesman, both tools feature brushless motors for longer runtime and require virtually no maintenance.  The Makita DHS661 is ideal for a wide range of trades requiring a compact powerful saw.  blade for increased cutting capacity and a 5-position rotatin The Makita XRU09 18V X2 LXT Brushless String Trimmer has an excellent fit and finish along with an outstanding feature set.  Since their introduction in our production tool range, brushless has proven invaluable thanks to the benefits of both longer life and greater power.  Makita is the innovation leader in brushless motor technology, and the 18V LXT® Brushless 2-Piece Combo Kit (model XT268T) gives you two brushless solutions with more performance features for drilling, driving and fastening.  Makita Cordless Hedge Trimmer 18v 5Ah Features: - Up to 160 minutes of run-time using 1 x 6.  Air Speed (Battery Included) (52YW73)? Grainger&#39;s got your back.  It is ideal for a range of users, from iron and steel workers to pipe fitters, railroad and automotive mechanics, forming carpenters and more.  The XHU08T Hedge Trimmer has a 30&quot; blade for increased cutting capacity and a 5-position rotating handle for increased comfort when trimming vertically or at an angle.  You can put it on low, medium, or high depending on how the tool The Makita 18V LXT® Lithium-Ion Brushless 3-Speed 1/2 in.  BL Brushless Motor Design.  Makita 18V Brushless 2 Piece Combo Kit $ 649.  The compact and ergonomic design adds maneuverability and control whilst reducing fatigue to the operator.  It is positioned at the top of Makita&#39;s deep line-up of driver-drills, and is a workhorse tool engineered with durability features for operation in harsh job site conditions.  You also get the category’s fastest-charging 4.  • The BL Brushless Motor eliminates carbon brushes, enabling the BL motor to run cooler and more efficiently for longer life.  All tools are compatible with the Makita 18V and 2X18V range Introducing Makita&#39;s first Cordless Brushless Laminate Trimmer, DRT50, featuring the same style base form factor as the electric compact router, RT0701C.  With the latest quality Makita cordless tools, Makiita power tools and products discount Makita tools is the one stop shop.  It uses the same 18V LXT® batteries and chargers that work with over 200 cordless solutions.  of Max Torque The Makita 18V LXT® Lithium-Ion Brushless 3-Piece Combo Kit (model XT328M) gives you three efficient brushless tools for drilling, driving, fastening, and demolition.  Makita Makita 18V 150mm Cordless Brushless Metal Cut Saw Skin - DCS553Z.  What makes these stand out is that they are all black instead of the usual Makita teal blue team color.  Looking for Barebones Makita Skins online? If you are looking for cordless, brushless or bare bones Makita skins for Makita cordless tools or other Makita tools, you can get great values at Get Tools Direct! Get Tools Direct offers the fantastic Makita skins range for those people who don&#39;t need batteries or chargers, just the power tool itself.  Makita Build-your-own Kit System Exclusive To D&amp;m Tools, You Are Now Able To Build-your-own 18v Makita Cordless Kit, Tailored To Your Own Exact Requirements, And Make Great Savings At The Same Makita Power Tools CX201RB 18V LXT® Lithium?Ion Sub?Compact Brushless Cordless 2Pc.  Makita has more than 100 years of experience in advanced motor designing and engineering.  Black &amp; decker buffer/polisher used once Ozito jig saw Makita sander 2 years old Makita hammer drill 2 years old Makita trimmer /roughter Makita recip saw 2 years old Makita cord circular saw Makita cord planner used once 6 months old Hitachi cord circular saw 185 mm Makita has always had the vision that society and global communities should be able to develop for themselves, and future generations.  BI Makita Tools Online.  Makita Cordless 18V Brushless QuickShift 3-Speed Impact Driver XDT14Z/DTD154Z Description.  More Info About the Makita DTD154RTJ &amp; DTD154Z 3-Speed Power Selection.  Makita brushless stops working Makita lxdt randomly stops working, if i turn bit by hand then its slowly turs for 1-2sec.  Includes 18 volt cordless drywall screw gun with brushless motor (DFS452Z), two #2 Phillips bits, magnetic bit holder, hook and locator.  Makita lead the way in taking 36V tools and putting them on the Makita 18V platform with the 18Vx2 (using 2 18V batteries).  Model DTS141 is a cordless oil-pulse driver powered by 18V Li-ion battery, featuring a compact and lightweight design thanks to the newly-developed oil unit and brushless motor.  and has collet capacity of 3/8&quot; and 1/4&quot;.  All Makita outdoor products are made to the highest standard, utilising over 150 years of Japanese and German engineering experience. 0ah) with xdt13z 18v lxt lithium-ion brushless cordless impact driver from Makita Makita 18V LXT 165mm Brushless Circular Saw Bare Unit DHS660Z.  Top brands at low prices. 0Ah Li-Ion Brushless 2Pc XT268T Combo Kit Description.  The Makita 18V LXT Lithium-Ion Brushless Cordless 1/2&quot; Driver-Drill Kit (XFD131) is an ideal drilling and driving solution for the user who wants a drill with superior power-to-weight ratio.  If you are looking for the reliable Makita brushless combo kits , then it is definitely worth checking Makita 18V 2 Piece Brushless Combo that has a brushless motor for more power and longer Makita drills are renowned for their performance and quality.  The Makita® 18V LXT® Lithium-Ion Brushless Cordless 2-Pc.  Makita 18V Brushless Hammer Drill Skin DHP481Z is available at Total Tools.  The Makita XRU09 18V X2 LXT Brushless String Trimmer has an excellent fit and finish along with an outstanding feature set. 5Ah Battery DC18RE - 18V/12V Fast Charger Case DHP481 - Brushless Hammer Drill Driver Max.  The set includes a heavy-duty hammer driver-drill that can handle the most extreme materials and a remarkable impact drill that delivers an astounding 1,500 inch-pounds of torque.  Whether you need a whole line of new tools or just a few to complement your current collection, Makita has what you&#39;re looking for.  Makita 18V Brushless Impact BL Brushless motor delivers 1, 500 in.  It features an efficient Makita brushless motor for longer run time, increased power and speed and longer tool life.  High power and more work amount, powered by two 18V Li-ion batteries Welcome to Makita.  Great pricing on Makita tools and accessories online at bcfasteners.  Browse our daily deals for even more savings! Free delivery and free returns on eBay Plus items! Makita is one of the world&#39;s largest power tool and OPE (Outdoor Power Equipment) manufacturers with nine manufacturing facilities globally and product range in excess of 350 innovative tools.  NEW in the Retail packaging. E.  of maximum torque Variable speed (0-3,400 RPM and 0-3,600 IPM) for a wide range WORLD’S LARGEST COMPATIBLE LITHIUM-ION SYSTEM In 2005, Makita was the first to introduce 18V Lithium-Ion cordless tools.  The efficient Makita BL Brushless motor is electronically controlled and engineered for longer run time, increased power and speed, and longer tool life.  The brushless motor delivers an impressive runtime compared to other cordless saws.  Makita Power Tools have more power and less weight, and are more compact and more efficient than any other. 0Ah - Lightweight for reduced operator fatigue - Brushless motor delivers 4,400 SPM for faster cutting - Variable 3-speed (High: 0-4,400, Medium: 0-3,600, Low: 0-2,000 SPM) design for optimum speed control Earlier this month I dug in and purchased one of the Makita Brushless drills, the LXPH05.  Shop with confidence.  L •Weighs only 2.  Makita have the best and most comprehensive range of professional Lithium-ion tools available on the market, so what ever your trade, you will be confident that you have made the best choice. 7kg 18V Li-Ion LXT Brushless Cordless SDS Plus Drill - Bare (7144J) Brushless 3-function SDS plus hammer drill</b><!--/noindex-->                  </li>
+
+                                    <li  class="menuItemLi  active">
+
+                    информацию.
+
+           <!--/noindex-->           <div style="margin-top:5px;">
+
+            <!--noindex-->
+
+            <!--LiveInternet counter--> <!--/LiveInternet-->
+
+            <!--/noindex-->
+
+          </div>
+
+          
+
+          
+
+		 
+
+<!--</div>-->
+
+  	
+
+  	 
+
+
+
+  </body>
+
+
+
+
+
+            
+
+</html>

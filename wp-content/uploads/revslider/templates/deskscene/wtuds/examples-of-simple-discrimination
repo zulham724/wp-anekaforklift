@@ -1,0 +1,801 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+
+  <link rel="dns-prefetch" href="https://github.githubassets.com">
+
+  <link rel="dns-prefetch" href="https://avatars0.githubusercontent.com">
+
+  <link rel="dns-prefetch" href="https://avatars1.githubusercontent.com">
+
+  <link rel="dns-prefetch" href="https://avatars2.githubusercontent.com">
+
+  <link rel="dns-prefetch" href="https://avatars3.githubusercontent.com">
+
+  <link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
+
+  <link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
+
+
+
+
+
+
+
+  <link crossorigin="anonymous" media="all" integrity="sha512-67V2J9Se2CifJlftk9/cExHGvxd7N9b9EdGnQEpszu99Ogeecilu9jIDxoCkx3zNLfB9ArraXW0J03qyVmN0Uw==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-e7318add1f7e055d040edb0f75aaa0ba.css" />
+
+  <link crossorigin="anonymous" media="all" integrity="sha512-MRlTIqIyb8caK5+o8llXVntXovciHyAM4qE3kWU2S7SIjAPDxYp4mE0jQp4kP5UYegy+lG9y1I6VlsdzEjb5Qw==" rel="stylesheet" href="https://github.githubassets.com/assets/site-294181adec18ed639e160b96b45d17ac.css" />
+
+    <link crossorigin="anonymous" media="all" integrity="sha512-sdCBXlLRZegVx3t99SkEmQxO9DDMm2nGm5wNJsuBc72c3KYXj0mpM+97TIsreSTHPioEFxyFgIip3TDtGPQuDA==" rel="stylesheet" href="https://github.githubassets.com/assets/github-54fcb3a87437ca29a24557c268985ca6.css" />
+
+    
+
+    
+
+    
+
+    
+
+
+
+  <meta name="viewport" content="width=device-width">
+
+  
+
+  <title>Examples of simple discrimination</title>
+
+    <meta name="description" content="Examples of simple discrimination">
+
+    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
+
+  <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
+
+  <meta property="fb:app_id" content="1401488693436528">
+
+
+
+    <meta name="twitter:image:src" content="https://avatars3.githubusercontent.com/u/130982?s=400&amp;v=4" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="victorfontes/django-mobile-helper" /><meta name="twitter:description" content="A package to help dealing with mobile clients in Django - victorfontes/django-mobile-helper" />
+
+    <meta property="og:image" content="https://avatars3.githubusercontent.com/u/130982?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="victorfontes/django-mobile-helper" /><meta property="og:url" content="https://github.com/victorfontes/django-mobile-helper" /><meta property="og:description" content="A package to help dealing with mobile clients in Django - victorfontes/django-mobile-helper" />
+
+
+
+  <link rel="assets" href="https://github.githubassets.com/">
+
+  
+
+  <meta name="pjax-timeout" content="1000">
+
+  
+
+  <meta name="request-id" content="CCF3:29219:24F761:36B2A1:5D124B64" data-pjax-transient>
+
+
+
+
+
+  
+
+
+
+  <meta name="selected-link" value="repo_source" data-pjax-transient>
+
+
+
+      <meta name="google-site-verification" content="KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU">
+
+    <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
+
+    <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
+
+
+
+  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="CCF3:29219:24F761:36B2A1:5D124B64" /><meta name="octolytics-dimension-region_edge" content="ams" /><meta name="octolytics-dimension-region_render" content="iad" />
+
+<meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;" data-pjax-transient="true" />
+
+
+
+
+
+
+
+    <meta name="google-analytics" content="UA-3769691-2">
+
+
+
+
+
+<meta class="js-ga-set" name="dimension1" content="Logged Out">
+
+
+
+
+
+
+
+  
+
+
+
+      <meta name="hostname" content="github.com">
+
+    <meta name="user-login" content="">
+
+
+
+      <meta name="expected-hostname" content="github.com">
+
+    <meta name="js-proxy-site-detection-payload" content="NjQ5ODVmNzZjNjA0YzAwYTQwZjkxMTM5NzI0MWNlMzQ5NTgxYWEwMWMwZTg5OGQ1MmY5OTEyNDdjYTUwZDk4Y3x7InJlbW90ZV9hZGRyZXNzIjoiODUuMTc0LjE5MS4xOTAiLCJyZXF1ZXN0X2lkIjoiQ0NGMzoyOTIxOToyNEY3NjE6MzZCMkExOjVEMTI0QjY0IiwidGltZXN0YW1wIjoxNTYxNDgwMDM4LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+
+
+
+    <meta name="enabled-features" content="MARKETPLACE_FEATURED_BLOG_POSTS,MARKETPLACE_INVOICED_BILLING,MARKETPLACE_SOCIAL_PROOF_CUSTOMERS,MARKETPLACE_TRENDING_SOCIAL_PROOF,MARKETPLACE_RECOMMENDATIONS,MARKETPLACE_PULL_PANDA_HOMEPAGE,DISPLAY_COMMENTER_FULL_NAME">
+
+
+
+  <meta name="html-safe-nonce" content="12876d413857186b346f0c018cda750302834381">
+
+
+
+  <meta http-equiv="x-pjax-version" content="6b1033cb022e79b6905f5cb0b638baf0">
+
+  
+
+
+
+      <link href="https://github.com/victorfontes/django-mobile-helper/commits/master.atom" rel="alternate" title="Recent Commits to django-mobile-helper:master" type="application/atom+xml">
+
+
+
+  <meta name="go-import" content="github.com/victorfontes/django-mobile-helper git https://github.com/victorfontes/django-mobile-helper.git">
+
+
+
+  <meta name="octolytics-dimension-user_id" content="130982" /><meta name="octolytics-dimension-user_login" content="victorfontes" /><meta name="octolytics-dimension-repository_id" content="739954" /><meta name="octolytics-dimension-repository_nwo" content="victorfontes/django-mobile-helper" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="739954" /><meta name="octolytics-dimension-repository_network_root_nwo" content="victorfontes/django-mobile-helper" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
+
+
+
+
+
+    <link rel="canonical" href="https://github.com/victorfontes/django-mobile-helper" data-pjax-transient>
+
+
+
+
+
+  <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
+
+
+
+  <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
+
+
+
+  <link rel="mask-icon" href="https://github.githubassets.com/pinned-octocat.svg" color="#000000">
+
+  <link rel="icon" type="image/x-icon" class="js-site-favicon" href="https://github.githubassets.com/favicon.ico">
+
+
+
+<meta name="theme-color" content="#1e2327">
+
+
+
+
+
+
+
+
+
+
+
+  <link rel="manifest" href="/manifest.json" crossOrigin="use-credentials">
+
+
+
+  </head>
+
+
+
+  <body class="logged-out env-production min-width-lg">
+
+    
+
+
+
+  <div class="position-relative js-header-wrapper ">
+
+    
+
+    <div id="js-pjax-loader-bar" class="pjax-loader-bar"><div class="progress"></div></div>
+
+
+
+    
+
+    
+
+    
+
+
+
+
+
+        <header class="Header-old header-logged-out  position-relative f4 py-2" role="banner">
+
+  <div class="container-lg d-flex px-3">
+
+    <div class="d-flex flex-justify-between flex-items-center">
+
+        
+
+          <svg height="32" class="octicon octicon-mark-github text-white" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+
+        </a>
+
+    </div>
+
+
+
+    <div class="HeaderMenu HeaderMenu--logged-out d-flex flex-justify-between flex-items-center flex-auto">
+
+      <div class="d-none">
+
+        <button class="btn-link js-details-target" type="button" aria-label="Toggle navigation" aria-expanded="false">
+
+          <svg height="24" class="octicon octicon-x text-gray" viewBox="0 0 12 16" version="1.1" width="18" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+
+        </button>
+
+      </div>
+
+
+
+        <nav class="mt-0" aria-label="Global">
+
+          <ul class="d-flex list-style-none"> 
+
+          <li class=" mr-3 mr-lg-3 edge-item-fix position-relative flex-wrap flex-justify-between d-flex flex-items-center "></li>
+
+          </ul>
+
+        </nav>
+
+
+
+      <div class="d-flex flex-items-center px-0 text-center text-left">
+
+          <div class="d-lg-flex ">
+
+            <div class="header-search mr-3 scoped-search site-scoped-search js-site-search position-relative js-jump-to"
+
+  role="combobox"
+
+  aria-owns="jump-to-results"
+
+  aria-label="Search or jump to"
+
+  aria-haspopup="listbox"
+
+  aria-expanded="false"
+
+>
+
+  <div class="position-relative">
+
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="739954" data-scoped-search-url="/victorfontes/django-mobile-helper/search" data-unscoped-search-url="/search" action="/victorfontes/django-mobile-helper/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+
+      <label class="form-control input-sm header-search-wrapper p-0 header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center js-chromeless-input-container">
+
+        <input type="text"
+
+          class="form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
+
+          data-hotkey="s,/"
+
+          name="q"
+
+          value=""
+
+          placeholder="Search"
+
+          data-unscoped-placeholder="Search GitHub"
+
+          data-scoped-placeholder="Search"
+
+          autocapitalize="off"
+
+          aria-autocomplete="list"
+
+          aria-controls="jump-to-results"
+
+          aria-label="Search"
+
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=AK6grC5cGEh6WbkUATQhFSFpKOO7MEA9hyKSe/Foj7r4RH1QvaHE3k+9OwBAZ2+KMuRi0MhRYWwjJTJNNX+mVA=="
+
+          spellcheck="false"
+
+          autocomplete="off"
+
+          >
+
+          <input type="hidden" class="js-site-search-type-field" name="type" >
+
+            <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
+
+
+
+            <div class="Box position-absolute overflow-hidden d-none jump-to-suggestions js-jump-to-suggestions-container">
+
+              
+
+<ul class="d-none js-jump-to-suggestions-template-container">
+
+  
+
+
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-suggestion" role="option">
+
+   
+
+    <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
+
+      <svg height="16" width="16" class="octicon octicon-repo flex-shrink-0 js-jump-to-octicon-repo d-none" title="Repository" aria-label="Repository" viewBox="0 0 12 16" version="1.1" role="img"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
+
+      <svg height="16" width="16" class="octicon octicon-project flex-shrink-0 js-jump-to-octicon-project d-none" title="Project" aria-label="Project" viewBox="0 0 15 16" version="1.1" role="img"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z"/></svg>
+
+      <svg height="16" width="16" class="octicon octicon-search flex-shrink-0 js-jump-to-octicon-search d-none" title="Search" aria-label="Search" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M15.7 13.3l-3.81-3.83A5.93 5.93 0 0 0 13 6c0-3.31-2.69-6-6-6S1 2.69 1 6s2.69 6 6 6c1.3 0 2.48-.41 3.47-1.11l3.83 3.81c.19.2.45.3.7.3.25 0 .52-.09.7-.3a.996.996 0 0 0 0-1.41v.01zM7 10.7c-2.59 0-4.7-2.11-4.7-4.7 0-2.59 2.11-4.7 4.7-4.7 2.59 0 4.7 2.11 4.7 4.7 0 2.59-2.11 4.7-4.7 4.7z"/></svg>
+
+    </div>
+
+
+
+    <span class="d-inline-block ml-1 v-align-middle"></span>
+
+    
+
+  </a>
+
+</li>
+
+
+
+</ul>
+
+
+
+<ul class="d-none js-jump-to-no-results-template-container">
+
+  <li class="d-flex flex-justify-center flex-items-center f5 d-none js-jump-to-suggestion p-2">
+
+    <span class="text-gray">No suggested jump to results</span>
+
+  </li>
+
+</ul>
+
+
+
+<ul id="jump-to-results" role="listbox" class="p-0 m-0 js-navigation-container jump-to-suggestions-results-container js-jump-to-suggestions-results-container">
+
+  
+
+
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-scoped-search d-none" role="option">
+
+  </li>
+
+
+
+
+
+</ul>
+
+
+
+            </div>
+
+      </label>
+
+</form>  </div>
+
+</div>
+
+
+
+          </div>
+
+
+
+       
+
+      </div>
+
+    </div>
+
+  </div>
+
+</header>
+
+
+
+  </div>
+
+
+
+  <div id="start-of-content" class="show-on-focus"></div>
+
+
+
+
+
+    <div id="js-flash-container">
+
+
+
+</div>
+
+
+
+
+
+
+
+  <div class="application-main " data-commit-hovercards-enabled>
+
+        <div itemscope itemtype="http://schema.org/SoftwareSourceCode" class="">
+
+    <main id="js-repo-pjax-container" data-pjax-container >
+
+      
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="pagehead repohead instapaper_ignore readability-menu experiment-repo-nav  ">
+
+    <div class="repohead-details-container clearfix container">
+
+
+
+      <ul class="pagehead-actions">
+
+
+
+
+
+
+
+
+
+  <li>
+
+    
+
+ 
+
+    <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/>
+
+    </svg>
+
+    </li>
+
+</ul>
+
+
+
+      <h1 class="public ">&nbsp; </h1>
+
+
+
+    </div>
+
+    
+
+<nav class="hx_reponav reponav js-repo-nav js-sidenav-container-pjax container"
+
+     itemscope
+
+     itemtype="http://schema.org/BreadcrumbList"
+
+    aria-label="Repository"
+
+     data-pjax="#js-repo-pjax-container">
+
+
+
+  <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+
+    
+
+      <svg class="octicon octicon-code" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"/>
+
+      </svg>
+
+      <span itemprop="name"> </span> 
+
+
+
+</nav>
+
+
+
+
+
+  </div>
+
+<div class="container new-discussion-timeline experiment-repo-nav  ">
+
+  <div class="repository-content ">
+
+
+
+    
+
+    
+
+        <div class="signup-prompt-bg rounded-1">
+
+      <div class="signup-prompt p-4 text-center mb-4 rounded-1">
+
+        <div class="position-relative">
+
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/prompt_dismissals/signup" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="DIrD76oeqq0Lw6iPB5ZCSQE+1Vrm8GqAXagjCDmQnJQ1UZvv2HI6nTAOFhEpzMTGmgUGXiJQNLOs57oja2C96A==" />
+
+            <button type="submit" class="position-absolute top-0 right-0 btn-link link-gray" data-ga-click="(Logged out) Sign up prompt, clicked Dismiss, text:dismiss">
+
+              Dismiss
+
+            </button>
+
+</form>          <h1 class="pt-2">Examples of simple discrimination</h1>
+
+          <p class="col-6 mx-auto">&nbsp; </p>
+
+          
+
+        </div>
+
+      </div>
+
+    </div>
+
+
+
+
+
+
+
+       
+
+
+
+
+
+
+
+
+
+        <div class="overall-summary overall-summary-bottomless">
+
+    <div class="stats-switcher-viewport js-stats-switcher-viewport">
+
+      <div class="stats-switcher-wrapper">
+
+      <ul class="numbers-summary">
+
+        <li class="commits"> 
+
+            </li></ul><div class="repository-lang-stats">
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+
+
+    <button type="button" class="d-flex p-0 repository-lang-stats-graph js-toggle-lang-stats" title="Click for language details" data-ga-click="Repository, language bar stats toggle, location:repo overview">
+
+      <span class="language-color" aria-label="Python 100.0%" style="width:100.0%; background-color:#3572A5;" itemprop="keywords"> With this download you will come up with a letter of the right tone and with all the details.  We know that sometimes in our society teenagers and senior citizens are not listened to or given as much respect as others.  For example, enhanced redundancy payments made to workers above a certain age may not be discriminatory because they reflect the extra problems older workers face when losing their jobs.  Today, there are still examples of prejudice and discrimination all around.  race discrimination in employment; State Farm.  Use of the term racism has become so popular that it’s spun off related terms such as reverse racism, horizontal racism, and internalized racism. The Psychology of Prejudice.  Sample Anti-Harassment Policy.  Such organizations are practicing gender discrimination too. 013, 1-β = .  Even though females have higher education rates and work more than men in the same profession they still get paid less in America.  A student not being invited to work on a research project because they are from a non-English speaking background and it is assumed people might have difficulty understanding them.  Direct discrimination occurs where you are treated less favourably Indirect discrimination.  10 Examples of Price Discrimination posted by John Spacey , January 10, 2016 updated on June 13, 2017 Price discrimination is any pricing strategy that charges different customers different prices in the interests of improving revenue.  Many employers achieve equity and diversity through means other than formal affirmative action measures.  For example: an employee with mobility impairment needs a parking space close to the office.  How to write a discrimination complaint, samples, sexual harassment complaint sample, non hire complaint sample, issues and bases of discrimination, race, color, sex, sexual orientation, disability, age, national origin, retaliation or reprisal.  If the requirement or practice is not reasonable, it may be indirect discrimination. &quot; I guess black people can&#39;t be Past Simple Tense expresses an action that occurred in past.  simple reaction time (srt) simultaneous discrimination; species-specific defense reaction (ssdr) unconditioned response (ucr ur) recovery time; donders&#39;s method; stimulus generalization; association of ideas; r-s relationship; subthreshold potential The financial institution holding Elizabeth’s SIMPLE IRA has several investment choices and she is free to choose which ones suit her best.  Since black people were separated by the color of their skin, and not given the same rights and privileges as white people, it entitled them to be labeled as oppressed.  Each of your argument should be in a separate paragraph.  Learn by example and become a better writer with Kibin’s suite of essay help services.  Also known as an independent clause, a simple sentence is a type of sentence which includes a subject and a verb and conveys complete meaning without the help of a While laws are in place to prevent discrimination in the workplace, many people still find themselves being discriminated against at work every day.  A gender discrimination essay must focus on the issue, how it developed and how it was brought down.  For example, en employer might refuse to allow employees to wear garments that reflect their ethnicity, or selectively enforce an “English-only” rule solely against employees who speak Farsi.  This type of discrimination may affect present and future actions.  The Law The rights are relative not absolute; free speech is restricted, for example, by laws on racism.  Some examples of this could include: maintaining decency and privacy (for example, in a fitting room or toilets) This is because some people or groups of people, are unable or less able to comply with the requirement or practice.  In these examples, consumers pay a premium for a slightly more expensive option.  In responding to a charge, it is important to focus not only on responding to the Charging Party&#39;s specific allegation, but also to provide the agency with any other affirmative evidence of non-discrimination.  The segregation of blacks and whites during the American Civil Rights Movement is an example of discrimination.  Gender discrimination at work can take many forms.  favoritism, favouritism.  Examples of direct discrimination include dismissing someone because of a protected characteristic, deciding not to employ them, refusing them training, denying them a promotion, or giving them adverse terms and conditions all because of a protected characteristic.  One example of indirect discrimination is a company setting a weekend work policy.  Discrimination is a form of harassment, and it has increased the conflict in the work environment.  Racial remarks, sexual remarks, and gender remarks are the biggest stereotypes.  This does not happen very often, but circumstances where it may occur are, for example, actors who are needed to play certain characters for authenticity.  Rice v.  Although overt discrimination was The Court in Smith decided that these claims were allowed, but what the employer and employee have to prove is a bit different than for other types of discrimination.  However, many of these same children could not complete a basic math worksheet where the same question is asked in writing, “3 + 1 = ?” This is because children with weak visual discrimination skills cannot properly distinguish between all of the numerals.  are one of the simplest types of price discrimination.  Therapy can treat the effects of prejudice and help address ignorance.  Include affirmative evidence of non-discrimination.  5.  Well i know a little something about discrimination having faced immense discrimination and bias in my life for being brutally honest, gruesomely gullible and sometimes plain honest.  There is a fundamental need to understand each word in its entirety in order to have a firm grasp on these issues.  A school uniform policy requires hair to be neatly cut and turbans are not allowed to be worn.  One example is Mary Jane Watson in the Spider Man movies.  If we have a popular student in our class and we harbor feelings of prejudice against him, these feelings are translated into actions that reflect this prejudice.  The stories of discrimination and implicit bias that older candidates said they had faced were shocking and disheartening.  The law says that certain personal characteristics, Some examples of age discrimination in the workplace are termination due to age, not hiring an individual because of his/her age, and denial of benefits to a worker because of their age.  This is the unwritten code that women cannot hold certain senior positions and are prevented from advancing beyond a certain point because of gender despite their skills, talents, and qualifications.  This is known as a ‘failure to make reasonable adjustments’.  Here, it tends to portray itself in a variety of forms some of which can be overt or obvious.  Phoneticians will often do discrimination experiments, which are experiments in which a stimulus consists of multiple sub-stimuli played in sequence, and the subject has to judge the similarity between these sub-stimuli.  There are racists, sexists, and many religion prejudices in the world.  Discrimination based on race is called racism.  JPMorgan Chase recently reached a $53M settlement with the DOJ, who alleged that the bank was recklessly disregarding the rights of at least 53,000 African-American and Hispanic borrowers.  Examples of discrimination in society today Everywhere we look, we see differences in wealth, power, and status. 5% (or .  Heightening tech skills and showing enthusiasm were only so helpful for mature job seekers.  Such a requirement would likely discriminate disproportionately against women (and some minority ethnic groups) as they are generally shorter than men.  However, when we read the comments on that article, we realized the issue wasn’t as simple as we thought. ^The human rights of women throughout the Middle East and North Africa are systematically denied by each of the countries in the region, despite the diversity of their political systems.  Whether it is about the racial discrimination blacks faced in the past or women had to deal with in not being allowed to vote or write books, history is filled with examples of discrimination for a race Examples of abuse of a dominant position include overcharging, discrimination against suppliers, unjustifiable refusals to supply and predatory pricing.  Discrimination can be interpreted as the external representation of prejudice.  Haynes v.  For example, Nicki Minaj is often referred to as the &quot;black Lady Gaga.  For example, ‘premium unleaded petrol’ may cost the firm an extra 1p over standard unleaded, but the firm may sell this premium unleaded at 5p.  Learn vocabulary, terms, and more with flashcards, games, and other study tools.  You should not be treated less favourably than another A discrimination essay can be written on so many different perspectives and there are a number of discrimination essay topics available.  Examples of Simple discrimination - unfair treatment of a person or group on the basis of prejudice.  Definition.  Indirect discrimination occurs where a certain provision, Disability related discrimination. 70, p = .  Author: Michael Arnold, Mintz, Levin, Cohn, Ferris, Glovsky and Popeo, PC Most employers are well aware that they must and should prevent discrimination in the workplace.  A simple sentence is one independent clause that has a subject and a verb and expresses a complete thought.  Here are ten of the most extreme examples of gender inequality you can find currently practiced. 3 Examples of behaviours that may amount to direct discrimination include: Excluding someone from a job or course because of their family responsibilities.  Confirmation Bias Definition: The confirmation bias refers to the tendency to selectively search for and consider information that confirms one&#39;s beliefs.  -The Equal Pay Act (EPA).  Examples of Discrimination in the Workplace.  $53M Disparate Treatment Settlement, 8 Years Later.  Still, certain federal government contractors must adhere to regulations enforced by the U.  The Chinese, Japanese and Irish had trouble in America, during the 19th century, Gender discrimination survey questions template is created to collect responses from employees at workplace to know if they have experienced gender discrimination.  Sign in A “Discrimination arising from disability” is a relatively new concept introduced by the Equality Act 2010 but it is fast becoming a regular feature in claims at employment tribunal.  sexist).  2nd-degree price discrimination – charging different prices depending on the quantity consumed. 375 as a decimal).  When he asked why his manager said it was due to concerns that, as he was openly-bisexual, elderly male residents would be uncomfortable with him carrying out the personal care duties the role required.  Racism vs.  The purpose of the corporate Human Resources department is not to protect you, but to protect the interests and goals of management and the company.  Even if that is not the case and the preliminary rounds and interviews are conducted, the other forms of discrimination make an entrant―if the candidates are found to be equally skilled, then factors like race, ethnicity, their acceptance in the work setting, etc.  The &#39;less is more&#39; approach has proven to be the go to means to achieve elegance, sophistication and more importantly, innovation.  Racial discrimination is a common phenomenon in the workplace.  Discrimination Racism and discrimination are two words that are used interchangeably, yet their meanings differ in actions and intent.  (e.  Recen ty ears ha v e witnessed the addition of terms suc h as &#92;glass-ceiling&quot; and &#92;insti-tutional racism&quot; in to p opular sp eec h. org.  With that said, when you&#39;re a part of a In contrast to direct discrimination, which may be easy to see, hear and identify, indirect discrimination is often more subtle.  This movement supported the freedom of women and proclaimed that they should have an equal social status.  As presiding officer the Speaker exercises a right of discrimination between members rising to speak in debate, and can thus advance or retard the progress of a measure.  There is also Michael Sam’s situation is a perfect example of a phenomenon called access discrimination, which takes place during the hiring or promotions process.  Religious discrimination involves treating a person (an applicant or employee) unfavorably because of his or her religious beliefs.  Age Discrimination.  Past Simple Tense.  A BFOQ is a defense to acknowledged discrimination, usually based on the existence of a facially discriminatory policy, such as &quot;individuals over the age of 50 shall not be hired as police officers.  For example, if you must also comply with laws prohibiting discrimination on the basis of sexual orientation, you may include that language as well.  If so, the stimuli will be related not only by conditionality, but by equivalence: Al and Bl will In essence, prejudice is a feeling.  1.  Most antidiscrimination laws — such as Title VII, the Americans with Disabilities Act, the Age Discrimination in Employment Act, and various state and local laws — do not explicitly discuss harassment (speech or nonspeech).  Price discrimination results in greater revenue for the firm.  Stereotypes influence our academic performance (Shapiro &amp; Neuberg, 2007), the careers that we chose to follow (Zhang, Schmader, &amp; Forbes, 2009), Avoiding Discrimination Respect cultural, racial, gender, religious, age differences in the workplace Be professional in conduct and speech Refuse to initiate, participate, or condone discrimination and harassment Avoid race-based, culturally offensive, religion based, age related, or gender humor or pranks.  Ageism is when someone is treated badly because of their age.  2.  Recognizing the types of workplace discrimination will enable you to identify discrimination when it occurs – whether you, a coworker or another employee is the victim.  Under similar circumstances, when a person with a protected characteristic is treated less favourably than others, it is direct discrimination.  Ageism is the stereotyping and prejudice against older people that can lead to age discrimination.  Under discrimination he may sell output OM 1 in one market at price M 1 P 1 and output OM, in the other market at price (OM 1 + OM 2 = OM).  If you are a victim of Gender Discrimination or Bias, you can fight back and get the compensation you deserve.  In English grammar, the Simple Past (or Past Simple) is the basic form of the past tense.  The maximum item discrimination difference is 100 percent.  Gender discrimination in the workplace is unfair treatment of employees based on their gender.  some examples of distillation are alcohol distillery, distilled water, production Simple Sentence Examples – Definition &amp; Importance We come across situations wherein while writing anything or while trying to compose our thoughts to express in a written manner, we, more often than not, find ourselves at a loss for words.  It may also be defined by its impact, where the level of discrimination has a profound effect on the ability of the organisation to perform its role or to meet the demands of relevant legislation.  Comparison between Simple Monopoly Output and Discriminating Monopoly Output.  In the UK this means that you must not specify a preference according to gender, race, creed, religion, or physical ability.  Start studying Discrimination training.  [1] 5.  Affirmative Action as Racial Discrimination The controversy over affirmative action is growing to embody most all selective decisions in American society.  Gender Discrimination in Education and Title IX The section Title IX of the Education Amendments Act of 1972 (Title IX) is a federal law that states: &quot;No person in the United States shall, on the basis of sex, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any education program or activity Joe says, &quot;The use of coupons in grocery stores represents a means of price discrimination.  There are many examples of Gender Discrimination where victims have documented the incidents allowing them to PROVE that it was occurring.  But some discrimination should be made in detail.  That is to say that discrimination experienced because of gender, for example gender discrimination against women, can be directly related, encouraged, and shaped by someone’s race or ethnicity as well.  Contact an Attorney about Your Employment Discrimination Claim.  Discrimination against the elderly is a bias against the elderly based on their age and not on merit of the individual.  In each particular protected class under discrimination laws, people tend to face common forms of discrimination. S.  In human social affairs, discrimination is treatment or consideration of or making a distinction in favor of or against, a person based on the group, class, or category to which the person is perceived to belong.  DISPARATE TREATMENT Whenever similarly situated individuals of a different race, sex, national origin, etc.  Thus, new edibles were introduced to serve as specific reinforcers for the selection of the pictures and printed words of wolf, cat, and frog.  Biases, whether conscious or unconscious, are shaped by our experiences, culture, and lifestyles.  Discrimination is unfair treatment of one particular person or group of people. Everything Has Changed, but Nothin&#39; Has Changed: Shame, In addition, the last sentence can be tailored to conform to the law in your particular state.  Coupons are likely to reduce the price of groceries to people who are more price-sensitive than to those who are not.  Title VII is a broad anti-employment discrimination law which bars all forms of discrimination in the workplace - including gender, race, national origin and religion - in the hiring, firing promotion, and pay of employees.  Harassment can come in many forms and from many sources.  3.  The formula is: IDis = (Upper Group Percent Correct) – (Lower Group Percent Correct) Item #1 in the attached report would have an IDis of 100% - 62.  The law protects not only people who belong to traditional, organized religions, such as Buddhism, Christianity, Hinduism, Islam, and Judaism, but also others who have sincerely held religious, ethical or moral These are all examples of extreme discrimination of women throughout the world but we can find more subtle examples of discrimination here in the United States.  Racism occurs due to historical differences among different groups of individuals.  • Block B.  Age Discrimination in Employment Act of 1967: Protects people who are age 40 or older from being discriminated against based on age. Some examples of discrimination in the workplace include when an employer, supervisor, or co-worker treats another employee unfairly based on religion, age, ethnicity, gender, disability, skin color, or race.  Another example, from video games, is Princess Zelda.  The proverbial &quot;glass ceiling&quot; is a classic example of workplace gender discrimination.  A person may not intent to discriminate against another person, but it is still discrimination.  Usually these gender discrimination acts are filed in a class action lawsuit because it is considered a civil rights violation case.  Discrimination Essay Examples 1.  An organization which hires more male candidates and rejects women (or vice versa), due to their gender, is said to be prejudiced.  As with discrimination, there are different types of harassment, including unwelcome behavior by a co-worker, manager, client, or anyone else in the workplace, that is based on race, color, religion, sex (including pregnancy), nationality, age (40 or older), disability, or genetic information.  The bill, which is expected to be presented to the Legislative Council after next month&#39;s elections, aims at making discrimination on racial grounds unlawful.  He caught a bird in the bushes.  Particular aspect of the environment that the experimenter manipulates to find out whether it affects the subjects behavior it&#39;s also called an intervention treatment or experimental variable it&#39;s called an independent variable because the researcher can change it independently from subjects behavior Discrimination is when someone is treated unfairly or differently.  Although violence against members of outgroups is fortunately rare, stereotypes, prejudice, and discrimination nevertheless influence people’s lives in a variety of ways.  Systemic discrimination in the recruitment process could, for example, involve consistently offering lower wages to women than to men.  Read on for detailed descriptions, examples, and simple past exercises.  GitHub is home to over 36 million developers working together to host and review code, manage projects, and build software together. g.  Racism in America [change | change source] Generally racist attitudes in the country have been most onerously applied to Native Americans, African Americans and some &quot; foreign-seeming &quot; action against Mexican immigrants among others.  Specific Examples Of Discrimination.  Take the Stereotypes Examples Whenever we don&#39;t have a good understanding of a subject, say, of people or countries, then we tend to make assumptions about them.  Here are some examples of national origin discrimination: An organization which hires more male candidates and rejects women (or vice versa), due to their gender, is said to be prejudiced.  the ability to see the difference between two things or people 3.  Statistical discrimination is an economic theory that attempts to explain racial and gender inequality.  The term &quot;reverse discrimination&quot; sometimes is used to describe a type of discrimination wherein members of a majority or historically advantaged group (such as Caucasians or males) are discriminated against based on their race, gender, age, or other protected characteristic.  1) Straight Edge Puzzles These 3 and 4 piece puzzles are different to conventional puzzles in that the cards have straight edges , and the pieces are mixed up with other pieces.  All of them were exposed to two blocks of training (A and B), with one sample and three comparisons, however, the sample did not really function as a conditional stimulus in 75% of the trials in block B.  This could be considered discrimination by perception, Simple Is Better: 30 Examples of Minimalistic Webdesign.  What is racism, really? The word is thrown around all the time today by people of color and whites alike.  Entries can be submitted anonymously (or Harassment or discrimination against a job applicant, an employee or a volunteer by another employee or volunteer on the basis of race, religious creed, color, national origin, ancestry, medical condition, disabilities as defined by the Americans with Disabilities Act (ADA), marital status, sex, age, or sexual orientation will not be tolerated. 5% = 37.  For example, a person may hold prejudiced views towards a certain race or gender etc.  The Age Discrimination in Employment Act (ADEA) forbids age discrimination against people who are age 40 or older.  Team focus shifts from job duties to the drama of the office.  Stereotype is nothing but those assumptions that have become common knowledge.  It plays the dual role of giving a summary of the candidate’s qualifications and skills, as well as allowing the reader to briefly get a glimpse of the history and background of the candidate.  Sometimes, discrimination takes a more subtle form.  gender discrimination in employment Join GitHub today.  In pure The confirmation bias is an important concept in psychology.  In an age discrimination case, the employee must point to a specific employment practice (such as a policy, screening test, or job requirement) that led to the disparate impact.  Discrimination Sentence Examples But some discrimination should be made in detail.  ATTENTION: PowerPoint Slides will be sent to you by email The simple past (also called past simple, past indefinite or preterite) is a verb tense which is used to show that a completed action took place at a specific time in the past.  A recent discrimination case settled between the federal Equal Employment Opportunity Commission (EEOC) and an Arizona-based aviation services company provides a good example of the type of verbal conduct that can create a workplace harassment claim.  Minority groups and marginalization.  I met a friend in the market.  Eugene Volokh, UCLA School of Law. uk | A wise way of making a formal complaint is to use our carefully crafted sample letter templates.  In its most overt form, racial discrimination can occur as a result of stereotyping, prejudice and bias.  The Court in Smith decided that these claims were allowed, but what the employer and employee have to prove is a bit different than for other types of discrimination.  3rd-degree price discrimination – charging different prices depending on a particular market segment, e.  Eleanor Gelder rounds up five recent case law examples of discrimination arising from disability.  What is the confirmation bias? Below is a definition of the confirmation bias.  Discrimination law regulates public life, not private life, so, for example, it covers what happens at work, in education or in the supply of goods and services.  An action which occurred on regular basis in past. It is used principally to describe events in the past, although it also has some other uses.  10,925 issued by President John F.  When these biases occur, the workplace can become tense and lawsuits can follow.  How to Prevent Discrimination in the Workplace.  A possible example of this is an employee who is rejected for promotion to a supermarket buying team that sources wines, because he has an Arabic name.  Simple Resume Examples serve a particular purpose for an individual preparing a resume.  For example, an employer may refuse to hire anyone from Haiti or refuse to interview anyone with a Hispanic-sounding surname.  The harassing conduct can be verbal or physical and the harasser can be a co-worker, supervisor or even an non-employee like a customer or contractor.  race discrimination in employment; Southern California Edison Co.  State Farm Insurance Co.  Some examples of human rights violations include genocide, slavery, torture, rape, forced sterilization, deliberate starving or forcing people to part of a medical experiment.  To make sure we remain in a free society that nurture&#39;s everyone&#39;s well-being, let&#39;s examine various examples of prejudice so we know how and when to steer clear.  For example, if a ‘normal’ kid goes into a singing competition with the child of a music superstar, people will immediately think that the child of the superstar will win.  Examples Of Simple Sentences Its name exemplifies the reason why it is one of the most preferred sentences – ‘simple’, such as the example, ‘The dog ate the meat’.  An exception to this principle is in the context of disability discrimination where it is permissible and, in some circumstances even necessary, to treat disabled employees more favourably than non-disabled staff.  Any time you grouping races or individuals together and make a judgment about them without knowing them, this is an example of a stereotype.  One could say those biases are simply an extension of our diversity as individuals.  Student discounts at movies, museums, etc.  In the remaining 50 % of the trials, samples were the sounds of previous S− in simple discrimination trials: wolf, cat, and frog.  It looks like you&#39;ve lost connection to our server.  Certain groups in society are less powerful than others.  Examples of discrimination Direct discrimination.  Racial Discrimination Essay.  Examples: She worked in a factory.  Examples of racial discrimination (fact sheet) People can experience racial discrimination in a variety of different ways.  Time to dive into some examples.  It expresses the following type past-actions: An action occurred just a little while ago Examples: I ate an apple.  These hairstyles are more likely to be adopted by specific racial groups.  Harassment in the California Workplace: Real Case Examples Braun Electric to Pay $82,500 to Settle EEOC Sexual Harassment Suit Fresno, CA - Braun Electric Company, based in Bakersfield, California, will pay $82,500 and furnish other relief to settle a sexual harassment lawsuit filed by the EEOC.  Human Resources: Do’s and Don’ts of Reporting Discrimination or Unlawful Harassment.  [Read Also: 5 Simple Examples of Fair Lending Discrimination] 2.  Discrimination in the workplace.  Harassment is a form of discrimination.  The below examples show some of the different ways in which discrimination can occur in the workplace Free Example Discrimination Complaint Letter Free Download sampleletters.  identical to example 1, the MR and MC curves are the ones indicated in equations (4) and (5) of example 1.  Verbal harassment can include jokes, innuendos, slurs, name-calling and insults, among other things.  Dear Manager / Supervisor / Human Resources Officer: I hold a position of _____ at the company.  There are still groups today that experience oppression.  Minimalism has been a very important movement across all fields from art to cars, games to furniture, and of course, web design.  10 examples of gender bias you may encounter in the workplace.  In many examples of ‘price discrimination’ consumers are charged different prices for a similar good.  Richard Rodriguez James Baldwin with his “Letter from a region of my mind&quot; and Richard Rodriguez with his “Complexion” are outstanding writers who made an attempt and managed to reveal the true essense of the racial issues of the society.  For example, racial discrimination is one of the common forms of discrimination that affects millions of people worldwide.  Women in action movies and in fairy tales are often depicted as &quot;damsels in distress,&quot; who need to be rescued.  For example, if an organization refuses to hire a person with national origins in a country outside the U.  (noun) An example of racism is believing that Caucasians are superior to A A subject&#39;s performance under a conditional-discrimination procedure defines conditional relations between stimuli: &quot;If Al, then Bl; if A2, then B2.  SaveMart race discrimination in employment; Shoney’s.  The Issue of Institutional Discrimination With a Few Examples.  Instrumental conditioning, like classical (Pavlovian) conditioning, shows discrimination.  But that’s not always the case.  Discrimination prevents people from doing things that other people can do freely.  Indirect discrimination example.  Examples of Workplace Discrimination.  A modern example of discrimination might occur if a male employer were to pay a female employee lower wages due to his own sexism.  A: Examples of prejudice found in modern society are the common assumptions that African Americans have greater inborn rhythmic abilities and a thicker skull, as noted in a 1995 psychology study.  Be very careful to adhere to relevant employment an discrimination law when compiling job descriptions, job adverts and person-profiles.  As well, systemic discrimination based on family status may be experienced differently based on intersection with other grounds of discrimination, such as age, disability, marital status, creed, receipt of social assistance, race, and race-related grounds.  Southern California Edison Co.  Examples of Workplace Harassment.  For example, Hotel rooms, airline tickets, and professional services all offer different prices for different customers.  Simple discrimination with conditional discrimination trials.  Racial discrimination also occurs in large measure through subtle forms of differential treatment.  For example, an employer may limit the offering of employment to people of one sex if it is a genuine occupational requirement for this to happen.  -- Refusing to authorize an eligible employee&#39;s request for FMLA leave.  These actions refer to discrimination.  racism / society / discrimination / religion James Baldwin vs.  For example, a requirement for a minimum number of years’ experience for a particular job may be indirectly discriminatory against a young person.  Title VII of the Civil Rights Act of 1964: Protects people from being discriminated against based upon their race, color, religion, sex, and their nationality.  Price Discrimination is All Around You.  And the act of discrimination is the pitiful end result.  Another example is when a business operator refuses service to someone from a different country or of a certain race.  The pioneering of statistical discrimination theory is attributed to American economists Kenneth Arrow and Edmund Phelps but has been further researched and expounded upon since A simple discrimination experiment The example experiment was an identification experiment: the subject had identify a single sound as one element of a set of categories.  17 Deplorable Examples Of White Privilege.  The model further posits that employers discriminate against minority applicants to avoid interacting with them, regardless of the applicant&#39;s productivity, and that employers are willing to pa discrimination definition: 1.  Are you an employee who has been denied promotions, harassed on the job, or otherwise discriminated against on the basis of your nationality, race, sex, or some other protected trait? Direct and indirect discrimination.  For example, if a bell tone were the conditioned stimulus, discrimination would involve being able to tell the difference between the bell sound and other similar Some examples of cases of social equality -The female liberation movement.  Related Terms.  Discrimination by perception.  Sentence Examples In many places, we have ended the legal discrimination of people based on race.  Seb applied for a training post as a nursing assistant but was unsuccessful.  A sample anti-harassment policy may contain language which states: Whether it is about the racial discrimination blacks faced in the past or women had to deal with in not being allowed to vote or write books, history is filled with examples of discrimination for a race discrimination essay.  Shoney’s, Inc.  discrimination can be justified under some circumstances, for example when an employer can show that is it a proportionate way of achieving a legitimate aim.  Must only have one clause.  The Age Discrimination in Employment Act of 1967 was enacted to protect older “Discrimination arising from disability” is a relatively new concept introduced by the Equality Act 2010 but it is fast becoming a regular feature in claims at employment tribunal.  Whatever your requirement may be, from writing business letters to creating the perfect job application or writing essays to creating study reports, browse examples from various categories of business, education and design.  Price discrimination happens when a firm charges a different price to different groups of consumers for an identical good or service, for reasons not associated with costs of supply.  However, discrimination can also consist of more subtle, passive-aggressive behavior, such as dirty looks, or refusing to patronize a business because the owners or managers are of a certain race, gender, or religion.  The truth (and it is a hard truth) is that the Human Resources department is not your friend.  Unfortunately, this list is a small example of prejudice and discrimination that exist.  Discrimination is a term that is used in both classical and operant conditioning.  At one end of the scale ageism may seem harmless, for example, when older people Often, national origin discrimination is based on stereotypes about what people from a certain country are “like,” whether the employer itself holds that stereotype or believes that its customers do.  Gender bias is a form of prejudice and discrimination and it has no place in business.  For example, if Pavlov&#39;s dog had developed discrimination, Teaching your child to pay attention to detail is an important step in developing good visual discrimination skills.  In instrumental conditioning, discriminative stimuli serve as signals for when a response will earn a reinforcement and when it won&#39;t. uk | This simple editable discrimination complaint letter is available in Word format and can be used by tenants complaining to their landlord on serious issues like too much noise in the apartments.  Discrimination can come in the form of jokes and offhand comments that seem harmless to or even go unnoticed by the perpetrator.  With Indirect Discrimination an employer can argue that there may be discrimination, but that it is required for the job, (this is known as a &quot;genuine occupational requirement&quot; (GOR)).  The Supreme Court employment cases encourage a discrimination-free work place.  Racial discrimination definition: discrimination , unfair treatment or bias against someone or a group of people on the | Meaning, pronunciation, translations and examples A Simple Guide to Understanding Learned Helplessness With Examples Learned helplessness is a behavioral trait where a person feels he/she has lost control over aversive circumstances, when actually, it is just a biased perception or conditioned behavior.  While discrimination usually refers to negative behavior, it can also refer to increased generosity and kindness towards seniors because of their age.  Prejudice and discrimination are not the same, but both can hurt individuals communities.  And this isn&#39;t even the tip of the iceberg.  This is a formal complaint for discrimination / harassment that I / my co-workers have bee subjected to, and our request that you investigate our allegations and take appropriate action to stop it or remedy it.  treating a person or particular group of people differently, especially in a worse way from the way in which you treat other people, because of their skin colour, sex, sexuality, etc.  This law prohibits discrimination based on men and women acting under similar working conditions.  Discrimination may be intentional or unintentional, direct or indirect.  Discrimination is when a person is treated unfairly or badly because the person is one of a particular group.  Federal legislation prohibits many forms of access discrimination – per the Civil Rights Act, an employer can’t say that an applicant didn’t get the job because of race, or sex, or religion, or a number of other factors.  There are different forms of gender discrimination such as harassment, unequal pay, unequal career opportunities, pregnancy discrimination and discrimination in hiring.  For example, ‘Black people are great at basketball”.  Stereotype Examples By YourDictionary To understand different examples of stereotypes, you should first define what a stereotype is.  Notice that there are some important requirements for a simple sentence: 1.  The above scenarios are examples of bona fide occupational qualifications (BFOQs).  A school bans &#39;cornrow&#39; hairstyles as part of its policies on pupil appearances.  Herring v. Race, Racism and Psychology: Towards a Reflexive History.  What is the difference between direct and indirect discrimination? What is direct discrimination? Under the Equality Act 2010 (EqA 2010), direct discrimination occurs where an employer or organisation treats someone less favourably because of their age, disability, gender, sexual orientation, marital status, pregnancy or maternity, race, religion or belief, or sex.  The Definition of “Hostile Work Environment” Harassment .  Usually the different treatment is because of the person’s sex, religion, nationality, ethnicity (culture), race, or other personal traits.  It is a civil rights violation.  The Difference Between Prejudice and Discrimination.  In classical conditioning, discrimination is the ability to differentiate between a conditioned stimulus and other stimuli that have not been paired with an unconditioned stimulus.  The theory attempts to explain the existence and endurance of racial profiling and gender-based discrimination in the labor market even in the absence of overt prejudice on the part of the economic actors involved.  Examples of Affirmative Action in a Workplace.  One example of individual discrimination is when a hiring manager intentionally passes over a qualified woman in favor of a less-qualified man for a management position.  Confirmation Bias Examples: THEORIES OF DISCRIMINATION A THEORY OF DISCRIMINATION REFERS TO THE TYPE OF DISCRIMINATION. : 2.  An example of indirect discrimination, may be a minimum height requirement for a job where height is not relevant to carry out the role.  It has been seen that most human rights violations are the outcome of government policies as several governments around the world have unrestrained power over their Some examples of direct discrimination: Case Example 1.  treatment or consideration of, or making a distinction in favor of or against, a person or thing based on the group, class, or category to which that person or thing belongs rather than on individual merit: racial and religious intolerance and discrimination.  Example 2: Austin works for the Skidmore Tire Company, a small business with 75 employees.  You cannot and should not assume the good will of your HR rep.  Disabled people can experience discrimination if the employer or organisation doesn’t make a reasonable adjustment.  The EEOC, as well as state anti-discrimination agencies, are busy every day answering claims of discrimination in the workplace.  Another exception is where positive discrimination can be justified as a “genuine occupational requirement” or “qualification”.  One more example is of an organization where women are hired equally, but not given top jobs.  View the following guidance video which explains discrimination and each of the protected characteristics further.  Watson and his assistant Rosalie Rayner conditioned a little boy to fear a white rat.  Racism is a worldwide problem that needs to be addressed.  Unconscious Biases and Workplace Discrimination.  Hence a blanket ban is likely to constitute indirect discrimination because of race as it is unlikely to be objectively justified and proportionate.  Examples of Price Discrimination.  It was those two features—explicitness and intention—that made the Roma case a paradigmatic example of direct discrimination. &quot; The Intersectionality of gender inequality and racial discrimination may be interpreted as the relation between these two institutions and how they are influenced by one another.  Browse essays about Discrimination and find inspiration.  As presiding officer the Speaker exercises a right of discrimination between members rising The constitution declares that railways are public Conditional Discrimination Training.  4.  Discrimination ranges from the extremism of Nazi Germany to the more subtle forms based on stereotypes, such as assuming an Italian woman can cook or an Irishman must drink.  If you can explain the idea in simple words, use a simple statement.  4th-degree price discrimination – when prices to consumers are same, Affirmative Action As Racial Discrimination.  There are also specific exceptions in regard to sex discrimination.  It does not protect workers under the age of 40, although some states have laws that protect younger Browse essays about Gender Discrimination and find inspiration.  But lawsuits aside, one must remember this: Gender bias is a form of prejudice and discrimination and it has no place in business. , such as Iraq or Afghanistan, even if she is qualified for the job and can work in the U.  What are the main aims of price discrimination? What is the difference between price discrimination and product racism definition: Racism is a belief that one race is superior to the other or the practice of treating a person or group of people differently on the basis of their race.  Discrimination Issues.  It took till age 60, for me to get there but now I have a better understanding of the concept of discrimination and how it can affect one’s view of the world.  In the simplest form of discrimination, a positive signal, S+, indicates that the trained response will earn reinforcement.  Price discrimination is a selling strategy that charges customers different prices for the same product or service, based on what the seller thinks they can get the customer to agree to.  Simple discrimination training and conditional discrimination response 253.  Prejudice makes us treat people differently.  The phrase &quot;affirmative action&quot; was first used in a racial discrimination context in Executive Order No.  Express your own thoughts and don’t forget to back up your essay with appropriate examples from your sources to support the claim.  Simultaneity between sample and comparisons, For example, a person may hold prejudiced views towards a certain race or gender etc.  Prejudice is in mind, discrimination is in action.  an act or instance of discriminating, or of making a distinction.  Bias or prejudice resulting in denial of opportunity, or unfair treatment regarding selection, promotion, or transfer.  Simple discrimination Conditional discrimination Specific reinforcement Reading Intellectual disabilities Author Note Based on a thesis submitted by the first author to the Graduate Program in Psychology of Universidade Federal de São Carlos, in partial fulfillment of the requirements for a Master’s degree.  of discrimination will often b e in terpreted simply as the absenc e of discrimination.  cause and effects of discrimination There are many forms of discrimination, besides the more familiar forms like race and gender, based on ethnicity, religion, sexual orientation, age , disability or handicap, and sexual harassment.  Definition of overt discrimination: An obvious way of forbidding a particular type of person from performing an activity or job.  Example: It could be indirect sex discrimination if a policy says that managers must work full-time, as this might Racial discrimination definition: discrimination , unfair treatment or bias against someone or a group of people on the | Meaning, pronunciation, translations and examples Price Discrimination occurs when a firm sells a good or service to different buyers at two or more different prices, for reasons not necessarily associated with cost.  Examples of direct discrimination.  by Prof.  But it will be profitable for him to produce OM output if he discriminates prices in the two markets.  Double-digit numbers also pose a unique visual discrimination challenge for children.  It does not affect how people conduct their private lives, for instance, who they choose to have as friends.  A good example is a situation where an employer fails to promote a particular employee because they are of a specific race. , Q’ = 30. , Examples of indirect discrimination in the workplace.  The subjects covered include induction, home/school liaison, combating racism , and the psychological adaption of refugee young people. e.  Discrimination Essay. ^en of the worst examples of gender inequality you can find currently practiced.  Kraszewski v.  This practice puts people with mental health problems like agoraphobia at a disadvantage because they can&#39;t leave their homes to travel to the centre.  Age Discrimination Is a Huge Problem 74% Interns Over 40 Recently Did a Survey on LinkedIn – 74% Said They Had Experienced Age Discrimination During the Hiring Process 3 out of 4 people have encountered age-related issues that affect their livelihoods. &quot; By contrast, Moe contends, &quot;Coupons do not constitute price discrimination.  Safeway race discrimination in employment; Savemart.  One of the most famous examples of stimulus generalization took place in an early psychology experiment.  Types of discrimination Here are a few types of discrimination: Direct discrimination: Probably the simplest and most common form, this kind is an unfair treatment of another person because of specific protected characteristics, or perceived characteristic, or their association with someone with that protected characteristic.  This survey template is carefully curated for organizations and has questions that are a balanced mix of demographic and gender discrimination related questions.  Taste-based discrimination is an economic model of labor market discrimination which argues that employers prejudice or dislikes in an organisational culture rooted in prohibited grounds can have negative results in hiring minority workers, meaning that they can be said to have a taste for discrimination.  Discrimination.  A company has a policy that allows only employees with a postgraduate qualification to be promoted.  For example, in an age case, what are the demographics of the company&#39;s work force? Distillation is a method in chemistry to separate substances from a mixture according to their level of vitality.  Hence, if the firm finds itb worthwhile to produce, it will produce at capacity, i.  sampleletters.  Discrimination is the behavior or actions, usually negative, towards an individual or group of people, especially on the basis of sex/race/social class, etc.  Age discrimination involves treating an applicant or employee less favorably because of his or her age.  Observe that MR(Q) &gt; MC(Q) for each output 0 &lt; Q &lt; 40.  Discrimination is practiced commonly on the grounds of age, disability, ethnicity, origin, political belief, race, religion, sex, etc. Shades of Difference: Why Skin Color Matters. 166].  Employment Opportunity Commission (“EEOC”).  It can fracture a team, with one 5. &quot; The procedure may also generate matching to sample. Discrimination at Work: The Psychological and Organizational Bases.  State-Sanctioned Homophobia.  Psychology Definition of CONDITIONAL DISCRIMINATION: a prejudice wherein strengthening of a reply in the existence of stimulant relies upon the existence of other stimulants.  Although this rule applies to everyone, it disadvantages younger people who are less likely to have that qualification (indirect age discrimination ).  If a company hires women for administrative or clerical work, but then hires men for executive level work then this is a clear cut case of discrimination.  .  32, nº 1 (enero) er, a two factor ANOVA with repeated measures on one factor was carried out, showing that there was not a signifi- cant interaction effect [F (2,106) = 0.  social control - control exerted (actively or passively) by group action.  In the Little Albert experiment, the behaviorist John B.  Some examples of discrimination include the following: a) Harassment – inappropriate jokes, insults, name-calling or displays such as a poster or cartoons directed at a person because of their race, colour, sex or gender, sexual orientation, etc. , are accorded different treatment in the context of a similar situation, it is reasonable to infer, absent other evidence, that discrimination Sexual orientation discrimination in the workplace occurs when an employee is subjected to negative employment action, harassment, or denial of certain benefits because of their sexual orientation, or the sexual orientation of someone they are close to.  able-bodiedism, able-bodism, ableism, ablism - discrimination in favor of the able-bodied.  Students are generally poorer and more price sensitive, so the business hopes to attract more of them by making it cheaper.  However, it can also be subtle and difficult to detect.  In classical conditioning, it refers to an ability to distinguish between a conditioned stimulus (CS) and other, similar stimuli that don&#39;t signal an unconditioned stimulus (US).  Some examples of different types of discrimination are Ageism. , the organization is in violation of anti-discrimination laws set forth under the Civil Rights Act.  The United States Department of Labor also shared common examples of FMLA discrimination: -- Attempting to talk an employee out of using FMLA leave.  As an example of a discrimination-related conflict, imagine a minority employee in a team setting who feels that he is consistently assigned the most menial work tasks in the group.  Must have a subject and a verb.  These expressions are quite imprecise, but they hin t at the existence of exactly the t yp e of discrimination this pap er discusses.  Although the trials were superficially identical to the Block A trials (a stimulus at the top center of the screen and three at the bottom, from which the subjects had to choose one), reinforcement contingencies responded to a simple discrimination 75% of the time and in 25% to a conditional discrimination.  The Equality Act (2010) lays out a detailed guideline of nine ‘protected characteristics’ that it is unlawful to directly discriminate against: Age; Disability; Gender reassignment; Marriage and civil partnership; Pregnancy and maternity; Race; Religion and belief; Sex; Sexual orientation; Examples of direct discrimination In essence, prejudice is a feeling.  Examples of retaliation in the workplace include being fired or demoted, receiving a pay cut or a reduction in your hours, being forced to take leave, or being reassigned to an undesirable job, shift, or location.  Discriminatory conflicts can arise from personal prejudices on the part of employees or perceptions of mistreatment of employees.  The Universal Declaration of Human Rights affirms that all persons must be protected against any kind of discrimination, or even its inciting.  Why? Prejudice can also be well intended.  You have to provide at least tree argument to prove your thesis.  anales de psicología, 2016, vol.  Simple discrimination training and conditional discrimination response.  Let’s first look at where discrimination can occur.  The Difference Between Prejudice and Discrimination 6 Real-Life Examples of Age Discrimination.  Example of Non-discrimination Statement and Policy.  Direct Discrimination.  The difference is one measure of item discrimination (IDis).  It&#39;s pure and simple.  Such examples of discrimination are ones which the agent performs with the aim of imposing a disadvantage on persons for being members of some salient social group.  Indirect discrimination occurs when there is an unreasonable rule or policy that is the same for everyone but has an unfair effect on people who share a particular attribute.  Sometimes in the discussion of diversity and inclusion, biases are seen as taboo.  The simple past is also frequently used to talk about past habits and generalizations.  For example – you have the qualifications and experience necessary for the job but your application is turned down because you are ‘too young’ or ‘too old’.  Here are a few of the more common examples of prejudice and discrimination that can, and do, occur regularly in the workplace, according to the U.  The employer has assumed that he is a Muslim and won&#39;t want to deal with alcohol.  Not only is sex discrimination against the law; so is retaliating against (punishing) an employee for reporting sex discrimination, opposing an employer’s discriminatory practices, or participating in an investigation or legal action related to discrimination.  age profile, income group, time of use.  Adopted by the Board of Directors on [ DATE ] [ NONPROFIT ] does not and shall not discriminate on the basis of race, color, religion (creed), gender, gender expression, age, national origin (ancestry), disability, marital status, sexual orientation, or military status, The Everyday Sexism Project has just published its 30,000th post and exists to catalogue instances of sexism experienced by women on a day to day basis.  Types of prejudice found in modern society include those related to sex, gender, race, nationality, ethnicity, class, religion, disability and language.  For example, the median tenure of workers ages 55 to 64 (10.  The agencies frequently conduct investigations into such allegations, and when appropriate, file civil lawsuits against employers found to be engaging in discriminatory acts.  Must express a complete thought.  Hence, the difference between MR and MC is given by MR(Q) - MC(Q) = 100 - 2Q - 20 = 80 - 2Q.  Department of Labor, Office of Federal Contract Compliance Programs.  factors which are irrelevant to a person&#39;s competence or suitability.  For example: People who are discriminated against for their national origin tend to be treated unfavorably due to their heritage or country of original citizenship.  The leading case on indirect discrimination in recruitment and promotion is Homer v Chief Constable of West Yorkshire Police .  Examples. 1 The age discrimination thing is very subtle to me. 499, ηp2 = .  Examples of indirect discrimination An advice centre will only provide advice to people who visit their centre and will not offer advice by phone or email.  Skidmore has a SIMPLE IRA plan for its employees and will make a 2% nonelective contribution for each of them.  (Patterson Par 2).  Age discrimination in the workplace happens when a person&#39;s age is unfairly used as a factor in his or her employment.  the treatment of a…</span>
+
+  </button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="file-navigation in-mid-page d-flex flex-items-start">
+
+  
+
+<details class="details-reset details-overlay select-menu branch-select-menu  hx_rsm" id="branch-select-menu">
+
+  <summary class="btn btn-sm select-menu-button css-truncate"
+
+           data-hotkey="w"
+
+           
+
+           title="Switch branches or tags">
+
+    <i>Branch:</i>
+
+    <span class="css-truncate-target">master</span>
+
+  </summary>
+
+
+
+  <details-menu class="select-menu-modal hx_rsm-modal position-absolute" style="z-index: 99;" src="/victorfontes/django-mobile-helper/ref-list/master?source_action=disambiguate&amp;source_controller=files" preload>
+
+    <include-fragment class="select-menu-loading-overlay anim-pulse">
+
+      <svg height="32" class="octicon octicon-octoface" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M14.7 5.34c.13-.32.55-1.59-.13-3.31 0 0-1.05-.33-3.44 1.3-1-.28-2.07-.32-3.13-.32s-2.13.04-3.13.32c-2.39-1.64-3.44-1.3-3.44-1.3-.68 1.72-.26 2.99-.13 3.31C.49 6.21 0 7.33 0 8.69 0 13.84 3.33 15 7.98 15S16 13.84 16 8.69c0-1.36-.49-2.48-1.3-3.35zM8 14.02c-3.3 0-5.98-.15-5.98-3.35 0-.76.38-1.48 1.02-2.07 1.07-.98 2.9-.46 4.96-.46 2.07 0 3.88-.52 4.96.46.65.59 1.02 1.3 1.02 2.07 0 3.19-2.68 3.35-5.98 3.35zM5.49 9.01c-.66 0-1.2.8-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.54-1.78-1.2-1.78zm5.02 0c-.66 0-1.2.79-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.53-1.78-1.2-1.78z"/></svg>
+
+    </include-fragment>
+
+  </details-menu>
+
+</details>
+
+
+
+
+
+        <button type="button" class="btn btn-sm disabled tooltipped tooltipped-n new-pull-request-btn" aria-label="You must be signed in to create a pull request">
+
+          </button>
+
+
+
+  <div class="breadcrumb flex-auto">
+
+    
+
+  </div>
+
+ </div></div></div></main></div></div><div class="footer container-lg width-full px-3" role="contentinfo"><div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
+
+  </div>
+
+  <div class="d-flex flex-justify-center pb-6">
+
+    <span class="f6 text-gray-light"></span>
+
+  </div>
+
+</div>
+
+
+
+
+
+
+
+  <div id="ajax-error-message" class="ajax-error-message flash flash-error">
+
+    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"/></svg>
+
+    <button type="button" class="flash-close js-ajax-error-dismiss" aria-label="Dismiss error">
+
+      <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+
+    </button>
+
+    You can’t perform that action at this time.
+
+  </div>
+
+
+
+
+
+    
+
+    
+
+    
+
+    
+
+  <div class="js-stale-session-flash stale-session-flash flash flash-warn flash-banner" hidden
+
+    >
+
+    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"/>
+
+    </svg>
+
+    <span class="signed-in-tab-flash">You signed in with another tab or window. to refresh your session.</span>
+
+    <span class="signed-out-tab-flash">You signed out in another tab or window. to refresh your session.</span>
+
+  </div>
+
+  <template id="site-details-dialog">
+
+  <details class="details-reset details-overlay details-overlay-dark lh-default text-gray-dark hx_rsm" open>
+
+    <summary role="button" aria-label="Close dialog"></summary>
+
+    <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast hx_rsm-dialog hx_rsm-modal">
+
+      <button class="Box-btn-octicon m-0 btn-octicon position-absolute right-0 top-0" type="button" aria-label="Close dialog" data-close-dialog>
+
+        <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+
+      </button>
+
+      <div class="octocat-spinner my-6 js-details-dialog-spinner"></div>
+
+    </details-dialog>
+
+  </details>
+
+</template>
+
+
+
+  <div class="Popover js-hovercard-content position-absolute" style="display: none; outline: none;" tabindex="0">
+
+  <div class="Popover-message Popover-message--bottom-left Popover-message--large Box box-shadow-large" style="width:360px;">
+
+  </div>
+
+</div>
+
+
+
+  <div aria-live="polite" class="js-global-screen-reader-notice sr-only"></div>
+
+
+
+  </body>
+
+</html>
+
+

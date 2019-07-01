@@ -1,0 +1,719 @@
+
+
+<!DOCTYPE html>
+
+<html lang="ru-RU" prefix="og: http://ogp.me/ns#">
+
+<head>
+
+<meta charset="UTF-8" />
+
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+
+<link rel="pingback" href="" />
+
+<title>Что такое WAP в телефоне и чем он отличается от GPRS? | База ответов на любые вопросы</title>
+
+<meta property="og:title" content="Что такое WAP в телефоне и чем он отличается от GPRS? - База ответов на любые вопросы"/>
+
+<meta property="og:type" content="article"/>
+
+<meta property="og:description" content="Мобильный интернет сегодня занимает существенную долю пользования телефоном у многих абонентов сотов"/>
+
+<meta property="og:url" content="https://www.mnogo-otvetov.ru/computery/chto-takoe-wap-v-telefone-i-chem-on-otlichaetsya-ot-gprs/"/>
+
+<meta property="og:site_name" content="База ответов на любые вопросы"/>
+
+<meta property="og:image" content="https://www.mnogo-otvetov.ru/wp-content/uploads/2015/12/3334-560x330.jpg" />
+
+
+
+<!-- All in One SEO Pack 3.1.1 от Michael Torbert из Semper Fi Web Designob_start_detected [-1,-1] -->
+
+<meta name="description"  content="Мобильный интернет сегодня занимает существенную долю пользования телефоном у многих абонентов сотовой связи. Тем не менее, далеко не все из них достаточно" />
+
+
+
+<link rel="canonical" href="https://www.mnogo-otvetov.ru/computery/chto-takoe-wap-v-telefone-i-chem-on-otlichaetsya-ot-gprs/" />
+
+<!-- All in One SEO Pack -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+
+<link rel='dns-prefetch' href='//s.w.org' />
+
+<link rel="alternate" type="application/rss+xml" title="База ответов на любые вопросы &raquo; Лента" href="https://www.mnogo-otvetov.ru/feed/" />
+
+<link rel="alternate" type="application/rss+xml" title="База ответов на любые вопросы &raquo; Лента комментариев" href="https://www.mnogo-otvetov.ru/comments/feed/" />
+
+<link rel="alternate" type="application/rss+xml" title="База ответов на любые вопросы &raquo; Лента комментариев к &laquo;Что такое WAP в телефоне и чем он отличается от GPRS?&raquo;" href="https://www.mnogo-otvetov.ru/computery/chto-takoe-wap-v-telefone-i-chem-on-otlichaetsya-ot-gprs/feed/" />
+
+		 
+
+		<style type="text/css">
+
+img.wp-smiley,
+
+img.emoji {
+
+	display: inline !important;
+
+	border: none !important;
+
+	box-shadow: none !important;
+
+	height: 1em !important;
+
+	width: 1em !important;
+
+	margin: 0 .07em !important;
+
+	vertical-align: -0.1em !important;
+
+	background: none !important;
+
+	padding: 0 !important;
+
+}
+
+</style>
+
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.mnogo-otvetov.ru/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+
+<link rel='stylesheet' id='wp-pagenavi-css'  href='https://www.mnogo-otvetov.ru/wp-content/plugins/wp-pagenavi/pagenavi-css.css' type='text/css' media='all' />
+
+<link rel='stylesheet' id='tie-style-css'  href='https://www.mnogo-otvetov.ru/wp-content/themes/kometa/style.css' type='text/css' media='all' />
+
+<link rel='stylesheet' id='tie-ilightbox-skin-css'  href='https://www.mnogo-otvetov.ru/wp-content/themes/kometa/css/ilightbox/dark-skin/skin.css' type='text/css' media='all' />
+
+<link rel='stylesheet' id='Droid+Sans-css'  href='https://fonts.googleapis.com/css?family=Droid+Sans%3Aregular%2C700' type='text/css' media='all' />
+
+
+
+<link rel='https://api.w.org/' href='https://www.mnogo-otvetov.ru/wp-json/' />
+
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.mnogo-otvetov.ru/xmlrpc.php?rsd" />
+
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.mnogo-otvetov.ru/wp-includes/wlwmanifest.xml" /> 
+
+<link rel='prev' title='Кто такие хипстеры и что они делают?' href='https://www.mnogo-otvetov.ru/obshestvo/kto-takie-xipstery-i-chto-oni-delayut/' />
+
+<link rel='next' title='Что такое спред на бирже?' href='https://www.mnogo-otvetov.ru/finansy/chto-takoe-spred-na-birzhe/' />
+
+<meta name="generator" content="WordPress 5.2.2" />
+
+<link rel='shortlink' href='https://www.mnogo-otvetov.ru/?p=11137' />
+
+<link rel="alternate" type="application/json+oembed" href="https://www.mnogo-otvetov.ru/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.mnogo-otvetov.ru%2Fcomputery%2Fchto-takoe-wap-v-telefone-i-chem-on-otlichaetsya-ot-gprs%2F" />
+
+<link rel="alternate" type="text/xml+oembed" href="https://www.mnogo-otvetov.ru/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.mnogo-otvetov.ru%2Fcomputery%2Fchto-takoe-wap-v-telefone-i-chem-on-otlichaetsya-ot-gprs%2F&#038;format=xml" />
+
+
+
+<link rel="stylesheet" href="https://www.mnogo-otvetov.ru/wp-content/plugins/related-posts-by-zemanta/static/themes/vertical.css?version=1.8.1" />
+
+<link rel="shortcut icon" href="https://www.mnogo-otvetov.ru/wp-content/themes/kometa/favicon.ico" title="Favicon" />
+
+<!--[if IE]>
+
+<script type="text/javascript">jQuery(document).ready(function (){ jQuery(".menu-item").has("ul").children("a").attr("aria-haspopup", "true");});</script>
+
+<![endif]-->
+
+<!--[if lt IE 9]>
+
+<script src="https://www.mnogo-otvetov.ru/wp-content/themes/kometa/js/html5.js"></script>
+
+<script src="https://www.mnogo-otvetov.ru/wp-content/themes/kometa/js/selectivizr-min.js"></script>
+
+<![endif]-->
+
+<!--[if IE 9]>
+
+<link rel="stylesheet" type="text/css" media="all" href="https://www.mnogo-otvetov.ru/wp-content/themes/kometa/css/ie9.css" />
+
+<![endif]-->
+
+<!--[if IE 8]>
+
+<link rel="stylesheet" type="text/css" media="all" href="https://www.mnogo-otvetov.ru/wp-content/themes/kometa/css/ie8.css" />
+
+<![endif]-->
+
+<!--[if IE 7]>
+
+<link rel="stylesheet" type="text/css" media="all" href="https://www.mnogo-otvetov.ru/wp-content/themes/kometa/css/ie7.css" />
+
+<![endif]-->
+
+
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+
+
+
+
+
+
+<style type="text/css" media="screen">
+
+
+
+::-webkit-scrollbar {
+
+	width: 8px;
+
+	height:8px;
+
+}
+
+
+
+
+
+::-moz-selection { background: #1975d2;}
+
+::selection { background: #1975d2; }
+
+#main-nav,
+
+.cat-box-content,
+
+#sidebar .widget-container,
+
+.post-listing,
+
+#commentform {
+
+	border-bottom-color: #0e4d7a;
+
+}
+
+
+
+.search-block .search-button,
+
+#topcontrol,
+
+#main-nav ul li.current-menu-item a,
+
+#main-nav ul li.current-menu-item a:hover,
+
+#main-nav ul li.current_page_parent a,
+
+#main-nav ul li.current_page_parent a:hover,
+
+#main-nav ul li.current-menu-parent a,
+
+#main-nav ul li.current-menu-parent a:hover,
+
+#main-nav ul li.current-page-ancestor a,
+
+#main-nav ul li.current-page-ancestor a:hover,
+
+.pagination span.current,
+
+.share-post span.share-text,
+
+.flex-control-paging li a.flex-active,
+
+.ei-slider-thumbs li.ei-slider-element,
+
+.review-percentage .review-item span span,
+
+.review-final-score,
+
+.button,
+
+a.button,
+
+a.more-link,
+
+#main-content input[type="submit"],
+
+.form-submit #submit,
+
+#login-form .login-button,
+
+.widget-feedburner .feedburner-subscribe,
+
+input[type="submit"],
+
+#buddypress button,
+
+#buddypress a.button,
+
+#buddypress input[type=submit],
+
+#buddypress input[type=reset],
+
+#buddypress ul.button-nav li a,
+
+#buddypress div.generic-button a,
+
+#buddypress .comment-reply-link,
+
+#buddypress div.item-list-tabs ul li a span,
+
+#buddypress div.item-list-tabs ul li.selected a,
+
+#buddypress div.item-list-tabs ul li.current a,
+
+#buddypress #members-directory-form div.item-list-tabs ul li.selected span,
+
+#members-list-options a.selected,
+
+#groups-list-options a.selected,
+
+body.dark-skin #buddypress div.item-list-tabs ul li a span,
+
+body.dark-skin #buddypress div.item-list-tabs ul li.selected a,
+
+body.dark-skin #buddypress div.item-list-tabs ul li.current a,
+
+body.dark-skin #members-list-options a.selected,
+
+body.dark-skin #groups-list-options a.selected,
+
+.search-block-large .search-button,
+
+#featured-posts .flex-next:hover,
+
+#featured-posts .flex-prev:hover,
+
+a.tie-cart span.shooping-count,
+
+.woocommerce span.onsale,
+
+.woocommerce-page span.onsale ,
+
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle,
+
+.woocommerce-page .widget_price_filter .ui-slider .ui-slider-handle,
+
+#check-also-close,
+
+a.post-slideshow-next,
+
+a.post-slideshow-prev,
+
+.widget_price_filter .ui-slider .ui-slider-handle,
+
+.quantity .minus:hover,
+
+.quantity .plus:hover,
+
+.mejs-container .mejs-controls .mejs-time-rail .mejs-time-current,
+
+#reading-position-indicator  {
+
+	background-color:#0e4d7a;
+
+}
+
+
+
+::-webkit-scrollbar-thumb{
+
+	background-color:#0e4d7a !important;
+
+}
+
+
+
+#theme-footer,
+
+#theme-header,
+
+.top-nav ul li.current-menu-item:before,
+
+#main-nav .menu-sub-content ,
+
+#main-nav ul ul,
+
+#check-also-box {
+
+	border-top-color: #0e4d7a;
+
+}
+
+
+
+.search-block:after {
+
+	border-right-color:#0e4d7a;
+
+}
+
+
+
+body.rtl .search-block:after {
+
+	border-left-color:#0e4d7a;
+
+}
+
+
+
+#main-nav ul > li.menu-item-has-children:hover > a:after,
+
+#main-nav ul > li.mega-menu:hover > a:after {
+
+	border-color:transparent transparent #0e4d7a;
+
+}
+
+
+
+.widget.timeline-posts li a:hover,
+
+.widget.timeline-posts li a:hover span.tie-date {
+
+	color: #0e4d7a;
+
+}
+
+
+
+.widget.timeline-posts li a:hover span.tie-date:before {
+
+	background: #0e4d7a;
+
+	border-color: #0e4d7a;
+
+}
+
+
+
+#order_review,
+
+#order_review_heading {
+
+	border-color: #0e4d7a;
+
+}
+
+
+
+
+
+body {
+
+	background-color: #ffffff !important;
+
+	background-image : url(https://www.mnogo-otvetov.ru/wp-content/themes/kometa/images/patterns/body-bg1.png);
+
+	background-position: top center;
+
+}
+
+
+
+a {
+
+	color: #226078;
+
+}
+
+		
+
+a:hover {
+
+	color: #1889d9;
+
+}
+
+		
+
+</style>
+
+ 
+
+		</head>
+
+<body id="top" class="post-template-default single single-post postid-11137 single-format-standard lazy-enabled">
+
+
+
+<div class="wrapper-outer">
+
+
+
+	<div class="background-cover"></div>
+
+
+
+	<aside id="slide-out">
+
+
+
+			<div class="search-mobile">
+
+			<form method="get" id="searchform-mobile" action="https://www.mnogo-otvetov.ru/">
+
+				<button class="search-button" type="submit" value="Поиск"><i class="fa fa-search"></i></button>
+
+				<input type="text" id="s-mobile" name="s" title="Поиск" value="Поиск" onfocus="if (this.value == 'Поиск') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Поиск';}"  />
+
+			</form>
+
+		</div><!-- .search-mobile /-->
+
+	
+
+			<div class="social-icons">
+
+		 	</div>
+
+
+
+	
+
+		<div id="mobile-menu" ></div>
+
+	</aside><!-- #slide-out /-->
+
+
+
+		<div id="wrapper" class="boxed">
+
+		<div class="inner-wrapper">
+
+
+
+		<header id="theme-header" class="theme-header">
+
+						<div id="top-nav" class="top-nav">
+
+				<div class="container">
+
+
+
+			
+
+				<div class="menu"> </div>
+
+
+
+						<div class="search-block">
+
+						<form method="get" id="searchform-header" action="https://www.mnogo-otvetov.ru/">
+
+							<button class="search-button" type="submit" value="Поиск"><i class="fa fa-search"></i></button>
+
+							<input class="search-live" type="text" id="s-header" name="s" title="Поиск" value="Поиск" onfocus="if (this.value == 'Поиск') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Поиск';}"  />
+
+						</form>
+
+					</div><!-- .search-block /-->
+
+			<div class="social-icons">
+
+		 
+
+			</div>
+
+
+
+	
+
+	
+
+				</div><!-- .container /-->
+
+			</div><!-- .top-menu /-->
+
+			
+
+		<div class="header-content">
+
+
+
+					 
+
+		
+
+			<div class="logo" style=" margin-top:15px; margin-bottom:15px;">
+
+			<h2>						 
+
+					<img src="https://www.mnogo-otvetov.ru/wp-content/themes/kometa/images/logo.png" alt="База ответов на любые вопросы"  /><strong><h1>112 metal roof</h1></strong>
+
+				 
+
+			</h2>			</div><!-- .logo /-->
+
+						<div class="clear"></div>
+
+
+
+		</div>
+
+													<nav id="main-nav" class="fixed-enabled">
+
+				<div class="container">
+
+
+
+				
+
+														 
+
+					
+
+					
+
+				</div>
+
+			</nav><!-- .main-nav /-->
+
+					</header><!-- #header /-->
+
+
+
+		
+
+	<div class="clear"></div>
+
+	<div id="breaking-news" class="breaking-news">
+
+		<span class="breaking-news-title"><i class="fa fa-bolt"></i> <span> </span></span>
+
+		
+
+					<ul>
+
+					<li><b>00 ea.  Roofers;Wedge Roofing offers emergency roof leak repairs in Marin County, Sonoma County, San Francisco and Napa.  Your choice of roofing material is an important decision when protecting your home from the elements, bringing out the beauty and extending the useful service life of your roof system. 5' Polyester Strap for mounting solar panels onto roof or rack †Concrete Tile or Wood/Metal Rack applications include:L.  1358171 Left.  Phone: 979-209-0148 Secondary phone: 1-800-367-7663 Email: sales@schulteroofing. Metal roof shingles shall be applied to a solid or closely fitted deck, except where the roof covering is specifically designed to be applied to spaced sheathing.  R905.  Roofing Materials - California roofing and siding distributor, providing service, convenience, and quality at a competitive price.  VersaTube sells 1000s of Carport kits.  Find your perfect Carport by choosing one of our standard kits below or use our online designer tool …. Berridge Deep-Deck is a multipurpose, metal roof and wall panel available for residential or commercial applications over solid decking or open framing. 4.  Choose from 23 Standard models OR DESIGN YOUR OWN.  Frame an entire roof based on its 3D model including hip/valley rafters, ridges, girders, collars, battens, horizontal beams, sleepers, trimmers, etc.  Delta Shake Roofing Panels (Steel and Aluminum) RC-148 (PDF) Green American Home Centura Steel Roofing Shingles Installed Over a Plywood Deck: RC-112 (PDF) Green American Home Great American Steel Shake Roof Panels Installed over a Plywood Deck100% Waterproof Roof Cargo Bag 18. com. Metal Roof Repair and Re-Roofing of Building #112 &amp; 216 closed bid from Albany County Airport AuthorityWe make the best roofing ventilation and accessories for metal roofs—period. 5&quot; 3/8&quot; Hex Head Stainless Steel Screws;† used for fastening Stainless Steel Clips to roof • 13. 67.  deck wi 1/2&quot; 0 bolts steel deck standing seam mtl. “If you live near a wildfire zone, you pay a lot if your roof is (made of) cedar shakes compared to asphalt shingles that are flame-retardant, or a metal roof that doesn’t burn,” says Robert station wagon with sliding roof.  Long lasting quality constructed metal roof vent caps stocked for immediate shipment. A.  Free next day delivery on orders over &#163;75 &amp; discounts on large orders.  See more ideas about Victorian ceiling tile, Faux tin ceiling tiles and Tin ceilings.  Available in 24-Gauge &amp; 22-Gauge22-Gauge Galvalume&#174; coils are stocked in 48 inch master coils in popular colors (Almond, Buckskin, Dark Bronze, Forest Green, Hartford Green, Hemlock Green 112 watching | 42 sold; Terracotta PVC Coated Roofing Sheets Garage Tin Roof Drip-Stop! BOX PROFILE ROOFING SHEETS Galvanised Steel/Metal/Tin Roof Cladding 32/1000.  Change Store ProTRAK&#174; 10' 20-Gauge Drywall Interior Metal Track.  Sheet Metal - Front Car PanelsExplore Amy Jones's board &quot;Victorian Ceiling Tiles&quot;, followed by 212 people on Pinterest. 3 Underlayment. $70.  Our dedicated emergency roof crews can put a temporary stop to the roof leak the same day, often within an hour.  Explore.  (112) Enter Your ZIP Code to see products and pricing at your local store.  1964-66 Single Headlight Lark except sliding roof station wagon $49.  Roof Sheet Metal Position.  Learn Morepanel and strap to roof or rack.  One way to get an estimate is to take the square footage or …Гледания: 61KEdge roof tile / metal / covered with stone granules - 112 www.  Metal roof shingles shall not be installed on roof slopes below three units vertical in 12 units horizontal (25-percent slope).  Abstract: The present invention is directed to a device capable of being attached to a metal roof comprises a substantially perpendicular seam. 3/29/2019&nbsp;&#0183;&#32;How to Measure for Roof Shingles.  Add To List In Your List.  roofing6/12/2019&nbsp;&#0183;&#32;Infiniti Shingle Shakes Steel Roof Covering Installed over a Plywood Deck: RC-524 (PDF) Future Roof, Inc.  Read more. Find and shopping results for Icc Excel 7 Roof Metal Flashing 112 To 712 Roof Pitch Class A Part 7emfa from mySimon.  mySimon.  View photos, map, and real estate description for MLS C7412483, priced at $150,000. com/prod/metrotile/product-3904-2035497.  Add usable square footage to your property College Station. htmlFind out all of the information about the Metrotile product: edge roof tile / metal / covered with stone granules 112 A. E.  &#163;42.  Measuring the area of your roof isn't the simplest process.  APRON.  Eliminate the need to start with a brown roof and farm it for years, hoping and waiting for it to become a green roof.  The device comprises a block.  Suite 112-331, Raleigh, NC 27612 Roof Care of Central Florida, LLC 726 Chamberlain St.  1358172 Right. 10/1/2018&nbsp;&#0183;&#32;Automatically split an architectural roof by faces.  Contact a supplier or the parent company directly to get a quote or to find out a price or your closest point of sale. The UK's leading Guttering Supplier offering a wide range of Floplast Guttering.  Roofing Materials provides our customers with the highest level of service, product availability and job management.  1964-66 Dual Headlight cars except sliding roof station wagon $40.  Categories .  Polyester strap included • 4 - #14 1/4&quot;x1.  1358173 Left. com Learn More7/18/2014&nbsp;&#0183;&#32;Journeymanpainter, epoxy on a metal roof would crack and make it leak worse than it was in the beginning.  A groove is located in the base of the block, and the block is locatable on the roof by placement of the groove Single Family Home for sale at 3112 Sunny Harbor Dr #112, Punta Gorda, FL 33982.  111 University Drive East, Suite 206 College Station, TX 77840.  Sku # 1324126.  Metal roofs have a lot of movement and would cause the epoxy to crack and sheer.  Create detailed, multi-layer, metal rafter roof framing in a snap for your Revit model using fully customizable rules and templates.  Choose Your Carport or Shelter.  With the most tested and certified products on the market, you can trust our solutions to perform in even the harshest conditions, protecting your roof and everything underneath. Metal Roofing Corp 307 Nantucket Dr , Cary, NC 27513 Metal Roof Consultants 105 Versailles Dr , Cary, NC 27511 NC Rebuild, Inc.  Obviously, you want to stay safe while still getting a close estimate.  Y, Raleigh, NC 276073/31/1998&nbsp;&#0183;&#32;Snow guard for a metal roof .  Someone above mentioned aluminum asphalt roof coating.  Live Roof Systems. 5 Cubic Ft Dual Seam with Heavy Duty Metal Buckle Straps Top Carrier Storage Box Bonus 1 Rooftop Protective Mat Fit for Cars with/Without Racks（4 Straps）Delta Roofing &amp; Sheet Metal Corporation offers top quality roofing services, with all around professionalism.  Buy it now Galvanised metal corrugated roofing sheet or these can be used for cladding This sale is for 1 sheet but we have many of these in stock, let us know how Quality roof vents made of copper, stainless steel and galvanized metal by Luxury Metals. stainless steel raincap sealant %%u %%u single wall steel vent pipe treated wd. $75.  Epoxy coatings are too rigid and lack the elongation needed for a metal roof. GAF Perimeter Edge Metal offers a full lineup of pre-fabricated coping, fascia, drip edges, gutters, downspouts, and trim.  block bolted to mtl. Find all the products you need for your metal framing project and save BIG with Menards. com has the best deals and lowest prices on Icc Excel 7 Roof Metal Flashing 112 To 712 Roof Pitch Class A Part 7emfaBest roofing company in Fergus Ontario – Top Rated Roofing Company- We can Design your Dream Roof! We are a family run full service metal roofing […] Do you like it? 0. archiexpo.  Roof Vent Caps.  Compare Compare Now.  1964-66 Dual Headlight cars except sliding roof station wagon.  Published by Roofing Company Near Me at September 9, 2016.  PlazaDeck Roof Systems.  3434 Edwards Mill Rd.  L.  To ventilate the attic space and in between ceiling joists to prevent condensation and dry ro to reduce your cooling costs in the summer months. 2 Deck slope.  September 9, 2016.  United States Patent 5732513 </b></li>
+
+					</ul>
+
+					
+
+		
+
+		 
+
+	</div> <!-- .breaking-news -->
+
+
+
+	
+
+	<div id="main-content" class="container">
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	<div class="content">
+
+
+
+		
+
+		<div xmlns:v="http://rdf.data-vocabulary.org/#"  id="crumbs"><span typeof="v:Breadcrumb"> </div></div><aside id="sidebar"><div class="theiaStickySidebar"><div id="custom_html-3" class="widget_text widget widget_custom_html"><div class="widget-container"><div class="textwidget custom-html-widget"></div></div></div><!-- .widget /-->	</div><!-- .theiaStickySidebar /-->
+
+</aside><!-- #sidebar /-->	<div class="clear"></div>
+
+</div><!-- .container /-->
+
+
+
+<footer id="theme-footer">
+
+	<div id="footer-widget-area" class="footer-3c">
+
+
+
+	
+
+	
+
+
+
+	
+
+		
+
+	</div><!-- #footer-widget-area -->
+
+	<div class="clear"></div>
+
+</footer><!-- .Footer /-->
+
+				
+
+<div class="clear"></div>
+
+<div class="footer-bottom">
+
+	<div class="container">
+
+		<div class="alignright">
+
+					</div>
+
+				<div class="social-icons">
+
+		 
+
+			</div>
+
+
+
+		
+
+		<div class="alignleft">
+
+			© Copyright 2011-2019, Все права защищены. 
+
+<br>
+
+Перепечатка материалов разрешается только при указании активной ссылки на страницу с оригиналом статьи.
+
+		</div>
+
+		<div class="clear"></div>
+
+	</div><!-- .Container -->
+
+</div><!-- .Footer bottom -->
+
+
+
+</div><!-- .inner-Wrapper -->
+
+</div><!-- #Wrapper -->
+
+</div><!-- .Wrapper-outer -->
+
+	<div id="topcontrol" class="fa fa-angle-up" title="В начало"></div>
+
+<div id="fb-root"></div>
+
+ 
+
+
+
+ <div><img src="https://mc.yandex.ru/watch/30181674" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+
+<!-- /Yandex.Metrika counter -->
+
+</noindex>
+
+
+
+</body>
+
+</html>

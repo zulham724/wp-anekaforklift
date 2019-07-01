@@ -1,0 +1,801 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+
+  <link rel="dns-prefetch" href="https://github.githubassets.com">
+
+  <link rel="dns-prefetch" href="https://avatars0.githubusercontent.com">
+
+  <link rel="dns-prefetch" href="https://avatars1.githubusercontent.com">
+
+  <link rel="dns-prefetch" href="https://avatars2.githubusercontent.com">
+
+  <link rel="dns-prefetch" href="https://avatars3.githubusercontent.com">
+
+  <link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
+
+  <link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
+
+
+
+
+
+
+
+  <link crossorigin="anonymous" media="all" integrity="sha512-67V2J9Se2CifJlftk9/cExHGvxd7N9b9EdGnQEpszu99Ogeecilu9jIDxoCkx3zNLfB9ArraXW0J03qyVmN0Uw==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-e7318add1f7e055d040edb0f75aaa0ba.css" />
+
+  <link crossorigin="anonymous" media="all" integrity="sha512-MRlTIqIyb8caK5+o8llXVntXovciHyAM4qE3kWU2S7SIjAPDxYp4mE0jQp4kP5UYegy+lG9y1I6VlsdzEjb5Qw==" rel="stylesheet" href="https://github.githubassets.com/assets/site-294181adec18ed639e160b96b45d17ac.css" />
+
+    <link crossorigin="anonymous" media="all" integrity="sha512-sdCBXlLRZegVx3t99SkEmQxO9DDMm2nGm5wNJsuBc72c3KYXj0mpM+97TIsreSTHPioEFxyFgIip3TDtGPQuDA==" rel="stylesheet" href="https://github.githubassets.com/assets/github-54fcb3a87437ca29a24557c268985ca6.css" />
+
+    
+
+    
+
+    
+
+    
+
+
+
+  <meta name="viewport" content="width=device-width">
+
+  
+
+  <title>Toronto police scanner reddit</title>
+
+    <meta name="description" content="Toronto police scanner reddit">
+
+    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
+
+  <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
+
+  <meta property="fb:app_id" content="1401488693436528">
+
+
+
+    <meta name="twitter:image:src" content="https://avatars3.githubusercontent.com/u/130982?s=400&amp;v=4" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="victorfontes/django-mobile-helper" /><meta name="twitter:description" content="A package to help dealing with mobile clients in Django - victorfontes/django-mobile-helper" />
+
+    <meta property="og:image" content="https://avatars3.githubusercontent.com/u/130982?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="victorfontes/django-mobile-helper" /><meta property="og:url" content="https://github.com/victorfontes/django-mobile-helper" /><meta property="og:description" content="A package to help dealing with mobile clients in Django - victorfontes/django-mobile-helper" />
+
+
+
+  <link rel="assets" href="https://github.githubassets.com/">
+
+  
+
+  <meta name="pjax-timeout" content="1000">
+
+  
+
+  <meta name="request-id" content="CCF3:29219:24F761:36B2A1:5D124B64" data-pjax-transient>
+
+
+
+
+
+  
+
+
+
+  <meta name="selected-link" value="repo_source" data-pjax-transient>
+
+
+
+      <meta name="google-site-verification" content="KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU">
+
+    <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
+
+    <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
+
+
+
+  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="CCF3:29219:24F761:36B2A1:5D124B64" /><meta name="octolytics-dimension-region_edge" content="ams" /><meta name="octolytics-dimension-region_render" content="iad" />
+
+<meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;" data-pjax-transient="true" />
+
+
+
+
+
+
+
+    <meta name="google-analytics" content="UA-3769691-2">
+
+
+
+
+
+<meta class="js-ga-set" name="dimension1" content="Logged Out">
+
+
+
+
+
+
+
+  
+
+
+
+      <meta name="hostname" content="github.com">
+
+    <meta name="user-login" content="">
+
+
+
+      <meta name="expected-hostname" content="github.com">
+
+    <meta name="js-proxy-site-detection-payload" content="NjQ5ODVmNzZjNjA0YzAwYTQwZjkxMTM5NzI0MWNlMzQ5NTgxYWEwMWMwZTg5OGQ1MmY5OTEyNDdjYTUwZDk4Y3x7InJlbW90ZV9hZGRyZXNzIjoiODUuMTc0LjE5MS4xOTAiLCJyZXF1ZXN0X2lkIjoiQ0NGMzoyOTIxOToyNEY3NjE6MzZCMkExOjVEMTI0QjY0IiwidGltZXN0YW1wIjoxNTYxNDgwMDM4LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+
+
+
+    <meta name="enabled-features" content="MARKETPLACE_FEATURED_BLOG_POSTS,MARKETPLACE_INVOICED_BILLING,MARKETPLACE_SOCIAL_PROOF_CUSTOMERS,MARKETPLACE_TRENDING_SOCIAL_PROOF,MARKETPLACE_RECOMMENDATIONS,MARKETPLACE_PULL_PANDA_HOMEPAGE,DISPLAY_COMMENTER_FULL_NAME">
+
+
+
+  <meta name="html-safe-nonce" content="12876d413857186b346f0c018cda750302834381">
+
+
+
+  <meta http-equiv="x-pjax-version" content="6b1033cb022e79b6905f5cb0b638baf0">
+
+  
+
+
+
+      <link href="https://github.com/victorfontes/django-mobile-helper/commits/master.atom" rel="alternate" title="Recent Commits to django-mobile-helper:master" type="application/atom+xml">
+
+
+
+  <meta name="go-import" content="github.com/victorfontes/django-mobile-helper git https://github.com/victorfontes/django-mobile-helper.git">
+
+
+
+  <meta name="octolytics-dimension-user_id" content="130982" /><meta name="octolytics-dimension-user_login" content="victorfontes" /><meta name="octolytics-dimension-repository_id" content="739954" /><meta name="octolytics-dimension-repository_nwo" content="victorfontes/django-mobile-helper" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="739954" /><meta name="octolytics-dimension-repository_network_root_nwo" content="victorfontes/django-mobile-helper" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
+
+
+
+
+
+    <link rel="canonical" href="https://github.com/victorfontes/django-mobile-helper" data-pjax-transient>
+
+
+
+
+
+  <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
+
+
+
+  <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
+
+
+
+  <link rel="mask-icon" href="https://github.githubassets.com/pinned-octocat.svg" color="#000000">
+
+  <link rel="icon" type="image/x-icon" class="js-site-favicon" href="https://github.githubassets.com/favicon.ico">
+
+
+
+<meta name="theme-color" content="#1e2327">
+
+
+
+
+
+
+
+
+
+
+
+  <link rel="manifest" href="/manifest.json" crossOrigin="use-credentials">
+
+
+
+  </head>
+
+
+
+  <body class="logged-out env-production min-width-lg">
+
+    
+
+
+
+  <div class="position-relative js-header-wrapper ">
+
+    
+
+    <div id="js-pjax-loader-bar" class="pjax-loader-bar"><div class="progress"></div></div>
+
+
+
+    
+
+    
+
+    
+
+
+
+
+
+        <header class="Header-old header-logged-out  position-relative f4 py-2" role="banner">
+
+  <div class="container-lg d-flex px-3">
+
+    <div class="d-flex flex-justify-between flex-items-center">
+
+        
+
+          <svg height="32" class="octicon octicon-mark-github text-white" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+
+        </a>
+
+    </div>
+
+
+
+    <div class="HeaderMenu HeaderMenu--logged-out d-flex flex-justify-between flex-items-center flex-auto">
+
+      <div class="d-none">
+
+        <button class="btn-link js-details-target" type="button" aria-label="Toggle navigation" aria-expanded="false">
+
+          <svg height="24" class="octicon octicon-x text-gray" viewBox="0 0 12 16" version="1.1" width="18" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+
+        </button>
+
+      </div>
+
+
+
+        <nav class="mt-0" aria-label="Global">
+
+          <ul class="d-flex list-style-none"> 
+
+          <li class=" mr-3 mr-lg-3 edge-item-fix position-relative flex-wrap flex-justify-between d-flex flex-items-center "></li>
+
+          </ul>
+
+        </nav>
+
+
+
+      <div class="d-flex flex-items-center px-0 text-center text-left">
+
+          <div class="d-lg-flex ">
+
+            <div class="header-search mr-3 scoped-search site-scoped-search js-site-search position-relative js-jump-to"
+
+  role="combobox"
+
+  aria-owns="jump-to-results"
+
+  aria-label="Search or jump to"
+
+  aria-haspopup="listbox"
+
+  aria-expanded="false"
+
+>
+
+  <div class="position-relative">
+
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="739954" data-scoped-search-url="/victorfontes/django-mobile-helper/search" data-unscoped-search-url="/search" action="/victorfontes/django-mobile-helper/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+
+      <label class="form-control input-sm header-search-wrapper p-0 header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center js-chromeless-input-container">
+
+        <input type="text"
+
+          class="form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
+
+          data-hotkey="s,/"
+
+          name="q"
+
+          value=""
+
+          placeholder="Search"
+
+          data-unscoped-placeholder="Search GitHub"
+
+          data-scoped-placeholder="Search"
+
+          autocapitalize="off"
+
+          aria-autocomplete="list"
+
+          aria-controls="jump-to-results"
+
+          aria-label="Search"
+
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=AK6grC5cGEh6WbkUATQhFSFpKOO7MEA9hyKSe/Foj7r4RH1QvaHE3k+9OwBAZ2+KMuRi0MhRYWwjJTJNNX+mVA=="
+
+          spellcheck="false"
+
+          autocomplete="off"
+
+          >
+
+          <input type="hidden" class="js-site-search-type-field" name="type" >
+
+            <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
+
+
+
+            <div class="Box position-absolute overflow-hidden d-none jump-to-suggestions js-jump-to-suggestions-container">
+
+              
+
+<ul class="d-none js-jump-to-suggestions-template-container">
+
+  
+
+
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-suggestion" role="option">
+
+   
+
+    <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
+
+      <svg height="16" width="16" class="octicon octicon-repo flex-shrink-0 js-jump-to-octicon-repo d-none" title="Repository" aria-label="Repository" viewBox="0 0 12 16" version="1.1" role="img"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
+
+      <svg height="16" width="16" class="octicon octicon-project flex-shrink-0 js-jump-to-octicon-project d-none" title="Project" aria-label="Project" viewBox="0 0 15 16" version="1.1" role="img"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z"/></svg>
+
+      <svg height="16" width="16" class="octicon octicon-search flex-shrink-0 js-jump-to-octicon-search d-none" title="Search" aria-label="Search" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M15.7 13.3l-3.81-3.83A5.93 5.93 0 0 0 13 6c0-3.31-2.69-6-6-6S1 2.69 1 6s2.69 6 6 6c1.3 0 2.48-.41 3.47-1.11l3.83 3.81c.19.2.45.3.7.3.25 0 .52-.09.7-.3a.996.996 0 0 0 0-1.41v.01zM7 10.7c-2.59 0-4.7-2.11-4.7-4.7 0-2.59 2.11-4.7 4.7-4.7 2.59 0 4.7 2.11 4.7 4.7 0 2.59-2.11 4.7-4.7 4.7z"/></svg>
+
+    </div>
+
+
+
+    <span class="d-inline-block ml-1 v-align-middle"></span>
+
+    
+
+  </a>
+
+</li>
+
+
+
+</ul>
+
+
+
+<ul class="d-none js-jump-to-no-results-template-container">
+
+  <li class="d-flex flex-justify-center flex-items-center f5 d-none js-jump-to-suggestion p-2">
+
+    <span class="text-gray">No suggested jump to results</span>
+
+  </li>
+
+</ul>
+
+
+
+<ul id="jump-to-results" role="listbox" class="p-0 m-0 js-navigation-container jump-to-suggestions-results-container js-jump-to-suggestions-results-container">
+
+  
+
+
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-scoped-search d-none" role="option">
+
+  </li>
+
+
+
+
+
+</ul>
+
+
+
+            </div>
+
+      </label>
+
+</form>  </div>
+
+</div>
+
+
+
+          </div>
+
+
+
+       
+
+      </div>
+
+    </div>
+
+  </div>
+
+</header>
+
+
+
+  </div>
+
+
+
+  <div id="start-of-content" class="show-on-focus"></div>
+
+
+
+
+
+    <div id="js-flash-container">
+
+
+
+</div>
+
+
+
+
+
+
+
+  <div class="application-main " data-commit-hovercards-enabled>
+
+        <div itemscope itemtype="http://schema.org/SoftwareSourceCode" class="">
+
+    <main id="js-repo-pjax-container" data-pjax-container >
+
+      
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="pagehead repohead instapaper_ignore readability-menu experiment-repo-nav  ">
+
+    <div class="repohead-details-container clearfix container">
+
+
+
+      <ul class="pagehead-actions">
+
+
+
+
+
+
+
+
+
+  <li>
+
+    
+
+ 
+
+    <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/>
+
+    </svg>
+
+    </li>
+
+</ul>
+
+
+
+      <h1 class="public ">&nbsp; </h1>
+
+
+
+    </div>
+
+    
+
+<nav class="hx_reponav reponav js-repo-nav js-sidenav-container-pjax container"
+
+     itemscope
+
+     itemtype="http://schema.org/BreadcrumbList"
+
+    aria-label="Repository"
+
+     data-pjax="#js-repo-pjax-container">
+
+
+
+  <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+
+    
+
+      <svg class="octicon octicon-code" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"/>
+
+      </svg>
+
+      <span itemprop="name"> </span> 
+
+
+
+</nav>
+
+
+
+
+
+  </div>
+
+<div class="container new-discussion-timeline experiment-repo-nav  ">
+
+  <div class="repository-content ">
+
+
+
+    
+
+    
+
+        <div class="signup-prompt-bg rounded-1">
+
+      <div class="signup-prompt p-4 text-center mb-4 rounded-1">
+
+        <div class="position-relative">
+
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/prompt_dismissals/signup" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="DIrD76oeqq0Lw6iPB5ZCSQE+1Vrm8GqAXagjCDmQnJQ1UZvv2HI6nTAOFhEpzMTGmgUGXiJQNLOs57oja2C96A==" />
+
+            <button type="submit" class="position-absolute top-0 right-0 btn-link link-gray" data-ga-click="(Logged out) Sign up prompt, clicked Dismiss, text:dismiss">
+
+              Dismiss
+
+            </button>
+
+</form>          <h1 class="pt-2">Toronto police scanner reddit</h1>
+
+          <p class="col-6 mx-auto">&nbsp; </p>
+
+          
+
+        </div>
+
+      </div>
+
+    </div>
+
+
+
+
+
+
+
+       
+
+
+
+
+
+
+
+
+
+        <div class="overall-summary overall-summary-bottomless">
+
+    <div class="stats-switcher-viewport js-stats-switcher-viewport">
+
+      <div class="stats-switcher-wrapper">
+
+      <ul class="numbers-summary">
+
+        <li class="commits"> 
+
+            </li></ul><div class="repository-lang-stats">
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+
+
+    <button type="button" class="d-flex p-0 repository-lang-stats-graph js-toggle-lang-stats" title="Click for language details" data-ga-click="Repository, language bar stats toggle, location:repo overview">
+
+      <span class="language-color" aria-label="Python 100.0%" style="width:100.0%; background-color:#3572A5;" itemprop="keywords">csv at master · umbrae/reddit-top-2. Inmates at the Edmonton Remand Centre will be subjected to additional security screening starting soon. reddit-top-2. 'Be vigilant': man finds custom-made card reader attached to ATM machine while vacationing in Europe | Globalnews. colorado fake id reddit. Third Boston Marathon explosion a controlled detonation, according to police scanner. Toronto police appeal for witnesses after fireworks shot into moving car | CTV News. historicaltimes:.  (Charles Krupa/Associated Press). LOOK WHAT THINK THEY BGR SPOTTED via Reddit .  AMA. IHIT investigates murder Jan. . Picturequiet . reddit fake id king forge. Uniden Bearcat BC75XLT Portable Handheld Scanner | CB Radios & Accessories | Car Audio & Electronics | GPS, Car & Marine | Computers, TVs, Video Games, . Share to Twitter Share to Facebook Share to Reddit Share to Email. Investigators say Sarnia teen killed in 1974 when she was hit by a vehicle while walking. best place to get a fake id reddit. Troy Cooper reflects on his first year as Saskatoon police chief | Saskatoon StarPhoenix. 1 reply 7 retweets 18 likes. cover letter review 2 agenda 1 cover letter peer review cover letter review reddit. best fake id site reddit. Audio of Surrey RCMP shooting of Hudson Brooks posted online | Vancouver Sun. Toronto Health run by a bunch of 'lefties': Ford. PictureOld photo of Toronto taken by my father (CN Tower being built) . 20 Crazy Stories About People Who Actually Saw The Future In Their Dreams. Squeaky Wheels: Your old tickets can still get you on a bus or métro. reddit-corpus/reddit-posts. Images of Social Media Icons. Techmeme: Reddit CEO Steve Huffman says open racism, including use of slurs, isn't against Reddit's rules and that communities can set their own standards .  CITYNEWS/Diana Pereira. 5-million · GitHub. More licence plate scanners hit Saskatoon streets. A. The moderator suggested that the measures taken by Reddit were political in nature. Who's Tracking Your License Plate?. Boston bomb suspect Dzhokhar Tsarnaev captured – as it happened | World news | The Guardian. Avengers: Endgame takes down Cineplex Canada website and app as tickets go on sale. The Samsung Galaxy S10's ultrasonic built-in fingerprint scanner was given a thorough scratch test by YouTuber JerryRigEverything. Police Install Controversial License Plate Readers On Fairfield Patrol Cars – CBS San Francisco. medical-weed. Lee: Beware the revenue temptations of photo radar. Shower cells, segregation, suicides and reform: A year in the life of Ottawa's troubled jail. Samsung One UI beta testers share their experience on Reddit. Photo credit: Reddit user u/Kotaay.  | Edmonton Journal. Canadian Graffiti - Toronto Canada.  But besides apps fro.  Juris Graney. T. B. PictureIf . Police scanners set to go silent as Alberta moves to centralized radio system: police chief. Brent Young, 41, was shot and killed at an apartment building on Sherbourne Street.  Nokia smartphone have surfaced online showing off an in-display circular camera cutout, dual rear-facing cameras and a fingerprint scanner on its back. Uber says it has suspended all of its self-driving testing including operations in Toronto following a fatal pedestrian accident involving the vehicles in . fake id illinois reddit. danforth shooting. fake id trusted vendors reddit. where to get fake id reddit.  _ IAmA | Android (Operating System) (34 views). He casts the Toronto attack as a PR problem that will blow over. LG G7 ThinQ. Using social media to share news from police scanners can put officers at risk and transmit incorrect information. One of two full-body scanners Toronto police are testing in a six-month pilot project, in the hope that the machines will eventually replace manual strip . The reason for police scanners going dark is simple, according to Mark Pugash, director of communications for the Toronto Police. fake texas id reddit. There's a lock icon on the lock screen that was not present in the Apple render. Samsung Galaxy S10 series pre-installed screen protectors come with 90-day warranty.  The iPhone X Boxed . A new rumour regarding Nokia's unannounced Nokia 9 PureView smartphone, a device that features five rear-facing cameras, has surfaced online. PictureBoth . My first time visiting Canada and I see this . me, which changed after its previous . 5-million/AskReddit. Costume designer behind Cronenberg's 'Scanners,' 'Videodrome' to get icon award. Digital Wellbeing possibly interfering with performance on Pixel phonesNeowinSeveral Pixel owners on Reddit have reported that turning off Google's Digital . Violent .  team exit Franklin Street moments after 19-year-old. Thinking about grading, while SkyTraining. SAS: The police in the US is more strict with pulling their guns than in other countries . City delaying new radio system for police and fire until 2018. Reddit apologizes for Boston bombing 'witch hunts'.  4The Camrose Police Service serves a population of about 20,000 people who reside in the community. PictureDude removed the cones to park his car, now workers need to work around him (after ringing all doorbells in neighbourhood) . mississauga.  Part of my philosophy, my own personal Cartesian-cognitive-curriculum on the matter of assigning grades, . Scanner airwaves going dark as first responders switch to encrypted radios | Globalnews. reddit fake id wiki. The . Police are getting creative with catching distractive drivers . Given that the Ultrasonic Fingerprint Scanner doesn't snap a photo of your fingerprint and instead uses ultrasonic pulses, it's capable of working under . 2020 Ford Police Interceptor Utility Hybrid First Drive: Boys In Blue Go Green. In the aftermath of the bombings, people flocked to social media for news.  to encrypt police service calls.  (Note: In 2018, the forum's domain name was incels. Javier Zarracina/Vox. Medium Size Of Resume Builders Free Amazing Creator Download Reddit Best Builder App Professional Template. There's A Subreddit For Everything. The Talladega checklist. reddit fake id us. Samsung is preparing to release its latest line of smartphones in Canada, the Galaxy S10 and S10+ and the S10e. Toronto Star intern Alina Bykova works a shift in the Star's radio . BRAUN: Put your motorcycle in the garage & never take it out again. But out of nowhere, Reddit user /u/FwrigginRwootbeer has found a Shield Portable 2 developer unit - at a pawn shop in Canada. Deepfake - Gal Gadot. Expensive new high-tech border scanners often break down, less effective than detection dogs. We sat listening to fire and ambulance scanners – the only remaining forms of unencrypted emergency communications in Toronto. Use of licence plate recognition technology results in charges against man. ca. Members of a police S. fake school id reddit. 5-million/RBI. The hyper-powered aggregation and fact-checking capabilities of Reddit's 35 million monthly visitors make the social news site a rare resource and leader in .  Photo Illustration by Tyler Essary for TIME. Scanner airwaves going dark as first responders switch to encrypted radios. novelty fake id reddit. toronto shooting. reddit r fake ids. Central Japan Railway's test shinkansen hits 360 kph by limoto #Tech. Photo/VideoSaw . Kimberlyjustin1_cbb jquery drag and drop list items . Internet Radio on the Mac, After iTunes. Police identify man shot dead at Sherbourne and Dundas apartment. pickle at master · k8si/reddit-corpus · GitHub.  4. Sure, the major ones are there in Facebook, Twitter, Angry Birds and even Spotify, Rdio and Reddit browsers. Seven overdoses at EMDC, naloxone applied, inmates survive | The London Free Press. After multiple Freedom-of-Information requests, Toronto police have admitted to using cellphone. Boston Marathon explosions: Reddit apologizes for falsely accusing missing student. UTSC Library Makerspace Orientations. Four suspended drivers busted after licence plate scanner blitz. NYPD Officer Seen On Video Crashing Dirt Bike In Harlem Intersection. iowa fake id reddit. Toronto Mass Shooting: 15 Victims Shot on Danforth Avenue.  Screenshot: Nicholas Deleon/Motherboard. Durham cop chopper puts brakes on alleged street racer. What You Help And It Can Is How Reddit Homesync . The Toronto Star Trust Committee, from left, Evelyn Kwong, Diana Zlomlislic, Brian.  (CBC). Billie Holiday wrote "Strange Fruit," one of the most moving songs of protest. Calgary police newest radar vehicle using low-profile gear to nab speeders. reddit fake id bar book. 'It's Overwhelming': Norton Police Officer Revives National Grid Worker. Huawei's newest photography-focused smartphones the P30, the P30 Pro and the P30 Lite are now available in Canada. Fredericton first in N. The four ways that LGBT communities are responding to Pride Toronto welcoming back police. Most Read. THE REAL DEAL??. how do you play piano with both hands. HistoryToronto's burgeoning . Pro-Trump Reddit channel 'quarantined' over threats of violence. Bell Mobility Toronto Local Calling Area Map -. File photo of the CN Tower in Toronto. Wikipedia and Reddit Stage Eleventh-Hour Protest Against Alarming EU Copyright Plan - Utter Buzz!. A view from inside the cockpit of Saskatoon Police Air Support Unit. 5-million/Torontoevents. Image by Doctor_Mod on Reddit. How an independent video store in Toronto gave the entire city a much-needed dose of character. Makerspace Equipment. Police 3D crime scene scanners 'worth the investment' to help close major cases. A manager with the City of Winnipeg's radio shop was surprised to learn he was the subject of a police probe. The NSFW toggle settings are gone from the latest version of Narwhal (right). Leader of the Opposition in the Senate, Senator James Cowan speaks to media in the foyer of the Senate on Parliament Hill in Ottawa on Friday, October 25, . The Roadhouse became a regular character on the police scanner in its 12-year history. Police cars filled the parking zone at Victoria Hospital for two hours after seven inmates were rushed to hospital after overdosing on drugs at the . fake id master reddit. Questions remain as Winnipeg police prepare for body-camera pilot project - Winnipeg Free Press.  at the scene of a shooting in Toronto, Ontario, Canada on July 23, 2018. HistoryDowntown Toronto map I found while cleaning out my grandparent's house. Reddit.  The media, in his mind, . New CT scanner at Red Deer hospital offers more detail, faster scans. Toronto Police officers stand watch at Danforth St. Police investigating after fireworks were shot at a car in North York. hawaii fake id reddit. Why Microsoft 365 Company is the subsequent massive point for MSPs. fake id stories reddit. W. The Thin Blue Line, Then and Now. New CBC Radio special goes inside Toronto Police Operations Centre.  In early February, Ed Richardson told CBC News . San Leandro Police Department. Denver's Morgan Jones uses Reddit to tell world about shooting.  21, 2014. latex . Hundreds of victims, millions of dollars stolen in Toronto cabbie card scam. A man in his 40s is dead after a stabbing in North York. According to the user, he saw the Portable 2 in a pawn shop and traded in his original model to help pay for it, unaware that the model he was buying was . jpg.  According to the Reddit user who shared the image, this is a pre-production . Garry Ma liked this. See all Popular →. Technical issues in Banff prompt AHS to reverse course on EMS two-way radio transition. 18. Tool discography download reddit. IAmA a Person in His 20s Who Went From _rags to Riches_ During the Recession. Reddit Resume Template Best Fresh Ceo Sample. A hero lives in my home town </span>
+
+  </button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="file-navigation in-mid-page d-flex flex-items-start">
+
+  
+
+<details class="details-reset details-overlay select-menu branch-select-menu  hx_rsm" id="branch-select-menu">
+
+  <summary class="btn btn-sm select-menu-button css-truncate"
+
+           data-hotkey="w"
+
+           
+
+           title="Switch branches or tags">
+
+    <i>Branch:</i>
+
+    <span class="css-truncate-target">master</span>
+
+  </summary>
+
+
+
+  <details-menu class="select-menu-modal hx_rsm-modal position-absolute" style="z-index: 99;" src="/victorfontes/django-mobile-helper/ref-list/master?source_action=disambiguate&amp;source_controller=files" preload>
+
+    <include-fragment class="select-menu-loading-overlay anim-pulse">
+
+      <svg height="32" class="octicon octicon-octoface" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M14.7 5.34c.13-.32.55-1.59-.13-3.31 0 0-1.05-.33-3.44 1.3-1-.28-2.07-.32-3.13-.32s-2.13.04-3.13.32c-2.39-1.64-3.44-1.3-3.44-1.3-.68 1.72-.26 2.99-.13 3.31C.49 6.21 0 7.33 0 8.69 0 13.84 3.33 15 7.98 15S16 13.84 16 8.69c0-1.36-.49-2.48-1.3-3.35zM8 14.02c-3.3 0-5.98-.15-5.98-3.35 0-.76.38-1.48 1.02-2.07 1.07-.98 2.9-.46 4.96-.46 2.07 0 3.88-.52 4.96.46.65.59 1.02 1.3 1.02 2.07 0 3.19-2.68 3.35-5.98 3.35zM5.49 9.01c-.66 0-1.2.8-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.54-1.78-1.2-1.78zm5.02 0c-.66 0-1.2.79-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.53-1.78-1.2-1.78z"/></svg>
+
+    </include-fragment>
+
+  </details-menu>
+
+</details>
+
+
+
+
+
+        <button type="button" class="btn btn-sm disabled tooltipped tooltipped-n new-pull-request-btn" aria-label="You must be signed in to create a pull request">
+
+          </button>
+
+
+
+  <div class="breadcrumb flex-auto">
+
+    
+
+  </div>
+
+ </div></div></div></main></div></div><div class="footer container-lg width-full px-3" role="contentinfo"><div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
+
+  </div>
+
+  <div class="d-flex flex-justify-center pb-6">
+
+    <span class="f6 text-gray-light"></span>
+
+  </div>
+
+</div>
+
+
+
+
+
+
+
+  <div id="ajax-error-message" class="ajax-error-message flash flash-error">
+
+    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"/></svg>
+
+    <button type="button" class="flash-close js-ajax-error-dismiss" aria-label="Dismiss error">
+
+      <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+
+    </button>
+
+    You can’t perform that action at this time.
+
+  </div>
+
+
+
+
+
+    
+
+    
+
+    
+
+    
+
+  <div class="js-stale-session-flash stale-session-flash flash flash-warn flash-banner" hidden
+
+    >
+
+    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"/>
+
+    </svg>
+
+    <span class="signed-in-tab-flash">You signed in with another tab or window. to refresh your session.</span>
+
+    <span class="signed-out-tab-flash">You signed out in another tab or window. to refresh your session.</span>
+
+  </div>
+
+  <template id="site-details-dialog">
+
+  <details class="details-reset details-overlay details-overlay-dark lh-default text-gray-dark hx_rsm" open>
+
+    <summary role="button" aria-label="Close dialog"></summary>
+
+    <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast hx_rsm-dialog hx_rsm-modal">
+
+      <button class="Box-btn-octicon m-0 btn-octicon position-absolute right-0 top-0" type="button" aria-label="Close dialog" data-close-dialog>
+
+        <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+
+      </button>
+
+      <div class="octocat-spinner my-6 js-details-dialog-spinner"></div>
+
+    </details-dialog>
+
+  </details>
+
+</template>
+
+
+
+  <div class="Popover js-hovercard-content position-absolute" style="display: none; outline: none;" tabindex="0">
+
+  <div class="Popover-message Popover-message--bottom-left Popover-message--large Box box-shadow-large" style="width:360px;">
+
+  </div>
+
+</div>
+
+
+
+  <div aria-live="polite" class="js-global-screen-reader-notice sr-only"></div>
+
+
+
+  </body>
+
+</html>
+
+

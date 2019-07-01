@@ -1,0 +1,719 @@
+
+
+<!DOCTYPE html>
+
+<html lang="ru-RU" prefix="og: http://ogp.me/ns#">
+
+<head>
+
+<meta charset="UTF-8" />
+
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+
+<link rel="pingback" href="" />
+
+<title>Что такое WAP в телефоне и чем он отличается от GPRS? | База ответов на любые вопросы</title>
+
+<meta property="og:title" content="Что такое WAP в телефоне и чем он отличается от GPRS? - База ответов на любые вопросы"/>
+
+<meta property="og:type" content="article"/>
+
+<meta property="og:description" content="Мобильный интернет сегодня занимает существенную долю пользования телефоном у многих абонентов сотов"/>
+
+<meta property="og:url" content="https://www.mnogo-otvetov.ru/computery/chto-takoe-wap-v-telefone-i-chem-on-otlichaetsya-ot-gprs/"/>
+
+<meta property="og:site_name" content="База ответов на любые вопросы"/>
+
+<meta property="og:image" content="https://www.mnogo-otvetov.ru/wp-content/uploads/2015/12/3334-560x330.jpg" />
+
+
+
+<!-- All in One SEO Pack 3.1.1 от Michael Torbert из Semper Fi Web Designob_start_detected [-1,-1] -->
+
+<meta name="description"  content="Мобильный интернет сегодня занимает существенную долю пользования телефоном у многих абонентов сотовой связи. Тем не менее, далеко не все из них достаточно" />
+
+
+
+<link rel="canonical" href="https://www.mnogo-otvetov.ru/computery/chto-takoe-wap-v-telefone-i-chem-on-otlichaetsya-ot-gprs/" />
+
+<!-- All in One SEO Pack -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+
+<link rel='dns-prefetch' href='//s.w.org' />
+
+<link rel="alternate" type="application/rss+xml" title="База ответов на любые вопросы &raquo; Лента" href="https://www.mnogo-otvetov.ru/feed/" />
+
+<link rel="alternate" type="application/rss+xml" title="База ответов на любые вопросы &raquo; Лента комментариев" href="https://www.mnogo-otvetov.ru/comments/feed/" />
+
+<link rel="alternate" type="application/rss+xml" title="База ответов на любые вопросы &raquo; Лента комментариев к &laquo;Что такое WAP в телефоне и чем он отличается от GPRS?&raquo;" href="https://www.mnogo-otvetov.ru/computery/chto-takoe-wap-v-telefone-i-chem-on-otlichaetsya-ot-gprs/feed/" />
+
+		 
+
+		<style type="text/css">
+
+img.wp-smiley,
+
+img.emoji {
+
+	display: inline !important;
+
+	border: none !important;
+
+	box-shadow: none !important;
+
+	height: 1em !important;
+
+	width: 1em !important;
+
+	margin: 0 .07em !important;
+
+	vertical-align: -0.1em !important;
+
+	background: none !important;
+
+	padding: 0 !important;
+
+}
+
+</style>
+
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.mnogo-otvetov.ru/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+
+<link rel='stylesheet' id='wp-pagenavi-css'  href='https://www.mnogo-otvetov.ru/wp-content/plugins/wp-pagenavi/pagenavi-css.css' type='text/css' media='all' />
+
+<link rel='stylesheet' id='tie-style-css'  href='https://www.mnogo-otvetov.ru/wp-content/themes/kometa/style.css' type='text/css' media='all' />
+
+<link rel='stylesheet' id='tie-ilightbox-skin-css'  href='https://www.mnogo-otvetov.ru/wp-content/themes/kometa/css/ilightbox/dark-skin/skin.css' type='text/css' media='all' />
+
+<link rel='stylesheet' id='Droid+Sans-css'  href='https://fonts.googleapis.com/css?family=Droid+Sans%3Aregular%2C700' type='text/css' media='all' />
+
+
+
+<link rel='https://api.w.org/' href='https://www.mnogo-otvetov.ru/wp-json/' />
+
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.mnogo-otvetov.ru/xmlrpc.php?rsd" />
+
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.mnogo-otvetov.ru/wp-includes/wlwmanifest.xml" /> 
+
+<link rel='prev' title='Кто такие хипстеры и что они делают?' href='https://www.mnogo-otvetov.ru/obshestvo/kto-takie-xipstery-i-chto-oni-delayut/' />
+
+<link rel='next' title='Что такое спред на бирже?' href='https://www.mnogo-otvetov.ru/finansy/chto-takoe-spred-na-birzhe/' />
+
+<meta name="generator" content="WordPress 5.2.2" />
+
+<link rel='shortlink' href='https://www.mnogo-otvetov.ru/?p=11137' />
+
+<link rel="alternate" type="application/json+oembed" href="https://www.mnogo-otvetov.ru/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.mnogo-otvetov.ru%2Fcomputery%2Fchto-takoe-wap-v-telefone-i-chem-on-otlichaetsya-ot-gprs%2F" />
+
+<link rel="alternate" type="text/xml+oembed" href="https://www.mnogo-otvetov.ru/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.mnogo-otvetov.ru%2Fcomputery%2Fchto-takoe-wap-v-telefone-i-chem-on-otlichaetsya-ot-gprs%2F&#038;format=xml" />
+
+
+
+<link rel="stylesheet" href="https://www.mnogo-otvetov.ru/wp-content/plugins/related-posts-by-zemanta/static/themes/vertical.css?version=1.8.1" />
+
+<link rel="shortcut icon" href="https://www.mnogo-otvetov.ru/wp-content/themes/kometa/favicon.ico" title="Favicon" />
+
+<!--[if IE]>
+
+<script type="text/javascript">jQuery(document).ready(function (){ jQuery(".menu-item").has("ul").children("a").attr("aria-haspopup", "true");});</script>
+
+<![endif]-->
+
+<!--[if lt IE 9]>
+
+<script src="https://www.mnogo-otvetov.ru/wp-content/themes/kometa/js/html5.js"></script>
+
+<script src="https://www.mnogo-otvetov.ru/wp-content/themes/kometa/js/selectivizr-min.js"></script>
+
+<![endif]-->
+
+<!--[if IE 9]>
+
+<link rel="stylesheet" type="text/css" media="all" href="https://www.mnogo-otvetov.ru/wp-content/themes/kometa/css/ie9.css" />
+
+<![endif]-->
+
+<!--[if IE 8]>
+
+<link rel="stylesheet" type="text/css" media="all" href="https://www.mnogo-otvetov.ru/wp-content/themes/kometa/css/ie8.css" />
+
+<![endif]-->
+
+<!--[if IE 7]>
+
+<link rel="stylesheet" type="text/css" media="all" href="https://www.mnogo-otvetov.ru/wp-content/themes/kometa/css/ie7.css" />
+
+<![endif]-->
+
+
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+
+
+
+
+
+
+<style type="text/css" media="screen">
+
+
+
+::-webkit-scrollbar {
+
+	width: 8px;
+
+	height:8px;
+
+}
+
+
+
+
+
+::-moz-selection { background: #1975d2;}
+
+::selection { background: #1975d2; }
+
+#main-nav,
+
+.cat-box-content,
+
+#sidebar .widget-container,
+
+.post-listing,
+
+#commentform {
+
+	border-bottom-color: #0e4d7a;
+
+}
+
+
+
+.search-block .search-button,
+
+#topcontrol,
+
+#main-nav ul li.current-menu-item a,
+
+#main-nav ul li.current-menu-item a:hover,
+
+#main-nav ul li.current_page_parent a,
+
+#main-nav ul li.current_page_parent a:hover,
+
+#main-nav ul li.current-menu-parent a,
+
+#main-nav ul li.current-menu-parent a:hover,
+
+#main-nav ul li.current-page-ancestor a,
+
+#main-nav ul li.current-page-ancestor a:hover,
+
+.pagination span.current,
+
+.share-post span.share-text,
+
+.flex-control-paging li a.flex-active,
+
+.ei-slider-thumbs li.ei-slider-element,
+
+.review-percentage .review-item span span,
+
+.review-final-score,
+
+.button,
+
+a.button,
+
+a.more-link,
+
+#main-content input[type="submit"],
+
+.form-submit #submit,
+
+#login-form .login-button,
+
+.widget-feedburner .feedburner-subscribe,
+
+input[type="submit"],
+
+#buddypress button,
+
+#buddypress a.button,
+
+#buddypress input[type=submit],
+
+#buddypress input[type=reset],
+
+#buddypress ul.button-nav li a,
+
+#buddypress div.generic-button a,
+
+#buddypress .comment-reply-link,
+
+#buddypress div.item-list-tabs ul li a span,
+
+#buddypress div.item-list-tabs ul li.selected a,
+
+#buddypress div.item-list-tabs ul li.current a,
+
+#buddypress #members-directory-form div.item-list-tabs ul li.selected span,
+
+#members-list-options a.selected,
+
+#groups-list-options a.selected,
+
+body.dark-skin #buddypress div.item-list-tabs ul li a span,
+
+body.dark-skin #buddypress div.item-list-tabs ul li.selected a,
+
+body.dark-skin #buddypress div.item-list-tabs ul li.current a,
+
+body.dark-skin #members-list-options a.selected,
+
+body.dark-skin #groups-list-options a.selected,
+
+.search-block-large .search-button,
+
+#featured-posts .flex-next:hover,
+
+#featured-posts .flex-prev:hover,
+
+a.tie-cart span.shooping-count,
+
+.woocommerce span.onsale,
+
+.woocommerce-page span.onsale ,
+
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle,
+
+.woocommerce-page .widget_price_filter .ui-slider .ui-slider-handle,
+
+#check-also-close,
+
+a.post-slideshow-next,
+
+a.post-slideshow-prev,
+
+.widget_price_filter .ui-slider .ui-slider-handle,
+
+.quantity .minus:hover,
+
+.quantity .plus:hover,
+
+.mejs-container .mejs-controls .mejs-time-rail .mejs-time-current,
+
+#reading-position-indicator  {
+
+	background-color:#0e4d7a;
+
+}
+
+
+
+::-webkit-scrollbar-thumb{
+
+	background-color:#0e4d7a !important;
+
+}
+
+
+
+#theme-footer,
+
+#theme-header,
+
+.top-nav ul li.current-menu-item:before,
+
+#main-nav .menu-sub-content ,
+
+#main-nav ul ul,
+
+#check-also-box {
+
+	border-top-color: #0e4d7a;
+
+}
+
+
+
+.search-block:after {
+
+	border-right-color:#0e4d7a;
+
+}
+
+
+
+body.rtl .search-block:after {
+
+	border-left-color:#0e4d7a;
+
+}
+
+
+
+#main-nav ul > li.menu-item-has-children:hover > a:after,
+
+#main-nav ul > li.mega-menu:hover > a:after {
+
+	border-color:transparent transparent #0e4d7a;
+
+}
+
+
+
+.widget.timeline-posts li a:hover,
+
+.widget.timeline-posts li a:hover span.tie-date {
+
+	color: #0e4d7a;
+
+}
+
+
+
+.widget.timeline-posts li a:hover span.tie-date:before {
+
+	background: #0e4d7a;
+
+	border-color: #0e4d7a;
+
+}
+
+
+
+#order_review,
+
+#order_review_heading {
+
+	border-color: #0e4d7a;
+
+}
+
+
+
+
+
+body {
+
+	background-color: #ffffff !important;
+
+	background-image : url(https://www.mnogo-otvetov.ru/wp-content/themes/kometa/images/patterns/body-bg1.png);
+
+	background-position: top center;
+
+}
+
+
+
+a {
+
+	color: #226078;
+
+}
+
+		
+
+a:hover {
+
+	color: #1889d9;
+
+}
+
+		
+
+</style>
+
+ 
+
+		</head>
+
+<body id="top" class="post-template-default single single-post postid-11137 single-format-standard lazy-enabled">
+
+
+
+<div class="wrapper-outer">
+
+
+
+	<div class="background-cover"></div>
+
+
+
+	<aside id="slide-out">
+
+
+
+			<div class="search-mobile">
+
+			<form method="get" id="searchform-mobile" action="https://www.mnogo-otvetov.ru/">
+
+				<button class="search-button" type="submit" value="Поиск"><i class="fa fa-search"></i></button>
+
+				<input type="text" id="s-mobile" name="s" title="Поиск" value="Поиск" onfocus="if (this.value == 'Поиск') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Поиск';}"  />
+
+			</form>
+
+		</div><!-- .search-mobile /-->
+
+	
+
+			<div class="social-icons">
+
+		 	</div>
+
+
+
+	
+
+		<div id="mobile-menu" ></div>
+
+	</aside><!-- #slide-out /-->
+
+
+
+		<div id="wrapper" class="boxed">
+
+		<div class="inner-wrapper">
+
+
+
+		<header id="theme-header" class="theme-header">
+
+						<div id="top-nav" class="top-nav">
+
+				<div class="container">
+
+
+
+			
+
+				<div class="menu"> </div>
+
+
+
+						<div class="search-block">
+
+						<form method="get" id="searchform-header" action="https://www.mnogo-otvetov.ru/">
+
+							<button class="search-button" type="submit" value="Поиск"><i class="fa fa-search"></i></button>
+
+							<input class="search-live" type="text" id="s-header" name="s" title="Поиск" value="Поиск" onfocus="if (this.value == 'Поиск') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Поиск';}"  />
+
+						</form>
+
+					</div><!-- .search-block /-->
+
+			<div class="social-icons">
+
+		 
+
+			</div>
+
+
+
+	
+
+	
+
+				</div><!-- .container /-->
+
+			</div><!-- .top-menu /-->
+
+			
+
+		<div class="header-content">
+
+
+
+					 
+
+		
+
+			<div class="logo" style=" margin-top:15px; margin-bottom:15px;">
+
+			<h2>						 
+
+					<img src="https://www.mnogo-otvetov.ru/wp-content/themes/kometa/images/logo.png" alt="База ответов на любые вопросы"  /><strong><h1>Roma cattle sales 2019</h1></strong>
+
+				 
+
+			</h2>			</div><!-- .logo /-->
+
+						<div class="clear"></div>
+
+
+
+		</div>
+
+													<nav id="main-nav" class="fixed-enabled">
+
+				<div class="container">
+
+
+
+				
+
+														 
+
+					
+
+					
+
+				</div>
+
+			</nav><!-- .main-nav /-->
+
+					</header><!-- #header /-->
+
+
+
+		
+
+	<div class="clear"></div>
+
+	<div id="breaking-news" class="breaking-news">
+
+		<span class="breaking-news-title"><i class="fa fa-bolt"></i> <span> </span></span>
+
+		
+
+					<ul>
+
+					<li><b>Bridgette Waldron, Amie McKay, Rhylee Wiedman, Jayde Laverty, and Deni Humphreys,. Roma | 11 things to do in Roma. Cattle sales report. Related Articles. Upcoming Sales. What's.  LUCAS. . ROMA OFFICE – 07 4622 7799. Tours are held on Tuesdays and Thursdays. 2017 Roma Tropical Sale – RESULTS. jpg. ROMA STORE SALE TUESDAY 7 MAY 2019-ACC. After two weeks of the lowest weekly yardings since March 2018, when Easter disrupted sales, throughput returned to be in line with the five-year average, . Roma is serious cattle country. Hot Sale Watch JQ Brand Ladies Wristwatch Roma Genuine Cow Leather Vintage Fashion Punk Wrap Quartz Women dress watch 2019 New. 2019 trails west poster. Watkins and Co team Charles Gleeson, Brad Neven and Ian Bassett selling a pen of Charolais heifers at Tuesday's Store Sale. DULACCA. Cattle for Sale.  Beef Central . + Export Events. FULLY WEANED *** Available on AuctionsPlus on the 28th of July 2019 in the Eastern States Weaner and Yearling… READ MORE ».  The sale yards were . RIVERGLEN ROMA CHAROLAIS BULL SALE. Lot 103 Eversleigh Kidman (P) D3. Roma Cattle Saleyards: UPDATED 2019 All You Need to Know Before You Go (with PHOTOS). RMA STOCK. Cattle trucks waiting at Roma cattle sales yards to be filled. Previous sales. Our next weaner sale in on Tuesday the 9th of July 2019 at Roma Saleyards. Grant Daniel & Long. Retired grazier Geoff Thompson with his sign advertising tours at the Roma Saleyards.  Queensland Australia. Gympie Brahman Female Sale 2019. Kindee Sale 2019. Roma sale success for Verniew.  They breed cattle, talk cattle, sell cattle and eat cattle. Kindee Sale 25th June 2019 8am - Roma Saleyards. Nation's biggest landholders of 2019. 29th Annual Northern Progress Bull Sale. TripAdvisor gives a Certificate of Excellence to accommodations, attractions and restaurants that consistently earn great reviews from travellers. Cattle arrive in Dalby after four months on the road.  Picture: Tina Graham. Moongool Charolais clone's progeny wins supreme exhibit in Roma. More Events. Dingo Rodeo & Campdraft Association. Cattle being readied for auction at the Roma Saleyards in Queensland, the largest cattle-selling centre in the Southern Hemisphere with over 400,000 cattle .  '.  Source MLA. IMG_6778. Roma-01. For Sale. Sheep. HEARTLAND SANTA GERTRUDIS BULL SALE.  13 Jun 2019. News - Billa Park Simmentals - Stud Simmental Bulls, Females & Genetics For Sale, Queensland, Australia. Roma store sale 9 Apr 2019: Prices ease as yarding jumps to 11,614 head. Located 80km from Rolleston and 179km from Roma, the 3909ha Bilabalong is situated in Queensland's tightly held Arcadia Valley which boasts some of the best . 421 Oberina Road, Roma, Qld 4455.  ANIPRO BUSINESS FOR SALE }.  ".  Reg# TLA D7ST3219 DOB: 5-6-12.  Vendor comments: Good natured quiet cow with a T4 heifer calf at foot (sire Hot Shot), . Rockhampton Sale 2019. JS Grazing Weaner Sale 2019. 1. Saleyards Advisory Committee. Movement at the Station – Properties for sale. Image may contain: text. Image may contain: 2 people, people smiling, people standing, sky, bridge. Share:. 2019 Top Cut Speckle Park Bull & Female Sale. REGISTERD TEXAS LONGHORN BULL x D7 SPUR COW T5 Steer Reg# DOB: 10-10-18. Roma store sale 2 April 2019: Rises across most categories. Take a visitor tour of the Roma Saleyards. T4 Cow.  Reg# TLA D7ST4315 DOB: 1-1-13. Roma Store Sale 29th January 2019. Cattle Sales. Facebook. Focused buying: Tasmanian livestock agents Mark Lamprey and Bill Aldridge, from Roberts at Burnie. CATTLE SALE: Kelsie, John and Karol Wilkes from Pittsworth sold a pen of heifers. Lot 9 - Wallace Vale Gascoyne (P) D5. Roma store sale 5 Mar 2019: Cow prices under pressure. 2019 Weaners. A total yarding of 615 head of cattle were penned at Roma's Prime Sale on Thursday, April 11.  Report Date: Tuesday, 11 June 2019. There were plenty of horns on show at the Roma Saleyards on Saturday. Roma Saleyards fat sales to continue on a fortnightly basis. T3 Cow. Roma Droughtmaster Sale 2017. 36 Brahman X Heifers. Roma Simmental & Simbrah Sale 2018. Business Directory and Tourist Guide. Angus Australia_MREC_March 2019_300x250Vetoquinol270319. Sale Numbers & Special Lines. 0 replies 0 retweets 0 likes. 20/06/2019 - STOCK SALES. Getting to Roma. Auction action at the Roma saleyards.  A total of 4,010 head of cattle were consigned at Roma's Store Sale on Tuesday. Lorraine, Roma, Qld 4455. D7 Spur Bounty Hunter. PrevNext. Top price of the 2018 Sale was lot 187 Narrego Miss Spinductor, sold by Mrs. Help needed on our cattle ranch with gardening and horses near Roma Qld, Australia. D7 Spur steer. Coolabunia Classic Charolais Bull Sale 2019. Belmont Red X Steers & Heifers.  Cattle for Sale. Breeding herd further eroded. Footage from the scene of a rollover 80km north-east of Roma. Roma store sale 15 Jan 2019: Rates ease in 6200 hd yarding. Approx 720 Mixed Weaners – Roma Store Sale 2nd April 2019. IMG_6798.  Livestock Information. Roma Report. Filter the latest data to best suit your needs from our comprehensive warehouse of saleyard, over-the-hook, slaughter, throughput, skins and feeder . Roma store sale 25 June 2019: Market firms on quality feature lines. ROMA KINDEE 20/06/2019 - STOCK SALES. Roma Store Sale Tuesday, 11 June 2019. Landmark Roma - Mitchell - Injune. Supply solid as trade cattle prices improve. Elders beef cattle. Charolais cross steers reach 338c/$1035 at Ro. Over 200 mm Recent Rain.  The Charolais heifers sold to . Charolais cross steers top Toogoolawah sale a. IMG_6788. Contact the agent. The Sale of Sales Only available this day . Police are looking for 200 head of cattle stolen from a property south of Roma. Lotus Herefords Bull Sale. cattle feed. Minlacowie Bulls for Roma Sale. Wallace Vale Bacardi. Livestock Sales (Cattle). Lot 6 - Wallace Vale Governor. Graph showing the 2019 Eastern Young Cattle Indicator tracking below levels in 2015. ecotours ecologist Roma Outback Queensland tourism. Auction Plus Sale 18th April 2019. Tennysonvale Simmental Fleckvieh Bull & Female 2019 Sale · ".  Vendor comments: A Black & White T4 cow with a Black & White T5Heifer calf at . Lawsons Angus 2019 ROMA Sale. Livestock with delivery truck. Our main sale for the year is conducted in early July each year at the Roma Saleyards through Watkins and Co, where we present a line of Angus weaners that . Fees and Charges. Hazeldean Northern Performance Angus Bull Sale 2019.  Perfect place for a vegetarian like me. Thompson Longhorn has been working with Brett Pollock Constructions in the expansion of the Roma Saleyards. 10 x Straws of Raceview King.  Photos are just a sample. Brigalow Chloe. Livestock Sales (Sheep). IMG_6860. Our 2018 Roma sale Bulls are growing into impressive sires. ROMA STORE 20/06/2019 - STOCK SALES. 1pm, Thursday 27th September 2018.  #angus #. BEGA SPECIAL ST. Roma Simmental & Simbrah Sale 2019.  Weaner steers under 220kg topped at . Livestock Market Reports.  This is the day we launch BURENDA BLACKS, our own breed of . "Baiden" 3347 Wallumbilla North Road Roma QLD 4455 - Image . Kate Springfield, Brisbane, Emily Trestrail, Brisbane, Meghann Kerwin, Sydney, and. Farrer bull sale advert 19. Woolooga Select Sire Brahman Sale. The different colors of Brahman cattle in pens in the yard at the Roma Cattle Yards, Queensland. Dalby Market Report June 19th. Clonlara 06101. Benelkay Sale 2019. DECREASE: Lowest head of cattle at Roma sale since 2016. Agents and Transport. Roma Saleyards. June 2019 MLA and AWI sheep producer survey. Roma store sale 29 Jan 2019: Quality mixed in 6200 head yarding. TripAdvisor gives a Certificate of Excellence to accommodations, attractions and restaurants that consistently earn great reviews from travellersBrahman steers top Charters Towers sale at 28. 2018 WeanersSeifert Belmont Reds 2019 Inaugural On Property Bull Sale – July 22nd. Burenda's Beef Week Open Day on Thursday 18 July will mark an historic occasion in our history. Bowenfels Angus Females of the Future Sale. Gates Performance Genetics 2019 Ram Sale. Meeleebee Downs, Wallumbilla Angus heifers that sold to 248c/kg, reaching a top. 50 PTIC ANGUS COWS . Changed traffic condition at the Roma Saleyards Map</b></li>
+
+					</ul>
+
+					
+
+		
+
+		 
+
+	</div> <!-- .breaking-news -->
+
+
+
+	
+
+	<div id="main-content" class="container">
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	<div class="content">
+
+
+
+		
+
+		<div xmlns:v="http://rdf.data-vocabulary.org/#"  id="crumbs"><span typeof="v:Breadcrumb"> </div></div><aside id="sidebar"><div class="theiaStickySidebar"><div id="custom_html-3" class="widget_text widget widget_custom_html"><div class="widget-container"><div class="textwidget custom-html-widget"></div></div></div><!-- .widget /-->	</div><!-- .theiaStickySidebar /-->
+
+</aside><!-- #sidebar /-->	<div class="clear"></div>
+
+</div><!-- .container /-->
+
+
+
+<footer id="theme-footer">
+
+	<div id="footer-widget-area" class="footer-3c">
+
+
+
+	
+
+	
+
+
+
+	
+
+		
+
+	</div><!-- #footer-widget-area -->
+
+	<div class="clear"></div>
+
+</footer><!-- .Footer /-->
+
+				
+
+<div class="clear"></div>
+
+<div class="footer-bottom">
+
+	<div class="container">
+
+		<div class="alignright">
+
+					</div>
+
+				<div class="social-icons">
+
+		 
+
+			</div>
+
+
+
+		
+
+		<div class="alignleft">
+
+			© Copyright 2011-2019, Все права защищены. 
+
+<br>
+
+Перепечатка материалов разрешается только при указании активной ссылки на страницу с оригиналом статьи.
+
+		</div>
+
+		<div class="clear"></div>
+
+	</div><!-- .Container -->
+
+</div><!-- .Footer bottom -->
+
+
+
+</div><!-- .inner-Wrapper -->
+
+</div><!-- #Wrapper -->
+
+</div><!-- .Wrapper-outer -->
+
+	<div id="topcontrol" class="fa fa-angle-up" title="В начало"></div>
+
+<div id="fb-root"></div>
+
+ 
+
+
+
+ <div><img src="https://mc.yandex.ru/watch/30181674" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+
+<!-- /Yandex.Metrika counter -->
+
+</noindex>
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,801 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+
+  <link rel="dns-prefetch" href="https://github.githubassets.com">
+
+  <link rel="dns-prefetch" href="https://avatars0.githubusercontent.com">
+
+  <link rel="dns-prefetch" href="https://avatars1.githubusercontent.com">
+
+  <link rel="dns-prefetch" href="https://avatars2.githubusercontent.com">
+
+  <link rel="dns-prefetch" href="https://avatars3.githubusercontent.com">
+
+  <link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
+
+  <link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
+
+
+
+
+
+
+
+  <link crossorigin="anonymous" media="all" integrity="sha512-67V2J9Se2CifJlftk9/cExHGvxd7N9b9EdGnQEpszu99Ogeecilu9jIDxoCkx3zNLfB9ArraXW0J03qyVmN0Uw==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-e7318add1f7e055d040edb0f75aaa0ba.css" />
+
+  <link crossorigin="anonymous" media="all" integrity="sha512-MRlTIqIyb8caK5+o8llXVntXovciHyAM4qE3kWU2S7SIjAPDxYp4mE0jQp4kP5UYegy+lG9y1I6VlsdzEjb5Qw==" rel="stylesheet" href="https://github.githubassets.com/assets/site-294181adec18ed639e160b96b45d17ac.css" />
+
+    <link crossorigin="anonymous" media="all" integrity="sha512-sdCBXlLRZegVx3t99SkEmQxO9DDMm2nGm5wNJsuBc72c3KYXj0mpM+97TIsreSTHPioEFxyFgIip3TDtGPQuDA==" rel="stylesheet" href="https://github.githubassets.com/assets/github-54fcb3a87437ca29a24557c268985ca6.css" />
+
+    
+
+    
+
+    
+
+    
+
+
+
+  <meta name="viewport" content="width=device-width">
+
+  
+
+  <title>2 meter big wheel antenna plans</title>
+
+    <meta name="description" content="2 meter big wheel antenna plans">
+
+    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
+
+  <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
+
+  <meta property="fb:app_id" content="1401488693436528">
+
+
+
+    <meta name="twitter:image:src" content="https://avatars3.githubusercontent.com/u/130982?s=400&amp;v=4" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="victorfontes/django-mobile-helper" /><meta name="twitter:description" content="A package to help dealing with mobile clients in Django - victorfontes/django-mobile-helper" />
+
+    <meta property="og:image" content="https://avatars3.githubusercontent.com/u/130982?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="victorfontes/django-mobile-helper" /><meta property="og:url" content="https://github.com/victorfontes/django-mobile-helper" /><meta property="og:description" content="A package to help dealing with mobile clients in Django - victorfontes/django-mobile-helper" />
+
+
+
+  <link rel="assets" href="https://github.githubassets.com/">
+
+  
+
+  <meta name="pjax-timeout" content="1000">
+
+  
+
+  <meta name="request-id" content="CCF3:29219:24F761:36B2A1:5D124B64" data-pjax-transient>
+
+
+
+
+
+  
+
+
+
+  <meta name="selected-link" value="repo_source" data-pjax-transient>
+
+
+
+      <meta name="google-site-verification" content="KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU">
+
+    <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
+
+    <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
+
+
+
+  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="CCF3:29219:24F761:36B2A1:5D124B64" /><meta name="octolytics-dimension-region_edge" content="ams" /><meta name="octolytics-dimension-region_render" content="iad" />
+
+<meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;" data-pjax-transient="true" />
+
+
+
+
+
+
+
+    <meta name="google-analytics" content="UA-3769691-2">
+
+
+
+
+
+<meta class="js-ga-set" name="dimension1" content="Logged Out">
+
+
+
+
+
+
+
+  
+
+
+
+      <meta name="hostname" content="github.com">
+
+    <meta name="user-login" content="">
+
+
+
+      <meta name="expected-hostname" content="github.com">
+
+    <meta name="js-proxy-site-detection-payload" content="NjQ5ODVmNzZjNjA0YzAwYTQwZjkxMTM5NzI0MWNlMzQ5NTgxYWEwMWMwZTg5OGQ1MmY5OTEyNDdjYTUwZDk4Y3x7InJlbW90ZV9hZGRyZXNzIjoiODUuMTc0LjE5MS4xOTAiLCJyZXF1ZXN0X2lkIjoiQ0NGMzoyOTIxOToyNEY3NjE6MzZCMkExOjVEMTI0QjY0IiwidGltZXN0YW1wIjoxNTYxNDgwMDM4LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+
+
+
+    <meta name="enabled-features" content="MARKETPLACE_FEATURED_BLOG_POSTS,MARKETPLACE_INVOICED_BILLING,MARKETPLACE_SOCIAL_PROOF_CUSTOMERS,MARKETPLACE_TRENDING_SOCIAL_PROOF,MARKETPLACE_RECOMMENDATIONS,MARKETPLACE_PULL_PANDA_HOMEPAGE,DISPLAY_COMMENTER_FULL_NAME">
+
+
+
+  <meta name="html-safe-nonce" content="12876d413857186b346f0c018cda750302834381">
+
+
+
+  <meta http-equiv="x-pjax-version" content="6b1033cb022e79b6905f5cb0b638baf0">
+
+  
+
+
+
+      <link href="https://github.com/victorfontes/django-mobile-helper/commits/master.atom" rel="alternate" title="Recent Commits to django-mobile-helper:master" type="application/atom+xml">
+
+
+
+  <meta name="go-import" content="github.com/victorfontes/django-mobile-helper git https://github.com/victorfontes/django-mobile-helper.git">
+
+
+
+  <meta name="octolytics-dimension-user_id" content="130982" /><meta name="octolytics-dimension-user_login" content="victorfontes" /><meta name="octolytics-dimension-repository_id" content="739954" /><meta name="octolytics-dimension-repository_nwo" content="victorfontes/django-mobile-helper" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="739954" /><meta name="octolytics-dimension-repository_network_root_nwo" content="victorfontes/django-mobile-helper" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
+
+
+
+
+
+    <link rel="canonical" href="https://github.com/victorfontes/django-mobile-helper" data-pjax-transient>
+
+
+
+
+
+  <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
+
+
+
+  <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
+
+
+
+  <link rel="mask-icon" href="https://github.githubassets.com/pinned-octocat.svg" color="#000000">
+
+  <link rel="icon" type="image/x-icon" class="js-site-favicon" href="https://github.githubassets.com/favicon.ico">
+
+
+
+<meta name="theme-color" content="#1e2327">
+
+
+
+
+
+
+
+
+
+
+
+  <link rel="manifest" href="/manifest.json" crossOrigin="use-credentials">
+
+
+
+  </head>
+
+
+
+  <body class="logged-out env-production min-width-lg">
+
+    
+
+
+
+  <div class="position-relative js-header-wrapper ">
+
+    
+
+    <div id="js-pjax-loader-bar" class="pjax-loader-bar"><div class="progress"></div></div>
+
+
+
+    
+
+    
+
+    
+
+
+
+
+
+        <header class="Header-old header-logged-out  position-relative f4 py-2" role="banner">
+
+  <div class="container-lg d-flex px-3">
+
+    <div class="d-flex flex-justify-between flex-items-center">
+
+        
+
+          <svg height="32" class="octicon octicon-mark-github text-white" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+
+        </a>
+
+    </div>
+
+
+
+    <div class="HeaderMenu HeaderMenu--logged-out d-flex flex-justify-between flex-items-center flex-auto">
+
+      <div class="d-none">
+
+        <button class="btn-link js-details-target" type="button" aria-label="Toggle navigation" aria-expanded="false">
+
+          <svg height="24" class="octicon octicon-x text-gray" viewBox="0 0 12 16" version="1.1" width="18" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+
+        </button>
+
+      </div>
+
+
+
+        <nav class="mt-0" aria-label="Global">
+
+          <ul class="d-flex list-style-none"> 
+
+          <li class=" mr-3 mr-lg-3 edge-item-fix position-relative flex-wrap flex-justify-between d-flex flex-items-center "></li>
+
+          </ul>
+
+        </nav>
+
+
+
+      <div class="d-flex flex-items-center px-0 text-center text-left">
+
+          <div class="d-lg-flex ">
+
+            <div class="header-search mr-3 scoped-search site-scoped-search js-site-search position-relative js-jump-to"
+
+  role="combobox"
+
+  aria-owns="jump-to-results"
+
+  aria-label="Search or jump to"
+
+  aria-haspopup="listbox"
+
+  aria-expanded="false"
+
+>
+
+  <div class="position-relative">
+
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="739954" data-scoped-search-url="/victorfontes/django-mobile-helper/search" data-unscoped-search-url="/search" action="/victorfontes/django-mobile-helper/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+
+      <label class="form-control input-sm header-search-wrapper p-0 header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center js-chromeless-input-container">
+
+        <input type="text"
+
+          class="form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
+
+          data-hotkey="s,/"
+
+          name="q"
+
+          value=""
+
+          placeholder="Search"
+
+          data-unscoped-placeholder="Search GitHub"
+
+          data-scoped-placeholder="Search"
+
+          autocapitalize="off"
+
+          aria-autocomplete="list"
+
+          aria-controls="jump-to-results"
+
+          aria-label="Search"
+
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=AK6grC5cGEh6WbkUATQhFSFpKOO7MEA9hyKSe/Foj7r4RH1QvaHE3k+9OwBAZ2+KMuRi0MhRYWwjJTJNNX+mVA=="
+
+          spellcheck="false"
+
+          autocomplete="off"
+
+          >
+
+          <input type="hidden" class="js-site-search-type-field" name="type" >
+
+            <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
+
+
+
+            <div class="Box position-absolute overflow-hidden d-none jump-to-suggestions js-jump-to-suggestions-container">
+
+              
+
+<ul class="d-none js-jump-to-suggestions-template-container">
+
+  
+
+
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-suggestion" role="option">
+
+   
+
+    <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
+
+      <svg height="16" width="16" class="octicon octicon-repo flex-shrink-0 js-jump-to-octicon-repo d-none" title="Repository" aria-label="Repository" viewBox="0 0 12 16" version="1.1" role="img"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
+
+      <svg height="16" width="16" class="octicon octicon-project flex-shrink-0 js-jump-to-octicon-project d-none" title="Project" aria-label="Project" viewBox="0 0 15 16" version="1.1" role="img"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z"/></svg>
+
+      <svg height="16" width="16" class="octicon octicon-search flex-shrink-0 js-jump-to-octicon-search d-none" title="Search" aria-label="Search" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M15.7 13.3l-3.81-3.83A5.93 5.93 0 0 0 13 6c0-3.31-2.69-6-6-6S1 2.69 1 6s2.69 6 6 6c1.3 0 2.48-.41 3.47-1.11l3.83 3.81c.19.2.45.3.7.3.25 0 .52-.09.7-.3a.996.996 0 0 0 0-1.41v.01zM7 10.7c-2.59 0-4.7-2.11-4.7-4.7 0-2.59 2.11-4.7 4.7-4.7 2.59 0 4.7 2.11 4.7 4.7 0 2.59-2.11 4.7-4.7 4.7z"/></svg>
+
+    </div>
+
+
+
+    <span class="d-inline-block ml-1 v-align-middle"></span>
+
+    
+
+  </a>
+
+</li>
+
+
+
+</ul>
+
+
+
+<ul class="d-none js-jump-to-no-results-template-container">
+
+  <li class="d-flex flex-justify-center flex-items-center f5 d-none js-jump-to-suggestion p-2">
+
+    <span class="text-gray">No suggested jump to results</span>
+
+  </li>
+
+</ul>
+
+
+
+<ul id="jump-to-results" role="listbox" class="p-0 m-0 js-navigation-container jump-to-suggestions-results-container js-jump-to-suggestions-results-container">
+
+  
+
+
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-scoped-search d-none" role="option">
+
+  </li>
+
+
+
+
+
+</ul>
+
+
+
+            </div>
+
+      </label>
+
+</form>  </div>
+
+</div>
+
+
+
+          </div>
+
+
+
+       
+
+      </div>
+
+    </div>
+
+  </div>
+
+</header>
+
+
+
+  </div>
+
+
+
+  <div id="start-of-content" class="show-on-focus"></div>
+
+
+
+
+
+    <div id="js-flash-container">
+
+
+
+</div>
+
+
+
+
+
+
+
+  <div class="application-main " data-commit-hovercards-enabled>
+
+        <div itemscope itemtype="http://schema.org/SoftwareSourceCode" class="">
+
+    <main id="js-repo-pjax-container" data-pjax-container >
+
+      
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="pagehead repohead instapaper_ignore readability-menu experiment-repo-nav  ">
+
+    <div class="repohead-details-container clearfix container">
+
+
+
+      <ul class="pagehead-actions">
+
+
+
+
+
+
+
+
+
+  <li>
+
+    
+
+ 
+
+    <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/>
+
+    </svg>
+
+    </li>
+
+</ul>
+
+
+
+      <h1 class="public ">&nbsp; </h1>
+
+
+
+    </div>
+
+    
+
+<nav class="hx_reponav reponav js-repo-nav js-sidenav-container-pjax container"
+
+     itemscope
+
+     itemtype="http://schema.org/BreadcrumbList"
+
+    aria-label="Repository"
+
+     data-pjax="#js-repo-pjax-container">
+
+
+
+  <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+
+    
+
+      <svg class="octicon octicon-code" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"/>
+
+      </svg>
+
+      <span itemprop="name"> </span> 
+
+
+
+</nav>
+
+
+
+
+
+  </div>
+
+<div class="container new-discussion-timeline experiment-repo-nav  ">
+
+  <div class="repository-content ">
+
+
+
+    
+
+    
+
+        <div class="signup-prompt-bg rounded-1">
+
+      <div class="signup-prompt p-4 text-center mb-4 rounded-1">
+
+        <div class="position-relative">
+
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/prompt_dismissals/signup" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="DIrD76oeqq0Lw6iPB5ZCSQE+1Vrm8GqAXagjCDmQnJQ1UZvv2HI6nTAOFhEpzMTGmgUGXiJQNLOs57oja2C96A==" />
+
+            <button type="submit" class="position-absolute top-0 right-0 btn-link link-gray" data-ga-click="(Logged out) Sign up prompt, clicked Dismiss, text:dismiss">
+
+              Dismiss
+
+            </button>
+
+</form>          <h1 class="pt-2">2 meter big wheel antenna plans</h1>
+
+          <p class="col-6 mx-auto">&nbsp; </p>
+
+          
+
+        </div>
+
+      </div>
+
+    </div>
+
+
+
+
+
+
+
+       
+
+
+
+
+
+
+
+
+
+        <div class="overall-summary overall-summary-bottomless">
+
+    <div class="stats-switcher-viewport js-stats-switcher-viewport">
+
+      <div class="stats-switcher-wrapper">
+
+      <ul class="numbers-summary">
+
+        <li class="commits"> 
+
+            </li></ul><div class="repository-lang-stats">
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+
+
+    <button type="button" class="d-flex p-0 repository-lang-stats-graph js-toggle-lang-stats" title="Click for language details" data-ga-click="Repository, language bar stats toggle, location:repo overview">
+
+      <span class="language-color" aria-label="Python 100.0%" style="width:100.0%; background-color:#3572A5;" itemprop="keywords"> How to build a 2 meter J-Pole T-cars virtual Elmer (swr adjustable clamps) 2 Meter J Pole Beam Jagi Tri-County My goal was to see if I could improve reception on the lower frequency amateur radio bands such as on 160 meters (1.  We have radios from Uniden, Cobra, Midland, Galaxy, and more! We have antennas, antenna mounts, and coax from quality manufacturers like Firestik, Procomm, Hustler, Everhardt, Wilson and Accessories Unlimited.  Big Country 5th Wheel.  The Wheel resembles a skeleton three leaf clover.  ANTÉNY PRO 2 m .  This page describes a simple to build, high gain, omni-directional direct-connect antenna for MURS and 2-meters. 31.  Highly directional, lots of gain (9 dB +), and both vertically and horizontally polarized. com Document No. 0 db gain.  7 dB for 7 Bucks By Nathan Loucks, WBØCMT PO Box 229 Crosby, ND 58730 Need a 2-meter beam antenna, but you&#39;re short on cash? You can build this antenna for the cost of a fast-food meal! hen I became active on 2-meter FM, I soon discovered that I needed a beam antenna to hit some of the local repeaters.  High speed meteor scatter and other weak signal scatter modes are a lot easier with Find great deals on eBay for big wheel antenna.  B. 282 Mhz.  We don’t currently have a beacon license for 50 MHz, but since there has been allocated a new beacon segment above 50. With twice the gain of a standard J HAM ANTENNAS VHF UHF BASE; Wimo AR-2 2m Ringo Ranger Vertical 144 146 2 meter antenna.  gulf alpha antenna.  To say it is sturdy, is an understatement. 64 wave cb antenna.  10-20 Meters The MA5B, Compact HF Multi-Band Beam Small Footprint -- Big Signal MA5B, Cushcraft’s multiband HF antenna provides 5-Band operation in a package small enough to mount to a tripod.  The Big Wheel antenna design [4] is quite widely used today on the 144 and 430 MHz bands. org A Gamma match is used to couple the 12 ohm impedance of the halo antenna to the 50 ohm transmission line.  DC CABLE TO SUIT TYPICAL HF RADIO 12Volt DC cable to suit radios with the 6 pin Molex plug .  Another option was the Egg beater antenna, or the K5OE&#39;s variant Texas Potato Masher.  435MHz 5 Petal Cloverleaf (Big Wheel) tower mounted antenna.  I have Big Wheel antennas by WiMo are made of stainless aluminum, all other hardware is made of stainless steel.  Bicycle J-Pole John S.  RadioBanter » rec. 8 meters is 149 inches, or 12.  The &quot;Big Wheel&quot; is a horizontal polarized omni directional antenna.  WHEEL ANTENNAS.  The location is Versailles, Indiana.  The antenna gain is approx.  Can`t be faulted in design and craftsmanship.  a decent set of plans to construct a 2m Big Wheel.  (Horizons 4-63) Big Wheel antenna 2 Meters (QST 9-61) Performance Test on the Big Wheel antenna 2 The &quot;Big Wheel&quot; is a very old antenna design for two meters and was made very popular in the 1960&#39;s by Cushcraft, who manufactured and sold model ABW-144, the Two Meter Big Wheel antenna, which worked very well and had a very fair price tag.  Antenna 2 Meters - 5 elem.  Our 6M HO L oop is the result of a continued development o f reduced size, omni-directional horizontally polarized loop-style antennas.  12.  FS Cush Craft BIG Wheel Antenna.  70MHz Big Wheel by OE5MPL Not drawn is the fixing point of the female N-connector and the center conductor on upper part of hub. 24&quot;) Weight: 700 gr (1.  The next antenna were the so called Cloverleaf, or Big Wheel antenna.  It handles continuous duty modes like WSJT with ease, no matter how long it takes to complete your EME contact.  Our short trailer design helps reduce crop damage, and our front folding hydraulic booms are built to perform.  HIGH POWER LINEAR AMPLIFIERS .  The “Big Wheel” design is another option.  This link is listed in our web site directory since Tuesday Dec 29 2015, and till today &quot;2m Big Wheel Antenna&quot; has been followed for a total of 899 times. 5 feet • 57 divided by 30 = 1. 54 lbs) CONTENTS xi 5-26. 9 times 2 meters = 3. 00 6-80 Meter FMJ-FEA portable HF antenna.  It has a 20-inch diameter, non-pneumatic, microcellular urethane wheel for a smooth, maintenance-free, ride.  It&#39;s very important to know the correct distance to have a good antenna stack array system with good performance.  The W5UN 2 Meter QUAGI 97 The W5UN Quagi 97 is a computer optimized quagi derived from the original W5UN Quagi of the early 1980s.  3.  It was designed for the 20 meter band and works well on DX! Resources listed under Antenna for 2 meters category belongs to Antennas main collection, and get reviewed and rated by amateur radio operators.  Think of a Mercedes logo high in the sky.  The W8IO Antenna Site.  Allen. 4000, October 1996, “prohibits restrictions that impair… antennas used to receive video… ON 2 SSB 2 meter loop 9/13/01 10:01 PM Credit is given to K0FF for most of this design.  The ARRL Handbook is the greatest applied electronics and communications reference of all time (first published in 1926)! The latest aspects of today’s Amateur Radio: fundamental electronics concepts, components and building blocks, analog and digital radio design, troubleshooting techniques FPV antenna is the deciding factor that determines the range and signal strength of your FPV system.  There was quite a bit of interest in the Big Wheel antenna design a couple weeks ago.  Imagine tuning up one of these! Big Wheel antenna 900-930MHz 2dBi GSM.  Jätkates Tehnoturg veebilehe kasutamist nõustute küpsiste kasutamisega.  The 1/2 wavelength and 1/4 wavelength measurements calculated above are to be applied to the various elements in this schematic.  IP is 204.  Tricycle Bike Racing Design 16&quot; Front Wheel Red.  Cebik, W4RNL, and Bob Cerreto, WA1FXT Figure 1 — Relative current magnitudes on three different three element HPOD antennas.  The antennas are connected with 2 (4,8) cables of exactly the same length to a 2-way (4-way, 8-way) power splitter.  Big Wheel for 2m, 70cm and 6m available for best prices at radioworld.  $&#92;endgroup$ – David Thorpe 2 The 432 MHz range was plagued with reflections which affected accuracy, especially of low-gain antennas.  NEED PLANS FOR A 430MHZ BIG WHEEL ANTENNA.  J Poles.  Rain and thunderstorms precluded further tests that might have improved accuracy.  Skip navigation Sign in.  Plus it’s easy to build and gives a great opportunity to teach several subjects with a hands-on approach. amateur » Antenna &gt; Big Wheel plans Reply: polarized 2 meter antenna.  QUESTIONS When the stacking of Yagis is being considered, the questions which usually arise are: 1.  It is derived from a design by Rainer Bertelsmeier DJ9BV (20 BVO).  Stacking two indentical antennas can result 2.  Unseen are the two plates which attach under the bed, reminiscent of a 5th wheel mount.  Also included is the antenna controller unit, roughly the size of two stacked cassette tapes.  Big Wheel 70cm Antenna UHF.  Compact as well as high power antennas.  N4YR is using one on his Sauratown Mountain machine, 53.  The ground-mounted antennas look like giant beach balls with tie-downs to point them in the right direction.  could be fed in 90 deg phase difference, providing a modest gain.  To learn more, make sure to check out our complete • high gain omnidirectional antennas are more difficult with horizontal polarization • good unit structures to stack are wheels: – ˝big wheel ˛ (threeλ/2 dipoles in circular array) – ˝super wheel ˛ (threeλ/2 folded dipoles in circular array) • stacking of unit structures brings complexity in feeding many elements This tripod has a fixed-height, 2-meter center staff that rotates 360° for calibrating the 8-minute vial Tags: gps antenna tripod Seco Graduated Collapsible GNSS Antenna Tripod (#5119-00) Our offering of radios, antennas, and accessories is also the largest online.  Big Wheel Antenna?? 6.  The experts at M2 Antennas know and understand radio propagation.  Not drawn is the fixing point of the female N-connector and the center conductor on upper part of hub.  I would like to generate some more gain on 4 and 6, and some kind of phased arrays for fixed favourite directions are in my thoughts.  Supplemental Files – ARRL Antenna Book, 23rd Edition “A 6 Meter Halo” by Paul Danzer, N1II “A New Spin on the Big Wheel” by L.  47 C.  World ranking 16651442 altough the site value is $132. 3 Improved Design Methods, 282 References, 283 6 Microstrip Antennas 285 6-1 Microstrip Antenna Patterns, 287 6-2 Microstrip Patch Bandwidth and Surface-Wave Antennas VHF UHF SHF * 145/435 Mhz portable, F6HDW: 2 Meter Array ,N0AJ: 2 meter 146MHz 5/8 Ground plane antenna, VK6YSF: 2 meter dipole antenna: 2 Meter RDF dipoles, W9XL: 70cm slot antenna: 900 MHz Helical Antenna: A 3 element beam Band six meter: A 5-element beam for Four: A 144 MHz Pocket antenna, F3WM: A 70cm Big Wheel Antenna, DL4MEA: AIS It is designed for installation of any HF mobile antenna to the floor of a pick up bed.  The “Big Wheel” is a horizontal polarized omni directional antenna.  The Wire Size can range from 16 AWG to 12 AWG.  It certainly shows what can be done by applying a little patience.  big wheel antenna. 0 MHz) and 40 meters (7. 45.  CONTENTS xi 5-26.  They draw attention if used on a vehicle but, believe it or not, ardent mobile VHF SSBers use them.  Usually highly directional antennas are used on VHF and UHF, which have the capability to bundle the radiated energy in one direction and eliminate interferences A New Spin on the Big Wheel A popular 2 meter antenna returns in an improved, easier to reproduce form. 06.  Place a 1:1 Balun on the Antenna end of the Feedline.  1 Ultra-simple &quot;wire&quot; version above made on an SO-239 connector.  This is similar to a small Yagi or HB9CV and greater than a 2 element Moxon, yet with a full 360 degree coverage.  Big Wheel.  I once replied to somone whth the same answer, only to be told that than isn&#39;t the design he was looking for. 3 MHz).  2m Antenna Dopt = 12.  Then in the aircraft fit either a big wheel or a skew planar for best results.  2 pcs bolts M8x10 mm for matching stub.  Compact Hybrid antenna 2 Meters, 75 and 23 cms Performance Test on the Big Wheel antenna 2 Meters array (QST 10-61) 2 Meter Antenna Design There was quite a bit of interest in the Big Wheel antenna design a couple weeks ago.  Fig 2.  Figure 2.  This should get you 2km easily. 47 feet This is good, but there may be one more adjustment to make 2 The 432 MHz range was plagued with reflections which affected accuracy, especially of low-gain antennas.  I set to work to scale the antenna from its original size up to a length that would work for at least part of the 6 meter band. cypress. 5 meters and 10 meters of RG213, the outcome was the same that we had got before, with 10 meters he lost the reception.  home fm radio antenna.  £76. 5 - 2.  By vertical stacking of two Big Wheels you get a gain of approx.  We manufacture many styles of antennas including: Yagi, Base Stations, Dipoles, Mobile Antennas, Portable Antennas, Covert Antennas.  Ham Universe.  I&#39;ve checked it out a couple of times and all looks like the day I built it.  The antenna is delivered without connector (coaxial cable or SMA to weld on the PCB).  Maybe 2 feet.  11.  Bill of material.  Käesolev veebileht kasutab parimaks kasutajakogemuse tagamiseks küpsiseid.  While perusing Facebook, I stumbled upon this uber-sleek, uber-unique instrument: The Stash Stainless Bass Guitar.  2m Big Wheel Plans - Again.  Since I like to tinker and build things I thought building an antenna would be a good idea. 64dBd, F/B 25dB This is a brought-band version with very uncritical design, good pattern and great bandwidth.  Cebik 3 duly described the benefits and problems of each of these antenna designs.  1 1/4&quot; mast clamp and end mounted. 212 Wörter online Ständig aktualisierte Reime Reime in 13 Sprachen Jetzt den passenden Reim finden! Site title of www.  I must say that this was not 26 λ/2 63.  So if resources are plentiful and you are installing this outdoors or in a 7+ foot room, then build this, otherwise, check out my pages for DB4, DB8, and DB16 antennas.  Let Overstock.  This antenna is similar in construction to the 2-meter OFC sleeve dipole I built over 8 years ago, but it is a simple center-fed dipole. 2 m (47. org March 2008 ANTENNA ISSUE $4.  Cebik, W4RNL and Bob Cerreto, WA1FXT “A Compact Loop Antenna for 30 through 12 Meters” by Robert Capon, WA3ULH Big Wheel antennas by WiMo are made of stainless aluminum, all other hardware is made of stainless steel.  I was going to erect a 2m big wheel stack (of 2) but looking at the logs it may better to erect one for 70cm which is the more interesting band.  The antenna is designed to be fed with 50 or 75 Ohm Coax Cable of most any length with a Balun.  146MHz 3 Petal Cloverleaf (Big Wheel) tower mounted antenna.  I just wanted to drop you a note and thank you for the plans for the dipole antenna.  &quot;Big wheel Next winter I want to replace my hand rotated beams for 70cm and 2m with a big wheel stack for either 2m or 70cm. .  A simple magnetic loop modification with a big improvement! 2 meter &quot;halo&quot; half wave loop antenna for ISS SSTV &amp; voice The heart of this unique design is the shorted stub matching to a 50 ohm coax feedline.  2 Meter 5/4 Wave Antenna by N1HFX 2m Antenna for Bicycle Mobile Opr by WB8ERJ 2 Meter Coax Antenna by K4MMG 2 Meter Collinear J Pole Antenna by M3FVB 2 Meter Hentenna by WAØITP 2/70 Portable Coax Antenne door PAØFBK 2m Porto Antenne van Koolstof door PAØFBK 2 Meter Quagi 97 by W5UN 2 Meter &quot;Slingshot&quot; Antenna Re-visited Every year since 1968, during the last weekend in July, the Central States VHF Society hosts an annual technical conference.  Big Wheel antennas by WiMo are made of stainless aluminum, all other hardware is made of stainless steel.  I have one that I&#39;ve yet to put up built by a guy near Joplin, MO.  We also supply specially made up leads and RF connectors and undertake bespoke antenna design work , toolmaking, injection moulding for bespoke projects.  WIMO Big Wheels for 6m, 2m, 70cm product reviews by real people like you.  Designed and built by Stanislaw Potyrala in Mississauga, Ontario, the bass is made entirely of stainless steel, which the company says improves stiffness, mechanical and environmental stability, sound quality and tunability.  Phasing 2 big wheels mounted one above the other will result in a gain (in the horizontal plane) of about 5dBd.  Modern mobile SSB/CW transceivers usually output 100 W PEP on 6 meters and at least 50 W PEP on 2 meters and Can you spot the 2 meter antenna? Did you know you can cut a thin set of lines in a common &quot;dish&quot; antenna and use it with transceivers? Great DIY slot antenna for covenant restricted homeowners needing a stealth antenna. 463 some day.  Halo antenna 2 and 6 Meters; Quad 6 and 2 meters (QST 2-63) Quagi modified W5UN; RAIbeam Antennas Int&#39;l - Antenna Manufacturer, HF-6M.  1Notes appear on page 7. uk we offer Low Prices, A wide range of antenna accessories, Worldwide Delivery.  CLOVER-LEAF ANTENNA - 435.  2 Bit J-pole project Dave Prince WB0RAZ.  Six Meter Base Station Antenna -- By K4ABT; Six Meter J-Pole-- by K4ABT; Six Meter Monster Beam-- 8 element, 41 foot boom, 14. 2.  We want you to enjoy the outdoors and feel the comfort of home all in one.  The gamma-match was replaced by a totally-insulated dipole, and the element spacings were optimised using the ARRL Handbook for Radio Communications 2018.  Performance is better than anything in its class and its design makes it immune to nearly all weather conditions.  So, your science teacher has given your class the classic &quot;mousetrap car&quot; assignment: to make, design and build a small vehicle powered by the snapping action of a mousetrap to make your car Standard FR4 at 2.  The length of the 1997 model has been deliberately shortened to allow it fit on a 24 foot boom. The charset for this site is utf-8.  This antenna is designed for two-meter operations, which, for a newbie ham operator, is one of the bands available under the Technician license in the US.  Although this particular design is square, they’re still called loops and have a roughly omnidirec-tional pattern.  I did try HF with indoor antennas, never had much luck due to noise.  It looks somewhat like a three leaf clover. 80 mHz.  The one that gave me the best performance was a cubic quad built from pvc pipe. 4GHz dipole antenna.  Use yours or order the top section only separately.  Table top &quot;wire&quot; version above using a dowel or other simple base. Normally, high gain directional antennas are to be used for VHF or UHF communication, in order to multiply the radiated energy into the desired direction or get rid of interferences from other than the desired direction.  Vertical Dipole Portable Base Mobile Alpha Magnetic Loop antennas.  The main category is Antennas for 2 meters band that is about Antenna projects for 144 MHz. co.  2m Big Wheel mobile? 5. R.  one quarter (1/4) wave is the minimum height above ground for effective performance.  The DL6WU formula for long yagis: D = W/(2*(sin B/2)) Where is: D – stacking distance in meters W – wavelength in meters In addition to the 70 cm and 4 m Big Wheel antennas, we put up a 6 m version as well.  Your Ham Shack Pictures, Blogs and Projects. arrl.  20 METER ANTENNAS: 4.  DX Engineering 80 Meter Self Supporting Heavy Duty Vertical Antennas, model DXE-7580FS-VA-2, are high performance vertical antennas specifically designed for the 75/80 meter band. antennas, a single big wheel has a gain of roughly 2-3dBd.  Specifically, I was hoping that my homebrew antenna tuner would improve my signal to noise ratio on the aforementioned bands.  This is interesting in itself, because the same amateurs who designed the Big Wheel Antenna built the Skew-Planar Wheel antenna, Carl Milner, W1FVY, and Robert Mellen, W1IJD.  Discover (and save) your own Pins on Pinterest.  Big Wheel Antennas 2M &amp; 70cm From SSB Electronics; NorthWest Antenna -- 2 meters to 160 meters.  12 pcs bolts M8x30 mm for lambda/4 spacers.  Antenna is one of the most important parts of FPV system.  Skew Planar Wheel Antenna for 435MHz.  I wanted an antenna that was simple, horizontally polarized and omni directional. 8 meters • 3. 10 1603 723 4 78 performed on a good antenna range.  Antenna is outperforming any 6 meter vertical, I believe, on the market.  You can buy (or build if you&#39;re brave and VERY precise) a 2.  8 pin car antenna adapter.  *H 3 2 Antenna Basics An antenna is basically a conductor exposed in space.  Build a Large DB8 HDTV Antenna: Big Bertha: Update June 2018: Nine years old now and it&#39;s still up there.  £31.  I cut it down to 11 elements and have a length of about 1.  STACKING, PHASING and MA TCHING YAGIS This is a synopsis of a talk presented to the Sydney VHF DX GROUP on Tuesday March 16th 1999 by Gordon McDonald VK2ZAB. 0 dBi gain, By N6CA; Stacked Halos 6 and 2 meters (QST 8-64) Yagi design for 50 mhz Efficient 2 meter Disguise Antenna .  Alpha Antenna For Assistance TE Connectivity offers a broad portfolio of standard and custom antenna technologies for use in a variety of automotive, commercial transportation, rail and consumer device applications.  Big Wheel WA5 PCB GSM antenna for 900-930MHz with a gain of 2dBi.  (No you can&#39;t use the dish for both.  After a discussion, Pop YU7EF did a re-design for me, using the 4NEC2 simulator, setting a target of keeping the same boom length (so the reflector and front director stay in their original places).  It&#39;s still omnidirectional (in the horizontal plane) but it has a bit of gain.  3 dBD, each Big Wheel has a N-jack (female).  Personally I think the big wheel and SPW is a slightly better combo than the The original goal was to have an antenna that I could use for 2 meter SSB.  These DX Engineering 68 ft. 5 dB gain over a single Big Wheel is 30 λ/2 50.  Many books are dedicated to specific types of antennas and their design.  That would make the 6-meter beam the highest on the structure and reduce the moment at the top of the tower even with the addition of the big HF antenna.  vertical antennas allow you to achieve the strongest possible presence at your power level and be competitive.  2 Meter Jaden.  Some are entirely new designs and others are optimized versions of popular Ham designs. 9 wavelengths • 1.  Gain 8.  W1FVY and W1IJD were the developers of the Big Wheel (for the 2 meter band) back in the 60’s. 0MHz.  4.  These antennas can be stacked to increase gain at low elevation angles and to decrease sensitivity to The &quot;big wheel&quot; is a horizontally polarized omnidirectional antenna . B. 99 can. 91 on nginx works with 1609 ms speed.  Selected Antenna Books.  While this may seem curious, it does cater to the audiophile who listens to digital most of the time but might own a modest turntable.  A full-res copy is in the Photo Gallery under Antenna Mounts.  amateurs. 4Mtr boom, G0KSC: 6 meter SLOOP, K0FF: 6 Meter Quad Turnstile Antenna: 7 elementi per i 50 mhz: 70 cm 6/8 Element Beam, W6RMK: 70cm Quadruple Quad: A 2 element dual-rectangle beam for 70cm: A 6 Meter Moxon Antenna, KG4JJH: A simple University of South Florida Scholar Commons Graduate Theses and Dissertations Graduate School 10-4-2010 Small Antennas Design for 2.  Design, homebrew, try stuff out, put up big antennas.  So I guess the three-element beam for 20 meters is not in the big game.  Shop with confidence. 99 US S6.  6 Meter Big Wheel Ant This is interesting in itself, because the same amateurs who designed the Big Wheel Antenna built the Skew-Planar Wheel antenna, Carl Milner, W1FVY, and Robert Mellen, W1IJD.  But these effects are not always welcome About 2m Big Wheel Antenna The resource is currently listed in dxzone. 70 1440 665 4 70 29 λ/2 53.  $&#92;endgroup$ – David Thorpe Reindeers, ice skating and now the BIG WHEEL! Yesterday was very impessive with the lights and atmosphere, much better that previous years.  Portable Quad antenna 2 Meters (QST 6-81) ELE antenna 2 Meters (QST 10-79) &quot;J&quot; antenna 2 Meters (QST 4-77) Long Periodic antenna 144-432 MHZ; Yagi antenna 2 Meters - 8 elem.  Project Overview - big wheel antenna for 2 meter ssb - At MyHamShack you get a free personal web page for your shack - Your Shack.  Grid; List; Sort by The 1050 gallon polyethylene tank has a 16&quot; flip-top lid and 2 high volume jet agitators.  To connect two antennas to one coax feed a usual phasing harness can be used.  Home Made Antennas. 30 1278 607 4 62 likely optimistic. net.  £71.  Having a publicized 2 meter AM calling frequency on the ARRL band plan may go a long way in getting an unified acceptance from many U.  It was very attractive, but somewhat large for me.  Leave as much distance vertically between the two antennas as is practical.  There is 1 product.  My initial interest for mounting an antenna on the bike was to do on-bike radio support (I am a licensed ham radio operator) for charity bicycle rides.  The Spring 2019 SPRAT showed up in the post yesterday and I’ve only had a chance to quickly peruse it.  antenna; thus, antenna design generally involves modeling antenna performance as a function of antennas geometry and optimizing it.  Projects for both types of antennas are provided in the projects section.  $&#92;endgroup$ – David Thorpe My goal was to see if I could improve reception on the lower frequency amateur radio bands such as on 160 meters (1.  &quot;Local&quot; in Crosby, North Dakota, means 50 Shop for 2 Meter Antennas here.  Modern mobile SSB/CW transceivers usually output 100 W PEP on 6 meters and at least 50 W PEP on 2 meters and A new beacon has been added to the WB9OTX station.  8 pcs bolts M8x20 mm for insulator fixing. 8Ghz antennas used on mini quad VTX and VRX, and hopefully it will help you choose the best FPV antenna. com help you discover designer brands and home goods at the lowest prices online.  Here are construction plans of a Turnstile antenna that I use for space communication on the 2 meter amateur radio band.  Big Wheel for 70 MHz.  It is not a straight-forward antenna to construct, and it is not being offered commerically for 70 MHz.  Firearm Discussion and Resources from AR-15, AK-47, Handguns and more! Buy, Sell, and Trade your Firearms and Gear.  The wheel and section are the exact length of the bottom section of any of SECO’s popular 2-meter, two-piece, rover rods. 47 feet This is good, but there may be one more adjustment to make Build your own 2 meter 5/8 wave antenna! 2/14/2015 0 Comments Looks like a nice simple design.  In this tutorial I will show you how to DIY one.  The majority of the published designs are for 2 Meters although they have been built 2 meter SSB antenna.  power antenna.  GATR makes 1.  The Big Wheel design is a broad band omni-directional horizontally polarized antenna that is one of the best designs for a beacon station, net control, or ATV repeater system.  In such cases the Big Wheel is an ideal antenna which should be used together with a directional antenna.  7.  Make your association with the Rocky Mountain VHF+ Net a bold new and rewarding experience.  spiegel.  HLV-950.  Stacking Big Wheel Antennas??? 10.  These antennas are great for expanding your wireless network and improving your broadcasting or receiving stations.  Interior design and perceived quality. 6m] boom.  But if you are designing your own loop antenna, please read on.  We fixed the antenna with a 50 mm diameter aluminium pipe, which was welded onto the lower hub.  Carver Corporation of Lynnwood, Washington once made the ultimate AM Stereo/FM Stereo tuner, the Carver TX-11b.  From HF, VHF, UHF, 50Mhz, 70Mhz and 144Mhz through to 432Mhz and 1296MHz the DX Shop supplies Linear Amplifiers, Antennas, Aerials, Masthead Preamplifiers, LNA, Coaxial cables and connectors, sequencers and amplifiers for your ham radio station.  I tried coupling a pair of Eggbeater II, and I also try listening with left circular polarization one, but all the probes turned out to be USELESS.  Supplemental Files ARRL Antenna Book, 23rd Edition. 4 GHz Applications Supplemental Files ARRL Antenna Book, 23rd Edition.  The Wheel antenna has been around since the early 1950&#39;s, first used in the Amateur Radio Two Meter band as a horizontally polarized omni radiator.  Larry Burns.  Many hams connect the center conductor of the co Frequency MHz: Callsign: Grid: Location: Antenna - Direction: 144. 9 dB increase of forward gain but if it done correctly. 35; The Big Wheel horizontal polarized omni directional antenna 2m 144 145 VHF Save vhf beam antenna to get .  according.  They avoid the potential pitfalls of typical antennas and build the best, most reliable antenna systems for your amateur communication needs.  It looks somewhat like a three This broadband antenna is best used for amateur satellite work, when polarity is unknown or changes, minimize multipath, rockets, balloons, etc.  As I stood looking at this enormous structure it struck me that this would make a superb antenna for HF.  Inventory of CD‐ROM Supplemental Files 16 A New Spin on the Big Wheel ‐ Cebik and Cerreto ‐ Mar 2008 QST PDF 17 Quadrifilar Helix As a 2 Meter Base Antenna design separates the radio engineers from the rest of us.  Made From a TV Satellite Dish .  After much tapping on the calculator I decided to use 67&quot; for the upper element and 46 1/2&quot; for the lower element with a 1/2&quot; space between them at the feed point.  BEKO Elektronik.  The elements themselves are one wavelength of material each at the band of interest.  2 product ratings - Radio Flyer Big SSB ELECTRONIC PRICE GUIDE: UPDATED 10/01/2015.  By John Portune W6NBC .  A 2m very wide banded loop antenna. 50 1359 636 4 66 +12.  I have found the original article from 1961, but the resolution in the pdf is lousy. 4 meter antennas, 4 meter antennas. 0 MHz), 80 meters (3. 5-4.  Log In; 0 - $0. 4GHz can cut the antenna efficiency by half Fit the antenna on the top of your radio so that when your radio is slug in front of your in the working position, you can easily aim the antenna at the aircraft direction.  Simplified 2 Meter J-Pole (pdf) Michael Martens KB9VBR.  Big Wheel antenna 900-930MHz 2dBi GSM.  While the Brown and Woodward WA5VJB &quot;Big Wheel&quot; Antenna but I figured this would be more fair than using a different receiver on each antenna.  (Horizons 8-62) Antenna 2 Meters - 6 elem.  I am 27 λ/2 59.  The frequency is 144.  The antenna is a horizontal loop side mounted on my tower at twenty five foot.  Frequencies: Reindeers, ice skating and now the BIG WHEEL! Yesterday was very impessive with the lights and atmosphere, much better that previous years.  KC5BBP for thier input on this Antenna.  X QUAD 2M Antenna SHIP ONLY WITHIN UK MAINLAND N.  terk fm pro antenna.  All these loops involve a resonant tuned circuit made up by a multi-turn loop coil and a variable capacitor.  fiberglass antenna masts.  Every year since 1968, during the last weekend in July, the Central States VHF Society hosts an annual technical conference.  For my construction plan, 1/2&quot; hard-drawn copper pipe is more readily available than the 1/2&quot; aluminum tube used in the prototype in the article.  I first started building and using the Big Wheel in the early 70’s for mobile 2M terrestrial and satellite work as the Wheel is circularly polarized above and below its horizontal plane.  Hamtech.  Would building a bigger Yagi better suit 6 Meter Yagis SSB/CW/FMI Computer-aided modeling and test range techniques were used by Cushcraft engineers to further optimize the performance of our popular 6 meter Yagis. net is a Web site dedicated to ham radio (amateur radio).  car antenna.  20 Meter &quot;Vertical Zepp Dipole&quot; Antenna by Carl H.  See for yourself why shoppers love our selection and award-winning customer service.  VHF-UHF Long Boom, High Performance Antenna Designs by W8IO (links updated 12 Aug 2017) This page documents the various long boom VHF-UHF antenna designs that I have created.  2 big wheels, suitably stacked, should give about 5dBd gain horizontal and need no turning.  What makes a antenna better? The Slim Jim Antenna is an end-fed folded dipole antenna that has a gain of 6 dbi and a nice low RF take off angle.  The gamma match is commonly used in many antenna designs and consists of a capacitor, the gamma arm that runs parallel to the driven element and that is attached to the the same with a shorting bar.  It&#39;s a good idea to have your antenna at least one half ( 1/2 ) wavelength of the antenna.  The schematic of the electrical components of the antenna is displayed in Figure 2.  Cebik, W4RNL and Bob Cerreto, WA1FXT “A Compact Loop Antenna for 30 through 12 Meters” by Robert Capon, WA3ULH HF/6 Meter Transceiver Loop Antenna Inside: Porta Selecting your First Antenna Easyto Build 2 &#39;Meter Big Wheel Antenna An HF Antenna for Apartments Devoted entirely to www.  2-el quad 12-ft [3.  This solution is also suitable for higher power levels (&gt; 100W).  5.  The only other information of this antenna relating to amateur radio is an article published in the November/December 2006 issue of TCA, The Canadian Amateur magazine by Graham Ide, VE3BYT, with David Conn, VE3KL.  Six meter big wheel wanted.  What are the reasons for stacking anyway? 2.  First Generation Setup – [VHFcontesting] Cushcraft 17B2 stacking and other information-compiled- LONG But if I didn&#39;t have my 4 big wheel omni stack I would want the 17B2s back The 1250 gallon polyethylene tank has a 16&quot; flip-top lid and 2 high volume jet agitators. 90m overall for the antenna.  Although I can&#39;t speak for all the forum members, you definitely have my support and if there is any way I (or others) can help this along, please keep us in mind. IRE, REMOTE AREAS IN SCOTLAND AND ALL ISLANDS PLEASE CONTACT US FOR SHIPPING PRICENorthern Ireland, Isle of Man, Isle of Wight isles of Scilly PO, BT, TR21, TR25Scottish Mainland IV1-36 IV40-49 IV51-56 KW1-3 KW5-17 PA21-40 PH17-26 PH30-40 PH49-50 AB25 Scottish Islands HS KA27-28 Vertical Dipole Portable Base Mobile Alpha Magnetic Loop antennas. 8-2.  6 Meters 950 W Output Linear Amplifier with integrated power supply + Sequencer Top trim levels gain a shark fin antenna.  In order to play vinyl with the Cocktail Audio X45 Pro, you merely need to go the Input menu and select Phono In.  Tho this is ONE answer, apparently, there is another antenna called the &quot;BIG WHEEL ANTENNA&quot;.  It is transmitting 24/7 giving my call sign and full grid square.  A Word About Loop Antenna Design. 90 1521 694 4 74 sure reflections were causing errors, so the 28 λ/2 56. 96. rmvhf.  8.  New Kadjar is available with two new types of 17- and 19-inch wheels, along with three new colours: &quot;Oural Green&quot;, &quot;Iron Blue&quot; and &quot;Highland Grey&quot;.  There are two days of technical presentations, antenna range gain measurements, noise figure measurements, a flea market, and often times a vendor area.  For more performance, try the HO LOOP-STACK PACKAGE: 2 HO LOOPS, phasing lines, “T” junction block, upper and lower 1/2 “ and 5/8” mast sections.  Antennas for MF and Above is a practical guide to antennas for the relatively new 630m band, 160m, 80m and equally new 60m band.  Resources listed under Antenna for 2 meters category belongs to Antennas main collection, and get reviewed and rated by amateur radio operators.  So The &quot;Big Wheel&quot; is a horizontal polarized omni directional antenna.  How to build a 2 meter J-Pole T-cars virtual Elmer (swr adjustable clamps) 2 Meter J Pole Beam Jagi Tri-County Note the meter reading and then move and clamp the wire to successive taps on either side of this tap until you find the one that gives the maximum meter reading with your hands and body away from the antenna at least 2 feet.  Specifically for 145.  A WA5VJB &quot;big wheel&quot; PCB antenna might work for you.  Since we produce an additional gain with stacking there must be somewhere we decrease the beam with of the array (that was where the gain came from).  It has a big footprint.  If the length of the conductor is a certain ratio or multiple of the The YU7EF re-design with 4NEC2.  It&#39;s molded-in trough drains spills to rear of sprayer.  Omni circular polarized antenna 2m Antenna Dopt = 12.  If you are using one of my designs shown on these pages, you are all set to go ahead. radio.  Product is in The halo (HO Loop), turnstile, eggbeater and Big Wheel are omnidirectional horizontally polarized antennas used for weak signal VHF terrestrial communications.  I could always hear him.  Another possibility is the &#39;Big Wheel&#39;.  Judd, G2BCX) Get that signal lower to the ground for better performance! Why is the Slim Jim so much more efficient than the popular 5/8 wave or other ground plane antennas, despite the latters claimed 3dB 2m Big Wheel plans 2.  A horizontal level meter is displayed and acts as a VU meter.  Our spacious 5th wheel provides the space for you to relax and enjoy, or entertain people.  M2 Antennas is dedicated to the science of antenna-building. 3 Improved Design Methods, 282 References, 283 6 Microstrip Antennas 285 6-1 Microstrip Antenna Patterns, 287 6-2 Microstrip Patch Bandwidth and Surface-Wave Ham Radio Satellite Antenna Simple, inexpensive and lots of fun! Here is an easy to make home brew antenna that can get you on the air working satellites or be built for use as a portable $&#92;begingroup$ My immediate application is a 2-meter, three-dipole horizontal, triangular array - an adaptation of the &quot;Big Wheel&quot; design, presented in QST of March 2008.  Mounting is via a single 3/8&quot; hole (standard mobile mounting hardware size).  6.  your own two meter yagi where to start! By Dave Clingerman W6OAL A step by step instruction on the creation of a four element, horizontally polarized, two meter Yagi you can build yourself. 170: KH6HME: BK29go: Hawaii: 2 x 7 Element: 144. org is Rocky Mountain VHF+ |.  In 2008 I was very active /P and used to venture out to a high spots and set up radio for a few hours mainly because I lived in a flat and the only antenna I could get outide at the home QTH was a Diamond X-50 2M/70cms for local FM.  Whoever gave thought to the assembly of this antenna is a genius! Great contacts on FM and SSB.  For someone like me who doesn&#39;t want to invest in a large Yagi array and a big rotator to turn it, thoughts turn to omnidirectional, horizontally polarised antennas.  Cloverleaf antenna is a circular polarized antenna for FPV which is way better than the cheap dipole antenna that comes with video transmitters and receivers.  This guide will explain the basics of 5.  Disclaimer: This project isn’t new; it’s not even my idea or design.  Frequencies: Standard FR4 at 2.  replacement antenna.  lifting.  Stacking of Big Wheel Antennas.  Stacking Big Wheel Antennas??? 9.  A balun is a MUST for dipoles or similar antennas when they are feed with coaxial cables.  The performance of this tuner was nothing short of spectacular on FM; the AM side was even more impressive, as it was designed to have an audio bandwidth of 20 Hz - 15 KHz -- the same as broadcast FM! The DX Shop - Antennas, Amplifiers and Accessories for the dedicated Radio Amateur.  S.  how to build long wire antenna.  Another antenna that some swear by is the Big Wheel.  Resources listed under 70 Mhz Antenna category belongs to Antennas main collection, and get reviewed and rated by amateur radio operators.  I am a brand new ham and your dipole has become my first fixed antenna.  I used 1″ thin-wall PVC pipe, aluminum tape, and RG-8X coax.  - eHam.  Prototype measurement is a major step in antenna design as Although this particular design is square, they’re still called loops and have a roughly omnidirec-tional pattern.  Antenna projects for 144 MHz is a curation of 145 resources about , The Tiny 3, 2m Big Wheel Antenna, Dish antenna for 2 meters band, OCF 2 Meter Sleeve Dipole Antenna, Simple VHF Antenna. 95.  2 Meter Full Wave Loop - The Magic Wand In big lines, there are two ways to stack antennas one is putting the antennas above each other, the second is putting the antennas next to each other.  &quot;Subject: Plumbers&#39; Dipole Antenna Date: Fri, 13 Sep 2002 13:39:21 -0500.  Stacked Yagi Antennas.  24 These printed circuit board (pcb) antennas are perfect for high performance optimized antennas in a small package.  Whether you are a weak signal operator or a serious contester, the 8406 is the ultimate 6 M amplifier. ) 1.  L.  The big wheel is the retractable antenna cable winder, with a slide switch and LED for power, and a rotating selector to choose the centre frequency of reception.  SWR is fantastic.  THE 2 METER SLIM JIM COPPER TUBING ANTENNA PROJECT BY RICHARD KE5FXU SK (Updated 1-16-2012) (Credit for the original design goes to F. 270: W5AC: EM10uo: College Station, TX: 10W 6 el Build a 2 Meter DDRR for Mobile Rhombic Antenna Home Page VHF and UHF Rhombic Antennas 2m halo page A BIG WHEEL ANTENNA FOR THE 70cm BAND IHE Microstrip Antenna Design Antennas - T2FD, Terminated Tilted Folder Dipole Patent Server: 5579017 Detailed View Eggbeater Antenna, W3PM 850 Gallon Big Wheel 45&#39; 60&#39; or 66&#39; Boom.  Antenna projects for 144 MHz is a curation of 146 resources about , Simple VHF Antenna, Dish antenna for 2 meters band, OCF 2 Meter Sleeve Dipole Antenna, The Tiny 3, 2m Big Wheel Antenna.  The antenna appears to be a type of center-fed collinear but does not require any sort of matching hardware when fed with 50 ohm coax.  Right hand twist is standard - RHCP - and matches the Wheel antenna but works with any other antenna regardless of polarization.  This antenna would be the chosen one for the 70cm band.  X QUAD 2M X Quad Beam Antenna for 2m Ham Radio 144 146 - $252.  2 METER SSB SUPER BIGWHEELS - Ham Radio Picture - At MyHamShack you get a free personal web page for your shack - Your Shack.  Anthony Monteiro, AA2TX junction is connected to another section of coaxial cable that serves as an impedance matching section to get a good match to 50 Ω.  With such a configuration either 2, 4 or 8 antennas are used.  50MHz halo antenna for mobile: 50-MHz Quadlong, DK7ZB: 70 MHz Big Wheel, OE5QL: 5el Yagi for 50Mhz with a 3.  6 Meter Big Wheel Ant? 12.  The measurements below are for building a simple Dipole Antenna.  Designed for hanging from any handy support and can be hung from trees, used inside motel rooms or as a &quot;stealth&quot; antenna.  Stay tuned – perhaps LA2VHF will show up on 50.  Remember if Antenna segment measurements.  Usually highly directional antennas are used on VHF and UHF, which have the capability to bundle the radiated energy in one direction and eliminate interferences from unwanted directions.  It comprises three full wave loops in parallel bent around a bit.  Back to Antenna index Next antenna Last modified 2016-01-21 Wimo Big Wheel 2m SPECIFICATIONS.  6 Meter, &quot;Magic Band&quot; loop antenna Ham Radio Horizontal SSB six meters This antenna is an omnidirectional and designed for SSB use.  Fine tune the antenna by working the 1/2&quot; pipe antenna up or down about a half inch at a time until you find the 70 Mhz antennas is a curation of 34 resources about, 70 MHz Yamag Antenna, 5 elements DK7ZB Yagi for 70MHz, 7 Element 4M Beam, A Coax dipole for 4 m, 4 meter antenna conversion.  Big Wheel Antenna?? 9.  2 Meter &amp; 70 Centimeter Mobile Halo Antenna Project Antena Hd Outdoor Antenna Ham Radio Antenna Electronics Projects Engineering Survival Artisan Cowls Technology:__cat__ &quot;I have wanted to try 2 meter SSB mobile for some time but did not have a horizontally polarized antenna to try it out.  0 8143155 9 Visit the ARRLWeb at www.  The &quot;Big Wheel&quot; is a very old antenna design for two meters and was made very popular in the 1960&#39;s by Cushcraft, who manufactured and sold model ABW-144, the Two Meter Big Wheel antenna, which worked very well and had a very fair price tag.  Big Wheel Antenna for and El Windom Nueva Carolina Por Len Carlson, K4IWL Results for 2 Meter Quad Antenna Plans.  5 dBD.  Concealed J-Pole David Stansbury KB3KAI.  My friend Paco EB4HBI tested it too with 0.  2 Meter Square Dipole by K0FF Tho this is ONE answer, apparently, there is another antenna called the &quot;BIG WHEEL ANTENNA&quot;.  This book is aimed at the constructor, or those who are curious to understand in further detail the theoretical aspects of the antenna techniques used on these bands.  meter antennas, 2.  Note: this schematic is for an eight element collinear array.  3dBD, each Big Wheel has a N-jack (female).  Single 50 Ohm type N jack feed point.  An EZ-Lindenblad Antenna for 2 Meters This easy to build antenna works well for satellite or terrestrial communication, horizontal or vertically polarized.  I recall a guy in SW Oklahoma when I lived there that had stacked Big Wheels.  Looking for a way to enjoy the outdoors with the entire family? The Heartland Big Country is the way to go.  Next winter I want to replace my hand rotated beams for 70cm and 2m with a big wheel stack for either 2m or 70cm.  And, even then, it is a specialty field. com in a single category.  A Turnstile antenna with a reflector underneath it makes a good antenna for space communications because it produces a circularly polarized signal pattern and also has a broad, high angle […] The MFJ-1622 Apartment Antenna covers 40 through 2 Meters, mounts outdoor to windows, balconies, railings, and works great indoors mounted to desks, tables, and bookshelves! This Apartment Antenna lets you operate 40 through 10 Meters on 6-160 Meter J-Pole Jr 34 foot End Fed antenna Ham Radio Antenna Wire Headphones Tape Measure Communication Cable Ants Cabo Headpieces A combination of antenna designs, namely the J‐Pole and Zepp along with Alpha Antenna&#39;s matching network technologies, are utilized to achieve a fairly resonant antenna design that can be tuned on 6, 10, 12, 15, Dipole antennas often are the easiest to build, and then turned into inverted V antennas by raising the center of the antennas up into the inverted V style.  Kent Electronics has over 1000 custom designed Printed Circuit Board Antennas in its library.  Pre-owned.  Read the pinned PDF.  $&#92;begingroup$ My immediate application is a 2-meter, three-dipole horizontal, triangular array - an adaptation of the &quot;Big Wheel&quot; design, presented in QST of March 2008. 0 - 7.  The majority of the published designs are for 2 Meters although they have been built for Big Wheel for 2m, 70cm and 6m available for best prices at radioworld.  Section 1.  Was in the air in another 10 minutes.  You can&#39;t go too wrong.  It works great! It is temporarily mounted at 19ft on 2 sections of Rohn 15G tower that is bracketed to my garage.  It feels relatively solid, and the winder is smooth to operate.  I&#39;ve done a fair bit of googling, and haven&#39;t found a decent set of plans to construct a 2m Big Wheel.  Just go ahead and stack them.  Alpha Antenna For Assistance Cushcraft 2 meter 11 element beam.  Of coarse you can tune it to any 2 Mhz portion within.  The DL6WU formula for long yagis: D = W/(2*(sin B/2)) Where is: D – stacking distance in meters W – wavelength in meters Dipole Antenna Calculator.  Thought I would share it and see if anybody gives it a try.  You&#39;ll have to watch polarity, it&#39;s going to be horizontally polarized and I suspect that your remote end will be vertical.  This antenna is used heavily on satellite work.  The MA5B is a design that does not sacrifice ruggedness, performance and power handling for size and ease of installation. 400 MHz, there might be room for us there.  Type: Diameter: 1.  001-91445 Rev.  For an omnidirectional antenna a &quot;Squalo&quot; (square halo), or a &quot;Big Wheel&quot; could work, or two &quot;double quad&quot;elements at 90 deg.  How to Adapt a Mousetrap Car for Distance. 310, 100 tone.  I&#39;m beginning to think about taking down the 2-meter and 440 arrays and replacing the tri-bander with something that covers 40 through 10 with most of the WARC bands.  Antenna 1/2-wave, 5-Band HF Cobweb Antenna – MFJ-1835 Time Lapse Video A 70cm Big Wheel Antenna.  The larger the wire, the wider the bandwidth.  Amplifiers .  DC DISTRIBUTION BOARD How to Make the Ultimate AM Antenna.  Dahlberg N7AGK Editors note: The author of this project arrived at these plans by experimentation so this antenna should be considered an experimental project by the builder.  d link antenna.  My ritual is to scan it about a dozen times quickly, making mental note of things of special interest to me, before devouring the entire thing before the next edition crosses the transom.  Again, from a theoretical standpoint, this antenna design should outperform a similar youtube DB4 or DB8.  The goal here is to put up a cheap, easy, and quick 2-meter antenna that is simple and unobtrusive, but works 2m Big Wheel plans 2.  atv slot antenna 10 ghz Finde den passenden Reim für „big wheel antenna“ Ähnliche Wörter zum gesuchten Reim 153.  November 2012.  Antenna Design and RF Layout Guidelines www.  Big Wheel Antenna?? 7.  Right from the start, Renault Kadjar made passenger comfort a priority.  southern linc antenna booster.  10.  50 MHz.  It is a flexible parabolic dish mounted within an inflatable sphere.  It is a horizontally polarized omnidirectional antenna with some gain.  buick riviera power antenna. C.  G5RV 1/2 Size 51 Feet 10 to 40 Meters Superior Poly Weave Wire Antenna / Aerial.  This horizontal “slot” antenna, cut into the reflector of a TV dish, is both the master of disguise and high in performance.  The entirely new antenna designs are called Loggi&#39;s.  Fig.  Big Wheel plans.  The Big Wheel antenna is a good choice as a beacon antenna, as it has by far the most omni-directional patten for any horizontally polarized antenna.  To achieve a higher gain, Big Wheel antennas can be stocked vertically.  Big Wheel Antenna?? 8.  This new design is easy to match in any situation.  Even more choice.  M2 Antennas.  Only at eHam.  Big Wheel 70cm Antenna.  The Table Top version in figure 2 The 2 element beam version infigure 3.  The RF output power is 10 watts.  2m Big Wheel Antenna by G3XBM Most terrestrial DX activity on 144MHz uses SSB, CW or digital modes and horizontal antennas.  This is a new own design for 2 * 11 element antennas for 432 MHz.  5dBD.  This Pin was discovered by Lynn Gustafson. F.  2 big wheels, suitably stacked, should I&#39;ve built a number of 2 meter antennas in the past</span>
+
+  </button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="file-navigation in-mid-page d-flex flex-items-start">
+
+  
+
+<details class="details-reset details-overlay select-menu branch-select-menu  hx_rsm" id="branch-select-menu">
+
+  <summary class="btn btn-sm select-menu-button css-truncate"
+
+           data-hotkey="w"
+
+           
+
+           title="Switch branches or tags">
+
+    <i>Branch:</i>
+
+    <span class="css-truncate-target">master</span>
+
+  </summary>
+
+
+
+  <details-menu class="select-menu-modal hx_rsm-modal position-absolute" style="z-index: 99;" src="/victorfontes/django-mobile-helper/ref-list/master?source_action=disambiguate&amp;source_controller=files" preload>
+
+    <include-fragment class="select-menu-loading-overlay anim-pulse">
+
+      <svg height="32" class="octicon octicon-octoface" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M14.7 5.34c.13-.32.55-1.59-.13-3.31 0 0-1.05-.33-3.44 1.3-1-.28-2.07-.32-3.13-.32s-2.13.04-3.13.32c-2.39-1.64-3.44-1.3-3.44-1.3-.68 1.72-.26 2.99-.13 3.31C.49 6.21 0 7.33 0 8.69 0 13.84 3.33 15 7.98 15S16 13.84 16 8.69c0-1.36-.49-2.48-1.3-3.35zM8 14.02c-3.3 0-5.98-.15-5.98-3.35 0-.76.38-1.48 1.02-2.07 1.07-.98 2.9-.46 4.96-.46 2.07 0 3.88-.52 4.96.46.65.59 1.02 1.3 1.02 2.07 0 3.19-2.68 3.35-5.98 3.35zM5.49 9.01c-.66 0-1.2.8-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.54-1.78-1.2-1.78zm5.02 0c-.66 0-1.2.79-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.53-1.78-1.2-1.78z"/></svg>
+
+    </include-fragment>
+
+  </details-menu>
+
+</details>
+
+
+
+
+
+        <button type="button" class="btn btn-sm disabled tooltipped tooltipped-n new-pull-request-btn" aria-label="You must be signed in to create a pull request">
+
+          </button>
+
+
+
+  <div class="breadcrumb flex-auto">
+
+    
+
+  </div>
+
+ </div></div></div></main></div></div><div class="footer container-lg width-full px-3" role="contentinfo"><div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
+
+  </div>
+
+  <div class="d-flex flex-justify-center pb-6">
+
+    <span class="f6 text-gray-light"></span>
+
+  </div>
+
+</div>
+
+
+
+
+
+
+
+  <div id="ajax-error-message" class="ajax-error-message flash flash-error">
+
+    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"/></svg>
+
+    <button type="button" class="flash-close js-ajax-error-dismiss" aria-label="Dismiss error">
+
+      <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+
+    </button>
+
+    You can’t perform that action at this time.
+
+  </div>
+
+
+
+
+
+    
+
+    
+
+    
+
+    
+
+  <div class="js-stale-session-flash stale-session-flash flash flash-warn flash-banner" hidden
+
+    >
+
+    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"/>
+
+    </svg>
+
+    <span class="signed-in-tab-flash">You signed in with another tab or window. to refresh your session.</span>
+
+    <span class="signed-out-tab-flash">You signed out in another tab or window. to refresh your session.</span>
+
+  </div>
+
+  <template id="site-details-dialog">
+
+  <details class="details-reset details-overlay details-overlay-dark lh-default text-gray-dark hx_rsm" open>
+
+    <summary role="button" aria-label="Close dialog"></summary>
+
+    <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast hx_rsm-dialog hx_rsm-modal">
+
+      <button class="Box-btn-octicon m-0 btn-octicon position-absolute right-0 top-0" type="button" aria-label="Close dialog" data-close-dialog>
+
+        <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+
+      </button>
+
+      <div class="octocat-spinner my-6 js-details-dialog-spinner"></div>
+
+    </details-dialog>
+
+  </details>
+
+</template>
+
+
+
+  <div class="Popover js-hovercard-content position-absolute" style="display: none; outline: none;" tabindex="0">
+
+  <div class="Popover-message Popover-message--bottom-left Popover-message--large Box box-shadow-large" style="width:360px;">
+
+  </div>
+
+</div>
+
+
+
+  <div aria-live="polite" class="js-global-screen-reader-notice sr-only"></div>
+
+
+
+  </body>
+
+</html>
+
+

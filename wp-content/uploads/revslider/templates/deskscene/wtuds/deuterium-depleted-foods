@@ -1,0 +1,475 @@
+
+
+<!DOCTYPE html>  
+
+<html lang="ru">
+
+  <head>
+
+    <meta name='yandex-verification' content='7245bde594e40266' />
+
+    <meta name='yandex-verification' content='7f74c136b68218c3'/>
+
+    <meta name="google-site-verification" content="-4I7BtrrbyXzA9wUUkLG4JhY9emKxTKiMLOZDJ9Ay9c" />
+
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+
+    <link rel="shortcut icon" href="http://megapoisk.com/favicon.ico" type="image/x-icon" />
+
+    <link rel="icon" type="image/png" href="http://megapoisk.com/favicon.png" />
+
+
+
+    
+
+    <title>Deuterium depleted foods</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    
+
+    <link  type="text/css" href="http://megapoisk.com//css_/jquery-ui.min.css" rel="stylesheet" />
+
+    <link href="http://megapoisk.com/css_/styles.min.css?1" rel="stylesheet" type="text/css" />
+
+    <link href="http://megapoisk.com/css_/mobile.css" rel="stylesheet" type="text/css" />
+
+    
+
+     
+
+        
+
+
+
+                      <meta name="Description" content="Deuterium depleted foods" />
+
+                      <meta name='advmaker-verification' content='cbb3e8f66ecbeda293b984eb2889b3fc'/>
+
+            
+
+   
+
+     
+
+
+
+  </head>
+
+  <body>
+
+
+
+    <!--begin fb sdk-->
+
+    <div id="fb-root"></div>
+
+     <div><img src="//mc.yandex.ru/watch/29400735" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+
+
+
+    <div id="up"></div>
+
+    
+
+    
+
+    
+
+    <div style="position:absolute; top:10px; width:100%; min-width:950px; left:0px; z-index:9999; display:none;" id="iFramePredprosmotrBlock">
+
+     <div style="width:60%; margin:0px auto; box-shadow: 0 0 20px rgba(0,0,0,0.3); position:relative; background-color:#ffffff; border:solid 1px #cccccc;">
+
+        <div class="whiteGradient" onclick="close_predpros();" style="font-style:italic; font-size:13px; color: #555555; box-shadow: 0 0 5px rgba(0,0,0,0.2); padding:7px; padding-left:20px; padding-right:20px; position: absolute; top:15px; right:-10px; border:solid 1px #cccccc; cursor:pointer; text-align:center; ">
+
+             Закрыть
+
+        </div>
+
+        <div id="ipredprosmotr" style="padding:20px; width:100%;">
+
+        </div>
+
+     </div>
+
+    </div>
+
+    <div id="globalHiderBlock"></div>
+
+        <div id="fullVideoContainer">
+
+    <div class="fullVideoInside">
+
+       <div id="FVtitle" ></div>
+
+        <div id="iFullmp4Video" style="display:none;">
+
+             
+
+         </div>
+
+         <iframe id="iFullVideoFrame" allowfullscreen></iframe>
+
+        
+
+         <div onclick="$(this).prev().attr('src', ''); tryCloseVideo();" class="closePhoto2">X</div>
+
+        
+
+         
+
+         <div id="FVComents" style="margin-top:10px; text-align:left;"></div>
+
+    </div>
+
+    </div>
+
+
+
+    <!-- ALFAVIT -->
+
+    <div id="resultLiteraContiner"  style="display:none; position:absolute !important; width:1000px; left:calc(50% - 500px); z-index:9999999; padding-top:10px; text-align:left;">
+
+    <div style="width:1000px; box-shadow: 0 0 10px rgba(0,0,0,0.6); background-color:#ffffff;  border:solid 1px #dddddd; padding-bottom:20px; position:relative;">  
+
+      <div style="text-align:center; margin-top:10px;">
+
+          </div>
+
+    <div id="ialfavitsepline" style="border-top:solid 1px #dddddd; margin-top:10px;"></div>
+
+      <div id="resultLitera" style="width:740px; float:left; padding:20px;">
+
+        <div style="text-align:center;"><img src="http://megapoisk.com/img_/loading.gif" alt="" /></div>
+
+      </div>
+
+      <div id="iblockcategories" style="width:250px; float:right; border-left:solid 1px #dddddd; padding:10px;">
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10014');" class="word icatsitems">Аварийные службы</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10001');" class="word icatsitems">Автомототранспорт</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10002');" class="word icatsitems">Бизнес</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10021');" class="word icatsitems">Для потребителя</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10007');" class="word icatsitems">Дом и семья</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10720');" class="word icatsitems">Животные и растения</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10013');" class="word icatsitems">Здоровье и медицина</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '15816');" class="word icatsitems">Интересные сайты</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10005');" class="word icatsitems">Интернет</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10004');" class="word icatsitems">Компьютеры</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10003');" class="word icatsitems">Культура и искусство</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10018');" class="word icatsitems">Наука</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '11772');" class="word icatsitems">Непознанное</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10009');" class="word icatsitems">Новости, СМИ</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10019');" class="word icatsitems">Образование</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10016');" class="word icatsitems">Общество и государство</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10017');" class="word icatsitems">Промышленность</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10319');" class="word icatsitems">Психология</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10726');" class="word icatsitems">Работа и трудоустройство</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10006');" class="word icatsitems">Развлечения</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10024');" class="word icatsitems">Религия</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '11771');" class="word icatsitems">Рестораны, кафе, ТРЦ</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10008');" class="word icatsitems">Родители и дети</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10739');" class="word icatsitems">Сельское хозяйство</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10022');" class="word icatsitems">Спорт</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10015');" class="word icatsitems">Справки и информация</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10103');" class="word icatsitems">Строительство и ремонт</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10708');" class="word icatsitems">Телефония и связь</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10760');" class="word icatsitems">Торговля</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10010');" class="word icatsitems">Туризм, путешествия, отдых</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10775');" class="word icatsitems">Услуги</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10715');" class="word icatsitems">Финансы</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10020');" class="word icatsitems">Хобби, рукоделие</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '');" class="word icatsitems"></div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '');" class="word icatsitems"></div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '');" class="word icatsitems"></div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '');" class="word icatsitems"></div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '');" class="word icatsitems"></div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '');" class="word icatsitems"></div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '');" class="word icatsitems"></div>
+
+              </div>
+
+      <div id="iresultBlock" style="width:50%; float:right; border-left:solid 1px #dddddd; padding:20px; display:none; text-align:left;">
+
+        <div style="text-align:center;"><img src="http://megapoisk.com/img_/loading.gif" alt="" /></div>
+
+      </div>
+
+      <div style="clear:both;"></div>
+
+      
+
+                            </div>
+
+                            <div class="inslideMenu level1" id="studyinsidecat10708">
+
+              
+
+              </div>
+
+            </div>
+
+                        <div class="iItem"   >
+
+                            <div onclick="document.location='http://megapoisk.com/turizm-puteshestviya-otdyih_izbrannoe';">
+
+           
+
+                            </div>
+
+                            <div class="inslideMenu level1" id="studyinsidecat10010">
+
+              
+
+              </div>
+
+            </div>
+
+                        <div class="iItem"   >
+
+                            <div onclick="document.location='http://megapoisk.com/uslugi_izbrannoe';">
+
+              
+
+                            </div>
+
+                            <div class="inslideMenu level1" id="studyinsidecat10775">
+
+              
+
+              </div>
+
+            </div>
+
+                        <div class="iItem"   >
+
+                            <div onclick="document.location='http://megapoisk.com/finansyi_izbrannoe';">
+
+             
+
+                            </div>
+
+                            <div class="inslideMenu level1" id="studyinsidecat10715">
+
+              
+
+              </div>
+
+            </div>
+
+                        <div class="iItem"   >
+
+                            <div onclick="document.location='http://megapoisk.com/hobbi_izbrannoe';">
+
+              
+
+                            </div>
+
+                            <div class="inslideMenu level1" id="studyinsidecat10020">
+
+              
+
+              </div>
+
+            </div>
+
+            
+
+          
+
+        </div>
+
+       
+
+    <div id="wrapper">
+
+      <div id="header">
+
+        <div id="searchLine">
+
+          <div class="HeaderTitleLogoText">
+
+             
+
+          </div>
+
+          <div class="AuthBlock">
+
+            <div class="AUthContainer">
+
+                                <!--noindex-->
+
+                  <div >
+
+                    
+
+                 
+
+                                          </div></div>                  </div>
+
+                                <div class="clearBlock">
+
+                                  <div class="SearchContainer">
+
+                                    <!-- PRE_SEARCH -->
+
+                                    <div id="PScontainer" style="width:100%; display:none; position:absolute; top:50px; height:20px; z-index:9999999; ">
+
+                                      <div id="presearch" style="width:80%;  text-align:left; background-color:#ffffff; border:solid 1px #dddddd;">
+
+                                        <div style="text-align:center;"><img src="http://megapoisk.com//img_/loading.gif" alt="" /></div>
+
+                                      </div>
+
+                                    </div>
+
+                                    <!-- PRE_SEARCH -->
+
+                                    <div class="stypeContainer">
+
+                                      <input class="searchTypeButRadio"  type="radio" name="type-s" value="yagoo"/>
+
+                                      <div class="TitleStype" style="cursor:pointer;" onClick="$(this).next().next().click();">WikipediA</div>
+
+                                      <input class="searchTypeButRadio"  type="radio" name="type-s" value="wiki" />
+
+                                      <div  class="StypeIcon searchTypeRadioBut "></div>
+
+                                      <div class="TitleStype" style="cursor:pointer;" onClick="$(this).next().next().click();"><span style="color:#4285F4;">G</span><span style="color:#EA4335;">o</span><span style="color:#FBBC05;">o</span><span style="color:#4285F4;">g</span><span style="color:#4285F4;">l</span><span style="color:#EA4335;">e</span></div>
+
+                                      <input class="searchTypeButRadio"  type="radio" name="type-s" value="google"  />
+
+                                      <div class="StypeIcon searchTypeRadioBut "></div>
+
+                                      <!--div class="TitleStype">Яндекс</div>
+
+              <input class="searchTypeButRadio"  type="radio" name="type-s" value="ya"   />  
+
+              <div class="StypeIcon searchTypeRadioBut "></div-->
+
+                                      <div class="TitleStype" style="cursor:pointer;" onClick="$(this).next().next().click();"><span style="color:#ff5050;">M</span>egapoisk</div>
+
+                                      <input class="searchTypeButRadio"  type="radio" name="type-s" value="all"   />
+
+                                      <div  class="StypeIcon searchTypeRadioBut  Active "></div>
+
+                                      <div class="clearBlock"></div>
+
+                                    </div>
+
+                                    <form action="/search/" onSubmit="$(this).attr('action', 'http://megapoisk.com/search/query/izbrannoe/'+$('#searchtext').val());" method="post" id="searchform">
+
+                                      <input style="z-index:999999; position:relative;" oninput="$('#searchform').attr('action', 'http://megapoisk.com/search/query/izbrannoe/' + $('#searchtext').val()+'/' ); get_pre_search('http://megapoisk.com/',$('#searchtext').val()); " name="searchtext" id="searchtext" tabindex="1" type="text" value="" autocomplete="off"  placeholder="Введите фразу для поиска" />
+
+                                      <!-- HIDDEN -->
+
+                                      <input type="hidden" name="s-typea" class="s-type" value="all"/>
+
+                                      <input type="hidden" name="section_tab" value="izbrannoe" />
+
+                                      <input type="hidden" name="bycat" value="1" />
+
+                                      <input type="hidden" name="bysite" value="1" />
+
+                                      <input type="submit" style="display: none;" value="" />
+
+                                      <!-- /HIDDEN -->
+
+                                      <input style="z-index:999999;" type="button" onClick="$('#searchform').attr('action', 'http://megapoisk.com/search/query/izbrannoe/' + $('#searchtext').val()+'/' ); submitSearchForm();" id="searchButton" value="  Начать поиск  "/>
+
+                                    </form>
+
+                                  </div>
+
+                                </div>
+
+                <!-- /Хлебные крошки -->
+
+                                                                          <div id="navigation">
+
+                  <ul >
+
+                                    <li id="menuButton" style="margin-right:-8px;"><h1>Deuterium depleted foods</h1></li>
+
+                                    <li class="menuItemLi ">
+
+                    <div class="menuItemIcon" style="background-position:-375px -6px;"></div>
+
+                   <!--noindex--> <b> But for optimal mitochondrial functioning, you’d want to focus on eating deuterium depleted foods.  The invention further relates to deuterium-depleted food products (with 0.  It is a well known supportive therapy for cancer patients in Hungary ( he is Hungarian ) and in some European countries.  Deuterium-depleted water (DDW) was able to protect mice from the damaging effects of radiation.  HYD Ltd.  The invention relates deuterium depleted water containing 0.  Beta oxidation where fat burning occurs has a zero-tolerance policy for deuterium in the matrix.  How deuterium breaks down three-dimensional structures &amp; why this is detrimental.  That is why nature favors it.  As a result of more than 20 years of research, this patented, multi-award-winning deuterium depleted water contains five times less deuterium (an isotope of hydrogen) than regular water.  Deuterium a heavier isotope of hydrogen which has, in addition to its one proton, a neutron, that roughly doubles the mass of the hydrogen atom .  next &gt; &lt; previous I must admit this is a question I’ve never heard before or even thought about.  Old food is higher in deuterium than young food because it, like us, lose their ability to deplete deuterium with age – young food is healthier to eat.  Restoring balance is essential. 0392 Second, plants deplete their deuterium levels by dumping it into their sugar storage: fruits, potatoes, grains, etc.  Deuterium Depleted Water Or Light Water A Cure For Disease, Sickness, Illness &amp; More? Deuterium depleted water fights cancer, makes psoriasis disappear and rejuvenates the skin . 800.  with deuterium depleted water (40 ppm) were investigated.  Deuterium Depleted Water - Ultra Purified Drinking Water - Light Water.  The effect of the DDW (30 ppm) treatment on rats intoxicated with K2Cr2O7 in single dose (20 ppm Cr(VI)/kg b.  It Deuterium depleted food makes more energy and metabolic water than foods that contain more deuterium.  6, supplement, 74-77 (2008) 75 compound chosen for this study was deuterium depleted water, and because of the crucial role played by glycan structures in many biological processes, including metastasis, we Scientists in China reported a less expensive, more eco-friendly method for making large quantities of deuterium depleted drinking water.  They also encourage patients to drink deuterium-depleted water, in the early phases, to get their levels down.  Russian Open Med J.  The D-concentration for food products or drinking water is not regulated by the law.  Deuterium Oxide is a stable, non-radioactive isotopic form of water, containing 2 atoms of deuterium (D) and one atom of oxygen (2D2O), with DNA-labeling activity.  “Preventa-105” “Deuterium Depleted Carbonated Drinking Water”, a nutritional supplement, is now being imported from Budapest, Hungary for health challenged individuals.  In the experiments performed in mouse (Mus musculus) the radioprotective effect of Deuterium Depleted Water (DDW, with 30 ppm deuterium) and a 0.  The world’s first deuterium-depleted antitumor medicine, Vetera-DDW-25® for veterinary application, was registered in Hungary in 1999.  Upon ingestion of deuterium oxide, 2H is incorporated into the deoxyribose moiety of DNA of newly divided cells.  Deuterium is a non-radioactive stable isotope of Hydrogen.  Changes of oxidation during use the food diet with deuterium depleted water in laboratory animals with purulent inflammation. Deuterium depleted water – Antioxidant or pro-oxidant.  Preventa deuterium-depleted drinking water is recommended for health conscious individuals, and suggested for use by replacement of the daily normal fluid intake.  We then assessed the antidepressant-like properties of deuterium depleted water (D91=91.  We follow an easy-to-follow dietary program that focuses on adding deuterium depleted foods from high quality sources and eliminating high-deuterium foods.  Deuterium-depleted water may be more healthier form of water.  Anyhow the intent is to off set food preparation enrichment of deuterium.  The good news is once you start eating deuterium-depleted foods (fats &amp; oils) your body swiftly recognises all stores you have put away for that oncoming winter &amp; starts using them as well.  Mass Production of Deuterium Depleted Water 2.  There are a number of ways to maximize the hydrogen in food, air, and water: Food is a primary source of hydrogen.  SOLUTION: The retort pack foods such as rice gruel, cream, curry and the like are produced by using deuterium-depleted water (super light water).  fig 3 “Aging represents the inevitable consequence of a failure of DNA repair” (4) .  A wide variety of deuterium depleted water options are available to you, such as plastic bottle, vacuum pack, and glass bottle.  John Wiley and Sons, 1991-Present.  What are the specialities of Preventa deuterium-depleted drinking waters? – How deuterium content is determined? Is there a simple way to separate deuterium oxide from tap water? since the abundance of D is so low, Can you make deuterium-depleted water through a freezing Deuterium is like thick, gluggy oil — when you put thick oil into an engine, the engine sputters, makes strange noises, and eventually breaks.  The two predominant ways we can lower the deuterium levels are by drinking deuterium-depleted water (more on this in a future blog) and eating a diet in which the predominant foods are grass-fed fats and a wide variety of vegetables, especially green vegetables.  Tap water or bottled water contains 150 -155 (ppm) Parts Per Million of deuterium, while Arctic &amp; Glacier water contains 100-120 ppm of deuterium, qualifying them as the healthiest water on earth.  Deuterium is also used in making nuclear bombs, and during WWII, the Allies bombed Germany&#39;s main deuterium plant to stop it from acquiring atomic weapons.  Half of the groups consumed natural water (tap water with a deuterium content of 150 ppm) ad libitum, while the other half received deuterium depleted water (30 ppm deuterium) instead of natural water.  The targeted generations were parent (F0), first (F1), second (F2) and third (F3).  Deuterium has one proton and one neutron while the more common isotope of hydrogen (Protium) has only a single proton (no neutron).  Why does the body store carbohydrates as saturated fat? Because saturated fat is deuterium depleted.  Further object of the invention is deuterium depleted food product containing 0.  Light water (deuterium-depleted water) is opposed to heavy water (deuterium-enhanced water).  Biotechnology Sigma-Aldrich offers a number of Water, deuterium-depleted products.  Download Citation on ResearchGate | [Determination of deuterium concentration in foods and influence of water with modified isotopic composition on oxidation parameters and heavy hydrogen isotopes Deuterium depleted water is a water containing 2 ppm D/(D + H) marketed for the preparation of isotopic standards for the sub-natural range.  Our objective was to investigate whether deuterium-depleted water (DDW) can overturn reverse manganese (Mn)-induced reduction in life span, using the Caenorhabditis elegans (C.  The invention relates to pharmaceutical and food products containing deuterium depleted water, suitable for the treatment of insulin resistance.  Lett.  Natural, fatty food like grass fed meat, wild caught fish and seafood, green vegetables and nuts all have low deuterium.  That is why I make and distribute Deuterium Depleted Water with The Hydrogen Bonding Angle of 114 with the John Ellis Machine.  In a paper published in 1999 it was found that feeding deuterium-depleted water increased survival after radiation in … Given that the harmful effects of radiation are caused by free radical damage to cellular components such as proteins and DNA it would make sense that deuterium-depleted water should worsen survival not improve it.  Buy online now.  Deuterium is an isotope of hydrogen that contains a proton and a neutron in the nucleus of the atom.  Keeping your pets healthy by reducing their deuterium levels Artsybasheva O, Barysheva E, Shashkov D, Vlasov R, Tekutskaya E.  One answer would be to test.  Following the approval of the board, the company will move into a larger, more sophisticated space by mid-April. 985 %, whereas Deuterium (2H) with mass number of two is abundant just up to Phil Escott&#39;s interview on the Nutrition Heretic - find out what he does, what a low deuterium diet is, the contradiction that is vegan carnivores, and more between deuterium content of drinking water in the US, the most abundant isotope after protium and isotopes of oxygen, and prevalence of depression.  I think it’s just our basic ancestral diet and totally safe long term.  Qlarivia Deuterium Depleted Water approx 25ppm - 500ml.  Increase your fat intake.  Depletion of body deuterium (D) can simply be achieved by consumption or prolonged administration of deuterium-depleted water (DDW) and nutrients deficient in D.  Oxana, Ekaterina B, Denis S, et al.  Evolution has put systems in place to deplete deuterium and protect the “little engines” in our cell’s mitochondria called nanomotors from coming in contact with this thick oil.  Replacement of the daily fluid intake of patients with deuterium depleted water (DDW) results in the shortage of deuterium (D) in the body, and might exert an anticancer effect.  View information &amp; documentation regarding Water, deuterium-depleted, including CAS, MSDS &amp; more.  We use cookies to enhance the security, performance, functionality and for analytical and promotional activities.  Deuterium (or hydrogen-2, symbol D or 2 H, also known as heavy hydrogen) is one of two stable isotopes of hydrogen (the other being protium, or hydrogen-1).  It involves making light water. 8atom PercentD, also known as heavy water, is used in nuclear magnetic resonance spectroscopy and as the source of deuterium to prepare specific isotopologs of organic compounds.  During the treatment have to drink a deuterium depleted water, to reduce the deuterium level of the body.  The bile is concentrated in the gallbladder and is what breaks down those beautiful deuterium-depleted fats/oils.  Deuterium-depleted water (DDW), also known more ambiguously as light water , is water which has a lower concentration of deuterium than occurs naturally .  contain lower amounts of deuterium.  They explain that deuterium damages the nanomotors in mitochondria that make energy from the food you eat.  The relationship between deuterium and diabetes, cancer, neurodegenerative diseases, and Lyme disease.  Further, deuterium depletion is an incredibly powerful method to improve overall health, and understanding how deuterium is depleted from our bodies will give us a better understanding of why the keto diet and fasting are incredible tools for disease treatment and general health &amp; longevity.  Deuterium depletion with Preventa® deuterium-depleted water.  is marketing and distributing several products with decreased deuterium content in food and medicinal product categories.  It boosted their immune system and the production of blood cells.  Water can be divided into two categories for, heavy water (high deuterium content) and light water (low deuterium content). 76 ppm.  Food is depleted, most drinking water compromised, and stress places an enormous demand on our body&#39;s mineral supply.  Alibaba.  QLARIVIA, The Immaculate Water It looks like water and tastes like water, but QLARIVIA just might be the proverbial fountain of youth. 391.  317(1-2), 1-4] and naturally occurring low deuterium substrate oxidation are essential to maintain the normal growth rate of Cheap Deuterium Depleted Water prices.  Olariu L, Petcu M, Tulcan C, et al.  Divinia Water, the leading bottler of cellular and deuterium depleted water in North America, announces the expansion of their production facility and is the first bottled water company based in eastern Idaho.  In 2000, the company brought the Preventa® deuterium-depleted drinking water products to the market.  § Altitude —Water at high altitudes has less deuterium.  VWR is here to help with a broad array of media, rapid tests, consumables, and instruments to support all your needs.  In 2012, Primus Capital closed a USD 2 Million investment in HYD Pharma Inc.  Which foods are high in deuterium &amp; what foods you should try to avoid.  V8 (93) 3 A friend of mine recommended trying deuterium depletion, it has got no side effect and it is safety.  Deuterium depleted water News: Latest and Breaking News on Deuterium depleted water.  Deuterium Depleted Water.  There seems to be a mechanism where leaves naturally deplete parts of themselves from deuterium.  Biotechnol.  You would have to drink nothing but &quot;light Water&quot; permanently to reduce this 1g of Deuterium significantly - and still you would get a lot of deuterium from food.  Deuterium is a water molecule in which at least one of the hydrogen atoms contains a neutron.  If you’re not measuring your body chemistry, you’re guessing about what crucial imbalances you have and not knowing what the real solutions may be.  The Runga Podcast: Exogenous Ketones, Deuterium-Depleted Water, Near Vs.  The result is balanced, deuterium depleted, cellular EZ/plasma water.  Associate Professor of Pediatrics Harbor-UCLA Medical Center, Torrance, CA INVESTIGATOR - LABIOMED SIDMAP, LLC, Scientist Science Friday Seminar December 13, 2013 The food gurus have to upgrade their game.  Food, air, and water are all sources of hydrogen.  This was a new one to me but clicking around on it initially is yielding some very interesting results and we’ll be getting someone on the show to talk more about it soon.  Some sources have greater amounts of hydrogen than others; the hydrogen in some sources is more available than others.  It says here that a deuterium-depleted drinking water product called Qlarivia from Romania and containing 25 ppm deuterium (compared to the 150 ppm in normal water) is available for sale here, but costs $90 for 3 liters, so that&#39;s far beyond most people&#39;s budgets (because people normally consume around 3 liters of water a day from food and Deuterium Depletion is a Disruptive Innovation in the Pharma Industry - HYD Pharma Develops New Deuterium-Depleted Drugs for the Treatment of Neoplastic and Metabolic Diseases - read this article along with other careers information, tips and advice on BioSpace sunflower) – dry food. 95.  265-269.  Far Infrared, Scorpion Stings &amp; More! A Special Episode Recorded Live In Panama The Effect of Deuterium Depleted Water Administration on Serum Glycoproteins of Cytostatics Treated Rats Roum.  I got the initial analysis test done (my results showed I was pretty high in deuterium) and then began drinking ½ bottle of Preventa 65 Deuterium Depleted water.  Hydrogen, for example, has two stable isotopes: Protium (1H) has a mass number of one and is the major isotope with an abundance of 99.  The extra neutron doubles the mass of the hydrogen atom.  In particular, the second carbon in the glucose will be deuterium depleted. 01 to 135 ppm deuterium , preferably 105 to 125 ppm deuterium , for use in the treatment of Exogenous Ketones, Deuterium-Depleted Water, Near Vs.  Animal fats are also very low in deuterium, promoting the production of deuterium depleted water in the cell, so this is why people reverse so much disease.  We like to call it renatured water.  w/Dr.  For many years, we have provided DDW for the producer of PREVENTA water.  These lamps offer many proprietary features not found in alternative lamps.  By taking out impurities from Deuterium, Li-Hy Fuel is produced by special simple process at very, very low cost known to this proponent and his associates.  One of the latest research directions in this field become the study of water with a low deuterium content (deuterium depleted water) effect on condition of prooxidant-antioxidant system, which is a unit of nonspecific defense of organism [13]–[16].  HYD LLC.  Oxygen that is in both the air we breathe and water we drink, can have between 8 and 10 neutrons per atom of oxygen.  Deuterium depleted water using the John In an effort to produce mass quantities of healthier H2O, Chinese scientists have come up with a new method to change water&#39;s chemical composition.  We use a novel catalyst with excellent physical properties for the hot tower of the isotopic exchange.  Deuterium level tested and verified in accredited laboratory.  The concentration of deuterium in foods varies quite significantly.  All levels of deuterium depletion therapy is completely safe with no harmful side effects but it is always recomennded that you have your levels tested before you begin any sort of theraputic program.  Drinking deuterium-depleted water (DDW) every day for at least three months has been used to increase survival rates of cancer patients.  (2007).  Qlarivia has a low deuterium content and is the result of research in the field of isotope separation conducted over the years by a renowned team of specialists.  Far Infrared, Scorpion Stings &amp; More! A Special Episode Recorded Live In Panama In all subjects dietary cholesterol levels depressed (P&lt;.  TECHNICAL BACKGROUND .  Mass production of Deuterium Depleted Water 1.  Knowing that natural water is a mixture of H 2 O and HDO, a mixture containing about 144 ppm D/(D + H), deuterium depleted water can be considered as the mirror image of heavy water.  Hydrogen has a naturally occurring isotope, deuterium, which is present in surface waters and also in living organisms. com offers 100 deuterium depleted water products.  Deuterium – The Missing Link to Optimal Health . 5L at the best online prices at eBay! The company has already generated over USD 20 M revenue by selling deuterium-depleted food products (Preventa®), veterinary anticancer (Vetera-DDW-25®) and raised almost USD 2 M VC funds to finance its drug development.  Volumes 1: New York, NY.  Another, more popular name for deuterium is heavy water.  Immaculate water for your well-being.  By taking the retort foods, one&#39;s health is possible to be maintained.  Cytochrome 2 and 3 is where most fat and protein electrons come in to electron chain transport.  October 7, 2018 Siim Land No comments exist. 01-135 ppm deuterium content) for use in the treatment of insulin resistance.  Use of deuterium depleted water for the treatment of insulin resistance .  Another concern with CELLFOOD is that it lists deuterium sulfate as the first ingredient in its &quot;proprietary blend.  Advancing Microbiology Applications for Food and Beverage Safety of food has always been a priority for food and beverage manufacturers.  Alternatively: use of deuterium depleted water with 0.  We enable science by offering product choice, services, process excellence and our people make it happen.  The function of deuterium-depleted water can be divided approximately into two aspects.  That is why.  Thus, green plants are naturally deuterium depleted while fruits &amp; starches are high in deuterium.  Inorganic Chemicals and Compounds from Medical Isotopes, Inc.  Toxic effects only start to become evident when about 25% of the hydrogen in your body is replaced by deuterium - and 50% is lethal.  1999).  www.  Cheap Hydrogen will reactivate all idled Hydrogen Based Industries internationally affected by high petroleum costs, and this will boost food, chemical, and metal industries worldwide.  To assist your body to naturally deplete deuterium, experts recommend choosing water and food sources with a depleted deuterium content less that what is typically found in tap water.  Russian Open Medical Journal 2014; 3: 0201.  PubChem Substance ID 24851683 Deuterium depletion and mitochondrial NADPH production: The link for epigenetic control of oncogenesis László G.  Deuterium-depleted water with about 125 ppm deuterium is generally used in ordinary drinking water and in the cosmetic industry.  DIVINIA is revolutionary because our exclusive Eco-friendly approach brings water back to its original, unadulterated form.  Consistent with the above, the effect of low deuterium (2H) in water has been shown to control cell proliferation in numerous biological systems in vitro and in vivo, as well as in human studies (2-11).  learn more I am in My 90th Year “Rapidly heating and cooling water stops disease!”… ultimately saving my life! DEUTERIUM IN NATURALLY OCCURRING FRESH WATER Besides holding minerals, naturally occurring fresh water also contains deuterium.  Even if you drink heavy water, you would get regular water from food, plus deuterium wouldn&#39;t instantly replace every molecule of ordinary water.  If you’re wondering what is deuterium and why deuterium and health matters, then check out this article! I’ll talk about deuterium depletion, deuterium depleted water, and deuterium in foods.  WHAT FOODS SHOULD I EAT, AND WHAT FOODS SHOULD I Preventa® is the best selling, most studied, and most trusted deuterium depleted drinking water in the United States and the rest of the world.  After measuring your levels with the D-terminator tests, the doctors recommend the consumption of healthy fats &amp; proteins, and other food sources that are low in deuterium.  The most astonishing discovery was that healthy cells quickly adapt to the lower deuterium concentration, whereas tumour cells are unable to do so.  Deuterium depletion is a hot health topic these days.  Food content of deuterium Leafy Greens. 01 to 135 ppm deuterium, preferably 105 to 125 ppm deuterium, for use in the treatment of insulin resistance.  What is Deuterium &amp; Why does it matter? Testing Deuterium Levels &amp; Normal Ranges; Foods that contain Deuterium; Deuterium in the Air &amp; Water; Methods to Deplete Deuterium; Red Light &amp; Deuterium Depletion; Deuteriums effect on Cholesterol Replacement of the daily fluid intake of patients with deuterium depleted water (DDW) results in the shortage of deuterium (D) in the body, and might exert an anticancer effect.  Fat from plants and grass fed animals is the most deuterium depleted When do you know you need to deplete more deuterium? That is a very good question.  All water, including water that has been distilled once, still contains deadly deuterium heavy water molecules.  I have done this for the past few weeks.  Foods could be created by either directly supplementing them with deuterium or by enriching the feed of farm animals, this week&#39;s New Scientist reports.  Prevalencia y factores de riesgo para infecciones del tracto urinario de inicio en la comunidad causadas por Escherichia coli productor de betalactamasas de espectro Serum samples of all five follow-up cases (100%) had strong-positive IgG responses to scrub typhus.  Deuterium depleted water, sometimes called “light water”, is a water in which deuterium is found in a smaller concentration than in naturally occurring water.  Summary There you have it, a basic level overview on deuterium, what it is, what is does to your body and how to avoid it.  The results are a faster metabolism, more energy, and more mental clarity.  Fat from plants and grass-fed animals is the most important deuterium depleted food source you can find.  Kirk-Othmer Encyclopedia of Chemical Technology.  After publication of the previous article, Molecular and Clinical Effects of Deuterium Depleted Water in Treatment and Prevention of Cancer in Positive Health Online a demand emerged for the explanation of the use of DDW in daily practice addressing the correlation between the application of deuterium depletion, life skills and diet. D.  Deuterium Oxide, 99.  non-deuterated compounds can differ, both in chemical and physical processes (this is called a kinetic isotope effect) , I can’t really come up with a scenario in which the use of a pressure cooker would change the deuterium content of food cooked in it in Consistent with the above, the effect of low deuterium (2H) in water has been shown to control cell proliferation in numerous biological systems in vitro and in vivo, as well as in human studies.  Four controls had low levels of antibodies against spotted fever group rickettsia, and only one had a low-level response to typhus group rickettsia.  You&#39;d need to drink it for several days to see a negative result.  The idea is that deuterium-depleted water has significant health benefits, including benefits for longevity and for cancer.  Anyone tried or heard of DDW Video Proof – John Ellis Water Machines Produce 3000% more measured energy THAN ANY OTHER WATER.  DIVINIA Water is the result of our proprietary purification technique that delicately removes the effects of man. 7ppm) against the pharmacological reference citalopram using three well established Thus, the bulk value of δ 2 H can be influenced by the tissue composition of the consumer in ways that are unrelated to food sources.  The link between oxygen and cancer is clear.  Work with sub-natural levels of deuterium (D) in animals has demonstrated an anti-cancer effect of low D-concentration in water.  LIGHT WATER or Deuterium Depleted Water (DDW) is water with less concentration of the naturally occurring deuterium (heavy Hydrogen).  Initially spinach and beans were studied. 01% total extract of polyphenols (from Aralia mandshurica cortex), applied individually or together was tested, towards a sublethal dose of X-rays (5.  And only in Russia the world’s first enterprise for the direct production of light water (deuterium depleted water - DDW, litewater) was created.  With decreasing concentration of deuterium in water, plants with large parameters of weight, number of stems, pods and seed are formed.  Deuterium levels tell you if your body is having trouble making energy, Metabolism Best is the goal.  By consuming the DEUTERIUM AQUA 105, the goal is to significantly (~30%) reduce the deuterium level of our body.  Boros, M.  Dr.  The water you drink – rivers, lakes, streams – is high in deuterium – people drink water according to what they eat.  MDL number MFCD00011332.  Product • Deuterium Depleted Water (DDW), is water which has a lower concentration of deuterium than occurs naturally.  MEASURED BY ELECTROLYSIS, The.  We need to pick our battles… Animal Fats from Grass-Fed Sources – Fat, whether from plants (olives, avocado, coconut) or from grass-fed animals is the most deuterium depleted source of calories.  Laszlo Boros is currently a Professor of Pediatrics at UCLA and the Co-Director of the Stable Isotope Research Laboratory at the Los Angeles Biomedical Research Institute (LABIOMED) at the Harbor-UCLA Medical Center with a primary focus on studying cancer cell metabolism with the use of a specifically designed 13C-glucose tracer and mass spectroscopy.  2.  These projects were the first big natural revelation of my team and learn more about how what Molecular Hydrogen and Deuterium affects our health.  How our society’s problematic diet is contributing to deuterium buildup. Langvey is the only water with 1.  Drinking deuterium depleted water has become a widely used method of controlling the level of deuterium in our cells.  If deuterium levels are high because the body is unable to effectively excrete them, consider using deuterium-depleted water to dilute the total deuterium count in your body.  Supplements and other “healthy” products that are high in deuterium.  The clinical effectiveness of deuterium depleted water (DDW) is discussed herein.  But I think deuterium depleted water used in various studies used 120 ppm to as low as 20ppm.  R esults: T here is a significant linear correlation between deuterium content of tap water and indicators of Health Deuterium content of water increases depression susceptibility: the potential role of a serotonin-related mechanism Full article; Precipitation Calculator Raymund Edwards - latitude and height and select monthly to read if you at -100 that means rain water is about 140 ppm vs 155 in sea water the more negative the better Description Water, deuterium-depleted (25g) More About this Item Warning: Chemicals sold by Cole-Parmer are not approved or intended for, and should not be (i) used for medical, clinical, surgical or other patient oriented applications, or (ii) combined with any food product or ingested in any form.  This is the title of the article published in National Journal, which presents the characteristics of deuterium depleted water production and its benefits Therefore deuterium depleted water [Somlyai et al.  It is well-known that due to its mass difference, deuterium (D) behaves differently from hydrogen in chemical reactions (called the isotope effect).  In naïve mice, consumption of deuterium depleted water results in changes of EEG parameters of sleep that are reminiscent of the effects of noradrenaline and serotonin reuptake inhibitors.  For human consumption Preventa® deuterium-depleted carbonated drinking water brand is available with different D-contents. com Telephone: 1.  A friend of mine recommended trying deuterium depletion, it has got no side effect and it is safety.  an immaculate water for your wellness.  Fat is the best source of deuterium depleted calories – fats from plants are naturally highly deuterium depleted and fats from animal that eat grass is more deuterium depleted than fat from grain-fed animals.  for Cancer Research and Drug Development engages in the research, development, and marketing of pharmaceutical and consumer products primarily for the treatment and prevention of tumorous The ortho form of deuterium is more stable than the para form at low temp, and at normal temp the ratio of ortho to para deuterium is 2:1 in contrast to the 3:1 ratio for hydrogen.  New method for making large quantities of deuterium-depleted drinking water Date: January 6, 2011 Source: American Chemical Society Summary: Scientists in China are reporting development of a less Hello chemists! After reading topics about deuterium depleted water (light water) and it’s effects on cancer and the body in general over the last few years (which I won’t go into here), I have been dying to get my hands on the stuff.  TCI America offers a broad range of hi Metabolic Solutions is a collaboration between a group of Bio-Medical, Bio-Chemical and Nutrition Engineering pioneers who are leaders in the fields of biological optimization and macro and micro nutrition technologies.  But that means that we need to be able to read the test results.  what is deuterium and health deauterium in foods high in deuterium depleted water deuterium depleted food.  Cancer, Ketogenic Diet, Deuterium Depletion &amp; Metabolic Tracing – Dr. &quot; As the other ingredients in the blend are identified as &quot;trace&quot; ingredients (as noted above), a substantial amount of the 328 mg of this blend in each 8 drop serving of CELLFOOD appears to be deuterium sulfate.  Deuterium is a heavier isotope of hydrogen which has, in addition to its one proton, a neutron that roughly doubles the mass of the hydrogen atom.  Additional data are now available in an article from Natural Health Response, written by Richard Gerhauser, M.  Except living a healthy life outdoors and eat only organic foods, there is actually no way to stop deuterium from accumulating in our cells, except replacing plain water with 25 HydroHealth, which is deuterium-depleted water.  The Heraeus HST-DB566 light source has deuterium and tungsten halogen lamps designed to provide spectral output from 190 nm to 2,500 nm. 5 – 3 times lower content of heavy hydrogen deuterium.  The National Institute of Health has conducted various studies about the benefits of Deuterium depleted water.  Benefits When you drink Deuterium Depleted Water you are drinking very pure water that allows your body to function properly.  Water of decreased deuterium content (deuterium-depleted water, DDW) contains by far less heavy hydrogen (deuterium) than natural water, and the decrease is severalfold higher than the natural variability of deuterium concentration.  Thus, deuterium-depleted drinking water could present a novel prophylactic strategy for depression.  Cytochrome 4 is the real specialized, while cytochrome C oxidase, that&#39;s where we actually make most of our water called metabolic cell water.  What are the specialities of Preventa deuterium-depleted drinking waters? – How deuterium content is determined? The world’s first commercial source for Deuterium Depleted Water (DDW) was built in Romania in the late 1990s, using a Romanian patented invention.  Deuterium Depleted Foods.  It was therefore postulated that D-depletion would have therapeutic use in patients with cancer and other neoplastic diseases.  – Study the Deuterium content in germinated beans, grains and others.  This week we continue with Phil Escott, a fellow carnivore who dedicates his time spreading the word and saving vegans and vegetarians.  We need to make sure deuterium levels in the body are low and we can do this by eating foods that are low in deuterium and that produce the most amount of deuterium deplete, metabolic water as possible.  With only a small fraction of the deuterium found in naturally occurring water (25ppm as compared to 155ppm) our 25 Preventa deuterium-depleted drinking water is recommended for health conscious individuals, and suggested for use by replacement of the daily normal fluid intake.  Water with a deuterium molecule concentration of 1 to 120 parts per million can be considered deuterium depleted water or DDW.  Due to its atomic mass, the isotope is a better neutron moderator than ordinary hydrogen, and deuterium oxide is used in some nuclear fission reactors, such as the CANDU design.  In this first half the interview we&#39;ll find out what he does, what a low deuterium diet is, the contradiction that is vegan carnivores, and how how to prevent diets turning into cults.  13, No.  Old food is higher in deuterium than young food because it, like us, lose their ability to deplete deuterium with age. The nucleus of deuterium, called a deuteron, contains one proton and one neutron, whereas the far more common protium has no neutron in the nucleus.  In newly formed cells, low levels of oxygen damage respiration enzymes so that the cells cannot produce energy using oxygen.  papers on how having lower deuterium levels promotes health, both through eating a ketogenic diet and drinking low deuterium water.  The article presents the results of the study of the deuterium (D) content in food products as well as the influence of deuterium depleted water (DDW) on the concentration of heavy hydrogen isotopes in the blood and lyophilized tissues of rats.  FOODS LOWEST IN DEUTERIUM / DEUTERIUM-DEPLETED.  Let&#39;s check levels and improve your mineral metabolism.  3: 1-6.  Modern processed food products containing refined and natural sugars, carbohydrates, and proteins, especially when they contain gene modified (GMO) products are high în deuterium.  Stimulating action of deuterium depleted water on the immune system of animals has led to delay of development of metastasis by 40% in comparison with the control group, and weight loss in animals that consumed deuterium depleted water at the end of the experiment was 2 times less.  Fat from plants and grass fed animals is the most deuterium depleted food source.  Molecular Weight 18.  By consuming the DEUTERIUM AQUA 85, the goal is to significantly (~40%) reduce the deuterium level of our body.  How you can get low deuterium water.  By taking the retort foods, one’s health is possible to be maintained.  Active agent DDW Deuterium-depleted water.  Deuterium and Tungsten Halogen Fiber Coupled Light Source.  It was also revealed that deuterium-depleted water consumption did not display any toxic effects.  Since water normally has two hydrogens, it can be found with either two, one, or none of them being deuterium atoms.  A study of the utilization of dual-temperature catalytic exchange between water and hydrogen for the production of deuterium-depleted water is presented.  DEUTERIUM AQUA 105: Deuterium Depleted still drinking-water (DDW).  DDW or deuterium depleted water is based on the concept that water that is imbalanced is heavy in this isotope called deuterium which makes it very, very difficult for a cell to properly metabolize water, and the idea is that you do not engage in normal cellular metabolism as efficiently if the water that you’re drinking is heavy in this Foreign scientists use in experiments light water (deuterium depleted water - DDW, litewater) from nuclear power plants where it is produced as a byproduct during the production of heavy water.  In fact, an underlying cause of cancer is usually low cellular oxygenation levels.  About 15% of these are other food &amp; beverage, 1% are water bottles, and 1% are filling machines.  Make sure you check it out below.  Only deuterium depleted water Langvey subject to long-term consumption 2 – 3 months reduces deuterium in the body by 15 to 40.  According to NMR (nuclear magnetic resonance) spectroscopy, DDW contained about three times less deuterium than the natural water of the region where these rats lived (150 ± 2 ppm).  Deuterium is represented by the symbol ²H or, more simply, by an uppercase D.  Deuterium Depletion is a Disruptive Innovation in the Pharma Industry – HYD Pharma Develops New Deuterium-Depleted Drugs for the Treatment of Neoplastic and Metabolic Diseases The world’s first deuterium-depleted antitumor medicine, Vetera-DDW-25® for veterinary application, was registered in Hungary in 1999.  deuterium depleted water [ddwater(r)] having 0-135ppm ddwater concentration, body slimming effect and antiaging effect owing to food produced by using the deuterium depleted water [ddwater(r)] having 0-135ppm deuterium water concentration A study of the utilization of dual-temperature catalytic exchange between water and hydrogen for the production of deuterium-depleted water is presented. , p. 01-135 ppm deuterium content in the manufacturing of food products applicable in the treatment of insulin resistance.  Are you drinking deuterium‐depleted water yet? Deuterium is a natural isotope of hydrogen and a normal component of water. Old food is higher in deuterium than young food because it, like us, lose their ability to deplete deuterium with age – young food is healthier to eat. , Vol.  exhibited Preventa® deuterium-depleted drinking water at the ANUGA Exhibition as a seeded product at the Health &amp; Functional Food Forum in Cologne in October, 2005. , entitled “Magic Water Destroys Cancer Cells.  Lard – The lowest deuterium food is pork fat (lard), but it’s inflammatory.  Brochure Power Supplies for Deuterium Lamps .  elegans) as a model system.  Deuterium-depleted water (DDW), or light water, has a lower concentration of deuterium than occurs naturally, usually about 145 ppm-125 ppm or less.  This amazing effect has led some health practitioners to associate The present paper deals with the study of the deuterium depleted water (DDW) treatment effect on the liver levels of calcium and magnesium, after cromium(VI) intoxication.  Ben Greenfield also mentioned drinking something called deuterium depleted water as a cancer management or prevention strategy.  I am assuming that using our widely available RO water and foods low in DDW we do not need to worry much about lowering our DDW excessively. ”(5) This model assumes that UV radiation effectively mimics normal wear and tear in cellular DNA.  Water, deuterium-depleted ≤1 ppm (Deuterium oxide) Synonym: Deuterated depleted water CAS Number 7732-18-5.  1) May Protect Against Radiation.  Water, Deuterium Depleted -- D1391.  Explore Deuterium depleted water profile at Times of India for photos, videos and latest news of Deuterium An adult human naturally has about 1g of Deuterium.  deuterium content of tap water, we measured the strength of association between deuterium content of water and indicators of older adult Health Status and Health Behavior using Pearson correlation analysis.  40% lower deuterium content than other mineral water or tap water.  PerformancePLUS Long-Life Deuterium Detector Lamps are specifically designed for use with Waters detectors to ensure long-life, cost-effective performance.  Get More Info on Supplier&#39;s Site The deuterium depletion protocol that she has decided to follow looks like this: Deuterium depletion water therapy (Preventa) Nutrient dense, low deuterium ketogenic foods Breathing therapy Natural light therapy Red and near infrared therapy Body temperature cycling Environmental mitigation Metabolic supplementation Deuterium metabolic imaging (DMI) is a novel, noninvasive approach that combines deuterium magnetic resonance spectroscopic imaging with oral intake or intravenous infusion of nonradioactive 2H-labeled substrates to generate three-dimensional metabolic maps.  Lucrari st Med Vet.  However, the hydrogen is tied up in complex molecules.  Group 1 –control group receives dry food and natural water during 61 days.  EC Number 231-791-2.  Well, since deuterium is found in all water, from 120 to 160 ppm, first you would have to research the health of the area with the lowest deuterium, and since it collects and stays in fat tissue, the depleted deuterium water would have to have a way to draw out the deuterium from the fat.  Higher deuterium levels, which results from the .  Deuterium-depleted foodstuffs represent a novel product category, the characteristic property of which is, in analogy to cholesterol-free or low carbohydrate foods, the low deuterium content.  Deuterium Depleted Water and Cancer.  4th ed.  Deuterium-depleted water consumption during 42 days influenced the body and internal organ weights while integral index of chronic intoxication did not increase in rats with chronic intoxication.  At the beginning of the depletion process, nutrition is key.  For example, natural, fatty food like grass fed meat, wild caught fish and seafood, green vegetables and nuts all have low deuterium and are ideal as a diet including deuterium depleted water (25 HydroHealth).  Gábor Somlyai, the grandfather of deuterium depletion. w.  Deuterium Depleted Water (DDW) is the best way to do this. hydroisotop.  qlarivia immaculate water 25 purified drinking water with low content of deuterium cur specialists created qlarivia.  Diabetes mellitus (DM) is a chronic disease of human metabolism. de Your partner in isotopy &amp; chemistry in environmental hydrology and food Basics All chemical elements have isotopes. 02 .  The clinical effectiveness of deuterium depleted water (DDW) is well established.  This adds up to about 5 grams of natural heavy water in your body.  How you can eat a deuterium-depleted diet.  Deuterium Depleted Water The folks at the Deuterium Depletion center said that it was his best interview he’s ever done.  The water you drink - rivers, lakes, streams - is high in deuterium - people drink water according to what they eat.  Keywords: antioxidants, oxidative stress, deuterium depleted water, electron paramagnetic resonance Cite as Artsybasheva O, Barysheva E, Shashkov D, Vlasov R, Tekutskaya E.  There was no significant influence of cholesterol category of the subjects on deuterium incorporation into cholesterol.  prepared on water with a low deuterium content [10]–[12].  Fat from plants and grass fed animals is the most deuterium depleted Old food is higher in deuterium than young food because it, like us, lose their ability to deplete deuterium with age – young food is healthier to eat.  Now, we’re working on foods to generate more hydrogen in vivo and low deuterium diets.  Download Citation on ResearchGate | Crystal Structure of HIV-1 Primary Receptor CD4 in Complex with a Potent Antiviral Antibody | Ibalizumab is a humanized, anti-CD4 monoclonal antibody.  Cumulative seed production of one plant Arabydopsis has made on an average 322 seeds at a pour by deuterium free water, 141 seeds at a pour by usual distillate water and 95 seeds at a pour by water with increased (d D=+355‰) contents of deuterium.  Boros serves as Chief Scientist at the Center for Deuterium Depletion, the world’s first organization to use deuterium and tracer technologies in a research clinic setting to describe and follow the health status of patients with metabolic disorders such as cancer, diabetes, and autoimmune disorders.  3.  Fat from plants and grass fed animals is the most deuterium depleted food Preventa America 5737 Kanan Road, #503 Agoura Hills, CA 91301 E-mail: info@preventausa.  Linear Formula H 2 O .  Hart and Setlow found that “both the rate and extent of unscheduled DNA synthesis after UV irradiation of fibroblasts increases with the life-span of the of the species.  Deuterium Depleted Water has been purified hundreds of times to improve the quality of the water.  This lighter deuterium-depleted water more readily penetrates cell membranes, carrying nutrients and electrons that destroy free radicals, plus improving cell, hydration, nutrition and detoxification! In a paper published in 1999 it was found that feeding deuterium-depleted water increased survival after radiation in … Given that the harmful effects of radiation are caused by free radical damage to cellular components such as proteins and DNA it would make sense that deuterium-depleted water should worsen survival not improve it.  Deuterium depletion is why keto &amp; fasting are so Deuterium-depleted water consumption during 42 days influenced the body and internal organ weights while integral index of chronic intoxication did not increase in rats with chronic intoxication.  This means: you make the MOST amount of energy, from the LEAST amount of food.  • In Vienna Standard Mean Ocean Water (VSMOW), deuterium occurs at a rate of 155.  Deuterium depleted water was produced on a plant designed in the Kuban State University, by the electrolytic decomposition method.  Is fruit a good thing to include in your diet? prevention.  It comes as no surprise that processed foods, high carbohydrate foods, grains and starches, legumes and fruits are high deuterium foods. UNIQIE BODY CLEANUP .  Eating foods that are low in deuterium is essential to rebuilding your metabolism and ability to produce energy.  This book is an account of experiments carried out using deuterium-depleted water (Dd-water) and of the human clinical trials underway in Hungary.  Laszlo G.  Replacement of tap water to deuterium depleted water did not influence on fertility index as well as on survival and postnatal offspring development.  John Ellis Water Machines automatically distills water over 100 times per gallon.  (2014).  Complete or partial Deuterium is something that you may want to take into account as well.  My guess is that deuterium is actually what the ancient rishis called “ama”, but they just didn’t have Heraeus power supplies are characterised by very low-noise operation.  Find many great new &amp; used options and get the best deals for Deuterium Aqua 105 - Deuterium depleted drinking water 105 PPM - 6 x 1.  All but one control (10%) had a moderate response against scrub typhus.  Deuterium-depleted water (DDW), also known more ambiguously as light water, is water which has a lower concentration of deuterium than occurs naturally. 01 to 135 ppm deuterium, preferably 105 to 125 ppm deuterium, for use in the treatment of The deuterium depletion protocol that she has decided to follow looks like this: Deuterium depletion water therapy (Preventa) Nutrient dense, low deuterium ketogenic foods Breathing therapy Natural light therapy Red and near infrared therapy Body temperature cycling Environmental mitigation Metabolic supplementation WHAT MAKES DEUTERIUM DEPLETED WATER LANGVEY UNIQUE 1.  PDF | In the experiments performed in mouse (Mus musculus) the radioprotective effect of Deuterium Depleted Water (DDW, with 30 ppm deuterium) and a 0. , (1993) FEBS Lett.  I have written before about some of the holistic methods for treating cancer.  So The following health effects of deuterium-depleted water have only been examined in animal and/or cell studies.  If you are drinking DDW or deuterium depleted water in the hopes of lowering your body’s deuterium level, you will want to read this article Deuterium depleted water (DDW) has been shown to suppress cancer growth and extend survival of lung cancer patients [4].  it is unique formula has a deuterium concentration five times smaller than regular water Cytochrome 1 is where all electrons come in from carbohydrates.  £7.  Green plants and vegetables – the chloroplast depletes deuterium from green leafy plants and vegetables like broccoli, kale, spinach etc.  Adopting a diet high in fat like a natural paleo-ketogenic diet can help your body produce your own deuterium depleted water inside your cells, hydrating your body from the inside This waste is the bile. 05) deuterium incorporation across low- to medium- and low- to high-cholesterol diets but not across medium- to high-cholesterol diets (Table 3).  Have those clinical result been used to advance and market deterium depleted water, sure.  Schedule a 15-minute free call, and enroll in our program! It includes baseline deuterium testing, an immediate 45-day supply of our drinks and deuterium-depleted water, as well as our deuterium-depleted nutrition protocol.  Water from the Rocky mountains (The highest peak is 4401 meters) in Western United States has been measured with 136 ppm deuterium. ) has been observed.  Natural water In 1999, we therefore registered our first deuterium-depleted product as an anticancer drug for veterinary use, and tried to get on the market with other deuterium-depleted consumers products.  First, deuterium-depleted water could promote animal and plant growth and play a significant role in health care.  At high altitudes, there’s a natural low deuterium food chains that including water, bugs, plants, animals and humans.  While it’s true that reaction rates of deuterated vs.  There seems to be a natural depletion process in the chloroplast that is enzematic.  That tends to be deuterium depleted. .  DEUTERIUM AQUA 85: Deuterium Depleted still drinking-water (DDW) Deuterium content: 85 PPM ± 3 PPM 40% lower deuterium content than other mineral water or tap water.  We&#39;ve gathered the best Deuterium Depleted Water discounts &amp; best prices from top websites.  Deuterium […] With the discovery of DDW (deuterium depleted water or light water), it was obtained a rapid and easy way to reduce deuterium in biological systems by the simple administration in the development medium or in drinkable water of deuterium depleted water.  It&#39;s harmless. 01% total extract of polyphenols (from Aralia The highest exposure to deuterium comes from our water and food.  Keywords: cereals, micropropagation, deuterium depleted water, Pi water INTRODUCTION Water and cereals, raw materials in obtaining many food products, but not just, are two prime necessities of life, which can influence in direct way, by consuming them, or indirect way, the health and environment, in positive and negative way. ” The magic water of the title is deuterium-depleted water (DDW).  Deuterium […] Learn more about Water, deuterium depleted deuterium 2-3 ppm.  In particular, lipids are highly depleted in 2 H making them substantially more negative (in del units) than other tissue constituents such as protein (Smith and Epstein 1970; Sessions et al.  Boros Nourish Vermont Traditional Foods and Health Gathering 126,836 views.  The Real Food Company 48 - 50 Sandbach Road South Alsager, Cheshire, ST7 2LP The article presents the results of the study of the deuterium (D) content in food products as well as the influence of deuterium depleted water (DDW) on the concentration of heavy hydrogen isotopes in the blood and lyophilized tissues of rats.  Anne Cooper of DD Centers Show notes for Episode #63.  Get Started on Your Path to Wellness.  Although the pharmaceutical grade product is not yet approved by the United States Food and Drug Administration, the process has been started.  In 2008, we launched QLARIVIA – the world’s first drinking DDW with a deuterium content of 25 ppm. 28 Gy)</b><!--/noindex-->                  </li>
+
+                                    <li  class="menuItemLi  active">
+
+                    информацию.
+
+           <!--/noindex-->           <div style="margin-top:5px;">
+
+            <!--noindex-->
+
+            <!--LiveInternet counter--> <!--/LiveInternet-->
+
+            <!--/noindex-->
+
+          </div>
+
+          
+
+          
+
+		 
+
+<!--</div>-->
+
+  	
+
+  	 
+
+
+
+  </body>
+
+
+
+
+
+            
+
+</html>

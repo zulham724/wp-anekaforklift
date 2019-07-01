@@ -1,0 +1,719 @@
+
+
+<!DOCTYPE html>
+
+<html lang="ru-RU" prefix="og: http://ogp.me/ns#">
+
+<head>
+
+<meta charset="UTF-8" />
+
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+
+<link rel="pingback" href="" />
+
+<title>Что такое WAP в телефоне и чем он отличается от GPRS? | База ответов на любые вопросы</title>
+
+<meta property="og:title" content="Что такое WAP в телефоне и чем он отличается от GPRS? - База ответов на любые вопросы"/>
+
+<meta property="og:type" content="article"/>
+
+<meta property="og:description" content="Мобильный интернет сегодня занимает существенную долю пользования телефоном у многих абонентов сотов"/>
+
+<meta property="og:url" content="https://www.mnogo-otvetov.ru/computery/chto-takoe-wap-v-telefone-i-chem-on-otlichaetsya-ot-gprs/"/>
+
+<meta property="og:site_name" content="База ответов на любые вопросы"/>
+
+<meta property="og:image" content="https://www.mnogo-otvetov.ru/wp-content/uploads/2015/12/3334-560x330.jpg" />
+
+
+
+<!-- All in One SEO Pack 3.1.1 от Michael Torbert из Semper Fi Web Designob_start_detected [-1,-1] -->
+
+<meta name="description"  content="Мобильный интернет сегодня занимает существенную долю пользования телефоном у многих абонентов сотовой связи. Тем не менее, далеко не все из них достаточно" />
+
+
+
+<link rel="canonical" href="https://www.mnogo-otvetov.ru/computery/chto-takoe-wap-v-telefone-i-chem-on-otlichaetsya-ot-gprs/" />
+
+<!-- All in One SEO Pack -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+
+<link rel='dns-prefetch' href='//s.w.org' />
+
+<link rel="alternate" type="application/rss+xml" title="База ответов на любые вопросы &raquo; Лента" href="https://www.mnogo-otvetov.ru/feed/" />
+
+<link rel="alternate" type="application/rss+xml" title="База ответов на любые вопросы &raquo; Лента комментариев" href="https://www.mnogo-otvetov.ru/comments/feed/" />
+
+<link rel="alternate" type="application/rss+xml" title="База ответов на любые вопросы &raquo; Лента комментариев к &laquo;Что такое WAP в телефоне и чем он отличается от GPRS?&raquo;" href="https://www.mnogo-otvetov.ru/computery/chto-takoe-wap-v-telefone-i-chem-on-otlichaetsya-ot-gprs/feed/" />
+
+		 
+
+		<style type="text/css">
+
+img.wp-smiley,
+
+img.emoji {
+
+	display: inline !important;
+
+	border: none !important;
+
+	box-shadow: none !important;
+
+	height: 1em !important;
+
+	width: 1em !important;
+
+	margin: 0 .07em !important;
+
+	vertical-align: -0.1em !important;
+
+	background: none !important;
+
+	padding: 0 !important;
+
+}
+
+</style>
+
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.mnogo-otvetov.ru/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+
+<link rel='stylesheet' id='wp-pagenavi-css'  href='https://www.mnogo-otvetov.ru/wp-content/plugins/wp-pagenavi/pagenavi-css.css' type='text/css' media='all' />
+
+<link rel='stylesheet' id='tie-style-css'  href='https://www.mnogo-otvetov.ru/wp-content/themes/kometa/style.css' type='text/css' media='all' />
+
+<link rel='stylesheet' id='tie-ilightbox-skin-css'  href='https://www.mnogo-otvetov.ru/wp-content/themes/kometa/css/ilightbox/dark-skin/skin.css' type='text/css' media='all' />
+
+<link rel='stylesheet' id='Droid+Sans-css'  href='https://fonts.googleapis.com/css?family=Droid+Sans%3Aregular%2C700' type='text/css' media='all' />
+
+
+
+<link rel='https://api.w.org/' href='https://www.mnogo-otvetov.ru/wp-json/' />
+
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.mnogo-otvetov.ru/xmlrpc.php?rsd" />
+
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.mnogo-otvetov.ru/wp-includes/wlwmanifest.xml" /> 
+
+<link rel='prev' title='Кто такие хипстеры и что они делают?' href='https://www.mnogo-otvetov.ru/obshestvo/kto-takie-xipstery-i-chto-oni-delayut/' />
+
+<link rel='next' title='Что такое спред на бирже?' href='https://www.mnogo-otvetov.ru/finansy/chto-takoe-spred-na-birzhe/' />
+
+<meta name="generator" content="WordPress 5.2.2" />
+
+<link rel='shortlink' href='https://www.mnogo-otvetov.ru/?p=11137' />
+
+<link rel="alternate" type="application/json+oembed" href="https://www.mnogo-otvetov.ru/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.mnogo-otvetov.ru%2Fcomputery%2Fchto-takoe-wap-v-telefone-i-chem-on-otlichaetsya-ot-gprs%2F" />
+
+<link rel="alternate" type="text/xml+oembed" href="https://www.mnogo-otvetov.ru/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.mnogo-otvetov.ru%2Fcomputery%2Fchto-takoe-wap-v-telefone-i-chem-on-otlichaetsya-ot-gprs%2F&#038;format=xml" />
+
+
+
+<link rel="stylesheet" href="https://www.mnogo-otvetov.ru/wp-content/plugins/related-posts-by-zemanta/static/themes/vertical.css?version=1.8.1" />
+
+<link rel="shortcut icon" href="https://www.mnogo-otvetov.ru/wp-content/themes/kometa/favicon.ico" title="Favicon" />
+
+<!--[if IE]>
+
+<script type="text/javascript">jQuery(document).ready(function (){ jQuery(".menu-item").has("ul").children("a").attr("aria-haspopup", "true");});</script>
+
+<![endif]-->
+
+<!--[if lt IE 9]>
+
+<script src="https://www.mnogo-otvetov.ru/wp-content/themes/kometa/js/html5.js"></script>
+
+<script src="https://www.mnogo-otvetov.ru/wp-content/themes/kometa/js/selectivizr-min.js"></script>
+
+<![endif]-->
+
+<!--[if IE 9]>
+
+<link rel="stylesheet" type="text/css" media="all" href="https://www.mnogo-otvetov.ru/wp-content/themes/kometa/css/ie9.css" />
+
+<![endif]-->
+
+<!--[if IE 8]>
+
+<link rel="stylesheet" type="text/css" media="all" href="https://www.mnogo-otvetov.ru/wp-content/themes/kometa/css/ie8.css" />
+
+<![endif]-->
+
+<!--[if IE 7]>
+
+<link rel="stylesheet" type="text/css" media="all" href="https://www.mnogo-otvetov.ru/wp-content/themes/kometa/css/ie7.css" />
+
+<![endif]-->
+
+
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+
+
+
+
+
+
+<style type="text/css" media="screen">
+
+
+
+::-webkit-scrollbar {
+
+	width: 8px;
+
+	height:8px;
+
+}
+
+
+
+
+
+::-moz-selection { background: #1975d2;}
+
+::selection { background: #1975d2; }
+
+#main-nav,
+
+.cat-box-content,
+
+#sidebar .widget-container,
+
+.post-listing,
+
+#commentform {
+
+	border-bottom-color: #0e4d7a;
+
+}
+
+
+
+.search-block .search-button,
+
+#topcontrol,
+
+#main-nav ul li.current-menu-item a,
+
+#main-nav ul li.current-menu-item a:hover,
+
+#main-nav ul li.current_page_parent a,
+
+#main-nav ul li.current_page_parent a:hover,
+
+#main-nav ul li.current-menu-parent a,
+
+#main-nav ul li.current-menu-parent a:hover,
+
+#main-nav ul li.current-page-ancestor a,
+
+#main-nav ul li.current-page-ancestor a:hover,
+
+.pagination span.current,
+
+.share-post span.share-text,
+
+.flex-control-paging li a.flex-active,
+
+.ei-slider-thumbs li.ei-slider-element,
+
+.review-percentage .review-item span span,
+
+.review-final-score,
+
+.button,
+
+a.button,
+
+a.more-link,
+
+#main-content input[type="submit"],
+
+.form-submit #submit,
+
+#login-form .login-button,
+
+.widget-feedburner .feedburner-subscribe,
+
+input[type="submit"],
+
+#buddypress button,
+
+#buddypress a.button,
+
+#buddypress input[type=submit],
+
+#buddypress input[type=reset],
+
+#buddypress ul.button-nav li a,
+
+#buddypress div.generic-button a,
+
+#buddypress .comment-reply-link,
+
+#buddypress div.item-list-tabs ul li a span,
+
+#buddypress div.item-list-tabs ul li.selected a,
+
+#buddypress div.item-list-tabs ul li.current a,
+
+#buddypress #members-directory-form div.item-list-tabs ul li.selected span,
+
+#members-list-options a.selected,
+
+#groups-list-options a.selected,
+
+body.dark-skin #buddypress div.item-list-tabs ul li a span,
+
+body.dark-skin #buddypress div.item-list-tabs ul li.selected a,
+
+body.dark-skin #buddypress div.item-list-tabs ul li.current a,
+
+body.dark-skin #members-list-options a.selected,
+
+body.dark-skin #groups-list-options a.selected,
+
+.search-block-large .search-button,
+
+#featured-posts .flex-next:hover,
+
+#featured-posts .flex-prev:hover,
+
+a.tie-cart span.shooping-count,
+
+.woocommerce span.onsale,
+
+.woocommerce-page span.onsale ,
+
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle,
+
+.woocommerce-page .widget_price_filter .ui-slider .ui-slider-handle,
+
+#check-also-close,
+
+a.post-slideshow-next,
+
+a.post-slideshow-prev,
+
+.widget_price_filter .ui-slider .ui-slider-handle,
+
+.quantity .minus:hover,
+
+.quantity .plus:hover,
+
+.mejs-container .mejs-controls .mejs-time-rail .mejs-time-current,
+
+#reading-position-indicator  {
+
+	background-color:#0e4d7a;
+
+}
+
+
+
+::-webkit-scrollbar-thumb{
+
+	background-color:#0e4d7a !important;
+
+}
+
+
+
+#theme-footer,
+
+#theme-header,
+
+.top-nav ul li.current-menu-item:before,
+
+#main-nav .menu-sub-content ,
+
+#main-nav ul ul,
+
+#check-also-box {
+
+	border-top-color: #0e4d7a;
+
+}
+
+
+
+.search-block:after {
+
+	border-right-color:#0e4d7a;
+
+}
+
+
+
+body.rtl .search-block:after {
+
+	border-left-color:#0e4d7a;
+
+}
+
+
+
+#main-nav ul > li.menu-item-has-children:hover > a:after,
+
+#main-nav ul > li.mega-menu:hover > a:after {
+
+	border-color:transparent transparent #0e4d7a;
+
+}
+
+
+
+.widget.timeline-posts li a:hover,
+
+.widget.timeline-posts li a:hover span.tie-date {
+
+	color: #0e4d7a;
+
+}
+
+
+
+.widget.timeline-posts li a:hover span.tie-date:before {
+
+	background: #0e4d7a;
+
+	border-color: #0e4d7a;
+
+}
+
+
+
+#order_review,
+
+#order_review_heading {
+
+	border-color: #0e4d7a;
+
+}
+
+
+
+
+
+body {
+
+	background-color: #ffffff !important;
+
+	background-image : url(https://www.mnogo-otvetov.ru/wp-content/themes/kometa/images/patterns/body-bg1.png);
+
+	background-position: top center;
+
+}
+
+
+
+a {
+
+	color: #226078;
+
+}
+
+		
+
+a:hover {
+
+	color: #1889d9;
+
+}
+
+		
+
+</style>
+
+ 
+
+		</head>
+
+<body id="top" class="post-template-default single single-post postid-11137 single-format-standard lazy-enabled">
+
+
+
+<div class="wrapper-outer">
+
+
+
+	<div class="background-cover"></div>
+
+
+
+	<aside id="slide-out">
+
+
+
+			<div class="search-mobile">
+
+			<form method="get" id="searchform-mobile" action="https://www.mnogo-otvetov.ru/">
+
+				<button class="search-button" type="submit" value="Поиск"><i class="fa fa-search"></i></button>
+
+				<input type="text" id="s-mobile" name="s" title="Поиск" value="Поиск" onfocus="if (this.value == 'Поиск') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Поиск';}"  />
+
+			</form>
+
+		</div><!-- .search-mobile /-->
+
+	
+
+			<div class="social-icons">
+
+		 	</div>
+
+
+
+	
+
+		<div id="mobile-menu" ></div>
+
+	</aside><!-- #slide-out /-->
+
+
+
+		<div id="wrapper" class="boxed">
+
+		<div class="inner-wrapper">
+
+
+
+		<header id="theme-header" class="theme-header">
+
+						<div id="top-nav" class="top-nav">
+
+				<div class="container">
+
+
+
+			
+
+				<div class="menu"> </div>
+
+
+
+						<div class="search-block">
+
+						<form method="get" id="searchform-header" action="https://www.mnogo-otvetov.ru/">
+
+							<button class="search-button" type="submit" value="Поиск"><i class="fa fa-search"></i></button>
+
+							<input class="search-live" type="text" id="s-header" name="s" title="Поиск" value="Поиск" onfocus="if (this.value == 'Поиск') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Поиск';}"  />
+
+						</form>
+
+					</div><!-- .search-block /-->
+
+			<div class="social-icons">
+
+		 
+
+			</div>
+
+
+
+	
+
+	
+
+				</div><!-- .container /-->
+
+			</div><!-- .top-menu /-->
+
+			
+
+		<div class="header-content">
+
+
+
+					 
+
+		
+
+			<div class="logo" style=" margin-top:15px; margin-bottom:15px;">
+
+			<h2>						 
+
+					<img src="https://www.mnogo-otvetov.ru/wp-content/themes/kometa/images/logo.png" alt="База ответов на любые вопросы"  /><strong><h1>St edward church louisville</h1></strong>
+
+				 
+
+			</h2>			</div><!-- .logo /-->
+
+						<div class="clear"></div>
+
+
+
+		</div>
+
+													<nav id="main-nav" class="fixed-enabled">
+
+				<div class="container">
+
+
+
+				
+
+														 
+
+					
+
+					
+
+				</div>
+
+			</nav><!-- .main-nav /-->
+
+					</header><!-- #header /-->
+
+
+
+		
+
+	<div class="clear"></div>
+
+	<div id="breaking-news" class="breaking-news">
+
+		<span class="breaking-news-title"><i class="fa fa-bolt"></i> <span> </span></span>
+
+		
+
+					<ul>
+
+					<li><b> Edward's Church. 9133. Sign up for updates and offers delivered straight to your inbox. Opening mass for the Synod of the Bishops at St. Current Altar. Church - St. Edward Lee's Actors Theatre restaurant offers stepped-up Southern classics, some with Asian twists, as in the "Southern Dim Sum" menu Lee recently unveiled .  Bernard Louisville. This image has an empty alt attribute; its file name is 201. What members have found on this page. St. The St. About Us. Photos (1).  James Lutheran Church. West Louisville Forum featuring Sadiqua Reynolds, CEO of the Louisville Urban LeagueSt. .  Martin Moreno, pastor at St. History of St.  He did not. 3914 Saint Edwards Dr, Louisville, KY 40299. November 8, 1980.  E.  Providence College 2.  Edward .  MICHAEL CATHOLIC CHURCH.  - 1890s. Homes for rent near Christian Academy of Louisville - Louisville, KY | Apartments.  Edward School | 4343 W.  Edward's Church . from St. Cardinal Cupich was the main celebrant during a Mass celebrating milestone anniversaries of religious priests, sisters and brothers at St.  Mark's Presbyterian Church. Confessions. Fr. jpg.  John A.  John M.  Bernadette Church . Ann Priscilla and Michael McDonough were the parents of Mary Ann, Edward, William Thomas, John Henry, Sarah Liz, Catherine "Kate" and Ada Generose.  MELISSA WAGONER. 22 foot long pew at st edward catholic church in Nashville, Tn - Church Pew. St Edward's Church, Eggbuckland near Plymouth, Devon in 1880s, line illustration by Stanley.  Edward.  Nikolai Mission. There Have Been At Least 100 Attacks On Black Churches Since 1956 | HuffPost. Eight church picnics happening June 8-14.  Martin of Tours, Louisville, KY.  Edward Parish. Back. Latest Parish & Pastoral Ministry News. 736. St Edward Run for the Braves. Our rector, Grace Burton-Edwards, came to Columbus in February 2014 from Indianapolis.  Slide 6 . 9404 Garden Dr, Louisville, KY 40299.  Joseph Church 1895. Candles are illuminated after a mass celebrating celebrating the Feast of the Assumption, Wednesday,. Students from Holy Spirit School joined in “The Lord's Prayer” at the annual Catholic.  Louis Bertrand. Rear view of a church pew cushion job at St Edward Catholic Church in Nashville,.  Agnes Carnival is the second largest Cathoic picnic in town. Please join us!. Whether you are a parent looking for a nurturing community for your child, a family with school aged children looking for the right fit, or just curious .  (@ludowici Spanish tile roof installed for.  11 Mass at St.  St Edward's Episcopal Church . Internal Photos. Album — 2019 Black Church Studies Consultation by Louisville Seminary. Media contact: ccappalachia@gmail.  Intersted in becoming a member?. Photo Gallery.  Sunnyside Avenue | Chicago, IL 60630 | 773. 22nd St. ECH-menu-logo. Our Conventions. 12813 Dove Lake Dr Louisville, KY 40299.  Patrick's Day Parade on Bardstown Road in Louisville KY . Welcome to St.  Edward Catholic Church Addition.  Edward Catholic Community - St.  Edward's Catholic Church, Twin Falls.  St. Mass Times.  Edwards Church. Old St.  A. , Mighty Men of God Choir. In the face of difficulty - smile. Historic Old Louisville Neighborhood and Visitors Center.  Edward Maxwell Jr.  Edward School. Our next race in the picnic series is St. Worship Site Profile: Pine Forest Baptist Church.  | Courtesy of St. Empower West has stood up on issues important to the black community such has racial profiling and economic exclusion, requesting who are disenfranchised . Holy Spirit School students and students from other Archdiocese of Louisville schools prayed together during the.  Father Ronald Saunders, who had grown up in the parish and served as altar boy with . Site Search. 2019 - 2020 TUITION.  Saint Edward Church . Saint Edward Parish.  Agnes.  James Statue. OH Akron 1907 St Bernards Church Interior View. Zion at Centre Street. Other Archdiocesan Cemeteries in Louisville.  Michael Cemetery. Signature Healthcare of East Louisville. View 11 More Pictures. 0 replies 0 retweets 1 like. The Charlottesville Declaration: An Appeal to the Church in America - The Witness.  Matthews United Methodist Church in Louisville, Kentucky. Worship.  Mary of the Hills Parish in Rochester Hills from 1989, when the parish was founded, until 2004.  Anna's Episcopal Church sports a new sign after becoming a new mission congregation of the Diocese of California. First Baptist Church. com. Saint James' Episcopal Church. The Louisville archdiocese forced me to resign because of my gay marriage. Fern Creek Christian Church Louisville . Kudos to Recent Donors.  Edward Parish Community & School - Louisville, KY. 1908~Jeffersontown KY~St.  Edward Church in Jeffersontown posed for a photo recently with clergy. Ministry Schedules for Servers. candle1 copy. Jeffersontown Public Works Department. LOUISVILLE.  Edward's Run for the Braves June.  Augustine Parish, Brighton, Colorado, effective immediately until June 13, .  Charles Exchange. St Edward School 6th Grade Video Blog.  Edward Catholic Church. A History of First Presbyterian Church. lorem ipsum dolor sit. Jeffersontown City Hall. 1100 Springside Ct Louisville, KY 40223.  St Edward's . ST.  You can find current news, bulletins, mass times etc. The Village of St. St Edward's Church Altar, #Eggbuckland, Plymouth.  Davis Scholarship Banquet and Sunday Service - Chicago, IL. If you have a gift for music, as a vocalist or instrumentalist, come be a part of the Music Ministry here at St.  Eugene Strain was pastor of St.  13,. St Patrick Catholic Church. What Churches Serve Friday Fish Fries?. Another priest was making plans at this time to return to St. Sorry Indiana Jones, the Ark of the Covenant Is Not Inside This Ethiopian Church.  Edward at Fairlawn.  NE corner of 7th and Spring.  Edward Church & School. View original.  Saint Edward's Catholic Church & Parsonage~ Louisville. Dr.  EDWARD TEAM SPORTS. It's fish fry season in Louisville! Don't miss these 35+ fish fries for Lent 2019. Page 230.  Cecilia's.  Louis Catholic Parish. Reverend Franklin Sequeira-Treminio, appointed Administrator Pro Tempore, St. Ministry Schedules. Contact Us.  William Catholic Community in Louisville, Kentucky, share the sign of.  Nicholson. As the middle school students learn about the Corporal & Spiritual Works of Mercy, the Knights invited them to live mercy by helping clean the St. 14145St Stephen Baptist Church, Louisville, Ky. 06212011_5572. Jeffers returned to Jonesboro 11 months later and demanded Crowley step down. Vicar Shana McCauley, Reverend Neysa Ellgren Shepley, and Sarah White break ground at St. Edward John Dory obit 1990 - Edward John Dory, 79, formerly of Louisville,.  Martin of Tours of Flaherty.  Photo: Diocese of California. The body of Edward the Confessor is carried to Westminster Abbey, a detail from the. The carnival is the parish's largest fundraiser.  Cecilia. Parishioners of St. History. The neon sign at Impellizzeri's Pizza in Louisville, Kentucky. John Cantrell. Latino parishioners of St. 18-04-06 Emergency Equity Meeting. Dusk falls on the Cathedral Parish of Saint Patrick on Monday, Aug. B.  Church Dr. Morning Mass. Simmons College Celebrates MLK50 Anniversary Commemoration: A Day of Remembrance.  Edward at Wadsworth.  Martin of Tours Parish, Louisville, KY. Photo of 10217 Saint Rene Rd, Louisville, KY 40299. CLICK ON ANY OF THE SPORT IMAGES ABOVE TO LEARN MORE ABOUT ST. Church in Crisis Alleged Victims Say Incidents Altered Lives Comprehensive look at lawsuits against archdiocese shows many similarities.  Andrew's Catholic Church (Pasadena, California). PK 4 yr olds & K VBS. Here you can see what is going on with the Parish side of things.  Mary's Layout. Slide background.  She was originally ordained as an American Baptist pastor in 1994 and . Building the Kingdom of God. 3 in D-flat Major by Franz Liszt on February 4, 2017 at St. BCS Consultation Image cropped. Creighton University Creighton University Creighton University Creighton University. Assistant superintendent of schools Dr. Accused Youngstown Diocese clergy served at several schools, churches in Portage, Stark, Ashtabula counties | fox8. Photo of Saint Michael Catholic Church - Louisville, KY, United States.  We think that you will find that is .  Performed at the Friendship Concert .  Louisville Defender Newspaper's. Welcome.  Rita Catholic Church Louisville.  Peter Basilica on 4th October. Dallas Bishop Edward Burns and the Rev. IMG_0472. Ministry Schedules for Lectors and Eucharistic Ministers. Walnut Street Baptist Church (Louisville, Kentucky). DWP_0021 (2). Old Bohemia. Page Images Below. Visitors of Saint Thomas will notice a “walking timeline” in the walkway in front of the church. Chapel, St Edwards Hospital, built in 1902. Saint Albert the Great Parish. Jessica Byrd / St Edward School / 2010 Mason Dixon Games MS 800 Ky State Champion.  Catherine. 1 in B-flat Major by Johann Sebastian Bach on February 4, 2017 at St. LCCC honors Ellis, Price, Cosby and several others for leadership and community service.  Mary Beth Bowling, right, led a procession from. Accepting the award for all the participants were Father Joseph Graffis, right, of St. Transitional Deacon Matthew Tucci proclaims the Gospel during an Aug. 1851 – Saint James Catholic Church began as a mission church. St Edwards | Louisville History in Black & White | House styles, Home Decor, House. The 2019 Empower West Louisville City Wide Book Club</b></li>
+
+					</ul>
+
+					
+
+		
+
+		 
+
+	</div> <!-- .breaking-news -->
+
+
+
+	
+
+	<div id="main-content" class="container">
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	<div class="content">
+
+
+
+		
+
+		<div xmlns:v="http://rdf.data-vocabulary.org/#"  id="crumbs"><span typeof="v:Breadcrumb"> </div></div><aside id="sidebar"><div class="theiaStickySidebar"><div id="custom_html-3" class="widget_text widget widget_custom_html"><div class="widget-container"><div class="textwidget custom-html-widget"></div></div></div><!-- .widget /-->	</div><!-- .theiaStickySidebar /-->
+
+</aside><!-- #sidebar /-->	<div class="clear"></div>
+
+</div><!-- .container /-->
+
+
+
+<footer id="theme-footer">
+
+	<div id="footer-widget-area" class="footer-3c">
+
+
+
+	
+
+	
+
+
+
+	
+
+		
+
+	</div><!-- #footer-widget-area -->
+
+	<div class="clear"></div>
+
+</footer><!-- .Footer /-->
+
+				
+
+<div class="clear"></div>
+
+<div class="footer-bottom">
+
+	<div class="container">
+
+		<div class="alignright">
+
+					</div>
+
+				<div class="social-icons">
+
+		 
+
+			</div>
+
+
+
+		
+
+		<div class="alignleft">
+
+			© Copyright 2011-2019, Все права защищены. 
+
+<br>
+
+Перепечатка материалов разрешается только при указании активной ссылки на страницу с оригиналом статьи.
+
+		</div>
+
+		<div class="clear"></div>
+
+	</div><!-- .Container -->
+
+</div><!-- .Footer bottom -->
+
+
+
+</div><!-- .inner-Wrapper -->
+
+</div><!-- #Wrapper -->
+
+</div><!-- .Wrapper-outer -->
+
+	<div id="topcontrol" class="fa fa-angle-up" title="В начало"></div>
+
+<div id="fb-root"></div>
+
+ 
+
+
+
+ <div><img src="https://mc.yandex.ru/watch/30181674" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+
+<!-- /Yandex.Metrika counter -->
+
+</noindex>
+
+
+
+</body>
+
+</html>

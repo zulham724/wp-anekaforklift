@@ -1,0 +1,65 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>{keyword}</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link href="/css/main.css?1561066574" rel="stylesheet">
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="description" content="{keyword}" />
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+<link rel="canonical" href="https://hotpleer.ru/?s=wap.amobile.ru" />
+ 
+</head>
+<body ontouchstart="">
+<noscript><div><img src="https://mc.yandex.ru/watch/54005761" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<div id="main">
+	<div id="top">
+		<div>
+			<div>
+				<div>
+					<div id="header"> <img src="/img/hotpleer.png" width="160" height="60" alt="Хотплеер" /> </div>
+					<div id="search"><form method="get" action="/"><input type="search" id="mp3" name="s" placeholder="трек, исполнитель" autocomplete="off" value=""><button type="submit" id="submit"><i class="fa fa-search"></i></button></form></div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="content">
+		<span id="linkator">
+					 
+	  </span>
+		<div>
+			<h1>{keyword}</h1>
+			<div class="result">
+								<div class="i">
+					<span class="com">
+						 
+								  </span>
+					<span class="title"><b>{manytext_bing}</b></span></div>
+		  </div>
+	  </div>
+		
+	</div>
+	<div id="podval">
+		&copy; 2018  <br />По&nbsp;всем вопросам пишите&nbsp;на:&nbsp; 		<p style="opacity:0.8; font-size: 0.95em;">
+			ООО &laquo;АдвМьюзик&raquo; заключил лицензионные соглашения с&nbsp;крупнейшими российскими правообладателями авторских и&nbsp;смежных прав, а&nbsp;именно: ООО &laquo;НЦА&raquo;, ООО &laquo;ЛенГрад&raquo;, ООО &laquo;Креатив Медиа&raquo;, ООО &laquo;Новый мир&raquo;, ООО &laquo;Медиалайн&raquo;, ООО &laquo;Диджитал Прожект&raquo; и&nbsp;другими, в&nbsp;рамках которых правообладатели предоставили разрешение на&nbsp;использование музыкального контента способом доведения до&nbsp;всеобщего сведения в&nbsp;цифровой форме через Интернет посредством вэб-сайта https://hotpleer.ru<br/><br/>
+			По&nbsp;вопросам взаимодействия с&nbsp;Правообладателями просьба обращаться по&nbsp;e-mail: support@advmusic.net
+		</p>
+	</div>
+</div>
+<div id="fix">
+	<div id="pleer">
+		 
+		<div id="loadbar">
+			<span class="load">
+				<span class="progress"></span>
+			</span>
+		</div>
+		<div id="textbar"></div>
+	</div>
+</div>
+  <!--/LiveInternet--></div>
+<!---0.74215579032898-->
+ 
+</body>
+</html>

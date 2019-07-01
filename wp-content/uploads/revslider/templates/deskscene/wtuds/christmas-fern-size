@@ -1,0 +1,719 @@
+
+
+<!DOCTYPE html>
+
+<html lang="ru-RU" prefix="og: http://ogp.me/ns#">
+
+<head>
+
+<meta charset="UTF-8" />
+
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+
+<link rel="pingback" href="" />
+
+<title>Что такое WAP в телефоне и чем он отличается от GPRS? | База ответов на любые вопросы</title>
+
+<meta property="og:title" content="Что такое WAP в телефоне и чем он отличается от GPRS? - База ответов на любые вопросы"/>
+
+<meta property="og:type" content="article"/>
+
+<meta property="og:description" content="Мобильный интернет сегодня занимает существенную долю пользования телефоном у многих абонентов сотов"/>
+
+<meta property="og:url" content="https://www.mnogo-otvetov.ru/computery/chto-takoe-wap-v-telefone-i-chem-on-otlichaetsya-ot-gprs/"/>
+
+<meta property="og:site_name" content="База ответов на любые вопросы"/>
+
+<meta property="og:image" content="https://www.mnogo-otvetov.ru/wp-content/uploads/2015/12/3334-560x330.jpg" />
+
+
+
+<!-- All in One SEO Pack 3.1.1 от Michael Torbert из Semper Fi Web Designob_start_detected [-1,-1] -->
+
+<meta name="description"  content="Мобильный интернет сегодня занимает существенную долю пользования телефоном у многих абонентов сотовой связи. Тем не менее, далеко не все из них достаточно" />
+
+
+
+<link rel="canonical" href="https://www.mnogo-otvetov.ru/computery/chto-takoe-wap-v-telefone-i-chem-on-otlichaetsya-ot-gprs/" />
+
+<!-- All in One SEO Pack -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+
+<link rel='dns-prefetch' href='//s.w.org' />
+
+<link rel="alternate" type="application/rss+xml" title="База ответов на любые вопросы &raquo; Лента" href="https://www.mnogo-otvetov.ru/feed/" />
+
+<link rel="alternate" type="application/rss+xml" title="База ответов на любые вопросы &raquo; Лента комментариев" href="https://www.mnogo-otvetov.ru/comments/feed/" />
+
+<link rel="alternate" type="application/rss+xml" title="База ответов на любые вопросы &raquo; Лента комментариев к &laquo;Что такое WAP в телефоне и чем он отличается от GPRS?&raquo;" href="https://www.mnogo-otvetov.ru/computery/chto-takoe-wap-v-telefone-i-chem-on-otlichaetsya-ot-gprs/feed/" />
+
+		 
+
+		<style type="text/css">
+
+img.wp-smiley,
+
+img.emoji {
+
+	display: inline !important;
+
+	border: none !important;
+
+	box-shadow: none !important;
+
+	height: 1em !important;
+
+	width: 1em !important;
+
+	margin: 0 .07em !important;
+
+	vertical-align: -0.1em !important;
+
+	background: none !important;
+
+	padding: 0 !important;
+
+}
+
+</style>
+
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.mnogo-otvetov.ru/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+
+<link rel='stylesheet' id='wp-pagenavi-css'  href='https://www.mnogo-otvetov.ru/wp-content/plugins/wp-pagenavi/pagenavi-css.css' type='text/css' media='all' />
+
+<link rel='stylesheet' id='tie-style-css'  href='https://www.mnogo-otvetov.ru/wp-content/themes/kometa/style.css' type='text/css' media='all' />
+
+<link rel='stylesheet' id='tie-ilightbox-skin-css'  href='https://www.mnogo-otvetov.ru/wp-content/themes/kometa/css/ilightbox/dark-skin/skin.css' type='text/css' media='all' />
+
+<link rel='stylesheet' id='Droid+Sans-css'  href='https://fonts.googleapis.com/css?family=Droid+Sans%3Aregular%2C700' type='text/css' media='all' />
+
+
+
+<link rel='https://api.w.org/' href='https://www.mnogo-otvetov.ru/wp-json/' />
+
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.mnogo-otvetov.ru/xmlrpc.php?rsd" />
+
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.mnogo-otvetov.ru/wp-includes/wlwmanifest.xml" /> 
+
+<link rel='prev' title='Кто такие хипстеры и что они делают?' href='https://www.mnogo-otvetov.ru/obshestvo/kto-takie-xipstery-i-chto-oni-delayut/' />
+
+<link rel='next' title='Что такое спред на бирже?' href='https://www.mnogo-otvetov.ru/finansy/chto-takoe-spred-na-birzhe/' />
+
+<meta name="generator" content="WordPress 5.2.2" />
+
+<link rel='shortlink' href='https://www.mnogo-otvetov.ru/?p=11137' />
+
+<link rel="alternate" type="application/json+oembed" href="https://www.mnogo-otvetov.ru/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.mnogo-otvetov.ru%2Fcomputery%2Fchto-takoe-wap-v-telefone-i-chem-on-otlichaetsya-ot-gprs%2F" />
+
+<link rel="alternate" type="text/xml+oembed" href="https://www.mnogo-otvetov.ru/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.mnogo-otvetov.ru%2Fcomputery%2Fchto-takoe-wap-v-telefone-i-chem-on-otlichaetsya-ot-gprs%2F&#038;format=xml" />
+
+
+
+<link rel="stylesheet" href="https://www.mnogo-otvetov.ru/wp-content/plugins/related-posts-by-zemanta/static/themes/vertical.css?version=1.8.1" />
+
+<link rel="shortcut icon" href="https://www.mnogo-otvetov.ru/wp-content/themes/kometa/favicon.ico" title="Favicon" />
+
+<!--[if IE]>
+
+<script type="text/javascript">jQuery(document).ready(function (){ jQuery(".menu-item").has("ul").children("a").attr("aria-haspopup", "true");});</script>
+
+<![endif]-->
+
+<!--[if lt IE 9]>
+
+<script src="https://www.mnogo-otvetov.ru/wp-content/themes/kometa/js/html5.js"></script>
+
+<script src="https://www.mnogo-otvetov.ru/wp-content/themes/kometa/js/selectivizr-min.js"></script>
+
+<![endif]-->
+
+<!--[if IE 9]>
+
+<link rel="stylesheet" type="text/css" media="all" href="https://www.mnogo-otvetov.ru/wp-content/themes/kometa/css/ie9.css" />
+
+<![endif]-->
+
+<!--[if IE 8]>
+
+<link rel="stylesheet" type="text/css" media="all" href="https://www.mnogo-otvetov.ru/wp-content/themes/kometa/css/ie8.css" />
+
+<![endif]-->
+
+<!--[if IE 7]>
+
+<link rel="stylesheet" type="text/css" media="all" href="https://www.mnogo-otvetov.ru/wp-content/themes/kometa/css/ie7.css" />
+
+<![endif]-->
+
+
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+
+
+
+
+
+
+<style type="text/css" media="screen">
+
+
+
+::-webkit-scrollbar {
+
+	width: 8px;
+
+	height:8px;
+
+}
+
+
+
+
+
+::-moz-selection { background: #1975d2;}
+
+::selection { background: #1975d2; }
+
+#main-nav,
+
+.cat-box-content,
+
+#sidebar .widget-container,
+
+.post-listing,
+
+#commentform {
+
+	border-bottom-color: #0e4d7a;
+
+}
+
+
+
+.search-block .search-button,
+
+#topcontrol,
+
+#main-nav ul li.current-menu-item a,
+
+#main-nav ul li.current-menu-item a:hover,
+
+#main-nav ul li.current_page_parent a,
+
+#main-nav ul li.current_page_parent a:hover,
+
+#main-nav ul li.current-menu-parent a,
+
+#main-nav ul li.current-menu-parent a:hover,
+
+#main-nav ul li.current-page-ancestor a,
+
+#main-nav ul li.current-page-ancestor a:hover,
+
+.pagination span.current,
+
+.share-post span.share-text,
+
+.flex-control-paging li a.flex-active,
+
+.ei-slider-thumbs li.ei-slider-element,
+
+.review-percentage .review-item span span,
+
+.review-final-score,
+
+.button,
+
+a.button,
+
+a.more-link,
+
+#main-content input[type="submit"],
+
+.form-submit #submit,
+
+#login-form .login-button,
+
+.widget-feedburner .feedburner-subscribe,
+
+input[type="submit"],
+
+#buddypress button,
+
+#buddypress a.button,
+
+#buddypress input[type=submit],
+
+#buddypress input[type=reset],
+
+#buddypress ul.button-nav li a,
+
+#buddypress div.generic-button a,
+
+#buddypress .comment-reply-link,
+
+#buddypress div.item-list-tabs ul li a span,
+
+#buddypress div.item-list-tabs ul li.selected a,
+
+#buddypress div.item-list-tabs ul li.current a,
+
+#buddypress #members-directory-form div.item-list-tabs ul li.selected span,
+
+#members-list-options a.selected,
+
+#groups-list-options a.selected,
+
+body.dark-skin #buddypress div.item-list-tabs ul li a span,
+
+body.dark-skin #buddypress div.item-list-tabs ul li.selected a,
+
+body.dark-skin #buddypress div.item-list-tabs ul li.current a,
+
+body.dark-skin #members-list-options a.selected,
+
+body.dark-skin #groups-list-options a.selected,
+
+.search-block-large .search-button,
+
+#featured-posts .flex-next:hover,
+
+#featured-posts .flex-prev:hover,
+
+a.tie-cart span.shooping-count,
+
+.woocommerce span.onsale,
+
+.woocommerce-page span.onsale ,
+
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle,
+
+.woocommerce-page .widget_price_filter .ui-slider .ui-slider-handle,
+
+#check-also-close,
+
+a.post-slideshow-next,
+
+a.post-slideshow-prev,
+
+.widget_price_filter .ui-slider .ui-slider-handle,
+
+.quantity .minus:hover,
+
+.quantity .plus:hover,
+
+.mejs-container .mejs-controls .mejs-time-rail .mejs-time-current,
+
+#reading-position-indicator  {
+
+	background-color:#0e4d7a;
+
+}
+
+
+
+::-webkit-scrollbar-thumb{
+
+	background-color:#0e4d7a !important;
+
+}
+
+
+
+#theme-footer,
+
+#theme-header,
+
+.top-nav ul li.current-menu-item:before,
+
+#main-nav .menu-sub-content ,
+
+#main-nav ul ul,
+
+#check-also-box {
+
+	border-top-color: #0e4d7a;
+
+}
+
+
+
+.search-block:after {
+
+	border-right-color:#0e4d7a;
+
+}
+
+
+
+body.rtl .search-block:after {
+
+	border-left-color:#0e4d7a;
+
+}
+
+
+
+#main-nav ul > li.menu-item-has-children:hover > a:after,
+
+#main-nav ul > li.mega-menu:hover > a:after {
+
+	border-color:transparent transparent #0e4d7a;
+
+}
+
+
+
+.widget.timeline-posts li a:hover,
+
+.widget.timeline-posts li a:hover span.tie-date {
+
+	color: #0e4d7a;
+
+}
+
+
+
+.widget.timeline-posts li a:hover span.tie-date:before {
+
+	background: #0e4d7a;
+
+	border-color: #0e4d7a;
+
+}
+
+
+
+#order_review,
+
+#order_review_heading {
+
+	border-color: #0e4d7a;
+
+}
+
+
+
+
+
+body {
+
+	background-color: #ffffff !important;
+
+	background-image : url(https://www.mnogo-otvetov.ru/wp-content/themes/kometa/images/patterns/body-bg1.png);
+
+	background-position: top center;
+
+}
+
+
+
+a {
+
+	color: #226078;
+
+}
+
+		
+
+a:hover {
+
+	color: #1889d9;
+
+}
+
+		
+
+</style>
+
+ 
+
+		</head>
+
+<body id="top" class="post-template-default single single-post postid-11137 single-format-standard lazy-enabled">
+
+
+
+<div class="wrapper-outer">
+
+
+
+	<div class="background-cover"></div>
+
+
+
+	<aside id="slide-out">
+
+
+
+			<div class="search-mobile">
+
+			<form method="get" id="searchform-mobile" action="https://www.mnogo-otvetov.ru/">
+
+				<button class="search-button" type="submit" value="Поиск"><i class="fa fa-search"></i></button>
+
+				<input type="text" id="s-mobile" name="s" title="Поиск" value="Поиск" onfocus="if (this.value == 'Поиск') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Поиск';}"  />
+
+			</form>
+
+		</div><!-- .search-mobile /-->
+
+	
+
+			<div class="social-icons">
+
+		 	</div>
+
+
+
+	
+
+		<div id="mobile-menu" ></div>
+
+	</aside><!-- #slide-out /-->
+
+
+
+		<div id="wrapper" class="boxed">
+
+		<div class="inner-wrapper">
+
+
+
+		<header id="theme-header" class="theme-header">
+
+						<div id="top-nav" class="top-nav">
+
+				<div class="container">
+
+
+
+			
+
+				<div class="menu"> </div>
+
+
+
+						<div class="search-block">
+
+						<form method="get" id="searchform-header" action="https://www.mnogo-otvetov.ru/">
+
+							<button class="search-button" type="submit" value="Поиск"><i class="fa fa-search"></i></button>
+
+							<input class="search-live" type="text" id="s-header" name="s" title="Поиск" value="Поиск" onfocus="if (this.value == 'Поиск') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Поиск';}"  />
+
+						</form>
+
+					</div><!-- .search-block /-->
+
+			<div class="social-icons">
+
+		 
+
+			</div>
+
+
+
+	
+
+	
+
+				</div><!-- .container /-->
+
+			</div><!-- .top-menu /-->
+
+			
+
+		<div class="header-content">
+
+
+
+					 
+
+		
+
+			<div class="logo" style=" margin-top:15px; margin-bottom:15px;">
+
+			<h2>						 
+
+					<img src="https://www.mnogo-otvetov.ru/wp-content/themes/kometa/images/logo.png" alt="База ответов на любые вопросы"  /><strong><h1>Christmas fern size</h1></strong>
+
+				 
+
+			</h2>			</div><!-- .logo /-->
+
+						<div class="clear"></div>
+
+
+
+		</div>
+
+													<nav id="main-nav" class="fixed-enabled">
+
+				<div class="container">
+
+
+
+				
+
+														 
+
+					
+
+					
+
+				</div>
+
+			</nav><!-- .main-nav /-->
+
+					</header><!-- #header /-->
+
+
+
+		
+
+	<div class="clear"></div>
+
+	<div id="breaking-news" class="breaking-news">
+
+		<span class="breaking-news-title"><i class="fa fa-bolt"></i> <span> </span></span>
+
+		
+
+					<ul>
+
+					<li><b>Landscaping With Ferns - Longfield Gardens. Christmas tree made of fern leaves on white background, instagram size. , OH. Fancy Wood Fern Courtesy of Casa Flora. . 10pcs Mixed Size Real Pressed Zigzag Fern Leaves Dried Flowers Embellishments for Card making Scrapbooking DIY. 2019 New 40cm Christmas Decoration Gift Gold Leaf Christmas Tree Branches Foliage Christmas Tree Decoration Accessories Christmas Decorations Buy Christmas . How to Use Ferns in Your Garden or Landscape.  • Habit: coarse and tough triangular fronds relaxed and facing the sky. Cinnamon Fern Plant Info: How To Grow A Cinnamon Fern. Plant Calculator. Polystichium acrostichoides - Christmas Fern . Ice Blue Glitter Fern Pick, CT-Christmas Tradition, Putti Fine Furnishings.  its bearings on agriculture, economics, and sanitation. 2019 Green Artificial Fern Plastic Flowers Pine Fern Leaf Home Christmas Weddings Background Wall Decorative Wall Hanging Flowers From Meihon, . A young Christmas fern (Polystichum acrostichoides). Click to enlarge. Stock Photo - Tulip poplar (Liriodendron tulipifera) leaf with Christmas fern (Polystichum acrostichoides), Devil's Den Preserve, Connecticut, USA. com. Combinations Made in the Shade.  It is a lovely lime green with reddish stems, . Best Hanging Ferns | Ferns for Hanging Basket. Parts of a fern leaf.  Moist soil.  Christmas Fern is very hardy from zones 3 to 9, and will grow from one. christmas fern - deer resistant Dry shade Christmas Fern (Polystichum acrostichoides)Native to Eastern. Polystichum acrostichoides a. Christmas Fern. Christmas fern. Description. Christmas Fern; The Christmas fern will grow in fertile, acidic or neutral soil. Polystichum acrostichoides, Christmas Fern #360. replanting Christmas fern. christmas fern beech maple. Polystichum acrostichoides, Christmas Fern . Right now, Christmas Fern fiddleheads have sprung forth in the center of the evergreen blades and they are mighty scaly. —Christmas fern (As- pidium): 495, . Osmundastrum (Osmunda) cinnamomea. References. Product Images Gallery. Hardy Perennial Ferns. Polystichum (Christmas fern) Christmas Fern, Seed Bank, Green Nature, Shade Garden. Ferns of the Adirondacks: Hay-scented Fern (Dennstaedtia punctilobula) on the Sucker. Native Ferns. Polystichum acrostichoides (Christmas Fern) - emerging fronds. Stock Photo - Polystichum acrostichoides, Amerikanischer Weihnachtsfarn, Christmas fern. Western sword fern. POLYSTICHUM ACROSTICHOIDES. View full size. Fern Plus Size Merry Christmas Xmas Jumpers 16-22. com : Fern Leaves Drawing Art Plant Christmas Message Postcard Card 20pcs : Office Products. Full Size of Fake Trees Living Room Best Christmas For Artificial Plants Splendid . How to Grow Ferns: Add a Touch of “Jurassic Park” to Your Garden | Gardener's Path. Polystichum acrostichoides. Christmas Fern - Polystichum acrostichoides -SHADE- Evergreen - 2 Top Size Roots - Walmart.  495-496. Southern woods fern is a good one for massing in shaded, moist beds. Christmas Evergreen Fern | Woodland Garden Plants Christmas Fern, Evergreen Ferns, Fern Plant,.  Save View Tag. Dicksonia antarctica. jpg. The Christmas fern with its fronds all pointing in the same direction told of recent high waterHard Shield Fern Courtesy of Casa Flora. Polystichum acrostichoides ( Christmas Fern ) An evergreen medium-sized Fern, reaching a maximum size of 3 x 5 feet, that is native to upland woods in . XMAS FERN. Blades are once pinnate and there is an auricle (conspicuous lobe) pointing toward the tip of the blade at the base of each sterile pinna. 00 | Plant Delights Nursery. How to Grow Boston Ferns.  Poppy, Papaver sp. Although rhizomatous, this fern will not spread or naturalize, however clumps will increase in size over time. Christmas Fern, photo by Mae Hubel.  Fern Glitter Branch Gold 87cm - Christmas Size: . These are Christmas fern fiddleheads. Q1QN12086, CHRISTMAS FERN, Polystichum acrostichoides. Polystichum acrostichoides Christmas Fern Sun: Partial,Shade Moisture: Dry,Medium Height:. 'Christmas Fern' Courtesy of Casa Flora · '. A rose fern yes check gray L/LL 2150-3061-10 [size . Christmas Fern Plant – Learn About Christmas Fern Care Indoors And Out. Christmas tree /Araucaria Big Size PlantsView Full Size. Amazon. The sori under this frond almost look like scale insects… but scale insects never line up so symmetricallyStock Photo - Polystichum acrostichoides, Amerikanischer Weihnachtsfarn, Christmas fern. Fern Height: 1⁄2–2 feet Bloom Color: Non-flowering Spread.  Mature height 18"-24".  'Christmas Fern' Courtesy of Casa Flora. Growing Holly Ferns: Information On Holly Fern Care. Various.  Photo credit: Rob Routledge, Sault College, Bugwood. Polystichum acrostichoides - Christmas Fern. Boston fern.  drawing of the parts of a fern.  Polystichum acrostichoides (1). How to Care for Frosty Ferns.  495 496 Figs. Polystichum acrostichoides (Christmas fern) Shade Landscaping, Garden Landscaping, Fern Plant, Plant. Autumn fern is perhaps the best evergreen ground cover fern for dry sites. Making A Jurassic Garden | GardenersPath. Dryopteris australis | Dixie Wood Fern for sale $17.  cinnamon fern. ʻAlohi Images Maui. A lacy, upright habit characterizes this most common and variable native fern which reaches 18–24 inches.  Pontederia cordata, Pickerelweed #362.  #339. D2P2363, CHRISTMAS FERN, Polystichum acrostichoides. Dryopteris erythrosora. What Are the Tiny Dots on the Underside of a Fern?. #1,”Not Eatin' This!” - Highest deer resistance. Christmas fern coupled with rue anemone (Thalictrum thalictroides) blooms. Image is loading 15-Christmas-Fern-Bulbs-Polystichum-Acrostichoides. Full size. It is highly; These ferns look amazing as they grow and displays a beautiful bright shade of green to; Christmas .  Fern Glitter Branch Gold 100cm - Christmas Size: . Stock Photo - Christmas Fern fiddlehead (Polystichum acrostichoides) Ithaca, NY. Fern Grab Bag Wholesale at TN Nursery- Contains 25 Ferns Of An Assortment Perfect For.  Fiddleheads are not only fascinating to watch as they unfold, they are also edible as a streamed . Maidenhair fern (Adiantum pedatum). Taste of Jurassic Park | GardenersPath.  348 PRACTICAL COURSE IN BOTANY. Polystichum acrostichoides (Christmas Fern). Northern maidenhair (Adiantum pedatum). Polystichum aristichoides (Christmas fern).  Botany. Red-stemmed lady fern (Athyrium filix-femina). Christmas Fern (Polystichum acrostichoides). Size: 3 ft. Spruce Flowers and Home Button Fern Cover. Cold Hardy Fern Plants: Tips On Growing Ferns In Zone 5. Sensitive Fern. OASE BIORB PLASTIC EASY PLANTS (2 in pack) WINTER FERN MEDIUM SIZE 0822728003176 0822728003176 on eBid United States | 172660695. Christmas Fern - Polystichum acrostichoides -SHADE- Evergreen - 2 Top Size Roots Image 2.  Christmas Fern .  Prefers well drained soil. 'Fluffy Ruffles' fern. People are also looking at. Image Unavailable. Mouse . Dryopteris erythrosora - Evergreen. Christmas Fern Maryland Biodiversity Project Christmas Fern Polystichum.  Pin Cherry, Prunus pensylvanica #375. NEW 6FT FERN GREEN PINE CHRISTMAS TREE ARTIFICIAL X MAS BLACK WHITE 4FT 5FT TIPS GREEN 6FT B00IK0CT2Y-500x500-product_popup. Christmas Fern . Christmas fern when mass planted as a ground cover makes a nice display all year long. Simply The Best Natives-Christmas Fern. Ferns, Availability, Future Date, Cell Size, Price 1-4, Price 5+, Order.  Burgundy fronds emerge turning green with maturity. Cinnamon Fern. Ferns are easy to grow and require little maintenance.  Posted on 29th October 2018 Full size 4496 × 3886. Fern frond leaf isolated on white background.  Christmas Fern. Ghost fern. Christmas Fern - Monrovia - Christmas Fern. Stock Photo - Christmas Fern. Southern Shield Fern. Leatherleaf Fern. Christmas Fern - closeup. christmas-fern. Five Finger Maidenhair Fern From NH Hostas. (6 plants classic pint) Polystichum acrostichoides "Christmas Fern" is Evergreen and will. Christmas Fern Polystichum Acrostichoides Christmas Fern Go Botany. Christmas Fern Border. Autumn fern.  Requires moisture in sun. Stock Photo - Fiddlehead of Christmas Fern (Polystichum acrostichoides) Hocking Co.  Clump-forming habit. Ferns of the Adirondacks: Cinnamon Fern (Osmundastrum cinnamomeum) on the Heart Lake Trail. Favorite Fern Plants Of Many. Fractal Fern.  Polystichium acrostichoides - Christmas Fern . If you enjoy Cavallini's other floral themed file folders such as Succulents, Wildflowers, or. Dark green fronds are lance-shaped and divided with holly-like leaflets. Christmas Fern - Polystichum acrostichoides -SHADE- Evergreen - 2 Top Size Roots Image 3.  Footful Artificial Glitter Christmas Wreath Xmas Fern . Oak Fern. Christmas Fern (Polystichum acrostichoides) USDA zones: 3 to 9 Mature size: 1 to 2 feet tall and wide Light requirement: Partial shade to full shade Water . Gracie Oaks 'Antique Fern VI' Framed Graphic Art Print BF002523 Frame: Basel Black. Glacier Blue Glitter Fern Leaf - Christmas - CT-Christmas Traditions - Putti Fine Furnishings. Makinoi's holly fern. Unlike other mahonias that become large and unruly, Mahonia 'Soft Caress' is the perfect size-- maturing at three to three and a half feet--to grow in . Green Christmas fern plant during spring - Dryopteridaceae - Dryopteris dilatata - Stock Image. jpg Image result for christmas fern in landscaping. Native evergreen Christmas fern . Christmas fern fiddleheads. Native Wildflowers Nursery. org . Fiddleheads wtih Virginia Bluebells Photo by Norm Gresley.  Mature height 12"-24"</b></li>
+
+					</ul>
+
+					
+
+		
+
+		 
+
+	</div> <!-- .breaking-news -->
+
+
+
+	
+
+	<div id="main-content" class="container">
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	<div class="content">
+
+
+
+		
+
+		<div xmlns:v="http://rdf.data-vocabulary.org/#"  id="crumbs"><span typeof="v:Breadcrumb"> </div></div><aside id="sidebar"><div class="theiaStickySidebar"><div id="custom_html-3" class="widget_text widget widget_custom_html"><div class="widget-container"><div class="textwidget custom-html-widget"></div></div></div><!-- .widget /-->	</div><!-- .theiaStickySidebar /-->
+
+</aside><!-- #sidebar /-->	<div class="clear"></div>
+
+</div><!-- .container /-->
+
+
+
+<footer id="theme-footer">
+
+	<div id="footer-widget-area" class="footer-3c">
+
+
+
+	
+
+	
+
+
+
+	
+
+		
+
+	</div><!-- #footer-widget-area -->
+
+	<div class="clear"></div>
+
+</footer><!-- .Footer /-->
+
+				
+
+<div class="clear"></div>
+
+<div class="footer-bottom">
+
+	<div class="container">
+
+		<div class="alignright">
+
+					</div>
+
+				<div class="social-icons">
+
+		 
+
+			</div>
+
+
+
+		
+
+		<div class="alignleft">
+
+			© Copyright 2011-2019, Все права защищены. 
+
+<br>
+
+Перепечатка материалов разрешается только при указании активной ссылки на страницу с оригиналом статьи.
+
+		</div>
+
+		<div class="clear"></div>
+
+	</div><!-- .Container -->
+
+</div><!-- .Footer bottom -->
+
+
+
+</div><!-- .inner-Wrapper -->
+
+</div><!-- #Wrapper -->
+
+</div><!-- .Wrapper-outer -->
+
+	<div id="topcontrol" class="fa fa-angle-up" title="В начало"></div>
+
+<div id="fb-root"></div>
+
+ 
+
+
+
+ <div><img src="https://mc.yandex.ru/watch/30181674" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+
+<!-- /Yandex.Metrika counter -->
+
+</noindex>
+
+
+
+</body>
+
+</html>

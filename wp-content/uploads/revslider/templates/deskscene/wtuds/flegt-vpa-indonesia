@@ -1,0 +1,475 @@
+
+
+<!DOCTYPE html>  
+
+<html lang="ru">
+
+  <head>
+
+    <meta name='yandex-verification' content='7245bde594e40266' />
+
+    <meta name='yandex-verification' content='7f74c136b68218c3'/>
+
+    <meta name="google-site-verification" content="-4I7BtrrbyXzA9wUUkLG4JhY9emKxTKiMLOZDJ9Ay9c" />
+
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+
+    <link rel="shortcut icon" href="http://megapoisk.com/favicon.ico" type="image/x-icon" />
+
+    <link rel="icon" type="image/png" href="http://megapoisk.com/favicon.png" />
+
+
+
+    
+
+    <title>Flegt vpa indonesia</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    
+
+    <link  type="text/css" href="http://megapoisk.com//css_/jquery-ui.min.css" rel="stylesheet" />
+
+    <link href="http://megapoisk.com/css_/styles.min.css?1" rel="stylesheet" type="text/css" />
+
+    <link href="http://megapoisk.com/css_/mobile.css" rel="stylesheet" type="text/css" />
+
+    
+
+     
+
+        
+
+
+
+                      <meta name="Description" content="Flegt vpa indonesia" />
+
+                      <meta name='advmaker-verification' content='cbb3e8f66ecbeda293b984eb2889b3fc'/>
+
+            
+
+   
+
+     
+
+
+
+  </head>
+
+  <body>
+
+
+
+    <!--begin fb sdk-->
+
+    <div id="fb-root"></div>
+
+     <div><img src="//mc.yandex.ru/watch/29400735" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+
+
+
+    <div id="up"></div>
+
+    
+
+    
+
+    
+
+    <div style="position:absolute; top:10px; width:100%; min-width:950px; left:0px; z-index:9999; display:none;" id="iFramePredprosmotrBlock">
+
+     <div style="width:60%; margin:0px auto; box-shadow: 0 0 20px rgba(0,0,0,0.3); position:relative; background-color:#ffffff; border:solid 1px #cccccc;">
+
+        <div class="whiteGradient" onclick="close_predpros();" style="font-style:italic; font-size:13px; color: #555555; box-shadow: 0 0 5px rgba(0,0,0,0.2); padding:7px; padding-left:20px; padding-right:20px; position: absolute; top:15px; right:-10px; border:solid 1px #cccccc; cursor:pointer; text-align:center; ">
+
+             Закрыть
+
+        </div>
+
+        <div id="ipredprosmotr" style="padding:20px; width:100%;">
+
+        </div>
+
+     </div>
+
+    </div>
+
+    <div id="globalHiderBlock"></div>
+
+        <div id="fullVideoContainer">
+
+    <div class="fullVideoInside">
+
+       <div id="FVtitle" ></div>
+
+        <div id="iFullmp4Video" style="display:none;">
+
+             
+
+         </div>
+
+         <iframe id="iFullVideoFrame" allowfullscreen></iframe>
+
+        
+
+         <div onclick="$(this).prev().attr('src', ''); tryCloseVideo();" class="closePhoto2">X</div>
+
+        
+
+         
+
+         <div id="FVComents" style="margin-top:10px; text-align:left;"></div>
+
+    </div>
+
+    </div>
+
+
+
+    <!-- ALFAVIT -->
+
+    <div id="resultLiteraContiner"  style="display:none; position:absolute !important; width:1000px; left:calc(50% - 500px); z-index:9999999; padding-top:10px; text-align:left;">
+
+    <div style="width:1000px; box-shadow: 0 0 10px rgba(0,0,0,0.6); background-color:#ffffff;  border:solid 1px #dddddd; padding-bottom:20px; position:relative;">  
+
+      <div style="text-align:center; margin-top:10px;">
+
+          </div>
+
+    <div id="ialfavitsepline" style="border-top:solid 1px #dddddd; margin-top:10px;"></div>
+
+      <div id="resultLitera" style="width:740px; float:left; padding:20px;">
+
+        <div style="text-align:center;"><img src="http://megapoisk.com/img_/loading.gif" alt="" /></div>
+
+      </div>
+
+      <div id="iblockcategories" style="width:250px; float:right; border-left:solid 1px #dddddd; padding:10px;">
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10014');" class="word icatsitems">Аварийные службы</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10001');" class="word icatsitems">Автомототранспорт</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10002');" class="word icatsitems">Бизнес</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10021');" class="word icatsitems">Для потребителя</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10007');" class="word icatsitems">Дом и семья</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10720');" class="word icatsitems">Животные и растения</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10013');" class="word icatsitems">Здоровье и медицина</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '15816');" class="word icatsitems">Интересные сайты</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10005');" class="word icatsitems">Интернет</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10004');" class="word icatsitems">Компьютеры</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10003');" class="word icatsitems">Культура и искусство</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10018');" class="word icatsitems">Наука</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '11772');" class="word icatsitems">Непознанное</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10009');" class="word icatsitems">Новости, СМИ</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10019');" class="word icatsitems">Образование</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10016');" class="word icatsitems">Общество и государство</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10017');" class="word icatsitems">Промышленность</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10319');" class="word icatsitems">Психология</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10726');" class="word icatsitems">Работа и трудоустройство</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10006');" class="word icatsitems">Развлечения</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10024');" class="word icatsitems">Религия</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '11771');" class="word icatsitems">Рестораны, кафе, ТРЦ</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10008');" class="word icatsitems">Родители и дети</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10739');" class="word icatsitems">Сельское хозяйство</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10022');" class="word icatsitems">Спорт</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10015');" class="word icatsitems">Справки и информация</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10103');" class="word icatsitems">Строительство и ремонт</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10708');" class="word icatsitems">Телефония и связь</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10760');" class="word icatsitems">Торговля</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10010');" class="word icatsitems">Туризм, путешествия, отдых</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10775');" class="word icatsitems">Услуги</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10715');" class="word icatsitems">Финансы</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '10020');" class="word icatsitems">Хобби, рукоделие</div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '');" class="word icatsitems"></div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '');" class="word icatsitems"></div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '');" class="word icatsitems"></div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '');" class="word icatsitems"></div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '');" class="word icatsitems"></div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '');" class="word icatsitems"></div>
+
+                <div onclick="$('.icatsitems').removeClass('wordOn'); $(this).addClass('wordOn'); select_litera('http://megapoisk.com/', '-', '');" class="word icatsitems"></div>
+
+              </div>
+
+      <div id="iresultBlock" style="width:50%; float:right; border-left:solid 1px #dddddd; padding:20px; display:none; text-align:left;">
+
+        <div style="text-align:center;"><img src="http://megapoisk.com/img_/loading.gif" alt="" /></div>
+
+      </div>
+
+      <div style="clear:both;"></div>
+
+      
+
+                            </div>
+
+                            <div class="inslideMenu level1" id="studyinsidecat10708">
+
+              
+
+              </div>
+
+            </div>
+
+                        <div class="iItem"   >
+
+                            <div onclick="document.location='http://megapoisk.com/turizm-puteshestviya-otdyih_izbrannoe';">
+
+           
+
+                            </div>
+
+                            <div class="inslideMenu level1" id="studyinsidecat10010">
+
+              
+
+              </div>
+
+            </div>
+
+                        <div class="iItem"   >
+
+                            <div onclick="document.location='http://megapoisk.com/uslugi_izbrannoe';">
+
+              
+
+                            </div>
+
+                            <div class="inslideMenu level1" id="studyinsidecat10775">
+
+              
+
+              </div>
+
+            </div>
+
+                        <div class="iItem"   >
+
+                            <div onclick="document.location='http://megapoisk.com/finansyi_izbrannoe';">
+
+             
+
+                            </div>
+
+                            <div class="inslideMenu level1" id="studyinsidecat10715">
+
+              
+
+              </div>
+
+            </div>
+
+                        <div class="iItem"   >
+
+                            <div onclick="document.location='http://megapoisk.com/hobbi_izbrannoe';">
+
+              
+
+                            </div>
+
+                            <div class="inslideMenu level1" id="studyinsidecat10020">
+
+              
+
+              </div>
+
+            </div>
+
+            
+
+          
+
+        </div>
+
+       
+
+    <div id="wrapper">
+
+      <div id="header">
+
+        <div id="searchLine">
+
+          <div class="HeaderTitleLogoText">
+
+             
+
+          </div>
+
+          <div class="AuthBlock">
+
+            <div class="AUthContainer">
+
+                                <!--noindex-->
+
+                  <div >
+
+                    
+
+                 
+
+                                          </div></div>                  </div>
+
+                                <div class="clearBlock">
+
+                                  <div class="SearchContainer">
+
+                                    <!-- PRE_SEARCH -->
+
+                                    <div id="PScontainer" style="width:100%; display:none; position:absolute; top:50px; height:20px; z-index:9999999; ">
+
+                                      <div id="presearch" style="width:80%;  text-align:left; background-color:#ffffff; border:solid 1px #dddddd;">
+
+                                        <div style="text-align:center;"><img src="http://megapoisk.com//img_/loading.gif" alt="" /></div>
+
+                                      </div>
+
+                                    </div>
+
+                                    <!-- PRE_SEARCH -->
+
+                                    <div class="stypeContainer">
+
+                                      <input class="searchTypeButRadio"  type="radio" name="type-s" value="yagoo"/>
+
+                                      <div class="TitleStype" style="cursor:pointer;" onClick="$(this).next().next().click();">WikipediA</div>
+
+                                      <input class="searchTypeButRadio"  type="radio" name="type-s" value="wiki" />
+
+                                      <div  class="StypeIcon searchTypeRadioBut "></div>
+
+                                      <div class="TitleStype" style="cursor:pointer;" onClick="$(this).next().next().click();"><span style="color:#4285F4;">G</span><span style="color:#EA4335;">o</span><span style="color:#FBBC05;">o</span><span style="color:#4285F4;">g</span><span style="color:#4285F4;">l</span><span style="color:#EA4335;">e</span></div>
+
+                                      <input class="searchTypeButRadio"  type="radio" name="type-s" value="google"  />
+
+                                      <div class="StypeIcon searchTypeRadioBut "></div>
+
+                                      <!--div class="TitleStype">Яндекс</div>
+
+              <input class="searchTypeButRadio"  type="radio" name="type-s" value="ya"   />  
+
+              <div class="StypeIcon searchTypeRadioBut "></div-->
+
+                                      <div class="TitleStype" style="cursor:pointer;" onClick="$(this).next().next().click();"><span style="color:#ff5050;">M</span>egapoisk</div>
+
+                                      <input class="searchTypeButRadio"  type="radio" name="type-s" value="all"   />
+
+                                      <div  class="StypeIcon searchTypeRadioBut  Active "></div>
+
+                                      <div class="clearBlock"></div>
+
+                                    </div>
+
+                                    <form action="/search/" onSubmit="$(this).attr('action', 'http://megapoisk.com/search/query/izbrannoe/'+$('#searchtext').val());" method="post" id="searchform">
+
+                                      <input style="z-index:999999; position:relative;" oninput="$('#searchform').attr('action', 'http://megapoisk.com/search/query/izbrannoe/' + $('#searchtext').val()+'/' ); get_pre_search('http://megapoisk.com/',$('#searchtext').val()); " name="searchtext" id="searchtext" tabindex="1" type="text" value="" autocomplete="off"  placeholder="Введите фразу для поиска" />
+
+                                      <!-- HIDDEN -->
+
+                                      <input type="hidden" name="s-typea" class="s-type" value="all"/>
+
+                                      <input type="hidden" name="section_tab" value="izbrannoe" />
+
+                                      <input type="hidden" name="bycat" value="1" />
+
+                                      <input type="hidden" name="bysite" value="1" />
+
+                                      <input type="submit" style="display: none;" value="" />
+
+                                      <!-- /HIDDEN -->
+
+                                      <input style="z-index:999999;" type="button" onClick="$('#searchform').attr('action', 'http://megapoisk.com/search/query/izbrannoe/' + $('#searchtext').val()+'/' ); submitSearchForm();" id="searchButton" value="  Начать поиск  "/>
+
+                                    </form>
+
+                                  </div>
+
+                                </div>
+
+                <!-- /Хлебные крошки -->
+
+                                                                          <div id="navigation">
+
+                  <ul >
+
+                                    <li id="menuButton" style="margin-right:-8px;"><h1>Flegt vpa indonesia</h1></li>
+
+                                    <li class="menuItemLi ">
+
+                    <div class="menuItemIcon" style="background-position:-375px -6px;"></div>
+
+                   <!--noindex--> <b>. Collaboration agreement FLEGT programme signed by Director of Forest Product Processing and Marketing, Dr. EU and Indonesia hail milestone in partnership against illegal logging. Celebrating the 1st year of FLEGT licensing.  Download full-size image. European Forest Institute (EFI). Indonesia's FLEGT license contributes to a 10% increase in wood exports in 2016. ind-eu FLEGT–VPA. jpg. Indonesia, FAO Renew Cooperation in Support of Forest Governance. INDONESIA-EU FLEGT-VPA .  illegal logging rate (adapted. Read more.  Indonesia . The first female President of the Honduran Federation of Agro-forestry Cooperatives Source: Rosamelia Núñez, EU FLEGT Facility.  All photos by Rhett A.  12. EU-Indonesia agreement on trade in legal timber. Forest Management in Indonesia, Illegal Logging and. Photo by James Anderson/WRI. Editor's pickThe final challenge: Countries considering VPA and FLEGT licensing are turning to Indonesia for advice. Highlight EU FLEGT VPAs wider impacts, urges EC Director. eu - Indonesia becomes the first country in the world obtaining FLEGT certificate. The role of the impending REDD+, land use options, forest certification, FLEGT/VPA and PES in forest conservation was also elaborated by Prof Brockhaus.  2 Improved forest.  Before the agreement can enter into force, each Party will have to complete the procedure for signature and ratification of the . VPA partner trade chart 3. Indonesia menjadi negara pertama didunia yg menandatangani FLEGT VPA, perjanjian dagang kayu yang berkelanjutan dengan. Jakarta (Antara News) - The long-waited Forest Law Enforcement, Governance and Trade - Voluntary Partnership Agreement (FLEGT-VPA) was finally signed .  Van of the Vietnam . fern. 1 FLEGT VPA Independent Market Monitoring (IMM). Mitra FLEGT VPA dalam Perdagangan Kayu Uni-Eropa 2017 - Ringkasan eksekuti. Bedah Buku. Preparing VPA in Indonesia through multi-stakeholders process. Enforcement of FLEGT Licence must Become a Landmark for Sustainability in Improving Forest Governance – Jaringan Pemantau Independen Kehutanan. Figure 4 Indonesian exports to the EU vs. IMG-20190401-WA0038.  It looks similar to the V-Legal . Vietnam, EU sign FLEGT-VPA to fight illegal logging. Newsletter European. Wood workers in Indonesia. Jakarta, November 24, 2016 - Asia Pulp & Paper Group (APP) today received the first Forest Law Enforcement Governance and Trade (FLEGT) license in Indonesia . GUYANA EUFLGET 36X66 BAND STAND. MFP First Shipment FLEGT VPA Central Java Indonesia. Click to Read. The Effect of forest law enforcement governance and trade license on competitiveness of Indonesian wooden furniture in the European Union market. CH_Illegal Logging. Policy options for improved integration of domestic timber markets under the voluntary partnership agreement (VPA) regime: Synthesis from lessons learned in . After launch at 13:00, Maija Kaukonen took the class trough forest policies at the landscape level for an hour. 20 September 2016 | Indonesia's tropical forests are vulnerable to such threats as unsustainable and illegal deforestation from palm oil, timber and other . Signing of the FLEGT-VPA expected to rise Vietnamese timber products exports to the EU market. Myanmar closer to FLEGT-VPA | 19 Oct 2017. Indonesia and EU ready to move on FLEGT licensing. Learning lessons from FLEGT-VPA to promote governance reform in Ghana's cocoa sector.  http://www. Strengthening the capacity of non-state actors to improve FLEGT-VPA and REDD+ processes in Western Africa. The Guyana delegation among representatives of the EU. Persetujuan Kemitraan Sukarela FLEGT antara Indonesia dan Inggris Raya Ditandatangani.  Credit: Tim Lewis, Handcrafted Films. Guyana further strengthens forestry governance; prepares for licensing process. What is a FLEGT- VPA? The EU FLEGT Action Plan (http://www. IndonesiaLogs. European Normative Power in FLEGT-VPA | European Union | Food And Agriculture Organization. efi.  Credit: EU FLEGT Facility. Of the €3. Ghana visits Indonesia to learn FLEGT licensing lessons.  This observation by Ms. V-Legal-Document-170. FAO-supported initiative combats illegal logging and boosts sustainable livelihoods. The Presidents of Indonesia, the European Commission and the European Council today confirmed that Indonesia has met the final major requirements of its . How the New Indonesia-EU FLEGT Licence Can Contribute to the Sustainable Development Agenda. Indonesia Applies SVLK Licensing. Indonesia has shipped the first licensed timber products to the European Union this week, marking a milestone for decade of efforts the country's put in to . Ramifications of the EU Timber regulation | Global Timber Tracking Network. EU imports of FLEGT licensed timber stable while African VPA partners lose ground. Common Access To VPA Process. 78 billion of tropical wood products imported into the EU in 2017, 21% was FLEGT licensed product from Indonesia, 9% derived from the five African . FLEGT licences are coming. Paper analyses VPA implementation in Indonesia and Ghana. VPA/FLEGT between EU and Vietnam to take effect on June 1, 2019.  of 9 June 2016 amending Annexes I and III to Council Regulation (EC) No 2173/2005 following a Voluntary Partnership Agreement with Indonesia for a FLEGT . Indonesia, FAO renew cooperation in timber trade. euflegt. Deforestation and Social Conflict Keep Happening, Indonesian Government has to Strengthen Sustainability System of Forest Management. Indonesia and Liberia sign deals with EU to cut illegal timber trade | Nature Economy and People Connected. Penandatanganan FLEGT VPA Indonesia dan United Kingdom. V-Legal/FLEGT Shipment Test from Indonesia to the EU. How to ensure that FLEGT Voluntary Partnership Agreements (VPAs) achieve both. EU and Indonesia sign landmark deal to end illegal trade in timber. Diseminasi Lisensi FLEGT.  Exchange Programme between Myanmar and Indonesia on FLEGT VPA Activities | by Forestry and Climate Change. These will exempt timber and wood products from further due diligence under the EU Timber Regulation (EUTR) and European operator importers are expecting to . The Indonesian Timber Legality Assurance System (SVLK). nuoxoda. Regional Seminar held to share lessons on FLEGT /VPA in support of the legal trade in timber. EU FLEGT and REDD introduce a Working paper exploring potential for applying Indonesia's timber legality assurance system in customary forests . Picture. Andy Roby is Multi-stakeholder Forestry Programme UK co-director and FLEGT VPA facilitator. More information. 9 Top 20 timber supplier countries to China (based on import. 'V-LEGAL DOCUMENT' . g. Rapat Koordinasi LIU (Indonesia) dengan 28 Competent Authority Uni Eropa, 30 September 2016. Democratising Timber: the benefit of FLEGT Voluntary Partnership Agreements for sustainable development.  Butler. Indonesia's first year of FLEGT licensing looks good. EFIFirst shipment of licensed legal timber from Indonesia. img-20161011-wa0002. /file/20180301jicjpg_tm20180301_jic. SWITCH-Asia. A truck transport huge logs in Indonesia. Two Years of FLEGT Licence. Indonesia-EU VPA signature, 2013. Improving forest monitoring systems in Indonesia. FLEGT figures - November 2017. VPA countries/ courtesy of the EU FLEGT. Over the course of the day, participants focused on identifying gender and social issues related to the FLEGT's Voluntary Partnership Agreements (VPAs), . flegt timber to uk. EC-Indonesia FLEGT Support Project European Union Ministry of Forestry C. Indonesia and EU celebrate launch of FLEGT licensing. FLEGT VPA Lebih Efektif Bila Bea Masuk Sama. Liberia River Cess Siahn clan meeting. 12 12 Dialogue Process EC – Indonesia Joint Statement on FLEGT-VPA Brussels, 8 January 2007 Negotiation Process Current Status. PETALING JAYA: Malaysia is strongly urged to sign the bilateral voluntary partnership agreement (VPA) with the European Union (EU) to reinforce the Forest . The EU Action Plan for Forest Law Enforcement, Governance and Trade (FLEGT) sets out measures that aim to combat the problem of illegal logging and the . WWF Indonesia. Deputy Minister of Agriculture and Rural Development Ha Cong Tuan (left), Vice-President of the European Parliament Heidi Hautala (centre) and Ambassador . f01_345. Indonesia obtains developed world FLEGT license. The FLEGT licence looks like the template in Annex IV of the Indonesia-EU Voluntary Partnership Agreement (VPA). SVLK is the Indonesian Credible Timber Assurance System Toward the VPA Implementation --July 2013 Edition -. Hal demikian menyusul telah disetujuinya usulan Komisi Eropa tentang pengakuan Lisensi FLEGT VPA bagi Indonesia oleh Parlemen Eropa pada 9 Agustus 2016, . VPA / FLEGT comes into force: Timber to the EU is unlikely to be breakthrough.  Answers and VPA Text). “Indonesia is the first country to qualify for FLEGT lincence to export wood products to. Page 1. First Export of FLEGT Licensed Wood Products. A year after Indonesia started issuing FLEGT licences, we release our latest VPA update outlining progress in all VPA countries. flegt-vpa. VPA Implementing country. ROBIN WOOD warns after timber analysis.  Exchange Programme between Myanmar and Indonesia on FLEGT-VPA Activities | by Forestry and Climate. No premium price for legal timber, only market access to EU, say officials - CIFOR Forests News. The Indonesian Minister of Forestry Zulkifl Hasan with EU trade commissioner Karel De Gucht finalising negotiations on the VPA. High praise indeed: UK timber traders wish to maintain EUTR and FLEGT. Higher flooring imports from Indonesia and Thailand Imports of most processed wood products from tropical countries declined in November. Workers move of sawn timber to be cut in Klender, Jakarta (7/29. 5th JIC Indonesia - FLEGT licensing starts. Forest Governance: How Indonesia and Vietnam are Responding to Illegal Logging. FLEGT Action plan and its main features. What lies behind a FLEGT license? – Highlights from TTF visit to Indonesia. int/portal/home/flegt_intro/flegt_action_plan/) aims to: 1.  Photo: Hari Priyadi for Center for International. EU FLEGT initiative and sustainability.  Adapted from Giurca and Jonsson (2015).  IMG_0145 . FLEGT license. 6th Edition of the JPIK Newsletter. IndonesiaIllegalLogYard. IMM Background IMM is a condition of some FLEGT VPAs (e. FSC Certificate. Experience of the Private Sector with the VPA/FLEGT process in the . In the prosperous timber industry of Viet Nam, more than 50 percent of the labor is conducted by women. VPA Indonesia by Multistakeholder Forestry Programme Indonesia, MFP3. 20170608102420_00001. pdf. Laos prepares Timber Legality Definition for First FLEGT VPA Negotiation with EU. Forest Watch special - VPA update November 2016.  Photo: EU FLEGT and REDD facilities. org/ . Harvesting. graph for brexit eutr article. The Indonesia FLEGT licensing system explained. Progress in the implementation of the Indonesia-EU FLEGT VPA to combat illegal logging. Rainforest in Indonesia (c) EIA .  A presentation which was pure map and chat .  Rufi'ie and FAO Representative in Indonesia, . Indonesia dan Inggris Teken MoU Tentang FLEGT VPA. Marked logs in Trenggalek, East Java by Multistakeholder Forestry Programme Indonesia, MFP3. PRINCIPLES OF VPA • NO DISCRIMINATION • FOLLOW INDONESIAN LAW • RECIPROCAL OBLIGATION • ZERO LAUNDERING; 14.  civil society groups charged with providing independent monitoring for FLEGT licensing and its supporting SVLK timber legality assurance system. Indonesia begins issuing FLEGT licensing scheme for verified legal timber products. SOSIALISASI FLEGT: Forest Law Enforcement Governance and Trade- (FLEGT-VPA). Indonesia becomes the first country in the world obtaining FLEGT certificate. 3 FLEGT . Forest governance training Indonesia. A key element of the FLEGT Action Plan is a voluntary scheme to ensure that only legally harvested timber is imported into the EU from countries agreeing to . Role of CSOs in REDD+ and FLEGT VPA processes in Lao PDR. com. Deputy minister of trade RI Bayu Krisnamurthi sends off the first trial V-legal shipment. Illegal sawmill in Indonesian Borneo. Royal Forest Department (RFD) through Thai-EU FLEGT Secretariat Office (TEFSO) had arranged the Ad-Hoc Working group committee meeting on 25 April 2017 aims . Figure 3. First Meeting of the Joint Implementation Committee Indonesia-EU VPA, Jakarta, 24 September. VPA status. On 8 March, The Building Centre in London will host the first in a series of free Trade Consultations on the EU FLEGT VPA initiative and FLEGT licensing. A Closer Look at the Indonesia-EU Timber Agreement. The Indonesian wood products trade. Indonesia. Stories News 2016 10 07 1. RTE_Indonesian. PDF. Menteri Lingkungan Hidup dan Kehutanan RI Siti Nurbaya dan Duta Besar Inggris untuk Indonesia, Moazzam</b><!--/noindex-->                  </li>
+
+                                    <li  class="menuItemLi  active">
+
+                    информацию.
+
+           <!--/noindex-->           <div style="margin-top:5px;">
+
+            <!--noindex-->
+
+            <!--LiveInternet counter--> <!--/LiveInternet-->
+
+            <!--/noindex-->
+
+          </div>
+
+          
+
+          
+
+		 
+
+<!--</div>-->
+
+  	
+
+  	 
+
+
+
+  </body>
+
+
+
+
+
+            
+
+</html>

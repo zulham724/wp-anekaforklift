@@ -1,0 +1,801 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+
+  <link rel="dns-prefetch" href="https://github.githubassets.com">
+
+  <link rel="dns-prefetch" href="https://avatars0.githubusercontent.com">
+
+  <link rel="dns-prefetch" href="https://avatars1.githubusercontent.com">
+
+  <link rel="dns-prefetch" href="https://avatars2.githubusercontent.com">
+
+  <link rel="dns-prefetch" href="https://avatars3.githubusercontent.com">
+
+  <link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
+
+  <link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
+
+
+
+
+
+
+
+  <link crossorigin="anonymous" media="all" integrity="sha512-67V2J9Se2CifJlftk9/cExHGvxd7N9b9EdGnQEpszu99Ogeecilu9jIDxoCkx3zNLfB9ArraXW0J03qyVmN0Uw==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-e7318add1f7e055d040edb0f75aaa0ba.css" />
+
+  <link crossorigin="anonymous" media="all" integrity="sha512-MRlTIqIyb8caK5+o8llXVntXovciHyAM4qE3kWU2S7SIjAPDxYp4mE0jQp4kP5UYegy+lG9y1I6VlsdzEjb5Qw==" rel="stylesheet" href="https://github.githubassets.com/assets/site-294181adec18ed639e160b96b45d17ac.css" />
+
+    <link crossorigin="anonymous" media="all" integrity="sha512-sdCBXlLRZegVx3t99SkEmQxO9DDMm2nGm5wNJsuBc72c3KYXj0mpM+97TIsreSTHPioEFxyFgIip3TDtGPQuDA==" rel="stylesheet" href="https://github.githubassets.com/assets/github-54fcb3a87437ca29a24557c268985ca6.css" />
+
+    
+
+    
+
+    
+
+    
+
+
+
+  <meta name="viewport" content="width=device-width">
+
+  
+
+  <title>Beauty bakerie mascara</title>
+
+    <meta name="description" content="Beauty bakerie mascara">
+
+    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
+
+  <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
+
+  <meta property="fb:app_id" content="1401488693436528">
+
+
+
+    <meta name="twitter:image:src" content="https://avatars3.githubusercontent.com/u/130982?s=400&amp;v=4" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="victorfontes/django-mobile-helper" /><meta name="twitter:description" content="A package to help dealing with mobile clients in Django - victorfontes/django-mobile-helper" />
+
+    <meta property="og:image" content="https://avatars3.githubusercontent.com/u/130982?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="victorfontes/django-mobile-helper" /><meta property="og:url" content="https://github.com/victorfontes/django-mobile-helper" /><meta property="og:description" content="A package to help dealing with mobile clients in Django - victorfontes/django-mobile-helper" />
+
+
+
+  <link rel="assets" href="https://github.githubassets.com/">
+
+  
+
+  <meta name="pjax-timeout" content="1000">
+
+  
+
+  <meta name="request-id" content="CCF3:29219:24F761:36B2A1:5D124B64" data-pjax-transient>
+
+
+
+
+
+  
+
+
+
+  <meta name="selected-link" value="repo_source" data-pjax-transient>
+
+
+
+      <meta name="google-site-verification" content="KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU">
+
+    <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
+
+    <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
+
+
+
+  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="CCF3:29219:24F761:36B2A1:5D124B64" /><meta name="octolytics-dimension-region_edge" content="ams" /><meta name="octolytics-dimension-region_render" content="iad" />
+
+<meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;" data-pjax-transient="true" />
+
+
+
+
+
+
+
+    <meta name="google-analytics" content="UA-3769691-2">
+
+
+
+
+
+<meta class="js-ga-set" name="dimension1" content="Logged Out">
+
+
+
+
+
+
+
+  
+
+
+
+      <meta name="hostname" content="github.com">
+
+    <meta name="user-login" content="">
+
+
+
+      <meta name="expected-hostname" content="github.com">
+
+    <meta name="js-proxy-site-detection-payload" content="NjQ5ODVmNzZjNjA0YzAwYTQwZjkxMTM5NzI0MWNlMzQ5NTgxYWEwMWMwZTg5OGQ1MmY5OTEyNDdjYTUwZDk4Y3x7InJlbW90ZV9hZGRyZXNzIjoiODUuMTc0LjE5MS4xOTAiLCJyZXF1ZXN0X2lkIjoiQ0NGMzoyOTIxOToyNEY3NjE6MzZCMkExOjVEMTI0QjY0IiwidGltZXN0YW1wIjoxNTYxNDgwMDM4LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+
+
+
+    <meta name="enabled-features" content="MARKETPLACE_FEATURED_BLOG_POSTS,MARKETPLACE_INVOICED_BILLING,MARKETPLACE_SOCIAL_PROOF_CUSTOMERS,MARKETPLACE_TRENDING_SOCIAL_PROOF,MARKETPLACE_RECOMMENDATIONS,MARKETPLACE_PULL_PANDA_HOMEPAGE,DISPLAY_COMMENTER_FULL_NAME">
+
+
+
+  <meta name="html-safe-nonce" content="12876d413857186b346f0c018cda750302834381">
+
+
+
+  <meta http-equiv="x-pjax-version" content="6b1033cb022e79b6905f5cb0b638baf0">
+
+  
+
+
+
+      <link href="https://github.com/victorfontes/django-mobile-helper/commits/master.atom" rel="alternate" title="Recent Commits to django-mobile-helper:master" type="application/atom+xml">
+
+
+
+  <meta name="go-import" content="github.com/victorfontes/django-mobile-helper git https://github.com/victorfontes/django-mobile-helper.git">
+
+
+
+  <meta name="octolytics-dimension-user_id" content="130982" /><meta name="octolytics-dimension-user_login" content="victorfontes" /><meta name="octolytics-dimension-repository_id" content="739954" /><meta name="octolytics-dimension-repository_nwo" content="victorfontes/django-mobile-helper" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="739954" /><meta name="octolytics-dimension-repository_network_root_nwo" content="victorfontes/django-mobile-helper" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
+
+
+
+
+
+    <link rel="canonical" href="https://github.com/victorfontes/django-mobile-helper" data-pjax-transient>
+
+
+
+
+
+  <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
+
+
+
+  <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
+
+
+
+  <link rel="mask-icon" href="https://github.githubassets.com/pinned-octocat.svg" color="#000000">
+
+  <link rel="icon" type="image/x-icon" class="js-site-favicon" href="https://github.githubassets.com/favicon.ico">
+
+
+
+<meta name="theme-color" content="#1e2327">
+
+
+
+
+
+
+
+
+
+
+
+  <link rel="manifest" href="/manifest.json" crossOrigin="use-credentials">
+
+
+
+  </head>
+
+
+
+  <body class="logged-out env-production min-width-lg">
+
+    
+
+
+
+  <div class="position-relative js-header-wrapper ">
+
+    
+
+    <div id="js-pjax-loader-bar" class="pjax-loader-bar"><div class="progress"></div></div>
+
+
+
+    
+
+    
+
+    
+
+
+
+
+
+        <header class="Header-old header-logged-out  position-relative f4 py-2" role="banner">
+
+  <div class="container-lg d-flex px-3">
+
+    <div class="d-flex flex-justify-between flex-items-center">
+
+        
+
+          <svg height="32" class="octicon octicon-mark-github text-white" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+
+        </a>
+
+    </div>
+
+
+
+    <div class="HeaderMenu HeaderMenu--logged-out d-flex flex-justify-between flex-items-center flex-auto">
+
+      <div class="d-none">
+
+        <button class="btn-link js-details-target" type="button" aria-label="Toggle navigation" aria-expanded="false">
+
+          <svg height="24" class="octicon octicon-x text-gray" viewBox="0 0 12 16" version="1.1" width="18" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+
+        </button>
+
+      </div>
+
+
+
+        <nav class="mt-0" aria-label="Global">
+
+          <ul class="d-flex list-style-none"> 
+
+          <li class=" mr-3 mr-lg-3 edge-item-fix position-relative flex-wrap flex-justify-between d-flex flex-items-center "></li>
+
+          </ul>
+
+        </nav>
+
+
+
+      <div class="d-flex flex-items-center px-0 text-center text-left">
+
+          <div class="d-lg-flex ">
+
+            <div class="header-search mr-3 scoped-search site-scoped-search js-site-search position-relative js-jump-to"
+
+  role="combobox"
+
+  aria-owns="jump-to-results"
+
+  aria-label="Search or jump to"
+
+  aria-haspopup="listbox"
+
+  aria-expanded="false"
+
+>
+
+  <div class="position-relative">
+
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="739954" data-scoped-search-url="/victorfontes/django-mobile-helper/search" data-unscoped-search-url="/search" action="/victorfontes/django-mobile-helper/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+
+      <label class="form-control input-sm header-search-wrapper p-0 header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center js-chromeless-input-container">
+
+        <input type="text"
+
+          class="form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
+
+          data-hotkey="s,/"
+
+          name="q"
+
+          value=""
+
+          placeholder="Search"
+
+          data-unscoped-placeholder="Search GitHub"
+
+          data-scoped-placeholder="Search"
+
+          autocapitalize="off"
+
+          aria-autocomplete="list"
+
+          aria-controls="jump-to-results"
+
+          aria-label="Search"
+
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=AK6grC5cGEh6WbkUATQhFSFpKOO7MEA9hyKSe/Foj7r4RH1QvaHE3k+9OwBAZ2+KMuRi0MhRYWwjJTJNNX+mVA=="
+
+          spellcheck="false"
+
+          autocomplete="off"
+
+          >
+
+          <input type="hidden" class="js-site-search-type-field" name="type" >
+
+            <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
+
+
+
+            <div class="Box position-absolute overflow-hidden d-none jump-to-suggestions js-jump-to-suggestions-container">
+
+              
+
+<ul class="d-none js-jump-to-suggestions-template-container">
+
+  
+
+
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-suggestion" role="option">
+
+   
+
+    <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
+
+      <svg height="16" width="16" class="octicon octicon-repo flex-shrink-0 js-jump-to-octicon-repo d-none" title="Repository" aria-label="Repository" viewBox="0 0 12 16" version="1.1" role="img"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
+
+      <svg height="16" width="16" class="octicon octicon-project flex-shrink-0 js-jump-to-octicon-project d-none" title="Project" aria-label="Project" viewBox="0 0 15 16" version="1.1" role="img"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z"/></svg>
+
+      <svg height="16" width="16" class="octicon octicon-search flex-shrink-0 js-jump-to-octicon-search d-none" title="Search" aria-label="Search" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M15.7 13.3l-3.81-3.83A5.93 5.93 0 0 0 13 6c0-3.31-2.69-6-6-6S1 2.69 1 6s2.69 6 6 6c1.3 0 2.48-.41 3.47-1.11l3.83 3.81c.19.2.45.3.7.3.25 0 .52-.09.7-.3a.996.996 0 0 0 0-1.41v.01zM7 10.7c-2.59 0-4.7-2.11-4.7-4.7 0-2.59 2.11-4.7 4.7-4.7 2.59 0 4.7 2.11 4.7 4.7 0 2.59-2.11 4.7-4.7 4.7z"/></svg>
+
+    </div>
+
+
+
+    <span class="d-inline-block ml-1 v-align-middle"></span>
+
+    
+
+  </a>
+
+</li>
+
+
+
+</ul>
+
+
+
+<ul class="d-none js-jump-to-no-results-template-container">
+
+  <li class="d-flex flex-justify-center flex-items-center f5 d-none js-jump-to-suggestion p-2">
+
+    <span class="text-gray">No suggested jump to results</span>
+
+  </li>
+
+</ul>
+
+
+
+<ul id="jump-to-results" role="listbox" class="p-0 m-0 js-navigation-container jump-to-suggestions-results-container js-jump-to-suggestions-results-container">
+
+  
+
+
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-scoped-search d-none" role="option">
+
+  </li>
+
+
+
+
+
+</ul>
+
+
+
+            </div>
+
+      </label>
+
+</form>  </div>
+
+</div>
+
+
+
+          </div>
+
+
+
+       
+
+      </div>
+
+    </div>
+
+  </div>
+
+</header>
+
+
+
+  </div>
+
+
+
+  <div id="start-of-content" class="show-on-focus"></div>
+
+
+
+
+
+    <div id="js-flash-container">
+
+
+
+</div>
+
+
+
+
+
+
+
+  <div class="application-main " data-commit-hovercards-enabled>
+
+        <div itemscope itemtype="http://schema.org/SoftwareSourceCode" class="">
+
+    <main id="js-repo-pjax-container" data-pjax-container >
+
+      
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="pagehead repohead instapaper_ignore readability-menu experiment-repo-nav  ">
+
+    <div class="repohead-details-container clearfix container">
+
+
+
+      <ul class="pagehead-actions">
+
+
+
+
+
+
+
+
+
+  <li>
+
+    
+
+ 
+
+    <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/>
+
+    </svg>
+
+    </li>
+
+</ul>
+
+
+
+      <h1 class="public ">&nbsp; </h1>
+
+
+
+    </div>
+
+    
+
+<nav class="hx_reponav reponav js-repo-nav js-sidenav-container-pjax container"
+
+     itemscope
+
+     itemtype="http://schema.org/BreadcrumbList"
+
+    aria-label="Repository"
+
+     data-pjax="#js-repo-pjax-container">
+
+
+
+  <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+
+    
+
+      <svg class="octicon octicon-code" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"/>
+
+      </svg>
+
+      <span itemprop="name"> </span> 
+
+
+
+</nav>
+
+
+
+
+
+  </div>
+
+<div class="container new-discussion-timeline experiment-repo-nav  ">
+
+  <div class="repository-content ">
+
+
+
+    
+
+    
+
+        <div class="signup-prompt-bg rounded-1">
+
+      <div class="signup-prompt p-4 text-center mb-4 rounded-1">
+
+        <div class="position-relative">
+
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/prompt_dismissals/signup" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="DIrD76oeqq0Lw6iPB5ZCSQE+1Vrm8GqAXagjCDmQnJQ1UZvv2HI6nTAOFhEpzMTGmgUGXiJQNLOs57oja2C96A==" />
+
+            <button type="submit" class="position-absolute top-0 right-0 btn-link link-gray" data-ga-click="(Logged out) Sign up prompt, clicked Dismiss, text:dismiss">
+
+              Dismiss
+
+            </button>
+
+</form>          <h1 class="pt-2">Beauty bakerie mascara</h1>
+
+          <p class="col-6 mx-auto">&nbsp; </p>
+
+          
+
+        </div>
+
+      </div>
+
+    </div>
+
+
+
+
+
+
+
+       
+
+
+
+
+
+
+
+
+
+        <div class="overall-summary overall-summary-bottomless">
+
+    <div class="stats-switcher-viewport js-stats-switcher-viewport">
+
+      <div class="stats-switcher-wrapper">
+
+      <ul class="numbers-summary">
+
+        <li class="commits"> 
+
+            </li></ul><div class="repository-lang-stats">
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+
+
+    <button type="button" class="d-flex p-0 repository-lang-stats-graph js-toggle-lang-stats" title="Click for language details" data-ga-click="Repository, language bar stats toggle, location:repo overview">
+
+      <span class="language-color" aria-label="Python 100.0%" style="width:100.0%; background-color:#3572A5;" itemprop="keywords"> Founded in 2011 by Cashmere Nicole, Beauty Bakerie offers a full product line of some of the My Experience with Beauty Bakerie Versailles Lip Whip: Beauty Bakerie shot to fame once these mini videos started doing rounds on Instagram with gals applying lipstick swatches on their arms and then dipping their arm in water and swiping across the swatches – the colour would not budge, would not smudge! Top off your beauty beat with Beauty Bakerie&#39;s Eyelash Icing Mascara.  Nontoxic Mascaras And First Impressions Of Honest Beauty.  Under all your makeup, it is every important that you take care of your skin underneath.  It&#39;s time to think about that all-important beauty regime and give yourself some extra lovin’.  Fans of baking rejoice, Beauty Bakerie&#39;s HD Flour Setting Powder is all you need in your makeup bag.  If you love cruelty free make up and you don’t know US brand, Beauty Bakerie, you’re in for some treats! Best known for their matte finish liquid lipsticks, Lip Whips, the brand has been around for 5 years.  Known for its smudge-proof lip whips (watch the video above if you don&#39;t believe us), Beauty Bakerie is as sweet as it looks.  Poshmark makes shopping fun, affordable &amp; easy! Reading Time: 3 minutes Disclosure- Beauty Bakerie products have been provided in consideration for a review.  Find out more about these successful entrepreneurs and their amazing products here.  Our beauty products will make you look and feel like the stunning beauty babe that you are.  Olympic gymnast Gabby Douglas.  Founded by Cashmere Nicole in 2011, Beauty Bakerie has taken both social media and our hearts by storm.  Photo: Courtesy of Beauty Bakerie In our long-running series, &quot;How I&#39;m Making It,&quot; we talked to people who make a living in the Beauty Bakerie made a huge statement to other makeup brands with their range because it includes very deep shades that are normally nonexistent with some mainstream brands.  As beauty editors, we’ve tried it all.  My sister told me about Beauty Bakerie last year and she eventually ended up buying three Lip Whips, all of which look amazing on her AND lasts through our large family dinners.  Over 20,000 products including makeup, cosmetics, skincare, haircare, nails.  Brightening Oil So White - Brightening Skin Care For Face And Body.  Orders over £10 free delivery.  Beauty Bakerie Cosmetics Brand Launches Wake &amp; Bake Baking Oil. 27 ! Beauty Bakerie was founded in 2011, by Cashmere Nicole, a breast cancer survivor whose motto is better, not bitter. com Since their launch in 2011, Beauty Bakerie has and continues to appeal to the sweet side of beauty offering cruelty free makeup and bakery inspired cosmetics.  Glad to see the SMART YOU find us, AnyCodes.  Choose your own adventure.  ~ Beauty Bakerie Pisa Cake Blush Set.  xo’s ~ Tati » » » Check out … $1,000 MAKEUP TESTED … Beauty Bakerie Flour Setting Powder If you haven&#39;t tried the dessert-themed line adored by bloggers (Jackie Aina is a stan) and Beyoncé (enough said), you need to get on it, because wow.  Last month, Beauty Bakerie announced a collaboration with three-time Olympic gold medalist Gabby Douglas.  Makeup for Melanin Girls is a beauty brand that celebrates diversity and deep skin tones in the beauty industry.  Enter the Beauty Bakerie freezer and start ice-ing with this waterproof and defining Eyelash Icing Mascara.  They come in multiple finishes (matte &amp; metallic mainly along with one gloss color so far) and the range of colors is to die for.  Beauty Bakerie is the leading cruelty free cosmetic brand.  The perfect topper for your baked beat, Best Mascara Of All Time - Top Drugstore And Luxury Mascara.  Join us for ground-breaking panel discussions about representation and inclusion in the beauty industry.  In The Best Makeup for Women Of Color, According to YouTube Beauty Guru Jackie Aina The beauty guru just teamed up with Too Faced to expand its Born This Way foundation range to 35 inclusive shades Click to save big with 78 latest 2018 beauty bakerie discount code.  I finally gave in when they offered the limited Hot Cocoa Set.  Shop for and buy beauty bakerie online at Macy&#39;s.  Ink-black Smudge proof Matte Finish Volumizing and Thickening Lash Extending Fibers included with Signature Wand HOW Products from Shop Beauty Makeup.  The brand is perhaps most well-known for their “Cake Mix” foundation, which is numbered starting with the darkest shades first.  Juvia&#39;s Place Zulu Eyeshadow, $18 Beauty Bakerie is a makeup brand that combines our two loves: Makeup (duh) and baked goods (double duh).  I wore this look below to an engagement party last month, and I regretted eating. S.  beauty bakerie lip whips - review and try on Matte lips are a huge trend right now.  Beauty Bakerie (23) Blank Canvas (2) BYBI (1) Coco &amp; Eve (1) Cocoa Brown (1) Dr.  The founder of Beauty Bakerie, Cashmere Nicole, with her daughter.  Loved by beauty gurus and YouTubers like Jackie Aina and Tati, this vegan, cruelty-free brand is shaking up the beauty game.  It has an hourglass wand.  The brand was created by iconic supermodel Iman as a response to her frustrations in finding her own identity in her long career in beauty and fashion.  967. com Update: After Beauty Bakerie Cosmetics shared a swatch video for one of its Cake Mix foundations, which launched in April, the post quickly went viral.  These matte and metallic sheens will leave you feeling light and bubbly.  Fair&amp;white So White Brightening Oil - Lady Edna Shop KKW BEAUTY by Kim Kardashian West.  Beauty Bakerie has built a cult following thanks to its popular Lip Whips (liquid lipstick that stays PUT, no matter what you eat or drink) and cute, food-inspired packaging like the Flour Setting Powder, Wake &amp; Bake Hydrating Face Oil, Eyelash Icing Mascara, among other yummy products. 2 out of 5 stars 2,257 $6.  Product Information.  Barneys — Receive a free 22-piece bag filled with your favorite beauty brands! Redeem at checkout on beauty purchases of $200 or more, ends 6/22.  Fenty Beauty is 100% cruelty free.  Do they come off with normal makeup remover.  Lip Whips are Beauty Bakerie’s signature recipe for lightweight, long-lasting colour and their matte and metallic lipsticks dry to a smudge-proof finish so that you can bake up your lips without eating them too.  This packaging like, seriously get us every.  Beauty Bakerie UK.  $16.  What I’m Wearing: How Beauty Bakerie founder Cashmere Nicole went from food stamps to launching a multi-million dollar cosmetics brand originally appeared on goodmorningamerica.  What we mean by clean: over 1,500 questionable ingredients are never used in our formulations.  Price $18.  Today I’m going to be talking to you about a NEW beauty product that I discovered and it’s called Beauty Bakerie.  Beauty Bar offers waxing, eyelash and facial services in addition to a selection of other retail beauty brands.  Shop Beauty Bakerie and check out their selection of Sprinkles collections.  Hi loves! I was trying out Beauty Bakerie Neapolitan Eyescream Palette (2.  Beauty Bakerie Cosmetics Brand is releasing their first skincare product made to keep all skin types healthy and hydrated! Launching on August 11th, the Wake &amp;amp; Bake Baking Oil is an extremely lightweight versatile oil that protects and balances your.  It’s worth mentioning that the founder and CEO of Beauty Bakerie is Cashmere Nicole, who is black.  Cioccolato Gelato Gel Eyeliner.  Slated for an early March release, we were super excited to see what Gabby and the Beauty Bakerie is the uttermost online store full of cosmetic products, such as eye shadows, eyebrow gels, long-lasting mascara, illuminators, glitters, powders, liquid lipsticks, and other makeup essentials.  Processing returns can vary from two (2) to three (3) weeks.  We&#39;ve more details about Detail, Specification, Customer Reviews and Comparison Price.  Mascara Luxury Mascara, Lengthening Mascara Ysl Beauty.  A total of 189 people were on board the Lion Air flight that went down in the water off Jakarta Premium Beauty Sponge Makeup Blender for Powder, Concealer and Foundation Applicator - Make Up Sponge for Cosmetic Blending Powder Puff - 1 piece 4. 00 and contains 0.  Beauty Bakerie has gorgeous branding, but they cannot possibly claim ownership of the immediate association a person would make between a powder for baking makeup and the baking goods process.  Her brand is proof that cosmetics can be both effective and playful.  I will call in short term as Eyelash Icing Waterproof Mascara - Beauty Bakerie For those who are seeking Eyelash Icing Waterproof Mascara - Beauty Bakerie review.  Cutting your hair short and wearing bold makeup is not something that women do in my family.  Find new and preloved Beauty Bakerie items at up to 70% off retail prices.  Their vision was to develop a brand of makeup that all women, regardless of ancestry, could wear.  Other investors include Adebayo Ogunlesi, the chairman of Global Infrastructure Partners and a Goldman Sachs board member, and Charles Phillips, To get a cheap price or great deal.  Beauty Bakerie is launching their new Eyelash Icing Mascara on Friday, 10.  How To Mix Whitening /lightening Fair And White So.  .  Cashmere Nicole, founder and chief executive officer of Beauty Bakerie Cosmetics, clad in a hot pink pantsuit and sparkly silver bustier, delivered an emotional address to the crowd at the WWD Beauty Summit, expounding on her journey as struggling entrepreneur and single mom during her battle with breast cancer.  It’s true! Maskcara Beauty was founded on the idea that makeup should be used to enhance the true beauty in a woman’s face, rather than covering it up.  Aimed to fight against the media&#39;s mainstream &#39;bad girl&#39; persona, Beauty Bakerie&#39;s sweet and friendly cosmetics have earned an impressive fan base Shop, compare, and find product ratings and reviews for Beauty Bakerie Mascara at Influenster.  Created by Cashmere Nicole, Beauty Bakerie is testament to her personal vision and determination; proof that cosmetics can be high-performance and playful, while representing her belief that ‘sweetness’ should be nurtured.  Fenty Beauty Makeup Makeup that moves with you.  Order your personal Beauty Bakerie: Cruelty Free Cosmetics &amp; Beauty Products came from here.  Cooked up with you in mind, Blending Egg Beauty Sponges were uniquely created to fit in the palm of your hand for seamless blending.  One issue with finding truly The gymnast goes for the gold in a totally new way.  Beauty Bakerie as a company has grown a lot in the last year, but rather than invest some of their earnings with a higher quality product, they’ve instead invested in packaging which, for me, just feels wrong.  Beauty bakerie, what is you doin!??! Reply.  Products that give you options, but never cover you up, turn you into someone else, or overcomplicate your routine.  Makeup Makeup that moves with you.  They were having a 30% off deal so how am I supposed to pass that off?! Don’t worry I actually returned a lot of items and kept a few that I thought were worthy.  You can find a variety of matte and metallic lip whips, eyeliners, mascaras, eyeshadows, eyebrow gels, foundations, powders, concealers, blushes, bronzers, and highlighters. 00 Beauty Bakerie&#39;s functional makeup caters to busy women who can&#39;t be bothered to worry about touch-ups.  What&#39;s The People Talking About Beauty Bakerie: Cruelty Free Cosmetics &amp; Beauty Products.  I didn&#39;t know what to try from them, so I went with their eyeshadow palette.  This is not a sponsored post.  PAWPAW (6) Dr Botanicals (12) Duo (2) EX1 Cosmetics (1) Fake Bake (3) Isle of Paradise (13) Laura Geller (3) Lime Crime (83) Makeup By Polly (1) MasqueBar (5) Minetan (1) Miss Patisserie (8) NIP FAB (12) NYX Professional Makeup (56) Project Lip (3) Shea Moisture (7) Skinny Tan (5) SOSU (4) The Fox Tan (3) Beauty Bakerie (20) Bleach London (6) BPerfect (1) Carmex (6) Doll Lash (3) Dr.  Beauty Bakerie has been on my “to try” list for a very long time.  Get cruelty free makeup: eyeliner, eyeshadow, liquid matte lipstick, and eyebrow makeup.  7.  Beauty Bakerie After we wiped some (not all) of the lip scrub off, we applied the Lip Whip.  The multiple Olympic gold medalist has teamed up with cosmetics brand Beauty Bakerie to launch her own line of fun and flirty lipsticks.  In order to keep the health of your lips, the company offers lip whip remover that helps to remove* stains in in your lips.  Beauty Bakerie Cosmetics has expanded its reach and is now available in 350 Ulta stores and on Ulta. m.  They are a highly respected brand with very good quality products.  Proof is in the Pudding Eyeshadow Palette, £36 Eyelash Icing Waterproof Mascara - Beauty Bakerie.  Beauty Bakerie.  It&#39;s waterproof.  Cotton Candy Champagne Blush by Beauty Bakerie.  bite beauty was founded on a simple premise: what you put on your lips should be as good as what you put in your mouth.  My favorite shades from the collection were Peanut Butterluster &amp; Skinny Dip! Eyelash Icing Waterproof Mascara - Beauty Bakerie.  They&#39;re eyeshadow creams (&quot;eyescream&quot;) are so amazing and different to use but they apply so well. time.  Brand new never used or opened beauty bakerie ‘icing’ mascara in black.  If you can&#39;t find a coupon or a deal for you product then sign up for alerts and you will get updates on every new coupon added for Beauty Bakerie.  We want to bring you the best makeup suited for your day, your mood, your point of view.  Beauty Bakerie Lip Whip Remover Pack of 50 Wipes $14 Shop If you plan to buy one of Beauty Bakerie&#39;s lippies, you absolutely have to buy these makeup wipes, as the lip color formula will not come off any other way—or at least that was my experience.  &gt;Aspiring Makeup artist trained from Makeup Maestros like Natasha KhanNumra How to Revive Dried Out Mascara and Alternate Uses of Mascara Wand.  Want a trip to Italy?.  The brand&#39;s Cake Enter the Beauty Bakerie freezer and start ice-ing with our NEW waterproof andvolumizing Eyelash Icing Mascara.  Pair Pisa Cake Blush Palette?s three appetizing blushes in Bon App?tit, Icing, and Slice, with Eyelash Icing Waterproof Mascara for effortless beauty. .  We hope this cruelty free brands beauty list will help you find products that have not been tested on animals.  Easy, decadent dishes that alway have people coming back for seconds.  Beauty Bakerie Flour Setting Powder in Translucent Thrive Causemetics Rhea Bronzer Beauty Bakerie Coffee &amp; Cocoa Bronzer Palette Beauty Bakerie Scoops Elysees Blush Palette Beauty Bakerie Sprinkles Glitter Glue Beauty Bakerie Eyelash Icing Waterproof Mascara Beauty Bakerie Lip Whips in Bubblegum Crisis &amp; Fortune Cookie What I&#39;m Wearing: Beauty Bakerie Matte Lip Whips won&#39;t budge no matter what you throw at them — if you hate reapplying lipstick (but don&#39;t mind needing to work a lil&#39; extra to remove &#39;em at the end of the day 29 Sweat-Proof Makeup Products Perfect For The Summer.  It definitely defined them.  San Diego, CA, May 09, 2017 ---- Beauty Bakerie Cosmetics Brand, a cruelty-free makeup line known for its innovative smudge-free products, sweetened San Diego during the grand opening of its first I went onto Beauty Bakerie’s website and before you know it I’ve spent over $300 dollars.  Beauty Bakerie is a lesser-known beauty brand that features cruelty-free cosmetic products and encourages men and women to feel empowered and beautiful.  Subscribe now to see what were baking up in our kitchen! Beauty Bakerie is a cruelty-free, vegan, and mostly gluten free cosmetic company that I am currently obsessed with.  The Lip Whips (matte liquid lipsticks) are too legit to quit.  Beauty Bakerie Has a Comprehensive Plan to Create a More Diverse Beauty Brand Sign in Our B.  With the 2016 Rio Olympics firmly behind her, Gabby Douglas has focused her attention on becoming a mogul…a beauty mogul, that is.  PAWPAW (5) Dreamweave (1) Embryolisse (1) EX1 Cosmetics (1) Eylure (2) Glitter Eyes (1) Gypsy Shrine (2) Kandi Cosmetics (8) L&#39;Oreal (53) Laura Geller (4) Laura Lee (5) Lime Crime (107) Lottie London (7) Madison Make Up (1) Makeup By Polly (7) Maybelline (34) Morphe (67) NAILS INC (3) NIP FAB (8) 1/Our Lip Whips apply wet and dry to a true matte finish.  This mascara comes in a tube.  How soon will I get my refund? If you chose to have your funds reimbursed to your original form of payment (ex: credit or debit card), our Bakers require you to send back the products with a prepaid shipping label.  - any make up look is now even more affordable! May 5, 2019- Sweetening your day, one package at a time Which Beauty Bakerie goods do you want to see in YOUR mailbox? Got to beautybakerie.  BEAUTY BAKERIE | DEMI MATTE FOUNDATION MAKEUP CLUTTER About us.  New refers to a brand-new, unused, unopened, undamaged item, while Used refers to an item that has been used previously.  She drew inspiration from her love of cakes, candies, and pastries, as well as her desire to remind What’s vegan, lightweight, comes in 11 shades of beautiful starting with #1 as the darkest shade, doesn’t smudge and costs about $28 a bottle?.  Beauty Bakerie made the announcement on Instagram in early October, writing, &quot;Yes.  Retails for approx $25 Can not including shipping.  I apply this mascara in my YouTube video.  With an unmatched offering of shades and colors for ALL skin tones, you&#39;ll never look elsewhere for your beauty staples.  Beauty Bakerie (beautybakeriemakeup) profile, status, biography on Instagram.  Our users can save with our coupons on average about $75.  This adds another layer to this controversy because the beauty industry is still behind when it comes to including people of colour (lack of recognition for black makeup artists and models plus very few options of foundation shades).  Shop the full line including our Living Luminizer highlighter, &quot;Un&quot; Coverup concealer &amp; beauty within supplements. com : Fair &amp; White So White Brightening Body Oil With. Beauty Bakerie is a direct reflection of my perseverance and passion for great quality products that enhance the beauty in everyone, every day. A.  With this wonderful baking oil, your makeup will stay intact while your pores are still able to breathe.  ⁣ ⁣ Tap the link in bio to Huda Beauty is a cosmetics line launched in 2013 by Iraqi-American businesswoman and makeup artist, Huda Kattan.  Beauty Bakerie Gelato Gel Eyeliner in Black Milk, $20.  The black female-owned brand was founded by Cashmere Nicole back in 2011, who built an While this doesn’t stop me from shopping at my local Sephora, I try to make a conscious effort to follow, support and shout out black-owned beauty brands (many of which are indie) — and you should, too.  Beauty Bakerie: Eyelash Icing Mascara This packaging like, seriously get us every.  What’s vegan, lightweight, comes in 11 shades of beautiful starting with #1 as the darkest shade, doesn’t smudge and costs about $28 a bottle?. 00.  The whole Beauty Bakerie brand, started by Cashmere Nicole, a single mother and breast cancer survivor, boasts dessert-inspired vegan makeup.  155,887 likes · 2,616 talking about this.  Available at most major retailers, IMAN Cosmetics is a beauty company that creates makeup and skincare designed for women of all different types of skin tones.  With a brick-and-mortar location in San Diego, Calif.  Beauty Bakerie&#39;s mass appeal is a testament to the importance and bankability of genuine diversity.  I have to breathe a sigh of relief! Feel your most beautiful, every single day.  I&#39;ve wanted to try Beauty Bakerie, especially Parisian Streets or Silver Spoon! I&#39;ve seen that they recommend their lip whip remover - is that necessary? Seems like a useless add on purchase.  The item you just added is unavailable.  Beauty Bakerie&#39;s functional makeup caters to busy women who can&#39;t be bothered to worry about Beauty Bakerie Eyelash Icing Waterproof Mascara, Cotton Candy Champagne Blush Highlighter Palette, Cake Pop in Peanut Butterluster &amp; Cinnamon Churro and Hazelnut Swirl Metallic Liquid Lipstick Lip Whip Review, Swatches, Demo and YouTube Video Part Two Enter the Beauty Bakerie freezer and start ice-ing with our NEW waterproof and volumizing Eyelash Icing Mascara.  Whats people lookup in this blog: Love Makeup Beauty Bakerie Here are my unfiltered Hot or Not thoughts on Beauty Bakerie Cosmetics.  These last through just about everything, but if you&#39;re chowing on some greasy food, don&#39;t expect it to remain on your lips unscathed.  Below, check out 11 black-owned beauty brands you’ll definitely want to add to your makeup bag: I really want to try Beauty Bakerie!! This packaging is SO cute, but it is a bummer that so many of the shades ended up looking quite similar on the lips.  While based out of Eastern North Carolina, B.  Don&#39;t eat anything with oil while wearing these liquid lipsticks, because the color will come completely off. 95 $ 6 .  Clean Beauty Makeup should be good for you—in every way.  All of their bakery and sweet-themed makeup items are just too cute to deal with, and I’ve had my eye on the the “lip whips” for a while.  Vegan beauty products and vegan makeup from Beauty Bakerie.  We all want to buy cruelty free makeup and beauty products, but many times the problem is that we don’t have time to do research on brands before buying.  Smart customers would never pay full price.  Phyto-Pigments Ultra-Natural Mascara – Juice Beauty.  Shop for Beauty Bakerie at Ulta Beauty.  Consider these makeup essentials the ultimate indulgence to satisfy your beauty appetite.  🔥 Today&#39;s Top Deal: (@Amazon) Free Shipping on Select Beauty Bakerie Products.  My Experience with Beauty Bakerie Versailles Lip Whip: Beauty Bakerie shot to fame once these mini videos started doing rounds on Instagram with gals applying lipstick swatches on their arms and then dipping their arm in water and swiping across the swatches – the colour would not budge, would not smudge! We work out the trending price by crunching the data on the product’s sale price over the last 90 days.  By the time I got to the car, my lips were so patchy.  We strive to work with and feature brands on this site that are cruelty free and we are always looking for more great cruelty-free beauty products and companies. 8k Followers, 943 Following, 5,547 Posts - See Instagram photos and videos from Beauty Bakerie (@beautybakeriemakeup) Beauty Bakerie CEO Cashmere Nicole Opens Up About the Inclusive Indie Makeup Brand&#39;s Massive Success.  At Beauty Bakerie.  We provide a wide range of offers including online promo codes &amp; deals, promotions &amp; sales, and in-store printable coupons.  100% Cruelty-free 🐰 and Vegan-friendly 🌱 Unilever Joins Lazard Executive in Beauty Bakerie Investment.  Founded in 2011 by Cashmere Nicole, Beauty Bakerie offers a full product line of some of the Shop, compare, and find product ratings and reviews for Beauty Bakerie Mascara at Influenster.  Their bakery-inspired line includes best-selling products ranging from liquid lipsticks, setting powder, and illuminators to eyebrow gel, eyeshadows, and eyeliners.  service fees) Brand Beauty Bakerie Cosmetics Brand Launches Wake &amp; Bake Baking Oil.  Amazon.  The idea for starting Sugar Homes goes back to 2016 with the launch of Beauty Bakerie.  I am Beauty Bakerie Cosmetics Brand&#39;s founder, CEO, president, and creative director.  Beauty &amp; Makeup.  Beauty Bakerie is a one-of-a-kind brand and they’ve made a stamp in the beauty community that can not be taken from them.  I have their eyeshadow cream, their eye brow gel (&quot;BROWnies&quot;) and also some of their lip whips and they are all amazing.  The brand&#39;s multi-coloured, super cute aesthetic houses some seriously powerful cosmetics - ultra-pigmented eyeshadows, long-lasting liquid lipsticks and smudge proof brow gels.  Find beauty bakerie at Macy&#39;s Macy&#39;s Presents: The Edit - A curated mix of fashion and inspiration Check It Out In 2011, Cashmere Nicole began the Beauty Bakerie brand out of her home and as a team of one. 3k followers • 967 following • 5.  Todays best offer is Makeup Kits.  Their brand has expanded to 500 retail stores in 45 countries.  We create safer, high-performing products without harmful or questionable ingredients, so you can feel confident in your daily routine.  Sacha Cosmetics is a veteran in black, vegan makeup.  I come from an extremely conservative family.  Game of Cones Eyeshadow Palette by Beauty Bakerie features shimmers and metallics, you can go dark and grungy, or strong with pops of color.  provides a global reach through one on one and group classes, travel services, and charitable events.  The jab came as a response to a tweet from makeup artist Cole Carrigan. 8gx12, €34.  Hit refresh on your beauty bag this season with our collection of beauty essentials.  The brand has just launched an eight-shade concealer, and is planning on expanding the line through reaching out to users.  That being said, my family loves me for who I am – even … More Introductions – My Face, My Rules Beauty Bakerie.  A soft matte liquid foundation with buildable, medium to full coverage, in range of 40 shades.  Nicole believes in overcoming adversity by doing something positive for the world.  Beauty Bakerie is a company that I love to support.  It did a great job separating and coating each lash. &quot; Since it comes in a pot, this product can be used with small and big brushes, too.  Indie brand Beauty Bakerie was founded in 2011 by Cashmere Nicole, and their dessert-themed makeup will make you feel happy inside. , a retail partnership with Forever 21&#39;s Riley Rose, international distribution deals with QVC, HSN and Sephora as well as a devoted millennial fan base, the business is on a clear path to success.  For Beauty Bakerie we currently have 0 coupons and 16 deals.  The Best Whitening Oil Fair &amp; Whites So Whites Oil. * This month is also Lyme Disease month and as part of Beauty Bakerie’s ‘Better Not Bitter’ Mission, they are asking us sweets to ‘Do it for the (CAUSE) Graham!’.  154,062 likes · 3,504 talking about this. com.  Still, I held out on buying them until recently because of the price of one Lip Whip ($20).  Our vision is that we will remind the world of the value in being better not bitter; Beauty Bakerie.  The two liquids are referred to as lip whip due to their creamy and soothing effects.  Shop now! Beauty Bakerie is a cosmetics brand committed to expanding its shade range for every skin tone.  We make our dream everyday products that don’t yet exist, are fun to use, and actually work.  I am charged with creating the vision for the company as well as strategizing with my team on how to make that Free EMS Shipping for all orders in Thailand; Login / Register ; Wishlist Cart / 0. 24! Beauty Bakerie is made famous by their no-smudge lip sticks, later expanding to makeup products, which are all 100 percent cruelty-free and vegan-friendly.  The founder, Kattan, was chosen as one of &quot;The 25 Most Influential People on the Internet&quot; by Time in 2017, listed as one of The Richest Self-Made Women and one of the Top Three Beauty Influencers by Forbes.  Best online cosmetics store in Indonesia.  Expires 12/20/2020 CDT Beauty Bakerie Cosmetics Brand | Long-lasting formulas that give you back the moments that matter most making it a #sweetlife.  FREE STANDARD SHIPPING on any $50 purchase.  Check out the best beauty bakerie discount code of April 2018 now.  Beauty Bakerie has since expanded its product line, adding eyeshadow palettes, foundations, powders, highlighters, face oils and more — all while maintaining the creatively sweet bakery theme. com Not only do makeup-lovers adore Beauty Bakerie for its pigmented formulas and cute baked-goods-themed packaging, but the brand has also made revolutionary choices within its line.  Said to be “the best waterproof liquid lipsticks,” they are water-resistant and sure to last until removed with our oil-based Lip Whip Remover wipes.  On average, shoppers save $15 using Beauty Bakerie coupons from PromoCodeWatch.  In fact, they&#39;re lucky this fit so neatly into their gimmick, without them having to try and reach for a food connection.  New makeup label Beauty Bakerie is here to change that, by reaching out to its customers for feedback and comments.  12, 2018, 9 p.  I hope you will ensure and purchase one of Beauty Bakerie: Cruelty Free Cosmetics &amp; Beauty Products after read this review. com What started as Cashmere Nicole’s passion project while battling cancer, Beauty Bakerie has become a worldwide makeup brand, sported by everyone from Beyoncé to Instagram influencers galore.  Headliner: Beyonce&#39;s makeup artist, SIR JOHN! Beauty &amp; Makeup.  The perfect topper for your baked beat, Eyelash Icing Mascara will freeze your lashes in place for all-day, all-night long-lasting wear.  Beauty Bakerie now offers a diverse line of non-toxic, 100% cruelty free and vegan cosmetics themed around baking and other sweets (their matte Whip Lip comes with a Do&#39;s and Donuts guide on how to perfect the long-wearing formula).  Shop vegan beauty brands on the website - veganbeautybrands.  With over 400,000 Instagram followers, its flagship store in San Diego, stockists like ASOS and Makeup &amp; Beauty Product Browse the best Beauty Bakerie product reviews as rated by Temptalia and our community as well as view Beauty Bakerie swatches and dupes Beauty Bakerie @beautybakeriemakeup - Instagram Profile - 🛍 @ultabeauty 👩🏾‍🍳 CEO: @cakeandcashmere 💕 Issa Sweet Life @sugarhomes 📸Tag #BeautyBakerie to be featured! 🐰🌱 SHOP THE LINK BELOW | Open Social Media Content Anonymously.  Aug.  Founded in 2011 by Cashmere Nicole, Beauty Bakerie is an e-commerce, cosmetics company that offers a full product line of some of the world&#39;s sweetest ingredients.  100% Cruelty-free 🐰 and Vegan-friendly 🌱 Long-lasting formulas that give you back the moments that matter most making it a #sweetlife.  Premium Beauty Sponge Makeup Blender for Powder, Concealer and Foundation Applicator - Make Up Sponge for Cosmetic Blending Powder Puff - 1 piece 4.  I would say this is a great EVERYDAY mascara.  We outchea.  25% Off Beauty Bakerie Discount Code &amp; Coupons, May 2018 - Hand Picked BEAUTY CREATIONS COSMETICS.  Official website for exclusive access to Kim&#39;s beauty products with worldwide shipping.  Order your personal Enchanted Jelly Lip Gloss - Beauty Bakerie from this level. 11 oz.  Shop the full range of sweet makeup from Beauty Bakerie! Our baked goods include: Matte and Metallic Liquid Lip Whips, Flour Setting Powder, GELato Gel Eyeliner.  Not only are fans thrilled by how well the ~ Beauty Bakerie Pisa Cake Blush Set.  The main goal of this company is to create nice products to sweeten people’s lives and bring them peace and happiness.  I was a little nervous trying this foundation because it seemed geared to a younger demographic that often like a “full beat” meaning lots of coverage that is super matte.  Today, in collaboration with the Black woman-owned brand Beauty Bakerie, Douglas has released a a five-piece set of the brand’s cult favorite “Lip Whips.  You can get it from the Beauty Bakerie website for $20.  What’s enticing aboutthis smudge proof mascara is that it volumizes, lengthens and defines your lashes, perfecting yourpretty look.  While liquid liner pens definitely have our hearts the majority of the time for their ultra-quick application, there&#39;s no denying the beauty of an expertly applied gel liner. 00 ฿ 0 No products in the cart.  All of its products have cute bakery-related names Eyelash Icing Waterproof Mascara - Beauty Bakerie is best in online store.  Founded in 2011 by Cashmere Nicole, Beauty Bakerie offers a full product line of some of the (WATCH IN HD) Here is a video where I test out a buncha beauty bakerie goodies &amp; give you my first impressions! Beauty Bakerie Eyelash Icing Waterproof Mascara Beauty Bakerie Lip Whips in Clean Beauty Makeup should be good for you—in every way. &quot; CASHMERE NICOLE - CEO &amp; FOUNDER Cruelty Free Enter the Beauty Bakerie freezer and start ice-ing with our NEW waterproof and volumizing Eyelash Icing Mascara.  Beauty Bakerie: Flour Setting Powder February 5, 2017 by Shannon 8 Comments This may or may not be (aka it totally is) one of the most clever &amp; cute new product releases we’ve seen recently – Beauty Bakerie is coming out with their Flour Setting Powder on Friday, 2.  Fair&amp;white So White Brightening Oil - Lady Edna shefinds | beauty Mascara is probably one of the hardest makeup products to remove completely.  Most importantly, the pillars of the brand are rooted in good Lip Makeup.  × New Makeup Face Eyes Cheeks Lips A - Z Brands Swatches Finish Vegan Cruelty Free The beauty bakerie makeup is a cool thing that brings youth back and reduces the age by 5-10 years.  While it&#39;s obviously easier for large brands to expand makeup lines, even smaller, independent brands can create inclusive products, and black-owned brand Beauty Bakerie is an example of exactly BEAUTY BAKERIE SETTING POWDER- Allows for your makeup to stay on longer and mattes your face so it minimizes the appearance of having oily skin.  Beauty Bakerie provides metallic, matte liquid that claims to support supple texture and soft lips.  Online shop kosmetik terbesar di Indonesia.  Makeup allows you to hide some of the shortcomings, visually adjust the shape or emphasize the winning facial features.  Shop Beauty Bakerie, Buy best Beauty Bakerie products Online in Dubai, Abu Dhabi, UAE Free Same Day Delivery Pay Cash! Consider this the ultimate (guilt-free) indulgence for all sweet-toothed beauty junkies.  service fees) Brand The entrepreneur delved into the beauty industry in 2011 to establish Beauty Bakerie, an inclusive company that caters to the cosmetic needs of women of all skin tones and ethnicities. 6k images.  Complete range of brand and products.  Beauty Bakerie Makeup Products CLOSED S$ 30 - 62 (excl.  We&#39;ve got products to cover all your beauty needs girl.  Moѕt of thе Buyer evaluations state thаt thе Beauty Bakerie: Cruelty Free Cosmetics &amp; Beauty Products item. 95) and its completely new brand to me.  bareMinerals — For a limited time, choose a full-size GEN NUDE Eyeshadow Palette, mascara and eye brush for $60, ends 6/24.  Shade 1 cake mix demi matte foundation beauty bakerie cosmetics cruelty free cosmetics beauty products bakerie beauty bakerie cake mix foundations foundation makeup the story behind one of world s favorite black owned beauty brands.  Beauty Bakerie Promo Codes &amp; Coupons for June, 2019 Save with 11 active Beauty Bakerie promo codes, coupons, and free shipping deals. B.  Eyelash Icing Waterproof Mascara - Beauty Bakerie.  2,249 likes · 2 talking about this.  939.  95 I love the packaging! Beauty Bakerie&#39;s Eyelash Icing Waterproof Mascara (ULTA, Beauty Bakerie) is black.  I even had to use special wipes from the same brand to get the pigment off at the end of the shoot Beauty Bakerie strives to help women, too, by offering a wider range of color options to fit beauty of all skin tones made from high-quality ingredients.  Makeup is supposed to enhance your features, right? Then tell me why you look 10x cuter without the makeup.  I love the Beauty Bakerie! They totally belong in Sephora.  BEAUTY BAKERIE | DEMI MATTE FOUNDATION MAKEUP CLUTTER Beauty Bakerie Flour Setting Powder in Translucent Thrive Causemetics Rhea Bronzer Beauty Bakerie Coffee &amp; Cocoa Bronzer Palette Beauty Bakerie Scoops Elysees Blush Palette Beauty Bakerie Sprinkles Glitter Glue Beauty Bakerie Eyelash Icing Waterproof Mascara Beauty Bakerie Lip Whips in Bubblegum Crisis &amp; Fortune Cookie. ” [brightcove:5315872753001 default] Get cruelty free makeup: eyeliner, eyeshadow, liquid matte lipstick, and eyebrow makeup.  We stock world renowned brands including Maybelline, beautyblender, ghd, Makeup Revolution, NYX Professional Makeup, and Jeffree Star Cosmetics.  Obsessed with Chocolate? Give all our chocolate-brown sweets a try Beauty Bakerie&#39;s functional makeup caters to busy women who do not mind worrying about touch-ups.  Beauty Bliss is a carefully curated cosmetics and beauty store, shipping across Australia and New Zealand.  RMS Beauty offers natural makeup &amp; skincare made with organic ingredients.  Beauty Bakerie&#39;s Cotton Candy Champagne Blush Palette lets you toast to good times and major sweet cheeks with four rosé-flushed shades.  Created by Rihanna with her vision that’s always ahead of the game, Fenty Beauty makeup redefines the rules with light-as-air formulas that love to be layered—in a global lineup of shades designed for all.  Beauty Bakerie Ulta Beauty Bay (Int&#39;l) Riley Rose About the Product Beauty Bakerie Chocolate For Breakfast is a brown with a cream finish that is permanent and retails for $20.  To Cashmere, there is nothing wrong with having a sweet, gentle nature – it’s all about finding the perfect balance between ‘firm’ and ‘graceful’; an ethos she so BeautyBallerina firmly believes that in this day and age it is hardly necessary to continue testing beauty products on animals.  You will be surprised to determine how convenient this device can be, and you may feel good knowing that this Enchanted Jelly Lip Gloss - Beauty Bakerie is among the best selling item on today.  95 Divers see crashed Indonesian jet fuselage as &#39;ping&#39; heard in search for black box Brand new Boeing 737 MAX 8 jet plunged into Java Sea on Monday, killing all 189 people on board ‘No survivors’ from Indonesia flight which crashed into the sea with 189 on board.  Fenty Beauty by Rihanna was created with promise of inclusion for all women.  Everything we do and everything we create is based on what we believe in. com, each makeup item is themed after your favorite sweets and treats.  At Sigma Beauty, we’re inspired by people like you -- beauty enthusiasts and professional makeup artists, alike.  A beauty &#39;edu-tainment&#39; site featuring hair + makeup how-to&#39;s, nail trends, skincare, tools, current obsessions + inspirations, as well as countless quick tips + tutorials from insiders Lauren Conrad, Kristin Ess + Amy Nadine.  From a &quot;Do It For The Graham&quot; Eyeshadow Palette to Eyelash Icing Mascara, each product will having you craving something sweet.  In honor of Black History Month, we rounded up five black-owned beauty brands that are changing the beauty game.  A new eyeshadow palette has been released by Beauty Bakerie and as usual it’s mouthwatering! The $38 Proof Is In The Pudding Eyeshadow Palette is a neutral palette with 4 matte shades and 5 shimmer shades.  The pigment on the Whips is gorgeous ― they’re bright and appear almost exactly on your lips as they look in the tube.  Beauty Bakerie recently launched their makeup sponges, and they’re calling them blending eggs! (How cute!) I picked up a crate, and here are my thoughts.  Eyelash Icing Waterproof Mascara - Beauty Bakerie is best in online store.  Beauty Bakerie caters to makeup-loving customers that are our favorite combination of sweet and savory.  &quot;Not only does this mascara stay on for SO long, it also holds my lashes Beauty Bakerie.  He tweeted about receiving a PR package from Huda Beauty, to which Jeffree said: &quot;Tell Huda Beauty to f*ck off and use Beauty Bakerie was founded in 2011 by CEO Cashmere Nicole.  Sacha Cosmetics began operations in 1979 in Trinidad and Tobago which is an ethnically diverse market.  And if you make the mistake of leaving even a little on your lashes, you will wake up with mascara smeared all over your eyes.  155,884 likes · 2,730 talking about this.  Baking Beauty: Our recipes use common ingredients, and no fancy equipment.  For only $30, you can get your mom the Eyelash Icing Mascara and pick up one for yourself as part of the Mommy-And-Me Mascara set and save $6! *No promo code needed.  It is a featherweight powder that comes in mattifying, brightening, bronzing and colour-correcting shades so you can cook your face to perfection.  Shop our concealer, eyeshadow palettes, lipsticks, etc.  Shop with Beauty Bakerie Coupon, Save with Anycodes.  I recommend this products 100% about I hope you guys are able to snag one before they run out.  Buy Now Review It.  Best Mascara Of All Time - Top Drugstore And Luxury Mascara. There are few things we can do to get the all-out value out of them before they exp Fashion Body Makeup Weight Loss Looks Skin Beauty &amp; DIY Hair Beauty Bakerie.  Our award-winning brushes, cleansing tools and makeup are uniquely designed to better your beauty routine.  Users believe that the new Huda Easy Bake line and entire advertising campaign is very similar to launches from Beauty Bakerie, which is known for their Flour Setting Powder.  Learn more about taking care of yourself or shop for the best beauty and personal care products at BeautyMNL.  🛍 @ultabeauty 👩🏾‍🍳 CEO: @cakeand Luckily, there are a ton of black-owned beauty brands, including Unsun and Juvia’s Place, catering to the beauty needs of women (and men) of color.  About Youtuber Beauty Bakerie is a vibrant life-proof, cruelty-free, vegan-friendly cosmetic line that features several long-lasting, smudge proof &amp; water-proof makeup products for all skin tones and types.  The Beauty Bakerie, Lahore, Pakistan.  @SugarHomes, a 501(c)3, mission is to “sweeten the lives of others” by ensuring the basic needs of the children (such as food, water, medicine and shelter) are being met.  It’s true! This liquid lipstick from indie brand Beauty Bakerie blew me out of the water (gah, I&#39;m funny).  Kylie Lip Kits are hot news, but for us girls in the UK, it&#39;s super pricey for us to get our hands on. comBefore Cashmere Nicole founded I’d like to open up a little bit in order for us to get to know each other.  and we didn’t want to settle for “good-for-you,” we wanted “damn-that’s-good” performance, too: luxurious textures and high-pigment color, for #stylewithbite in every swipe.  You will be surprised to view how convenient the product can be, and you will feel good knowing that this Beauty Bakerie: Cruelty Free Cosmetics &amp; Beauty Products is probably the best selling item on today.  This ink-black, smudge-proof recipe is a staple in our kitchen for adding length and definition to lashes.  Founded in 2011 by Cashmere Nicole, Beauty Bakerie offers a full product line of some of the Beauty Bakerie, which makes treats for your makeup bag in lick-your-lips flavors, delighted sugar fans this month when it announced the launch of its Nude-tella Matte Liquid Lip Whip Set. single.  Best quality formula makeup at drugstore prices, vegan, cruelty-free, made in the USA, and ships direct to you.  We stay in constant communication with real Glossier users to give you what you want (and because we enjoy it).  At beautybakerie.  The lip whips were the first product I tried and are some of my favorite liquid lipsticks to date.  Beauty Bakerie is a black-owned cosmetic company started in 2011 by a single mother and breast cancer survivor who had the dream of inspiring others and spreading the message of empowerment and happiness to all.  All Eye Products Bat those lashes, Suga! Beauty Bakerie is pleased to announce the launch of Sugar Homes.  In the span of 5 years, the brand has built a positive reputation on some of its products, such as fake eyelashes series, a collection of foundation, and some face palettes.  Click the like button and let me know in the comments what you’d like to see next week.  Explore Instagram posts for tag #beautybakeriemakeup - Instazu.  Eyelash Icing Mascara.  Shop for makeup products online, at the lowest prices.  Please select another product or variant.  skip to main content.  Beyoncé was an early supporter, as was songstress Kehlani; not to mention, earlier this year, Cardi B was spotted wearing one of the brand&#39;s Matte Lip Whips in Très Jolie, a vibrant magenta, which is perennially sold out.  Backed by a 2-year warranty, our luxurious, professional quality brushes will help you create flawless looks that stun.  Shop Fenty Beauty&#39;s Pro Filt&#39;r Soft Matte Long wear Foundation.  Find beauty bakerie at Macy&#39;s Macy&#39;s Presents: The Edit - A curated mix of fashion and inspiration Check It Out The Beauty Bakerie Lip Whips are so comfortable and beautiful, but they remove very easily with oil.  SET YOUR SELF UP FOR SUCCESS- Our setting powder provides the best foundation to start applying your makeuup regiment.  Spring 2017, the company plans to open its first retail store in San Diego.  To get a cheap price or whole lot. com to get your yummy box of smudge-proof waterproof long-lasting SWEETS! Beauty Bakerie Makeup Products CLOSED S$ 30 - 62 (excl. 45 If you&#39;re like us, you love a bold cat eye.  Nicole had a dream of creating a makeup company, and through a battle with breast cancer and raising her daughter as a single mom, she Celebrity makeup artist and beauty expert Yvonne MacInnis called this liquid eyeliner a staple in her kit because it &quot;provides the most versatility.  The company, which employs 25 people, markets products to women of all skin tones and has been promoted by U. 27! I mean, icing is arguably the best part of the entire cake, right?! Juvia&#39;s Place is one of the most popular WOC-owned makeup lines thanks to its beauty blogger-loved eyeshadow palettes rich with pigment both shimmer and matte.  Cashmere Nicole is the founder and CEO of Beauty Bakerie Cosmetics, a brand she launched in 2011 with just one item and has since amassed millions of fans globally and most recently launched at Beauty Bakerie Cosmetics has expanded its reach and is now available in 350 Ulta stores and on Ulta</span>
+
+  </button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="file-navigation in-mid-page d-flex flex-items-start">
+
+  
+
+<details class="details-reset details-overlay select-menu branch-select-menu  hx_rsm" id="branch-select-menu">
+
+  <summary class="btn btn-sm select-menu-button css-truncate"
+
+           data-hotkey="w"
+
+           
+
+           title="Switch branches or tags">
+
+    <i>Branch:</i>
+
+    <span class="css-truncate-target">master</span>
+
+  </summary>
+
+
+
+  <details-menu class="select-menu-modal hx_rsm-modal position-absolute" style="z-index: 99;" src="/victorfontes/django-mobile-helper/ref-list/master?source_action=disambiguate&amp;source_controller=files" preload>
+
+    <include-fragment class="select-menu-loading-overlay anim-pulse">
+
+      <svg height="32" class="octicon octicon-octoface" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M14.7 5.34c.13-.32.55-1.59-.13-3.31 0 0-1.05-.33-3.44 1.3-1-.28-2.07-.32-3.13-.32s-2.13.04-3.13.32c-2.39-1.64-3.44-1.3-3.44-1.3-.68 1.72-.26 2.99-.13 3.31C.49 6.21 0 7.33 0 8.69 0 13.84 3.33 15 7.98 15S16 13.84 16 8.69c0-1.36-.49-2.48-1.3-3.35zM8 14.02c-3.3 0-5.98-.15-5.98-3.35 0-.76.38-1.48 1.02-2.07 1.07-.98 2.9-.46 4.96-.46 2.07 0 3.88-.52 4.96.46.65.59 1.02 1.3 1.02 2.07 0 3.19-2.68 3.35-5.98 3.35zM5.49 9.01c-.66 0-1.2.8-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.54-1.78-1.2-1.78zm5.02 0c-.66 0-1.2.79-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.53-1.78-1.2-1.78z"/></svg>
+
+    </include-fragment>
+
+  </details-menu>
+
+</details>
+
+
+
+
+
+        <button type="button" class="btn btn-sm disabled tooltipped tooltipped-n new-pull-request-btn" aria-label="You must be signed in to create a pull request">
+
+          </button>
+
+
+
+  <div class="breadcrumb flex-auto">
+
+    
+
+  </div>
+
+ </div></div></div></main></div></div><div class="footer container-lg width-full px-3" role="contentinfo"><div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
+
+  </div>
+
+  <div class="d-flex flex-justify-center pb-6">
+
+    <span class="f6 text-gray-light"></span>
+
+  </div>
+
+</div>
+
+
+
+
+
+
+
+  <div id="ajax-error-message" class="ajax-error-message flash flash-error">
+
+    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"/></svg>
+
+    <button type="button" class="flash-close js-ajax-error-dismiss" aria-label="Dismiss error">
+
+      <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+
+    </button>
+
+    You can’t perform that action at this time.
+
+  </div>
+
+
+
+
+
+    
+
+    
+
+    
+
+    
+
+  <div class="js-stale-session-flash stale-session-flash flash flash-warn flash-banner" hidden
+
+    >
+
+    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"/>
+
+    </svg>
+
+    <span class="signed-in-tab-flash">You signed in with another tab or window. to refresh your session.</span>
+
+    <span class="signed-out-tab-flash">You signed out in another tab or window. to refresh your session.</span>
+
+  </div>
+
+  <template id="site-details-dialog">
+
+  <details class="details-reset details-overlay details-overlay-dark lh-default text-gray-dark hx_rsm" open>
+
+    <summary role="button" aria-label="Close dialog"></summary>
+
+    <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast hx_rsm-dialog hx_rsm-modal">
+
+      <button class="Box-btn-octicon m-0 btn-octicon position-absolute right-0 top-0" type="button" aria-label="Close dialog" data-close-dialog>
+
+        <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+
+      </button>
+
+      <div class="octocat-spinner my-6 js-details-dialog-spinner"></div>
+
+    </details-dialog>
+
+  </details>
+
+</template>
+
+
+
+  <div class="Popover js-hovercard-content position-absolute" style="display: none; outline: none;" tabindex="0">
+
+  <div class="Popover-message Popover-message--bottom-left Popover-message--large Box box-shadow-large" style="width:360px;">
+
+  </div>
+
+</div>
+
+
+
+  <div aria-live="polite" class="js-global-screen-reader-notice sr-only"></div>
+
+
+
+  </body>
+
+</html>
+
+

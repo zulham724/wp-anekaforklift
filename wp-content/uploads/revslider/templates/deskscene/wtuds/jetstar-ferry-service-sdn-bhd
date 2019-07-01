@@ -1,0 +1,801 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+
+  <link rel="dns-prefetch" href="https://github.githubassets.com">
+
+  <link rel="dns-prefetch" href="https://avatars0.githubusercontent.com">
+
+  <link rel="dns-prefetch" href="https://avatars1.githubusercontent.com">
+
+  <link rel="dns-prefetch" href="https://avatars2.githubusercontent.com">
+
+  <link rel="dns-prefetch" href="https://avatars3.githubusercontent.com">
+
+  <link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
+
+  <link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
+
+
+
+
+
+
+
+  <link crossorigin="anonymous" media="all" integrity="sha512-67V2J9Se2CifJlftk9/cExHGvxd7N9b9EdGnQEpszu99Ogeecilu9jIDxoCkx3zNLfB9ArraXW0J03qyVmN0Uw==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-e7318add1f7e055d040edb0f75aaa0ba.css" />
+
+  <link crossorigin="anonymous" media="all" integrity="sha512-MRlTIqIyb8caK5+o8llXVntXovciHyAM4qE3kWU2S7SIjAPDxYp4mE0jQp4kP5UYegy+lG9y1I6VlsdzEjb5Qw==" rel="stylesheet" href="https://github.githubassets.com/assets/site-294181adec18ed639e160b96b45d17ac.css" />
+
+    <link crossorigin="anonymous" media="all" integrity="sha512-sdCBXlLRZegVx3t99SkEmQxO9DDMm2nGm5wNJsuBc72c3KYXj0mpM+97TIsreSTHPioEFxyFgIip3TDtGPQuDA==" rel="stylesheet" href="https://github.githubassets.com/assets/github-54fcb3a87437ca29a24557c268985ca6.css" />
+
+    
+
+    
+
+    
+
+    
+
+
+
+  <meta name="viewport" content="width=device-width">
+
+  
+
+  <title>Jetstar ferry service sdn bhd</title>
+
+    <meta name="description" content="Jetstar ferry service sdn bhd">
+
+    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
+
+  <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
+
+  <meta property="fb:app_id" content="1401488693436528">
+
+
+
+    <meta name="twitter:image:src" content="https://avatars3.githubusercontent.com/u/130982?s=400&amp;v=4" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="victorfontes/django-mobile-helper" /><meta name="twitter:description" content="A package to help dealing with mobile clients in Django - victorfontes/django-mobile-helper" />
+
+    <meta property="og:image" content="https://avatars3.githubusercontent.com/u/130982?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="victorfontes/django-mobile-helper" /><meta property="og:url" content="https://github.com/victorfontes/django-mobile-helper" /><meta property="og:description" content="A package to help dealing with mobile clients in Django - victorfontes/django-mobile-helper" />
+
+
+
+  <link rel="assets" href="https://github.githubassets.com/">
+
+  
+
+  <meta name="pjax-timeout" content="1000">
+
+  
+
+  <meta name="request-id" content="CCF3:29219:24F761:36B2A1:5D124B64" data-pjax-transient>
+
+
+
+
+
+  
+
+
+
+  <meta name="selected-link" value="repo_source" data-pjax-transient>
+
+
+
+      <meta name="google-site-verification" content="KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU">
+
+    <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
+
+    <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
+
+
+
+  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="CCF3:29219:24F761:36B2A1:5D124B64" /><meta name="octolytics-dimension-region_edge" content="ams" /><meta name="octolytics-dimension-region_render" content="iad" />
+
+<meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;" data-pjax-transient="true" />
+
+
+
+
+
+
+
+    <meta name="google-analytics" content="UA-3769691-2">
+
+
+
+
+
+<meta class="js-ga-set" name="dimension1" content="Logged Out">
+
+
+
+
+
+
+
+  
+
+
+
+      <meta name="hostname" content="github.com">
+
+    <meta name="user-login" content="">
+
+
+
+      <meta name="expected-hostname" content="github.com">
+
+    <meta name="js-proxy-site-detection-payload" content="NjQ5ODVmNzZjNjA0YzAwYTQwZjkxMTM5NzI0MWNlMzQ5NTgxYWEwMWMwZTg5OGQ1MmY5OTEyNDdjYTUwZDk4Y3x7InJlbW90ZV9hZGRyZXNzIjoiODUuMTc0LjE5MS4xOTAiLCJyZXF1ZXN0X2lkIjoiQ0NGMzoyOTIxOToyNEY3NjE6MzZCMkExOjVEMTI0QjY0IiwidGltZXN0YW1wIjoxNTYxNDgwMDM4LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+
+
+
+    <meta name="enabled-features" content="MARKETPLACE_FEATURED_BLOG_POSTS,MARKETPLACE_INVOICED_BILLING,MARKETPLACE_SOCIAL_PROOF_CUSTOMERS,MARKETPLACE_TRENDING_SOCIAL_PROOF,MARKETPLACE_RECOMMENDATIONS,MARKETPLACE_PULL_PANDA_HOMEPAGE,DISPLAY_COMMENTER_FULL_NAME">
+
+
+
+  <meta name="html-safe-nonce" content="12876d413857186b346f0c018cda750302834381">
+
+
+
+  <meta http-equiv="x-pjax-version" content="6b1033cb022e79b6905f5cb0b638baf0">
+
+  
+
+
+
+      <link href="https://github.com/victorfontes/django-mobile-helper/commits/master.atom" rel="alternate" title="Recent Commits to django-mobile-helper:master" type="application/atom+xml">
+
+
+
+  <meta name="go-import" content="github.com/victorfontes/django-mobile-helper git https://github.com/victorfontes/django-mobile-helper.git">
+
+
+
+  <meta name="octolytics-dimension-user_id" content="130982" /><meta name="octolytics-dimension-user_login" content="victorfontes" /><meta name="octolytics-dimension-repository_id" content="739954" /><meta name="octolytics-dimension-repository_nwo" content="victorfontes/django-mobile-helper" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="739954" /><meta name="octolytics-dimension-repository_network_root_nwo" content="victorfontes/django-mobile-helper" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
+
+
+
+
+
+    <link rel="canonical" href="https://github.com/victorfontes/django-mobile-helper" data-pjax-transient>
+
+
+
+
+
+  <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
+
+
+
+  <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
+
+
+
+  <link rel="mask-icon" href="https://github.githubassets.com/pinned-octocat.svg" color="#000000">
+
+  <link rel="icon" type="image/x-icon" class="js-site-favicon" href="https://github.githubassets.com/favicon.ico">
+
+
+
+<meta name="theme-color" content="#1e2327">
+
+
+
+
+
+
+
+
+
+
+
+  <link rel="manifest" href="/manifest.json" crossOrigin="use-credentials">
+
+
+
+  </head>
+
+
+
+  <body class="logged-out env-production min-width-lg">
+
+    
+
+
+
+  <div class="position-relative js-header-wrapper ">
+
+    
+
+    <div id="js-pjax-loader-bar" class="pjax-loader-bar"><div class="progress"></div></div>
+
+
+
+    
+
+    
+
+    
+
+
+
+
+
+        <header class="Header-old header-logged-out  position-relative f4 py-2" role="banner">
+
+  <div class="container-lg d-flex px-3">
+
+    <div class="d-flex flex-justify-between flex-items-center">
+
+        
+
+          <svg height="32" class="octicon octicon-mark-github text-white" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+
+        </a>
+
+    </div>
+
+
+
+    <div class="HeaderMenu HeaderMenu--logged-out d-flex flex-justify-between flex-items-center flex-auto">
+
+      <div class="d-none">
+
+        <button class="btn-link js-details-target" type="button" aria-label="Toggle navigation" aria-expanded="false">
+
+          <svg height="24" class="octicon octicon-x text-gray" viewBox="0 0 12 16" version="1.1" width="18" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+
+        </button>
+
+      </div>
+
+
+
+        <nav class="mt-0" aria-label="Global">
+
+          <ul class="d-flex list-style-none"> 
+
+          <li class=" mr-3 mr-lg-3 edge-item-fix position-relative flex-wrap flex-justify-between d-flex flex-items-center "></li>
+
+          </ul>
+
+        </nav>
+
+
+
+      <div class="d-flex flex-items-center px-0 text-center text-left">
+
+          <div class="d-lg-flex ">
+
+            <div class="header-search mr-3 scoped-search site-scoped-search js-site-search position-relative js-jump-to"
+
+  role="combobox"
+
+  aria-owns="jump-to-results"
+
+  aria-label="Search or jump to"
+
+  aria-haspopup="listbox"
+
+  aria-expanded="false"
+
+>
+
+  <div class="position-relative">
+
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="739954" data-scoped-search-url="/victorfontes/django-mobile-helper/search" data-unscoped-search-url="/search" action="/victorfontes/django-mobile-helper/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+
+      <label class="form-control input-sm header-search-wrapper p-0 header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center js-chromeless-input-container">
+
+        <input type="text"
+
+          class="form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
+
+          data-hotkey="s,/"
+
+          name="q"
+
+          value=""
+
+          placeholder="Search"
+
+          data-unscoped-placeholder="Search GitHub"
+
+          data-scoped-placeholder="Search"
+
+          autocapitalize="off"
+
+          aria-autocomplete="list"
+
+          aria-controls="jump-to-results"
+
+          aria-label="Search"
+
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=AK6grC5cGEh6WbkUATQhFSFpKOO7MEA9hyKSe/Foj7r4RH1QvaHE3k+9OwBAZ2+KMuRi0MhRYWwjJTJNNX+mVA=="
+
+          spellcheck="false"
+
+          autocomplete="off"
+
+          >
+
+          <input type="hidden" class="js-site-search-type-field" name="type" >
+
+            <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
+
+
+
+            <div class="Box position-absolute overflow-hidden d-none jump-to-suggestions js-jump-to-suggestions-container">
+
+              
+
+<ul class="d-none js-jump-to-suggestions-template-container">
+
+  
+
+
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-suggestion" role="option">
+
+   
+
+    <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
+
+      <svg height="16" width="16" class="octicon octicon-repo flex-shrink-0 js-jump-to-octicon-repo d-none" title="Repository" aria-label="Repository" viewBox="0 0 12 16" version="1.1" role="img"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
+
+      <svg height="16" width="16" class="octicon octicon-project flex-shrink-0 js-jump-to-octicon-project d-none" title="Project" aria-label="Project" viewBox="0 0 15 16" version="1.1" role="img"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z"/></svg>
+
+      <svg height="16" width="16" class="octicon octicon-search flex-shrink-0 js-jump-to-octicon-search d-none" title="Search" aria-label="Search" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M15.7 13.3l-3.81-3.83A5.93 5.93 0 0 0 13 6c0-3.31-2.69-6-6-6S1 2.69 1 6s2.69 6 6 6c1.3 0 2.48-.41 3.47-1.11l3.83 3.81c.19.2.45.3.7.3.25 0 .52-.09.7-.3a.996.996 0 0 0 0-1.41v.01zM7 10.7c-2.59 0-4.7-2.11-4.7-4.7 0-2.59 2.11-4.7 4.7-4.7 2.59 0 4.7 2.11 4.7 4.7 0 2.59-2.11 4.7-4.7 4.7z"/></svg>
+
+    </div>
+
+
+
+    <span class="d-inline-block ml-1 v-align-middle"></span>
+
+    
+
+  </a>
+
+</li>
+
+
+
+</ul>
+
+
+
+<ul class="d-none js-jump-to-no-results-template-container">
+
+  <li class="d-flex flex-justify-center flex-items-center f5 d-none js-jump-to-suggestion p-2">
+
+    <span class="text-gray">No suggested jump to results</span>
+
+  </li>
+
+</ul>
+
+
+
+<ul id="jump-to-results" role="listbox" class="p-0 m-0 js-navigation-container jump-to-suggestions-results-container js-jump-to-suggestions-results-container">
+
+  
+
+
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-scoped-search d-none" role="option">
+
+  </li>
+
+
+
+
+
+</ul>
+
+
+
+            </div>
+
+      </label>
+
+</form>  </div>
+
+</div>
+
+
+
+          </div>
+
+
+
+       
+
+      </div>
+
+    </div>
+
+  </div>
+
+</header>
+
+
+
+  </div>
+
+
+
+  <div id="start-of-content" class="show-on-focus"></div>
+
+
+
+
+
+    <div id="js-flash-container">
+
+
+
+</div>
+
+
+
+
+
+
+
+  <div class="application-main " data-commit-hovercards-enabled>
+
+        <div itemscope itemtype="http://schema.org/SoftwareSourceCode" class="">
+
+    <main id="js-repo-pjax-container" data-pjax-container >
+
+      
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="pagehead repohead instapaper_ignore readability-menu experiment-repo-nav  ">
+
+    <div class="repohead-details-container clearfix container">
+
+
+
+      <ul class="pagehead-actions">
+
+
+
+
+
+
+
+
+
+  <li>
+
+    
+
+ 
+
+    <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/>
+
+    </svg>
+
+    </li>
+
+</ul>
+
+
+
+      <h1 class="public ">&nbsp; </h1>
+
+
+
+    </div>
+
+    
+
+<nav class="hx_reponav reponav js-repo-nav js-sidenav-container-pjax container"
+
+     itemscope
+
+     itemtype="http://schema.org/BreadcrumbList"
+
+    aria-label="Repository"
+
+     data-pjax="#js-repo-pjax-container">
+
+
+
+  <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+
+    
+
+      <svg class="octicon octicon-code" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"/>
+
+      </svg>
+
+      <span itemprop="name"> </span> 
+
+
+
+</nav>
+
+
+
+
+
+  </div>
+
+<div class="container new-discussion-timeline experiment-repo-nav  ">
+
+  <div class="repository-content ">
+
+
+
+    
+
+    
+
+        <div class="signup-prompt-bg rounded-1">
+
+      <div class="signup-prompt p-4 text-center mb-4 rounded-1">
+
+        <div class="position-relative">
+
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/prompt_dismissals/signup" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="DIrD76oeqq0Lw6iPB5ZCSQE+1Vrm8GqAXagjCDmQnJQ1UZvv2HI6nTAOFhEpzMTGmgUGXiJQNLOs57oja2C96A==" />
+
+            <button type="submit" class="position-absolute top-0 right-0 btn-link link-gray" data-ga-click="(Logged out) Sign up prompt, clicked Dismiss, text:dismiss">
+
+              Dismiss
+
+            </button>
+
+</form>          <h1 class="pt-2">Jetstar ferry service sdn bhd</h1>
+
+          <p class="col-6 mx-auto">&nbsp; </p>
+
+          
+
+        </div>
+
+      </div>
+
+    </div>
+
+
+
+
+
+
+
+       
+
+
+
+
+
+
+
+
+
+        <div class="overall-summary overall-summary-bottomless">
+
+    <div class="stats-switcher-viewport js-stats-switcher-viewport">
+
+      <div class="stats-switcher-wrapper">
+
+      <ul class="numbers-summary">
+
+        <li class="commits"> 
+
+            </li></ul><div class="repository-lang-stats">
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+
+
+    <button type="button" class="d-flex p-0 repository-lang-stats-graph js-toggle-lang-stats" title="Click for language details" data-ga-click="Repository, language bar stats toggle, location:repo overview">
+
+      <span class="language-color" aria-label="Python 100.0%" style="width:100.0%; background-color:#3572A5;" itemprop="keywords"> Pathalogy &amp; Clinical Laboratory (M) Sdn Bhd Since its establishment in 1952 in Singapore and 1974 in Malaysia, the PATHLAB group of companies has been providing its services to the medical fraternity and the general public.  SEJAHTERA FERRY SERVICES SDN BHD, Kuala Terengganu.  Syarikat ini menawarkan perkhidmatan feri penumpang dari Port Dickson ke Dumai, Indonesia. 7 This Melbourne, Australia-based LCC was formed by flag carrier Qantas in 2003 to serve as a low-fare operation.  is a company registered with Suruhanjaya Syarikat Malaysia and and is issued with the registration number 856426-D for its business operation. com – your one stop shuttle ferry service to get to Koh Lipe Ψ Malaysian Aerospace Engineering Sdn.  Bus .  From the airport, you can take a taxi or grab to Syahbandar Jetty.  Travel Agent Langkawi, Malaysia • Car Rental • Homestays • Island Activities • Ferry Tickets Sources close to the matter told The Malaysian Reserve that only insiders have been interviewed to fill the post.  Langkawi Ferry Services; MTU Services (M) Sdn Bhd; BAE Systems Projects (M) Sdn Bhd; Tognum Asia Pte Ltd; Tok Bali Dockyard &amp; Engineering Sdn Bhd; Prima Shipmanagement Sdn Bhd; Boustead Naval Shipyard; Commercial &amp; Industrial.  The above rate &amp; time schedule will be subjected to change without prior notice.  Ferry Schedule. We are looking for someone who demonstrates: Intense collaboration.  As a Statutory body, PPC is responsible for the administration of Penang Port.  Read on Shipping option. 8 million in 2003 to 2.  7) setiap kenderaan haruslah berada di holding area 2 jam sebelum feri berlepas untuk tujuan pemeriksaan kastam.  (KPLAN:2575) Malaysia Address: 38, Jalan Jeti, Bandar Tepian Sungai, 86800 Mersing, Johor, Malaysia.  Kuwait Airways. 00 for a two-way ticket for every passenger.  was established since 2012 and commenced operation in 2015 at Lot 3537 Bukit Malut, Langkawi, with the demand for repairing and maintenance service for commercial boats such as RO-PAX ferries, passenger ferries, fishing boats, cargo boats and sailing &amp; motor yachts.  The journey from Kota Kinabalu to Labuan will take about 3 hours and if you proceed to Brunei, it will take an additional 1 hour.  According to Star Online, Penang Port Sdn Bhd, a Straits Perkasa Services Sdn Bhd was incorporated in July 1991 (formerly known as Sekakap Resorts Sdn.  langkawi ferry services sdh bhd.  The highest jump in terms of passenger movement was in 2013 with 44. langkawiroro.  Jun 11, 2011 After a little online research into Virgin and Jetstar packages, and booking directly, it was clear that going with a Jetstar package for the flight PHIFT Customer Service : +607 5600 567 Monday to Sunday, 8.  LFS was established in 1996 and the management team has more than 25 years of experience in the ferry business and operations.  Senai International Airport, (Code IATA: JHB; ICAO: WMKJ) was formerly known as Sultan Ismail International Airport and is the domestic and international airport serving the southern region of Peninsular Penang Ferry Service is the oldest ferry service in Malaysia.  Bhd.  BHD.  GreenBay CES Sdn Bhd (1091298-X Travellers using KLIA Ekspres to travel between KL Sentral and KLIA/klia2 now have an extra purchase option.  Sejahtera Ferry Sdn.  Senai Airport Terminal Services Sdn Bhd, a member of the MMC Group Companies owns and manages the operation of Senai International Airport.  INDIA GOLDHILL REWARD SDN.  Sejahtera 15: 78 .  History.  The journey from Kota Kinabalu to Labuan will take about 3 hours.  WORTHY MEDIA SDN.  Documentation will be required.  In the event that a ticket is lost, stolen or misplaced, then a replacement ticket must be purchased before the passenger may travel.  The new ferry – Ferry Putra Jaya – under Labuan Mainland Link Sdn Bhd Free and Independent.  Its main operations are the following: Rapid Bus Sdn Bhd – Rapid KL buses operates in Klang Valley and Selangor, providing services for more than 200 routes including routes to support the operations of its sister company Rapid Rail Sdn Bhd.  There are 6 ways to get from Pulau Perhentian to Ho Chi Minh City Airport (SGN) by ferry, bus, plane or taxi.  Ferry Line Ventures Sdn Bhd was established since 2005 by merging four companies and one of the largest passengers ferry operators in Langkawi and Malaysia.  The company was formed in 2009 by a group of aviation professionals with over 90 years of combined experience in the industry, HRSB provides a wide range of helicopter services (click SERVICES to view) such as charter services, aviation management and consultancy services and aircraft management services.  ALSO: If you&#39;re holidaying in Tioman in April, booking your ferry tickets now is recommended, because a number of April dates are now fully booked also. This cross-strait transit has been operational since 1894, making it the oldest ferry service in Malaysia. com Alpha Electric Co Sdn Bhd commonly referred as Alpha which was started in the year 1996.  Guide to freight transportation and logistics.  Click here to find out more about our schedules and fares.  Book your tickets online in three easy steps with tickets starting at RM128 one way! Shuttle Ferry Service from Telaga Harbour Marina, Langkawi to Koh Lipe, Thailand.  Rapid Ferry is a shuttle ferry service within the State of Penang, Malaysia, connecting the city of George Town on Penang Island and Butterworth on the mainland.  lk global shipping m sdn NS Ferry Sdn Bhd, merupakan syarikat feri yang beroperasi di Port Dickson , Negeri Sembilan.  Open return ticket if you are unsure about your date of returning.  Select an option below to see step-by-step directions and to compare ticket prices and travel times in Rome2rio&#39;s travel planner. 74 km) with 24 min travel time.  Passenger Boat Rakan Kota Leisure SDN BHD.  We offer this position on a fixed term basis of 1 year contract.  (833013-W) (NSSB) was established since 2012 and commenced operation in 2015 at Lot 3537 Bukit Malut, Langkawi, with the demand for repairing and maintenance service for commercial boats such as RO-PAX ferries, passenger ferries, fishing boats, cargo boats and sailing &amp; motor yachts. Kedah 010 653 8831,010 655 8831 Langkawi: 04 966 9200.  by reading employee ratings and reviews on JobStreet.  Maju Sdn Bhd.  Instant Confirmation. Our ferry services have also resume to its full schedule.  Subsidiaries include Jetstar Airways in Australia and New Zealand, Jetstar Asia Airways based in Singapore, Jetstar Pacific Airlines, based in Vietnam and Jetstar Japan, a partnership between the Qantas Group, Japan Airlines, Mitsubishi Corporation and Tokyo Century Corporation.  4.  The Company current operating status is struck off with registered address The Company principal activity is in WHOLESALE TRADE OF A VARIETY OF GOODS WITHOUT A DOMINANT PRODUCT.  Full address for Shahbandar Jetty: att tg bin sdn bhd: att tg bin sdn bhd: 31-12-2020: pelabuhan tg pelepas: belungkor services sdn bhd: belungkor services sdn bhd: 31-12-2019: pelabuhan johor: berjaya waterfront sdn.  And Bluewater Express is the only ferry service provider from Mersing / Tanjung Gemok to Tioman Island Book with Mersing Bluewater Express ferry affiliated company handling &amp; accepting.  Bhd Unimech Engineering (M) Sdn Bhd was started in 1977, it is one of the leading valves and fittings specialists in South East Asia market.  On 20 March 2001, it changed its name to TTS Valve Technologies Sdn Bhd.  Langkawi RO-RO Ferry Services provide the transporting wheeled vehicle and passenger.  LABUAN: The additional ferry services plying Labuan-Menumbok-Labuan is a boon to the island’s economic development.  Latest &amp; Past Event : How to Purchase? Make selection &amp; add to cart.  218, 42009 Port Klang, Selangor Darul Ehsan, Malaysia.  Summary.  WE are able to offer ship management services such as Vessel Chartering, Consultancy Services, Contract management, Crew management, Marine Logistic &amp; base Management at a competitive &amp; cost-effectiveness for oil &amp; gas and renewable energy in the offshore industry.  and your vote will affect its score on Malaysia.  Since 2007 SAE provides aircraft support services in South East Asia region.  is an established company engaged in port operations and ferry services in the port of Penang. com) • Kickapoo (drinkkickapoo. 30am and 3 pm.  Our ferry schedule from Syahbandar Jetty (Kuala Terengganu) to Pulau redang depart at 9am, 10. com : visit the most interesting PKL Jaya pages, well-liked by users from your country and all over the world, or check the rest of pkljaya.  The Jesselton Residences is a twin towers building comprising shopping malls and condominium.  pengelih / tanah merah ferry terminal) tg pengelih.  17.  was incorporated on 22 August 2001 (Wednesday) as a Exempt Private Company Limited by Shares in Singapore.  TTS Valve is incorporated in Malaysia on 22 July 1996 under CA as a private company limited by shares under the name of Speedy Computer Handling Sdn Bhd and change it name to Chancery Management Services Sdn Bhd on 13 April 1998. K. com including Syarikat Hussain Chik Sdn Bhd, , Guards Inc Sdn Bhd, Guards Inc Sdn Bhd, Jaya Guard Enterprise Sdn Bhd Pasir Gudang Ferry Terminal provides a list of ferry services to Batam Centre.  The responsibilities carried out by PPC as set out in the Penang Port Commission Act, 1955 are to provide and maintain port and ferry service in Penang Port as well as upgrading the development and the use of the port.  Freight shipping and cargo logistics via all modes of transport including forwarding, cargo, freight, trucking, air freight, cargo shipping, express freight, freight forwarders, intermodal, container companies, third party logistics providers, maritime, moving, storage, railroads, trucking, customs house brokers, steamship companies As a Statutory body, PPC is responsible for the administration of Penang Port.  Cataferry provides ferry service to Tioman.  Online ferry ticket from Penang to Langkawi island.  Northern Shipyard Sdn.  About us. com: Welcome to PKL Jaya Sdn Bhd Home Page Online Muara, Brunei to Labuan, Malaysia car and passenger ferry services. 37 &amp; 39, Jalan Pandak Mayah 5, Pusat Bandar Kuah, 07000, Pulau Langkawi, Kedah Darul Aman JETSTAR HOME SERVICE was incorporated on 5 September 1987 (Saturday) as a Sole Proprietor in Singapore.  We have high speeds luxury ferries under ourfleet and operation ferry services between Langkawi to KualaKedah and Kuala Perlis and vice versa.  We are using Ekspress Bahagia Sdn.  JMV FERRY SERVICES SDN BHD, Langkawi, Malaysia.  to change its popularity at Malaysia. , please visit -- Considering a career at SEJAHTERA FERRY SERVICES SDN.  RATE FARES .  There are several ferry routes and services that provide Langkawi’s waterways.  Standard fare is RM 35-adult &amp; RM 30-child one way.  (49%); (Hay Group, S.  BASMAS is a locally incorporated company, formed with the ultimate aim to provide efficient, effective and quality bus transportation service to ferry factory workers as well as workers from other industries/sectors. 50 per passenger, per flight applies to payment options other than POLi, voucher and Jetstar MasterCard.  LANGKAWI FERRY SERVICES SDN BHD No.  The average capacity of each ferry is 200 seats with 60 seats for First Class and 140 seats for Economy Class. T.  Example 17: AdiOZ Hire &amp; Drive Car Sdn.  Sales Consultant Gromex Media Graphic Sdn Bhd. C.  (SAS) is a dedicated aviation company that provides helicopter and fixed wing services.  There are quite a few agents you can choose from and they are all very trustable.  jhw reels sdn bhd.  It took over the Penang ferry services&#39; assets and operations from Penang Port Commission (PPC).  ro-ro kuala perlis : 04-9854881 ro-ro langkawi : 04-9669881.  Distance between Langkawi Ferry Services Sdn.  : +607 5600 538. .  Head of Sales and Marketing Gromex Media Graphic Sdn Bhd. alphamalaysia.  Book as far in advance as you like.  (malaysia, pulau pinang, pulau pinang) hay properties sdn.  Rapid Ferry Sdn Bhd is a public transportation company under Prasarana Malaysia Bhd.  And one year contract to Supply crews to Horizon Maritime Shipping Company.  Travel to Phuket, Koh Phi Phi, Koh Lanta, Krabi, Ao Nang, Lipe and Langkawi.  Penang - Simpang Ampat; Job DescriptionThe Test Development Engineer will be based in our Design &amp; Development for Consumer Audio facility in Batu Kawan, Penang. A Polymers (M) Sdn Bhd using public transit and gives you step by step directions with updated schedule times for Bus or Ferry in Pulau Pinang.  View 16 suppliers of Security Guard Services in Penang, Malaysia on Suppliers. 1 .  Get the latest departure trip schedule, manage your bookings and a history of all your bookings is now in one place for your convenience.  Jesselton Point is the main public ferry terminal to Labuan.  Weekdays Schedule. 3% passengers increase, the highest among other Malaysian airports.  Ria Trvael.  Ferry services to Langkawi from Kuala Kedah and Kuala Perlis will be operating as usual even though the popular resort island is expected to be affected by tropical storm Pabuk, tomorrow.  Kuala Perlis : 604-985 1899 / 604-9852539 / 604-985 2690 Online ferry ticket to Langkawi island.  Freight shipping and cargo logistics via all modes of transport including forwarding, cargo, freight, trucking, air freight, cargo shipping, express freight, freight forwarders, intermodal, container companies, third party logistics providers, maritime, moving, storage, railroads, trucking, customs house brokers, steamship companies Kindly contact ferry operator services from Sejahtera Ferry Services Sdn Bhd at +60(9) 622 5233 to obtain ferry schedules or placement of reservations.  and Langkawi International Airport is approx.  How to get to popular attractions in Penang with public transit Luxora Gurney Drive Seaview Guesthouse Police Mess Lahat Road Hoops Station Sdn.  (201100826N) Malaysian Airline System Berhad (10601-W) / Annual Report 2013 4 2.  If you want to travel from Penang to Pangkor Island (Pulau Pangkor) in Perak state, you will first have to get to the port town of Lumut, where there is a regular ferry service over to the island.  About Super Fast Ferry Ventures SFFV was established in 2004 when Langkawi Ferry Services Sdn Bhd, Ekspres Bahagia (Langkawi) Sdn Bhd, Langkawi Saga Travel &amp; Tours Sdn Bhd and Sejahtera Ferry Services Sdn Bhd were merged.  and Sky Cab is approx.  The Penang state government had been in discussions with the Transport Ministry to take over the ferry services. ) as a private limited company to provide a variety of services to the marine and shipping industry in Malaysia.  (malaysia, kuala lumpur, wilayah persekutuan) hay resort n services sdn.  Sejahtera 3: 279 .  The jetty is managed by Telaga Harbour Sdn.  10.  Due to the many stops, this service can be a lot slower than the name “Rapid” might suggest! A the taxi counter in the arrivals hall, passengers can ask for assistance.  We are a travel and tourism company, part of the Lombardi Travel group, which meets the needs of the market segments of South American stations where there are opportunities to introduce innovative, personalized and sustainable solutions.  The bus will stop at a number of halts until it gets to Komtar, from where a 5 to 10 minute walk will take visitors to hotels like the Tune Hotel.  This Melbourne, Australia-based LCC was formed by flag carrier Qantas in 2003 to serve as a low-fare operation.  Otherwise you need to proceed to ticket counter office to reprint.  Get address of SEJAHTERA FERRY SERVICES SDN BHD, submit your review or ask any question about SEJAHTERA FERRY SERVICES SDN BHD, search nearby places on map.  The nearest point linked with Langkawi by ferry is Kuala Perlis which is located 31kms to its east and on the western coast of Malaysia’s main land.  Sales Consultant Go Airlines (India) Ltd Deputy Manager – Procurement Launched on 3 September 2013 by Langkawi Roro Services Sdn.  COMPANY : PASSENGER CAPACITY .  By closing this banner, scrolling this page, clicking a link or continuing to browse, you agree to the use of cookies.  Chief Minister Lim Guan Eng said the takeover by the largest public transport provider in the country, bodes well for the future of ferry services, in the state.  They are Aina Holidays, Barracuda Holiday Sdn Bhd, De Penarik Beach Travel and Tour Sdn Bhd, Mieha Holidays Shd Bhd and Perhentian Trans Holiday Sdn Bhd.  FERRY SERVICES TO BATAM CENTRE.  - Listing of businesses and services in Langkawi with useful contact details and promotions.  Below is our current schedule.  FERRY SERVICE TO LABUAN. com.  In a press conference here today, minister Anthony Loke said this was the second untoward incident involving asian aviation centre of excellence (aace) ABOUT AACE AACE came into existence in mid-2011 with the signing of the Joint Venture agreement at the Paris Airshow with the realization between CAE and AirAsia that there is a unique opportunity to fill an expanding training market need as a result of strong regional growth in aviation.  Boat Lauch Service, Passenger Ferry, Cargo Boat, Catamaran, Speed Boat, Luxury Boat.  Straits Perkasa Services Sdn Bhd was incorporated in July 1991 (formerly known as Sekakap Resorts Sdn.  For More Information, Please Visit www. ) is the registered travel agency (KKKP2846) offering an unlimited scope of professional travel services for tour packages and incentive travel specially designed and tailored to customer’s specific needs. com) Suppliers • Kian Joo Group (Can and Labeling supplier) • SHS Plastics Industries Sdn Bhd (Bottle supplier) • Central Sugars Refinery Sdn Bhd (Sugar supplier) • Tenaga Nasional Sdn Bhd (Electricty Moovit helps you to find the best routes to T.  There are a few ferry service providers that are offered by the ferry services from Kuala Besut Jetty to Perhentian Island.  BARGING Wantas Shipping (Langkawi) Sdn Bhd provides barging services from Kuala Kedah to Langkawi &amp; Langkawi to Kuala Kedah (vice versa).  Frozen foods do not require any added preservatives because microorganisms do not grow when the temperature of the foods are below -9.  JASB managing director David Ling said the ferry would reach its destination before theRead More We are Tioman Ferry Ticket main booking &amp; counter based in Mersing.  - Map content encompasses major connecting roads to all major towns in Langkawi shopping malls, tourist attractions, places of interest, hotels, restaurants, travel services.  BASMAS SDN.  Penang to Langkawi ; AND.  The Company is located at: Address: The Penang government welcomes the state’s ferry service being taken over by the federal government linked Prasarana Malaysia Bhd. 00am to 3.  As a rough guide, allow a minimum of 2 hours to get from Redang to the KT coach station and about 3 hours to get from Redang to KT airport (inclusive of 1 hour pre-flight check-in).  Please contact the Marine Department (087-412572) for further information.  SING LEE HIN TYRE BATTERY SERVICE SDN BHD 13A, Jalan 1/21A Pataling Utama PJS 1 SDN BHD 16 Jalan Jurunilai U1/20 Section U1 4622 Chain Ferry Complex 12100 This 4.  Albert J. com (BOT) to make tickets available on their website.  johor darul takzim. 00pm daily.  We have high speeds luxury ferries under ourfleet and operation ferry services between Langkawi to Kuala Kedah and Kuala Perlis and vice versa.  MOTOR LAUNCH SERVICE.  (perkhidmatan ferry : tg.  Train .  Straits Perkasa Services Sdn Bhd is a wholly-owned Malaysian firm.  Nowadays all Ferries to Langkawi boarded from Kuala Kedah and Kuala Perlis are monopolized by just a one company- Langkawi Ferry Line Ventures Sdn Bhd (they print out as Langkawi Ferry Services Sdn Bhd.  PASSENGER FERRY SERVICE INFORMATION (NORTHERN REGION) Kuah – Kuala Perlis – Kuala Kedah – Pulau Payar – Pulau Pinang . 73 km) with 38 min travel time.  SEJAHTERA FERRY SERVICES SDN.  Our advanced air ambulance aircraft will transport a fully equipped and highly trained medical team to your location to assess and, if necessary, treat you or the patient and then transfer them to the most appropriate final destination, whether that be to a hospital or to a different facility, or to your their own house.  Fill-in personal information.  Jetstar Crew Base Manager Ward Ferry Management Ltd.  PASIR GUDANG PASSENGER TERMINAL SDN BHD LOT 21, JALAN FERI, PELABUHAN PASIR GUDANG No pre-boarding or meet and assist service is Licensed by Penang Port Commission to operate, manage and maintain all port facilities and services. 4 miles (16.  Our team advisors are 24/7 at your service to help you.  and Korn Ferry CR S.  We offer online booking system for Tioman ferry ticket, with fixed ferry seat number and clear ferry schedule.  serving visitors comfortable ferry trips to and from Koh Lipe.  Korn Ferry uses cookies to provide you with the best experience with the site.  Proceed with payment gateway hay group sdn.  - The service is not a supply of passenger transport service, but rather a supply of a means of transport.  This NZ Limited Company have been operating for 1435 days.  Reilly in trust for Korn/Ferry International), Korn/Ferry Connecting you to Langkawi from 3 major routes, Ferry Line Venture is the preferred way to reach &quot;The Jewel of Kedah&quot;.  For bookings in New Zealand Dollars (NZD) a Booking and Service Fee of NZD $5 to NZD $12.  Located in the state of Penang, this famous ferry service connects Penang Sentral ferry terminal in Butterworth to Raja Tun Uda ferry terminal at Weld Quay in George Town in Penang Island.  GreenBay CES offers an all-encompassing 360° range of services and solutions in the design and build of new data centers.  FERRY .  Select your preferred payment system.  (malaysia, sabak bernam, selangor) GEORGE TOWN: After more than a decade of being on the market, Penang Port Sdn Bhd (PPSB), operator of the oldest port in the country, may have finally found a buyer for its loss-making ferry operations linking Penang Island to Butterworth.  You may vote for or against Aero Speed Ferry Services Sdn.  bhd langkawi ro-ro ferry services sdn.  Ticket Fare: adult RM18-RM23, child RM13-RM17.  The Business current operating status is terminated with registered address The Business principal activity is in ELECTRICAL WORKS.  Belungkor Ferry Terminal (Desaru) in Malaysia and vice versa.  LFS core business is providing main ferry service between Langkawi Island with mainland.  Frozen foods are foods that frozen to be preserved from spoiling as fast.  Travel either from Langkawi or Kuala Perlis, we are always there to serve you better.  Travellers can either purchase tickets online or at the jetty’s ticketing counters.  Being a local Sabah-based Company, JCB is a 100% Malaysian Bumiputra Company and was the first in Sabah ventured into the Marine Transportation and Support Services.  Join Facebook to connect with Limbongan Maju Ferry Enquiries and others you may know.  Company Name: JMV FERRY SERVICES SDN BHD: Company Name Full: Ferry Service between Penang to Langkawi We have provided ferry service between Penang &amp; Langkawi for ONE WAY and RETURN ticket.  formula venture sdn bhd - honda (butterworth) address: 79, jalan bagan jermal, 12300, butterworth, pulau pinang service centre: mon - fri / 8.  Rizal. A.  The ferries are designed for vehicles to roll-on/roll-off.  Two Trips Counter Operation : 6:30 am to 4:00 pm The Marine Department of Malaysia has cancelled all Dragon Star Shipping Sdn Bhd’s passenger ferry services for the Langkawi, Kuala Kedah and Kuala Perlis routes.  Standard Marine Agencies Sdn Bhd - Lot 26A, Jalan Kilang, Sedco Industrial Estate, Kolombong, 5 1/2 Miles, Jalan Tuaran, 88450 Kota Kinabalu - Rated 3.  Our ferry services have also resume to its full schedule.  Proceed with payment gateway Dont miss out on Cadenabbia Ferry Terminal when you travel to Griante - Expedias Cadenabbia Ferry Terminal information guide keeps you in the know! Q1.  He Dont miss out on Rottnest Ferry Terminal when you travel to Perth - Expedias Rottnest Ferry Terminal information guide keeps you in the know! view it here.  The ferry service has been operated by Penang Port Sdn Bhd since the corporatisation of Penang Port in January, 1994.  We are the largest passenger ferry service in Langkawi, daily at least 40 trips Sepang Aircraft Engineering Sdn Bhd is a fully owned Airbus subsidiary, EASA 145 and FAA approved Aircraft Maintenance, Repair and Overhaul (MRO) service provider for Airbus and ATR series commercial aircraft on airframe heavy maintenance and components.  Tickets purchased for travel are non-refundable and non-exchangeable except in the case of cancellation of the service by ferry operator.  Promotion.  and managed by Langkawi Sea Safari Sdn.  Customers.  Ticketing and Penawar, Nurul Boat Services, SEJAHTERA Need Our Help? We would be more than happy to help you.  offers Chauffeur Services using a hire and drive car to Mr.  (43. 85 miles (28.  AirAsia group are pleased to be expanding services from Senai International Airport and providing our guests with a direct link between Johor Bahru and the city of Hat Yai. com data below. Net (Owned by Langkawi-Online Sdn.  Pkljaya.  Penang&#39;s iconic ferry service will be sold to Prasarana Malaysia Bhd, the federal government&#39;s public transportation agency for a token sum of RM1.  Straits Perkasa Services Sdn Bhd - Marine services, passenger ferry services, water taxi services, workboat services, launch services, pilot boat services, Malaysia.  EXHIBIT 21.  Home » Companies » JMV FERRY SERVICES SDN BHD.  NO.  Systematic Aviation Services Sdn.  Penang to Pangkor Island How to get there by Bus, Train, Flight, Car, Ferry. ) Limited (99% owned by Korn/Ferry International; 1% owned by Paul C.  Langkawi Ferry Services serves as the island’s main ferry operator, taking visitors to various locations such as Kuala Perlis (the nearest jetty point for Peninsular Malaysia), Kuala Kedah, Penang, and Satun Province between 07:00 and 19:00.  ferry services at Terminal Jati currently operate between 8. Bhd.  3.  OSK is a conglomerate with diversified business interests in Property Development and Investment, Construction, Industries, Hospitality and Financial Services.  Grow your career: our brands are produced using cutting edge advanced food technology innovation. 30pm And whilst we endeavor to keep the information up-to-date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the website or the information, products, services, or related graphics contained on the website for any purpose.  MERGING COMPANY.  VO3-11-19, Designer Office (VO3), Lingkaran SV, Sunway Velocity, 55100 Kuala Lumpur.  This company is a continuation of BASMAS ENTERPRISE, a sole Penang Port Sdn.  PPSB, which was privatised to Seaport Terminal Sdn Bhd, has been reporting annual losses of over RM21 million.  With the revocation of the licence, the ferry service between Labuan and mainland Sabah is now handled by two operators – Juta Bonus through its only ferry Galaxy, and Labuan Mainland Link Sdn Bhd through its three ferries, namely Kimanis 1, Putrajaya 2 and Goodwill Star.  Founded in 2006, Easybook.  Ellis Airport.  to Sky Cab was updated 583 days ago.  Prasarana Malaysia Bhd is buying the iconic ferry service, sources said.  Jetstar Airways.  bhd.  The location of Telaga Harbour Marina Jetty is in Pantai Kok area and the village has been developed into a harbour for yachts, speed boats and ferries cruising within the region.  No.  bhd dragon star shipping sdn.  (410704-H) (LFS).  Tenaga Nasional Berhad; Quality Bus &amp; Coach Sdn Bhd; Tractors Malaysia Bhd; Shapadu Trading Sdn Bhd; TN Engineering Sdn Alpha Customer Service Number Malaysia, Head Office Address +603-5740-6666 @AlphaMalaysia www.  Bintan has three ports, with most ferries arriving at Tanjung Pinang Ferry Terminal.  SFFV’s vision is to support Malaysia’s Tourism Industry to promote Pulau Langkawi as a premier destination in this region.  Home; The Official Online Ferry Ticket Booking - Contact : K. 5-storey shopping mall sitting on 14-acre of Free Commercial Zone land is owned by Berjaya Assests Sdn Bhd (BJASSEST 3239) since 2013.  RH Wisata.  Only a company representative may request an update for the company profile.  Ferry Information.  Honda Service Centres in Penang admin September 17, Motoria Sdn Bhd 17 Jalan Chain Ferry, 13700 Prai, Seberang Prai Tengah Jesselton Point is the main public ferry terminal to Labuan.  Sejahtera 1: 163 .  was incorporated on the 5 th January 1999.  From Singapore: Direct ferry (Total cost: From SGD 44) Take a direct ferry from Singapore (Tanah Merah Ferry Terminal) to Bintan.  Every passenger must have a valid ticket to travel on the ferry.  To contact Langkawi Ferry Services Sdn.  It was reported that Prasarana will be taking over the ferry services from PPSB from next month onwards.  &quot;Can get tickets here for ferry to Langkawi&quot; General Travel in Georgetown, Pulau Pinang.  Langkawi-Online.  Together, we make holiday dreams a reality.  Contact us at: Pegasus Travel &amp; Tours Sdn Bhd.  This brand new route operated by Thai AirAsia marks an important milestone for AirAsia group as the third airline to commence services into Johor Bahru.  NSSB is a subsidiary company of Langkawi Ferry Services Sdn Bhd.  Buy The RIGHT FARE.  LOCATION Langkawi Ferry Services Sdn Bhd was established in 1996 and the management team has more than 25 years of experience in the ferry business and operations. V.  Actors of Micro Environment Company Name: Coca-Cola Company Product Name: Coca-Cola Competitors • PepsiCo (pepsimalaysia.  Rates and Schedule Information.  With this new ferry service, Langkawi will be easily accessible to tourists, making the island destination a must-visit with the upcoming Visit Malaysia Year 2014.  A-1-6 Setiawangsa Business Suite, Jalan Setiawangsa 11, PUTRAJAYA, Feb 27 — The Ministry of Transport (MOT) is investigating a Kedah-based ferry company after one of its ferries caught fire while transporting passengers in Langkawi on Monday. L.  is a company registered with Suruhanjaya Syarikat Malaysia and and is issued with the registration number 522790-M for its business operation.  Check-out button. 5%), Korn/Ferry International (H.  bhd dibuk cargo services sdn.  Ferryline Ventures Sdn.  Customer can buy the tickets from the ticket counter or they can purchase the tickets online.  Licensed by Penang Port Commission to operate, manage and maintain all port facilities and services.  Kindly take note that boarding time is 30 minutes prior to actual departure time and the ferry services are available from March - October every year.  Travel time allowances.  de C.  Car.  City Stadium Kedai Bunga Unique Asia Community Service (Acs) - Stepping Stone Support Centre For Community Living Kedai Bunga Golden Flower Giordano @ Sunway Carnival Mall Best Power Enterprise Johor - a home away from home Published on Nov 1, 2015 This campaign titled ‪#‎JohorHomeAwayFromHome‬ is a property supplement that is printed along with the inflight magazines of Jetstar Flex. com Malaysia RedCargo Logistics is the sole and exclusive Cargo Master General Sales Agent for the AirAsia group of airlines.  meridian ferry services sdn.  This Uber estimate from Langkawi Ferry Services Sdn.  We have over 2,000 employees with business operations in Malaysia, Vietnam and Australia.  To contact Korn/Ferry International (M) Sdn.  Note: Korn/Ferry International or one of its Subsidiaries has 100% ownership of the Subsidiaries listed below, except for Korn/Ferry International (M) Sdn.  Penang CM optimistic people will get better services as Prasarana has done good job running RapidPenang buses on island.  LFS ensures Fast, Efficient and comfortable ferry services to our customers at all times.  APM CLIMATE CONTROL SDN BHD (080163-W) Lot 600, Pandamaran Industrial Estate, Locked Bag No. com Langkawi Ro-Ro Ferry Services Sdn Bhd.  PBA Technology believes in satisfying our valued customers’ needs as a challenge and work towards having a long-term relationship with them.  Ticketing Counter Tel.  jcb oil &amp; gas services sdn bhd. com provides the largest bus, train, ferry, and car rental booking services in South East Asia.  To meet current and future development, the company invites suitably qualified Malaysian to fill the following positions:- Grab your promo seat anytime, anywhere and pay with debit or credit cards and direct debit services.  We understand you need to keep your cost reasonable, so we provide cost efficient services with highest level of quality.  Reminder You are require to print the E-Ticket for boarding.  The jetty is located at South Port nearby the Port Klang Komuter Train station with easy access to bus and taxi services. 00AM - 7. bhd: berjaya waterfront ferry terminal: 31-12-2019: pelabuhan johor: concrete engineering products berhad: concrete engineering products berhad: 31-12-2019 Jetstar booking : Latest News, Information, Answers and Websites Jetstar Review: Booking a holiday package - James Crisp.  Our strong instinct towards the needs of our customers has always been the top of our concerns.  Originally developed by Palikota Sdn Bhd, a subsidiary of Jesselton Waterfront Holdings, the building construction project awarded to a French firm Vinci Grand Projects Sdn Bhd in 2014 to complete it.  REY-Z TRAVEL SERVICES SDN BHD.  Your email address will not be used for any other purpose, and you can unsubscribe at any time.  Pay by credit card Visa or Master card - your choice.  (malaysia, controlled by korn/ferry international, petaling jaya, wilayah persekutuan) hay man min sdn.  SCHB Engineering Services Sdn Bhd also works closely with specialists of other disciplines and International Contractors to provide complementary services for special projects.  Two Trips Counter Operation : 6:30 am to 4:00 pm The Langkawi Ferry Line Mobile App is an easy-to-use app to book your ferry tickets to destination across Langkawi, Kuala Kedah and Kuala Perlis.  no akaun : 3178 1632 22.  Langkawi Ferry Services Sdn.  With our ferry services you can travel to langkawi island by drive your own vehicle today.  81620, pengerang.  Kaiziq Holdings Sdn Bhd GSSA for SIA Cargo for Peninsular Malaysia. 8 million in 2016.  PPC chairman Datuk Tan Teik Cheng said the current ferry services had been handled by Penang Port Sdn Bhd (PPSB) since January 1, 1994, following the privatisation of WORTHY MEDIA SDN.  By Ferry High-speed, air-conditioned ferries ply daily to Labuan from Sabah, Sarawak and Brunei. ).  Ticketing and Penawar, Nurul Boat Services, SEJAHTERA Jetstar Asia Airways Pte Ltd.  It is the &quot;only&quot; passenger ferry operation from Penang to Langkawi and Langkawi to Penang. ? Learn what its like to work for SEJAHTERA FERRY SERVICES SDN.  Weekends &amp; Holidays Schedule Tickets SOLD OUT : What to Bring? Passport : Latest News.  Book &amp; pay online now.  Quick, safe and secure.  Welcome! You are required to register an account in order to buy ticket, kindly click at the sign up link at the top right corner.  Limbongan Maju Sdn Bhd is a well-known ferry company in Johor Bahru that provides ferry services from Changi Ferry Terminal in Singapore to Tg.  lkc group of companies.  There are several ferry companies travelling from Singapore to Bintan and back daily, such as Sindo Ferry and Majestic Fast Ferry.  The business activities of Unimech can be segmented into three (3) core business : decided to rent a car from AdiOZ Hire &amp; Drive Car Sdn.  To provide a continuously improving in our ferry services, safety and punctuality that consistently exceeds customer expectation and reflects the innovation and pride of our employees.  1st Ferry Services Bring Your Car To Langkawi.  You may vote for or against Dj Marine Services Sdn.  The ferry service has been losing RM700 per trip since Penang Bridge was Lumut Ferry Terminal Ferry services are available to/from various offshore islands, including Pangkor Island, Sembilan Island and Jarak Island.  Book a boat ticket online with Malaysia Ferries.  BWJB is the only duty free shopping mall located in downtown area of Johor Bahru integrated with Berjaya Waterfront Hotel and Berjaya Waterfront Ferry Terminal.  The voting system is a way for customers of Dj Marine Services Sdn.  car-passenger ferry schedule.  Langkawi Ferry Line Ventures Sdn Bhd (LFLV) (953522-T) was established since 2005 by merging seven companies and one of the largest passengers ferry operators in Langkawi and Malaysia.  Our Services All Services Roll On &amp; Roll Off for Vehicle Handling Stevedoring Mooring Wharf Handling Crane &amp; Forklift Fresh Water Supply Office Space for Rental ( Government ) Office Space for Rental ( Private … Read more The voting system is a way for customers of Aero Speed Ferry Services Sdn.  Keisha Marine Services Sdn Bhd Shipping &amp; Marine Supplier Malaysia, Port Klang Up to date Marine Supply information for the Shipping Industry - ShipServ Pages Schedule Fast Boat/Ferry Trip During March-Oct Pengalaman bercuti ke Pulau Perhentian bersama Kua If you have any questions, you can ask me directly T-FERI KB NO 1; fauna * SPECIAL DISCOUNT FOR EARLY BOOKING* Waiting Area at Coral Bay ( Perhentian Is Our Office - Kuala Besut Travel &amp; Tour Sdn.  We are a wholly-owned subsidiary of AirAsia Group Berhad, a listed company on the Main Market of Bursa Malaysia Securities Berhad.  RH Tour &amp; Travel. R.  It is about 20 mins car ride straight from airport.  (775412-D) owns 100% equity in MAE Aero Services Pte.  Schedule &amp; Fare.  KLM Airlines.  Ferry Line Ventures Sdn Bhd operations manager Capt Baharin Baharom told Bernama that so far there had been no STRAITS PERKASA SERVICES SDN.  Malaysia Center of Information.  Senai International Airport, (Code IATA: JHB; ICAO: WMKJ) was formerly known as Sultan Ismail International Airport and is the domestic and international airport serving the southern region of Peninsular Be the first to know and let us send you an email when MPH Cranes Services - M Sdn Bhd posts news and promotions.  In 1991, Salishah has been awarded a three years contract to Supply Manpower to Geodetic Surveys (B) Sdn Bhd.  GEORGE TOWN: Prasarana Malaysia Bhd, through its subsidiary Rapid Ferry Sdn Bhd, will take over the Penang ferry operations from Penang Port Commission (PPC) tomorrow (Tuesday).  Schedule Fast Boat/Ferry Trip During March-Oct Pengalaman bercuti ke Pulau Perhentian bersama Kua If you have any questions, you can ask me directly T-FERI KB NO 1; fauna * SPECIAL DISCOUNT FOR EARLY BOOKING* Waiting Area at Coral Bay ( Perhentian Is Our Office - Kuala Besut Travel &amp; Tour Sdn.  Ferry .  JCB OIL &amp; GAS SERVICES SDN BHD (JCB) was incorporated in September 2000with the objective of providing marine transportation services for the Oil and Gas Industry.  Getting to Labuan thru Passenger Ferry AFIF MARITIME on Wednesday, November 18, 2009 Labuan International Ferry Terminal is managed by LDA Labuan (Holdings) Sdn Bhd.  Besides local destinations, there is a new ferry service available to Belawan – a town in Medan, Indonesia.  (49%), and Korn Ferry México, S.  Client Services GoQuo (M) Sdn. 5 Celsius.  6) setiap tempahan haruslah berhubung dengan pejabat ro-ro yang berkenaan. ) as a private limited company to provide a variety of services to the marine and shipping industry in Malaysia more Services.  Bhd Vice President Solutions GoQuo (M) Sdn.  Super Fast Ferry Ventures provide the ferry services between Penang island &amp; Langkawi Island.  Jetstar NZ Regional Limited was incorporated on 24 June 2015 (Wednesday) and as of 27 June 2016 (Monday) is a Registered NZ Limited Company.  324 likes · 7 talking about this · 62 were here.  The company commissions Stampede for web design and development using Rezgo to manage their booking system – from custom booking system to automating official immigration documents – effortlessly.  langkawi saga travel &amp; tours.  About Us SafeAir Technical Sdn Bhd was incorporated in 2009 to provide technical line maintenance services for airlines that operate to Malaysian Airports.  See 11 photos and 2 tips from 184 visitors to Langkawi Ferry Services Sdn Bhd.  langkawi auto express sdn.  Ship Management.  Pic by NSTP/AMRAN HAMID On Feb 25, 52 Dragon Star 1 ferry passengers panicked when the ferry caught fire as it departed from Kuah Ferry Terminal, Langkawi to Kuala Perlis before GKN Fokker Services Asia Sales Director Ground Net Services Business Development Advisor Gromex Media Graphic Sdn Bhd.  1 Note: Korn Ferry or one of its subsidiaries has 100% ownership of the listed subsidiaries, except for Agensi Pekerjaan Korn Ferry Sdn.  Therefore it is subject to GST at standard rate.  (49%), Korn/Ferry International S. 00PM Dolphin Fast Ferry Sdn Bhd Contact No.  Greeting, thanks for visiting our website.  The sources also named Prasarana Rail and Infrastructure Projects Sdn Bhd CEO Khairani Mohamed and Prasarana’s chief infra services officer Ahmad Nizam Mohamed Amin as the potential successor.  To meet current and future development, the company invites suitably qualified Malaysian to fill the following positions:- With our experience staffs, knowledgeable tour guides and a well established network of offices, we are able to provide the prompt and attentive services required by all tourist and tour operators.  NOTE: Due to heavy school holiday traffic, the ferry to Tioman is now fully booked from 23 to 27 March, as well as for 31 March.  Wantas Shipping (Langkawi) Sdn Bhd (WSL) is a domestic marine transportation company specializing in distribution and logistic services.  nama : langkawi ro-ro ferry services sdn bhd.  Penang Port Sdn.  And whilst we endeavor to keep the information up-to-date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the website or the information, products, services, or related graphics contained on the website for any purpose.  Book your tickets online in three easy steps with tickets starting at RM128 one way! Telaga-Terminal.  Ltd.  Singapore.  The range of services delivered is also just as varied, from minor repair works and maintenance to Major Building, Marine, Infrastructure and Mechanical Engineering works.  Manager Ground Services Boat Lauch Service, Passenger Ferry, Cargo Boat, Catamaran, Speed Boat, Luxury Boat.  APM Automotive Holdings Berhad.  for the ferry service.  The ferry service is reasonably priced at S$25.  We are proud to offer the vast selection of choices, instant confirmation and secure online transport ticket and service booking.  Kerry Group is a leader in global food ingredients, bringing technology leadership and sustainable growth to the food and beverage industries.  Lion Air.  264 Albert Ellis Airport Road Richlands, North Carolina 28574 (910) 324-1100 There are four (4) ferry departure points to Langkawi : Kuala Perlis jetty in Perlis (45 minutes travel time) Kuala Kedah jetty in Kedah (1 hour 15 minutes travel time) Georgetown jetty in Penang (2 hours 30 minutes travel time) Satun in Thailand; Express ferry is provided by.  Berjaya Tioman Resort Aman Tioman Beach Resort Tunamaya Resort Juara Beach Resort Panuba Inn Resort and more.  Senior Financial Analyst.  Helistar Resources Sdn Bhd (HRSB) is a wholly Malaysian owned and operated company.  RIA TOUR.  1.  The ferry, built for JutaBonus Sdn Bhd, would be used for service between Labuan and Menumbok in Sabah.  About Us.  Bhd, the ferry links Kuala Perlis Ferry Terminal and Tanjung Lembong Jetty, Langkawi Island.  After 2003, there are no more &#39;original&#39; LADA High Speed Catamaran Ferry/Boats operated by LADA Berhad.  Sejahtera 16: 102 .  At present, Salishah is supplying Manpower and Equipment to Teca Sdn Bhd for their Micropiling Project and to Jurong Engineering Limited Sdn Bhd for PP2 Cogen Make the journey to Koh Lipe, Thailand via the fastest ferry route from Langkawi, Malaysia. com NSSB is a subsidiary company of Langkawi Ferry Services Sdn Bhd.  Online Booking Langkawi Auto Express, a Convenience and Comfortable RORO / RO-PAX ferry to travel with every day.  Check the table below to ensure you have sufficient time to catch the ferry, coach or plane. my) • F&amp;N (fnnfoods.  LTD.  City Stadium Kedai Bunga Unique Asia Community Service (Acs) - Stepping Stone Support Centre For Community Living Kedai Bunga Golden Flower Giordano @ Sunway Carnival Mall Best Power Enterprise FERRY LINE VENTURES SDN. 30am - 5.  Money Changer Smart Blend Sdn Bhd Prasarana’s subsidiary, Rapid Ferry Sdn Bhd, took over the Penang ferry operations from Penang Port Commission on May 1.  Riad Telaga Terminal is a seasonal ferry trip service taking place between Langkawi, Malaysia and Koh Lipe, Thailand.  Island Connection Travel &amp; Tours (M) Sdn.  Langkawi to Penang ; Duration - Approximately 2 hours 45 minutes **NOT provide Hotel transfer.  Other ferry points in Malaysia accessible from Langkawi includes Kuala Kedah (51kms away and at the north western BUSONLINETICKET SDN BHD.  + 603 2027 4626 +6017-394-8572 sales@busonlineticket.  are wholly-owned subsidiaries .  Express Rail Link Sdn Bhd (ERL) has announced a partnership with BusOnlineTicket.  to Langkawi International Airport was updated 492 days ago.  Jetstar Came Back to Sepang Aircraft Engineering in December’17 to Perform Livery Painting in One of Its Aircraft Since the inception of Senai Airport Terminal Services Sdn Bhd, passenger throughput has been steadily climbing from 0. , please visit -- The ferry service is the main mode of transportation for Pulau Ketam residents to the city of Port Klang and vice versa as well as for tourists who visit Pulau Ketam and other offlying islands for fishing and recreation.  There are 7 ways to get from Hong Kong to Pulau Perhentian by plane, bus or ferry.  Our ferry departs from SyahBandar Jetty to Redang JETSTAR LOGISTICS (S) PTE.  Frozen food packaging is packaged with machine filling, scaling, freezing and storage in convenient manner. 00 for a one-way ticket, and is priced S$38.  Prasarana&#39;s primary business is providing public-transport services in Malaysia.  Our vessels cruise the Straits of Malacca every Thursday, Saturday &amp; Sunday.  Make the journey to Koh Lipe, Thailand via the fastest ferry route from Langkawi, Malaysia</span>
+
+  </button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="file-navigation in-mid-page d-flex flex-items-start">
+
+  
+
+<details class="details-reset details-overlay select-menu branch-select-menu  hx_rsm" id="branch-select-menu">
+
+  <summary class="btn btn-sm select-menu-button css-truncate"
+
+           data-hotkey="w"
+
+           
+
+           title="Switch branches or tags">
+
+    <i>Branch:</i>
+
+    <span class="css-truncate-target">master</span>
+
+  </summary>
+
+
+
+  <details-menu class="select-menu-modal hx_rsm-modal position-absolute" style="z-index: 99;" src="/victorfontes/django-mobile-helper/ref-list/master?source_action=disambiguate&amp;source_controller=files" preload>
+
+    <include-fragment class="select-menu-loading-overlay anim-pulse">
+
+      <svg height="32" class="octicon octicon-octoface" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M14.7 5.34c.13-.32.55-1.59-.13-3.31 0 0-1.05-.33-3.44 1.3-1-.28-2.07-.32-3.13-.32s-2.13.04-3.13.32c-2.39-1.64-3.44-1.3-3.44-1.3-.68 1.72-.26 2.99-.13 3.31C.49 6.21 0 7.33 0 8.69 0 13.84 3.33 15 7.98 15S16 13.84 16 8.69c0-1.36-.49-2.48-1.3-3.35zM8 14.02c-3.3 0-5.98-.15-5.98-3.35 0-.76.38-1.48 1.02-2.07 1.07-.98 2.9-.46 4.96-.46 2.07 0 3.88-.52 4.96.46.65.59 1.02 1.3 1.02 2.07 0 3.19-2.68 3.35-5.98 3.35zM5.49 9.01c-.66 0-1.2.8-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.54-1.78-1.2-1.78zm5.02 0c-.66 0-1.2.79-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.53-1.78-1.2-1.78z"/></svg>
+
+    </include-fragment>
+
+  </details-menu>
+
+</details>
+
+
+
+
+
+        <button type="button" class="btn btn-sm disabled tooltipped tooltipped-n new-pull-request-btn" aria-label="You must be signed in to create a pull request">
+
+          </button>
+
+
+
+  <div class="breadcrumb flex-auto">
+
+    
+
+  </div>
+
+ </div></div></div></main></div></div><div class="footer container-lg width-full px-3" role="contentinfo"><div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
+
+  </div>
+
+  <div class="d-flex flex-justify-center pb-6">
+
+    <span class="f6 text-gray-light"></span>
+
+  </div>
+
+</div>
+
+
+
+
+
+
+
+  <div id="ajax-error-message" class="ajax-error-message flash flash-error">
+
+    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"/></svg>
+
+    <button type="button" class="flash-close js-ajax-error-dismiss" aria-label="Dismiss error">
+
+      <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+
+    </button>
+
+    You can’t perform that action at this time.
+
+  </div>
+
+
+
+
+
+    
+
+    
+
+    
+
+    
+
+  <div class="js-stale-session-flash stale-session-flash flash flash-warn flash-banner" hidden
+
+    >
+
+    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"/>
+
+    </svg>
+
+    <span class="signed-in-tab-flash">You signed in with another tab or window. to refresh your session.</span>
+
+    <span class="signed-out-tab-flash">You signed out in another tab or window. to refresh your session.</span>
+
+  </div>
+
+  <template id="site-details-dialog">
+
+  <details class="details-reset details-overlay details-overlay-dark lh-default text-gray-dark hx_rsm" open>
+
+    <summary role="button" aria-label="Close dialog"></summary>
+
+    <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast hx_rsm-dialog hx_rsm-modal">
+
+      <button class="Box-btn-octicon m-0 btn-octicon position-absolute right-0 top-0" type="button" aria-label="Close dialog" data-close-dialog>
+
+        <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+
+      </button>
+
+      <div class="octocat-spinner my-6 js-details-dialog-spinner"></div>
+
+    </details-dialog>
+
+  </details>
+
+</template>
+
+
+
+  <div class="Popover js-hovercard-content position-absolute" style="display: none; outline: none;" tabindex="0">
+
+  <div class="Popover-message Popover-message--bottom-left Popover-message--large Box box-shadow-large" style="width:360px;">
+
+  </div>
+
+</div>
+
+
+
+  <div aria-live="polite" class="js-global-screen-reader-notice sr-only"></div>
+
+
+
+  </body>
+
+</html>
+
+

@@ -1,0 +1,988 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title>Burst</title>
+
+<meta name="description" content="Burst"/>
+
+<meta name="keywords" content="Burst"/>
+
+<link rel='stylesheet' href='blogs/new/style.css' media='screen' />
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+
+<!--[if lt IE 9]>
+
+<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+
+<![endif]-->
+
+<script src="blogs/new/blocksit.min.js"></script>
+
+<script>
+
+$(document).ready(function() {
+
+	//vendor script
+
+	$('#header')
+
+	.css({ 'top':-50 })
+
+	.delay(1000)
+
+	.animate({'top': 0}, 800);
+
+	
+
+	$('#footer')
+
+	.css({ 'bottom':-15 })
+
+	.delay(1000)
+
+	.animate({'bottom': 0}, 800);
+
+	
+
+	//blocksit define
+
+	$(window).load( function() {
+
+		$('#container').BlocksIt({
+
+			numOfCol: 3,
+
+			offsetX: 8,
+
+			offsetY: 8
+
+		});
+
+	});
+
+	
+
+	//window resize
+
+	var currentWidth = 1100;
+
+	$(window).resize(function() {
+
+		var winWidth = $(window).width();
+
+		var conWidth;
+
+		if(winWidth < 660) {
+
+			conWidth = 440;
+
+			col = 2
+
+		} else if(winWidth < 880) {
+
+			conWidth = 660;
+
+			col = 3
+
+		} else if(winWidth < 1100) {
+
+			conWidth = 880;
+
+			col = 4;
+
+		} else {
+
+			conWidth = 1100;
+
+			col = 3;
+
+		}
+
+		
+
+		if(conWidth != currentWidth) {
+
+			currentWidth = conWidth;
+
+			$('#container').width(conWidth);
+
+			$('#container').BlocksIt({
+
+				numOfCol: col,
+
+				offsetX: 8,
+
+				offsetY: 8
+
+			});
+
+		}
+
+	});
+
+});
+
+</script>
+
+
+
+</head>
+
+<body>
+
+
+
+<!-- Header -->
+
+<header id="header">
+
+	<h1>Pics for you evety day</h1>
+
+	<div id="backlinks">
+
+
+
+	</div>
+
+	<div class="clearfix"></div>
+
+</header>
+
+
+
+<!-- Content -->
+
+<section id="wrapper">
+
+	<hgroup>
+
+		<h2>Burst</h2> 
+
+	</hgroup>
+
+<div id="container">
+
+	<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<p>The-requested-URL-/ks/127.0.0.1.txt-was-not-found-on-this-server.</p>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=</head><body>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<p>The-requested-URL-/ks/127.0.0.1.txt-was-not-found-on-this-server.</p>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<!DOCTYPE-HTML-PUBLIC-"-//IETF//DTD-HTML-2.0//EN">> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<title>404-Not-Found</title>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<html><head>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<html><head>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=</body></html>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=</head><body>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<html><head>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<h1>Not-Found</h1>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<h1>Not-Found</h1>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<!DOCTYPE-HTML-PUBLIC-"-//IETF//DTD-HTML-2.0//EN">> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<title>404-Not-Found</title>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=</head><body>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<html><head>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=</head><body>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<html><head>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<!DOCTYPE-HTML-PUBLIC-"-//IETF//DTD-HTML-2.0//EN">> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<p>The-requested-URL-/ks/127.0.0.1.txt-was-not-found-on-this-server.</p>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<p>The-requested-URL-/ks/127.0.0.1.txt-was-not-found-on-this-server.</p>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=</body></html>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=</body></html>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<h1>Not-Found</h1>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<p>The-requested-URL-/ks/127.0.0.1.txt-was-not-found-on-this-server.</p>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<html><head>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<title>404-Not-Found</title>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<title>404-Not-Found</title>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<p>The-requested-URL-/ks/127.0.0.1.txt-was-not-found-on-this-server.</p>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<p>The-requested-URL-/ks/127.0.0.1.txt-was-not-found-on-this-server.</p>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<h1>Not-Found</h1>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<title>404-Not-Found</title>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<p>The-requested-URL-/ks/127.0.0.1.txt-was-not-found-on-this-server.</p>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<html><head>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<title>404-Not-Found</title>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<title>404-Not-Found</title>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<!DOCTYPE-HTML-PUBLIC-"-//IETF//DTD-HTML-2.0//EN">> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=</head><body>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=</head><body>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<title>404-Not-Found</title>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=</head><body>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<html><head>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=</body></html>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<title>404-Not-Found</title>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<title>404-Not-Found</title>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<title>404-Not-Found</title>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<title>404-Not-Found</title>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=</head><body>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<p>The-requested-URL-/ks/127.0.0.1.txt-was-not-found-on-this-server.</p>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<h1>Not-Found</h1>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<!DOCTYPE-HTML-PUBLIC-"-//IETF//DTD-HTML-2.0//EN">> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<html><head>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<p>The-requested-URL-/ks/127.0.0.1.txt-was-not-found-on-this-server.</p>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=</body></html>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<h1>Not-Found</h1>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<p>The-requested-URL-/ks/127.0.0.1.txt-was-not-found-on-this-server.</p>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<title>404-Not-Found</title>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=</head><body>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<p>The-requested-URL-/ks/127.0.0.1.txt-was-not-found-on-this-server.</p>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<html><head>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<h1>Not-Found</h1>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=</head><body>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<p>The-requested-URL-/ks/127.0.0.1.txt-was-not-found-on-this-server.</p>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<!DOCTYPE-HTML-PUBLIC-"-//IETF//DTD-HTML-2.0//EN">> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<title>404-Not-Found</title>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=</head><body>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<h1>Not-Found</h1>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<!DOCTYPE-HTML-PUBLIC-"-//IETF//DTD-HTML-2.0//EN">> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<h1>Not-Found</h1>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<!DOCTYPE-HTML-PUBLIC-"-//IETF//DTD-HTML-2.0//EN">> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=</body></html>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=</body></html>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=</head><body>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=</head><body>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<title>404-Not-Found</title>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=</body></html>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<!DOCTYPE-HTML-PUBLIC-"-//IETF//DTD-HTML-2.0//EN">> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<title>404-Not-Found</title>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<title>404-Not-Found</title>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<html><head>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<!DOCTYPE-HTML-PUBLIC-"-//IETF//DTD-HTML-2.0//EN">> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=</body></html>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<!DOCTYPE-HTML-PUBLIC-"-//IETF//DTD-HTML-2.0//EN">> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=</body></html>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<title>404-Not-Found</title>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<p>The-requested-URL-/ks/127.0.0.1.txt-was-not-found-on-this-server.</p>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<title>404-Not-Found</title>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<h1>Not-Found</h1>> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+<div class="grid">
+  <div class="imgholder">
+<a href=/index4.php?yhsw=<!DOCTYPE-HTML-PUBLIC-"-//IETF//DTD-HTML-2.0//EN">> <img src="" /></a>
+  </a> </div>
+  <p></p>
+  </div>
+
+
+
+<!---->
+
+</div>
+
+</section>
+
+<!-- Footer -->
+
+<footer id="footer">
+
+	<span>&copy; 2018.</span>
+
+</footer>
+
+
+
+</body>
+
+</html>

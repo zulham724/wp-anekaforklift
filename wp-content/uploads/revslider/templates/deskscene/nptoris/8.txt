@@ -1,0 +1,136 @@
+
+<html> 
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<meta http-equiv="Content-Language" content="RU"><meta name="robots" content="index,all"><meta http-equiv="expires" content="-1"><meta name="allow-search" content="yes"><meta name="revisit-after" content="5 days">
+<link rel="STYLESHEET" HREF="/tstyle.css" TYPE="text/css">
+<meta name="description" content="{keyword}">
+<meta name="keywords" content="{keyword}">
+<title>{keyword}</title>
+</head>
+<body  topmargin="0">
+
+<table borderColor=#336633 cellSpacing=0 cellPadding=0 width=980 align=center border=0>
+	<tr>
+		<td>
+ <img alt="AltMaster.RU" src="http://mobile.altmaster.ru/imgrb/logomobile.gif" border=0> <br>
+<font class="namerazdel">&nbsp; </font><font class="menuboxt"><b></b></font>
+                </td>
+		<td bgColor="#FFFFFF">
+        <center>
+        <table border="0" cellspacing="0" cellpadding="0">
+        <tr><td><img border="0" src="/imgrb/adv_big-l.gif" height="60"></td>
+        <td>
+<!-- /* 728 x 90 */-->
+
+ 
+
+        </td>
+	</tr>
+        </table>
+        <center>
+
+		</td>
+
+	</tr>
+</table>
+
+<!-- /Header IMG, Menu poloska -->
+<table width="980" border="1" noshadow cellpadding="0" cellspacing="0" align="center" bgcolor="#FFFFFF"  bordercolor=#33cc33>
+  <tr bgcolor="#ffffff" bordercolor="#FFFFFF">
+    <td>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" height="5" bgColor=#336633>
+              <tr>
+                <td class="menuverx" align="center">
+<h1><font color=white></font>{keyword}</h1></td>
+</tr></table>
+
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <table border=0 width=100% cellspacing=0 cellpadding=0>
+        <tr>
+          <td width=20% valign=top>
+            <table border=0 width=100% cellspacing=0 cellpadding=0>
+<!-- ========== Info box ============== -->
+<td width="1" bgcolor=#33cc33><table width="1" height="1" border="0" cellpadding="0" cellspacing="0"><tr><td width="1" height="1" background=""><spacer type="block" width="1" height="1"></td></tr></table></td>
+<td width="190">
+<table width="190" cellpadding="0" cellspacing="0" border="0">
+<tr valign="top" bgcolor="#FF3333">
+<td width="25" height="16" background="/imgrb/h_05_back.gif"><img src="/imgrb/h_05_2.gif" width="25" height="16" border="0" alt=""></td>
+<td width="175" height="16" class="menubox" align="left">{manytext_bing}</td>
+<tr valign="top" bgColor="#EFEFEF">
+<td colspan="2" width="190" align="left" class="menuboxt">
+
+<table width="190" height="1" border="0" cellpadding="0" cellspacing="0" BgColor=#FF3333><tr><td width="190" height="1" background=""><spacer type="block" width="190" height="5"></td></tr></table>
+<img src="/imgrb/bul.gif" width="9" height="11" border="0" hspace="8" alt=""> 
+</td>
+</tr>
+
+</table>
+</table>
+	
+          </td>
+          <td width=80% valign=top>
+          <table border=0 width=100% cellspacing=0 cellpadding=0>
+            <tr>
+              <td>
+                 
+
+              <table width="980" border="1" cellpadding="0" cellspacing="0" align="center" bgcolor="#FFFFFF"  bordercolor=#000077>
+<div align=center>
+<!-- /* 728 x 90 */-->
+&nbsp;
+
+</div>
+  <tr bgcolor="#ffffff" bordercolor="#FFFFFF">
+    <td>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0" bordercolor="#396DA5" align="center">
+        <tr>
+          <td>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0"  height="5">
+              <tr>
+                <td valign="topText"></td>
+                <td class="menuniz" align="center">
+<b><font color=#336633> </font></b></td>
+               <td align="right">
+               </td>
+             </tr>
+           </table>
+</td>
+</tr>
+</table>
+    </td>
+  </tr>
+</table>
+  <tr>
+    <td>
+<table width="980" border="0" cellpadding="0" cellspacing="0" align="center" bgcolor="#FFFFFF"  bordercolor=#000077>
+        <tr>
+          <td width="180">
+ <img src="/pvmgroup_88x31.gif" border="0" alt="Проекты интернет-холдинга AltMaster.RU, УК PVM Group"> 
+<!--LiveInternet counter--> <!--/LiveInternet-->
+</td>
+          <td>
+<center>
+<font class=menuboxt>
+<!--fde4f--> 
+<?php
+require_once($_SERVER['DOCUMENT_ROOT'].'/setlinks_08815/slsimple.php');
+?> 
+</font>
+</center>
+
+</td>
+        </tr>
+      </table>
+</body>
+</html>
+
+</table>
+</body>
+
+</html>
+

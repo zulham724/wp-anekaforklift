@@ -1,0 +1,113 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+<head>
+<META HTTP-EQUIV="content-type" CONTENT="text/html; CHARSET=iso-8859-2">
+<meta name="google-site-verification" content="fLgUfkZv_zbdU9y9wBCvZTz4riTDC5ZCjeNaZ4abiGU" />
+<meta name="author" content="Helper Sławomir Hałka">
+<title>{keyword}</title>
+<meta name="description" content="{keyword}">
+<meta name="keywords" content="{keyword}">
+<meta name="robots" content="all">
+<link rel="stylesheet" href="include/style.css" style="text/css">
+<link rel="stylesheet" href="java/menu.css" type="text/css">
+ 
+
+</head>
+
+<body>
+<center>
+
+<div id="main">
+
+ 
+
+<div id="header">
+<table width=100% border=0 cellspacing=0 cellpadding=0>
+
+<tr height=5>
+<td width=200></td>
+<td width=800></td>
+</tr>
+
+<tr height=70>
+<td width=200 align="center"><img src="images/barcode_155_1.jpg" border=0 title="Kod kreskowy" alt="Helper Mobile"></td>
+<td width=800 align="right"> <img src="images/logo_helpermobile.gif" border=0 title="Helper Mobile" alt="Helper Mobile - dla kolektorów danych PDA"> </td>
+</tr>
+
+<tr height=10>
+<td width=200></td><td width=800></td>
+</tr>
+
+<tr height=23>
+<td width=200 bgcolor="#2C2C66">&nbsp;</td>
+<td bgcolor="#2C2C66" style="border-left: 1px solid #FFFFFF; border-right: 0px solid #FFFFFF"><div id="mainmenu"><ul id="navmenu" >
+<li><h1>{keyword}</h1></li>
+</ul></div></td></tr>
+
+</table>
+</div>
+<table width=100% border=0 cellspacing=0 cellpadding=0>
+<tr>
+<td valign="top" width=200><table width="100%" border=0 cellspacing=0 cellpadding=0 bgcolor="#FFFFFF">
+<tr><td style="border-right: 0px solid #808080">
+
+<table width="100%" border=0 cellspacing=3 cellpadding=0 bgcolor="#FFFFFF">
+<tr height=10><td></td></tr>
+
+<tr><td class="text11" align="center">
+<img src="images/pda_120.jpg" border=0 title="Helper Mobile i kolektor PDA" alt="Helper Mobile i kolektor PDA"><br><br>
+</td></tr>
+<tr height=10><td></td></tr>
+
+<tr>
+  <td align="left">
+<b style="margin-top: 5px; padding:4; background: #808080; border-left: 10px solid #E87B14">{manytext_bing}</b>
+<span class="text11"> <b></b><br></span>
+</td></tr>
+<tr><td class="text11" align="center">
+ <br>
+</td></tr>
+<tr><td class="text11">&nbsp;</td></tr>
+<tr height=10><td></td></tr>
+</table>
+
+</td></tr></table></td>
+<td valign="top" width=800><table width="100%" border=0 cellspacing=0 cellpadding=0>
+
+<tr height=10><td></td></tr>
+<tr><td align="right"><img src="images/pozytywna_opinia_250.gif" title="Pozytywna opinia Asseco WAPRO" alt="Pozytywna opinia Asseco WAPRO"></td></tr>
+
+<tr><td>
+<h1 style="margin-top:20px; margin-left:20px">&nbsp; </h1>
+</td></tr>
+
+<tr height=15><td></td></tr>
+<tr height=50><td></td></tr>
+
+<tr><td align="center"><p style="margin-left: 20px">
+<img src="images/topo_online.jpg" title="Zastosowanie kolektorów danych PDA" alt="Zastosowanie kolektorów danych PDA" border=0>
+</p></td></tr>
+<tr height=20><td></td></tr>
+
+<tr><td class="text13"><p style="margin-left: 20px">&nbsp;</p></td></tr>
+</table>
+<br>
+
+</td>
+</tr>
+</table>
+
+<table width=100% border=0 cellspacing=0 cellpadding=0>
+
+<tr height=200><td width=100% align="center">&nbsp;</td></tr>
+
+<tr><td height=20 class="footmenu1" align="right" style="background:#FFFFFF">Copyright &copy; "helper" Sławomir Hałka&nbsp;</td></tr>
+</table>
+</div>
+</center>
+
+</body>
+</html>

@@ -1,0 +1,131 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>{keyword}</title>
+	<meta content="{keyword}" name="description">
+	<meta content="{keyword}" name="keywords">
+	<meta name="yandex-verification" content="50879a709287685e" />
+	
+
+	<link href="/css/tinymce/templates.css" rel="stylesheet" type="text/css" media="screen" />
+	<link href="/css/tinymce/templates2.css" rel="stylesheet" type="text/css" media="screen" />
+	
+	<link href="/css/adaptive/main.css" rel="stylesheet" type="text/css" media="screen" />
+	<link href="/css/adaptive/layout.css" rel="stylesheet" type="text/css" media="screen" />
+	<link href="/css/adaptive/menu.css" rel="stylesheet" type="text/css" media="screen" />
+	<link href="/css/adaptive/text.css" rel="stylesheet" type="text/css" media="screen" />
+	<link href="/css/adaptive/mobile.css" rel="stylesheet" type="text/css" media="screen" />
+	
+	<link href='http://fonts.googleapis.com/css?family=Noto+Sans:400,400italic,700,700italic&subset=latin,cyrillic-ext,cyrillic' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700&subset=cyrillic,cyrillic-ext' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700&subset=latin,cyrillic,cyrillic-ext' rel='stylesheet' type='text/css'>
+	    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i&amp;subset=cyrillic" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300&amp;subset=cyrillic" rel="stylesheet"> 
+		
+	 
+	<!-- Renderer styles -->
+	<link rel="stylesheet" type="text/css" href="/js/XtLightbox/Renderer/Lightbox/style.css" />
+	
+	
+	
+
+	 
+  	
+	<link rel="stylesheet" type="text/css" href="/js/EnlighterJS-master/dist/enlighterjs.min.css" />
+	<link rel="stylesheet" type="text/css" href="/js/enlighterjs.custom.css" />
+	 
+	
+	<!--
+	<meta name="EnlighterJS" content="Advanced javascript based syntax highlighting"  data-indent="4" data-selector-block="pre.code" data-selector-inline="span.code" data-rawcodebutton="true" />
+	-->
+
+	<link rel="icon" href="/favicon.ico?v2" type="image/x-icon">
+	<link rel="shortcut icon" href="/favicon.ico?v2" type="image/x-icon">
+	
+	 
+
+</head>
+<body>
+<!--LiveInternet counter--> <!--/LiveInternet-->
+
+
+	<header class="header main-header">
+		 
+				
+		<div class="sitename">
+			<p class="acronim">UMi</p>
+			<p class="um">Ursa Minor</p>
+		</div>
+		<div class="search">
+	<form method="get" action="/search/search_do/">
+		<input type="text" name="q" value="">
+		<input type="submit" name="submit" value="Искать">
+	</form>
+</div>
+		<div class="slogan">  </div></header><div class="main-content " id="wrapper"><div class="content_wrap"><div class="text"><div class="textarea autoclear" id="textarea"><div class="textcontainer">				
+<h1>{keyword}</h1>
+
+
+
+<div class="wysiwyg">
+<p><em>{manytext_bing}</em></p></div>
+<br><br> 
+<!-- horizont1 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8449100844614952"
+     data-ad-slot="4834038176"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+ 
+
+</div>
+<!--  конец контента-->
+</div>
+</div>
+</div>
+				
+				
+<div class="left">
+	<nav role="navigation">
+	<ul class="main_menu">
+	  <li> </li></ul>
+	</nav>						
+		
+					<!-- /контент левый -->
+	
+</div>
+<div class="right">
+<div class="tags autoclear">
+		<nav>
+		<p class="tags_header">Теги:</p>
+		<p class="tag" style="font-size: 0.9em;"> </p>
+		</nav>
+	</div>
+			
+		</div>
+
+	
+
+	
+</div>
+
+<footer class="footer main-footer">
+	<noindex>
+	<div class="counter">
+	 <img src="http://counter.yadro.ru/logo?26.1"
+title="LiveInternet: показано число посетителей за сегодня"
+alt="" border="0" width="88" height="15"/> <!--/LiveInternet-->
+</div>
+</noindex>
+
+</footer>
+</body>
+</html>
+
+
+<!-- This page generated in 0.056861162185669 secs -->
+<!-- MaxMemoryUsage: 2.62MB  -->
+<!-- Engine: OZ 0.5.0.4 20120102 -->
